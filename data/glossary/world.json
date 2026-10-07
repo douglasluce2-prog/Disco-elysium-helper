@@ -3,125 +3,1802 @@
   "category": "World",
   "entries": [
     {
+      "id": "elysium",
       "term": "Elysium",
       "caseSensitive": true,
-      "short": "The name of the whole world the game is set in.",
-      "details": "Elysium looks a lot like our 20th century (cars, radios, tower blocks, disco), but its geography, history and physics are its own. Its landmasses are separated by a strange grey void called the Pale.",
-      "inspiredBy": "In Greek mythology, Elysium (the Elysian Fields) is the paradise where heroes go after death. The game's title, 'Disco Elysium', is deliberately ironic.",
-      "seeAlso": ["pale", "isola"]
+      "short": "The name for the whole world the game is set in, though people rarely use it.",
+      "details": "Elysium looks a lot like our 20th century (cars, radios, tower blocks, disco), but its geography, history and physics are its own. Its landmasses, the isolas, are separated by a strange grey void called the pale.\n\nThe word itself is seldom used; one character remarks that you don't hear that term often.",
+      "inspiredBy": "In Greek mythology, Elysium (the Elysian Fields) is the paradise where heroes go after death.",
+      "seeAlso": [
+        "pale",
+        "isola"
+      ]
     },
     {
+      "id": "pale",
       "term": "Pale",
-      "aliases": ["the Pale"],
+      "aliases": [
+        "the Pale",
+        "the pale"
+      ],
       "caseSensitive": true,
       "commonWord": true,
-      "short": "A grey, featureless void between the landmasses of the world. Being in it damages the mind.",
-      "details": "The Pale fills the space between the isolas. It is not water or air: physics and time behave strangely there, and long exposure causes memory loss, hallucinations and worse. People still cross it, by aerostatic or in vehicles built for the trip, at real risk. Nobody fully understands what it is.",
-      "spoiler": "Late in the game it is suggested that the Pale is slowly growing, and may one day swallow the world.",
-      "seeAlso": ["isola", "elysium", "aerostatic"]
+      "short": "The grey, featureless void that surrounds and separates the isolas (landmasses) of the world; exposure to it damages the mind.",
+      "details": "Pale covers most of the world's surface and is not really part of reality: the further in you go, the more the laws of physics break down, until even numbers stop working. It is colourless, odourless and hostile to matter and life. Its scientific study is called entroponetics.\n\nPeople cross it in fast aerostatics (airships) to keep exposure short, and international rules strictly limit how many days a year civilians may spend in it, because it damages memory and the mind. It is measurably expanding at an unknown rate; talk of it one day covering everything is mostly left to extremists.",
+      "spoiler": "The 'swallow', a pillar of total silence inside Martinaise's old church, may be pale beginning to form inside the world itself rather than only at its edges.",
+      "seeAlso": [
+        "isola",
+        "elysium",
+        "aerostatic"
+      ]
     },
     {
+      "id": "isola",
       "term": "Isola",
-      "aliases": ["isolas", "isolae"],
+      "aliases": [
+        "isolas",
+        "isolae"
+      ],
       "short": "A continent-sized landmass, surrounded and separated by the Pale.",
       "details": "Elysium's land is divided into isolas: great islands or continents cut off from each other by the Pale. Revachol is on the isola of Insulinde.",
-      "seeAlso": ["pale", "insulinde"]
+      "seeAlso": [
+        "pale",
+        "insulinde"
+      ]
     },
     {
+      "id": "insulinde",
       "term": "Insulinde",
-      "aliases": ["Insulindian"],
+      "aliases": [
+        "Insulindian",
+        "Insulindic"
+      ],
       "caseSensitive": true,
       "short": "The isola (landmass) where Revachol is located.",
       "inspiredBy": "'Insulinde' is a real, old poetic name for the islands of the Dutch East Indies (today's Indonesia).",
-      "seeAlso": ["isola", "revachol", "insulindian-phasmid"]
+      "seeAlso": [
+        "isola",
+        "revachol",
+        "insulindian-phasmid"
+      ]
     },
     {
+      "id": "seol",
       "term": "Seol",
-      "aliases": ["Seolite", "Seolites"],
+      "aliases": [
+        "Seolite",
+        "Seolites"
+      ],
       "caseSensitive": true,
       "short": "A distant nation and culture. Kim Kitsuragi is of Seolite descent.",
       "details": "Seolites are a minority in Revachol and face prejudice there; several characters make racist remarks about Kim.",
       "inspiredBy": "Seolite culture is coded as East Asian.",
-      "seeAlso": ["kim-kitsuragi"]
+      "seeAlso": [
+        "kim-kitsuragi"
+      ]
     },
     {
+      "id": "oranje",
       "term": "Oranje",
-      "aliases": ["Oranjese"],
+      "aliases": [
+        "Oranjese",
+        "Republic of Oranje",
+        "Sovereign Republic of Oranje"
+      ],
       "caseSensitive": true,
-      "short": "A wealthy foreign nation.",
+      "short": "A democratic republic on the Mundi isola, seen as a 'reasonable superpower' and one of the six Coalition nations occupying Revachol.",
+      "details": "Oranje is a Moralintern nation and one of the most prominent members of the international community. Its people and things are called Oranjese, and its accent can be heard in Martinaise.",
       "inspiredBy": "Modelled on the Netherlands ('oranje' is Dutch for orange, the Dutch national colour).",
-      "seeAlso": ["coalition", "klaasje"]
+      "seeAlso": [
+        "coalition",
+        "moralintern",
+        "klaasje"
+      ]
     },
     {
       "id": "real",
-      "term": "réal",
-      "aliases": ["réals"],
-      "short": "The currency used in Revachol. You need it for rent, shopping and paying debts.",
-      "seeAlso": ["whirling-in-rags"]
+      "term": "reál",
+      "aliases": [
+        "reáls",
+        "IIR",
+        "interisolary reál"
+      ],
+      "short": "The reál (IIR, or interisolary reál): the world's reserve currency, and the money you earn, owe and spend in Revachol.",
+      "details": "Encyclopedia explains that the interisolary reál is the global reserve currency, so it is used wherever you go. Its paper notes are black and carry the faces of past Innocences; the Innocence Franconegro is credited with making it the world's currency.\n\nYou begin the game short of money and owing Garte for your room at the Whirling-in-Rags. For scale, an RCM officer in this region earns about 5,500 reál a year.",
+      "seeAlso": [
+        "whirling-in-rags",
+        "garte",
+        "innocence"
+      ]
     },
     {
+      "id": "motor-carriage",
       "term": "Motor carriage",
-      "aliases": ["motor carriages", "motorcarriage"],
+      "aliases": [
+        "motor carriages",
+        "motorcarriage"
+      ],
       "short": "The in-world word for a car.",
-      "seeAlso": ["kineema"]
+      "seeAlso": [
+        "kineema"
+      ]
     },
     {
+      "id": "kineema",
       "term": "Kineema",
+      "aliases": [
+        "Coupris Kineema"
+      ],
       "caseSensitive": true,
-      "short": "Kim Kitsuragi's motor carriage (car), which he adores.",
-      "seeAlso": ["kim-kitsuragi", "motor-carriage"]
+      "short": "The Coupris Kineema: Kim Kitsuragi's fast motor carriage (car), with a radio for calling the station and a toolbox he lets you use.",
+      "details": "Kineema is a model made by Coupris MotorCorp, a sportier successor to the Coupris 40, a workhorse long favoured by the police. Kim is quietly proud of his and protective of its delicate folding headlights.",
+      "seeAlso": [
+        "kim-kitsuragi",
+        "motor-carriage"
+      ]
     },
     {
+      "id": "aerostatic",
       "term": "Aerostatic",
-      "aliases": ["aerostatics", "aerostat", "aerostats"],
+      "aliases": [
+        "aerostatics",
+        "aerostat",
+        "aerostats"
+      ],
       "short": "An airship. Aerostatics are how people and goods fly across the world, even over the Pale.",
-      "seeAlso": ["pale"]
+      "seeAlso": [
+        "pale"
+      ]
     },
     {
+      "id": "radiocomputer",
       "term": "Radiocomputer",
-      "aliases": ["radiocomputers"],
+      "aliases": [
+        "radiocomputers"
+      ],
       "short": "The in-world word for a computer: a bulky machine that works over radio.",
-      "seeAlso": ["interfacing"]
+      "seeAlso": [
+        "interfacing"
+      ]
     },
     {
+      "id": "frittte",
       "term": "Frittte",
+      "aliases": [
+        "Fritttes"
+      ],
       "caseSensitive": true,
       "short": "A chain of convenience stores (yes, with three t's). Martinaise has one.",
-      "seeAlso": ["real"]
+      "seeAlso": [
+        "real"
+      ]
     },
     {
+      "id": "innocence",
       "term": "Innocence",
-      "aliases": ["Innocences"],
+      "aliases": [
+        "Innocences",
+        "innocentic",
+        "innocentic rule",
+        "innocentic system"
+      ],
       "caseSensitive": true,
       "commonWord": true,
-      "short": "A rare, world-historical figure: part spiritual leader, part ruler, part living legend.",
-      "details": "Every so often a person appears who defines an era and becomes the moral centre of the world for a time; such a person is called an Innocence. They are revered almost religiously. The most famous is Dolores Dei.",
+      "short": "A rare, sacred world leader elected as an embodiment of the 'world spirit'; only six have held the office in all of history.",
+      "details": "An Innocence is considered infallible: their decisions are treated as inevitabilities, history happening faster. They are elected by the Founding Party and addressed as 'Her Innocence' or 'His Innocence'.\n\nThe best known are Franconegro, crowned about 500 years ago, and Dolores Dei, about four centuries ago. The faces of past Innocences appear on reál banknotes.",
       "inspiredBy": "A mix of pope, emperor and messiah.",
-      "seeAlso": ["dolores-dei", "moralintern"]
+      "seeAlso": [
+        "dolores-dei",
+        "moralintern"
+      ]
     },
     {
+      "id": "dolores-dei",
       "term": "Dolores Dei",
       "caseSensitive": true,
-      "short": "The most revered Innocence in history, a near-saintly woman of centuries past.",
-      "details": "Dolores Dei is remembered as a figure of grace and compassion. A whole faith, the Dolorian church, grew around her.",
-      "inspiredBy": "Her iconography echoes the Virgin Mary and Joan of Arc. 'Dolores' is Spanish for 'sorrows'; 'Dei' is Latin for 'of God'.",
-      "seeAlso": ["innocence", "dolorian", "church"]
+      "short": "Her Innocence Dolores Dei: the founder of the humanist Dolorian era about four centuries ago, often called the greatest human being who ever lived.",
+      "details": "She began as councillor to a queen. After explorers came back from across the pale with news of a new continent, she was proclaimed an Innocence, the 'elected world spirit'. The age of humanism, internationalism and parliamentary rule that followed is called the Dolorian Era.\n\nIcons often show her holding a tiny tin soldier, and Martinaise's abandoned church is a Dolorian Church of Humanity.",
+      "inspiredBy": "Her name echoes Catholic devotion to the Virgin Mary as Our Lady of Sorrows: 'Dolores' is Spanish for 'sorrows' and 'Dei' is Latin for 'of God'.",
+      "spoiler": "She was killed by one of her own bodyguards, who had come to suspect she was not entirely human. Some modern thinkers also consider her a war criminal for her campaigns against the Mesque state.",
+      "seeAlso": [
+        "innocence",
+        "dolorian",
+        "church"
+      ]
     },
     {
+      "id": "dolorian",
       "term": "Dolorian",
-      "aliases": ["Dolorianism"],
+      "aliases": [
+        "Dolorianism",
+        "Dolorians"
+      ],
       "caseSensitive": true,
-      "short": "Relating to Dolores Dei and the religion that venerates her.",
-      "seeAlso": ["dolores-dei", "church"]
+      "short": "Relating to Dolores Dei: her era, the humanist tradition she began, and its churches and architecture.",
+      "details": "The Dolorian Era (or Dolorian century) followed her rise and is widely seen as the greatest age in history. Dolorianism is also a faith and a building style: Martinaise's abandoned church is a Dolorian Church of Humanity.\n\nThe Moralintern see themselves as Dolorians, carrying on her humanist project.",
+      "seeAlso": [
+        "dolores-dei",
+        "church",
+        "moralintern",
+        "innocence"
+      ]
     },
     {
-      "term": "Insulindian Phasmid",
-      "aliases": ["Phasmid", "the Phasmid"],
-      "caseSensitive": true,
-      "short": "A legendary cryptid: a giant stick insect said to live on Insulinde. Cryptozoologists hunt for it.",
-      "details": "Most people think it is a myth. Lena and her husband believe otherwise.",
+      "id": "insulindian-phasmid",
+      "term": "Insulindian phasmid",
+      "aliases": [
+        "phasmid"
+      ],
+      "short": "A legendary cryptid: a giant stick insect said to live on Insulinde, which cryptozoologists hunt for.",
+      "details": "Most people consider it a myth, but Lena says she saw one as a child, and her husband Morell, a cryptozoologist, is searching for it.",
       "spoiler": "It is real. You may meet it near the end of the game.",
-      "seeAlso": ["lena", "cryptozoology", "insulinde"]
+      "seeAlso": [
+        "lena",
+        "cryptozoology",
+        "insulinde"
+      ]
+    },
+    {
+      "id": "areopagite",
+      "term": "Areopagite",
+      "aliases": [
+        "Areopagites"
+      ],
+      "caseSensitive": true,
+      "short": "A people originally from Iilmaraa; the Hardie Boys Eugene and Theo are of Areopagite descent.",
+      "details": "Revachol once ruled a tobacco-exporting colony on Iilmaraa, Tioumoutiri, whose population was almost entirely Iilmaraan Areopagites. 'Kipt', once a common Areopagite first name, is now used as a slur against people of South Semenese or Areopagite descent. Measurehead has his own race-theory ideas about them.",
+      "spoiler": "A witness's description of the men behind the hanging mentions two Areopagites and a Mesque, which could fit Eugene, Theo and Alain.",
+      "seeAlso": [
+        "theo",
+        "hardie-boys"
+      ]
+    },
+    {
+      "id": "averro",
+      "term": "Averro",
+      "aliases": [
+        "Averros"
+      ],
+      "caseSensitive": true,
+      "short": "A chain of high-end pharmacies found only in Vesper and Messina; a much nicer cousin of the humble Frittte.",
+      "details": "The signaller aboard the Coalition Warship Archer mentions that there are no Fritttes where the crew comes from; in Messina they have Averros instead. Encyclopedia fills in the rest: the company trades as Averro, SRL.",
+      "seeAlso": [
+        "frittte"
+      ]
+    },
+    {
+      "id": "barbara-muskova",
+      "term": "Barbara Muskova",
+      "caseSensitive": true,
+      "short": "An expensive fashion label; Joyce Messier's silk shirt is a Barbara Muskova, a sign of the money she brings into poor Martinaise.",
+      "details": "Joyce mentions the label while admitting she has no right to complain about her comfortable life. Encyclopedia pairs it with Numb 12, the perfume she wears, as typical of her tastes.",
+      "spoiler": "The Deserter sneers that the Union's vanished former forewoman, Tiphaine Holly, carried a Barbara Muskova bag to work, proof to him that she was soft on the rich.",
+      "seeAlso": [
+        "joyce-messier",
+        "tiphaine-holly"
+      ]
+    },
+    {
+      "id": "belle-magrave",
+      "term": "Belle-Magrave",
+      "aliases": [
+        "Belle-Magraves"
+      ],
+      "caseSensitive": true,
+      "short": "A Revacholian rifle maker and its classic 4.46 calibre, breech-loading rifle, the standard weapon of the Revolution fifty years ago.",
+      "details": "Hand/Eye Coordination says the Belle-Magrave dominated the Insulindian battlefields of the Revolution, prized more for reliability than for accuracy. Because the bullet from the murder scene is an old 4.46 round, the rifle becomes an early lead in the case.\n\nYou can find a broken, inoperable one in Martinaise. René Arnoux, Titus Hardie and Kim all recognise it on sight, and Kim admires it as a beautiful relic of the Revolution.",
+      "spoiler": "The shot that killed the hanged man did come from an old 4.46 rifle, but the weapon turns out to be a different make of the same calibre; as Kim admits, nobody said it had to be a Belle-Magrave.",
+      "seeAlso": [
+        "revolution",
+        "rene-arnoux",
+        "the-hanged-man"
+      ]
+    },
+    {
+      "id": "blaasma-gun",
+      "term": "Blaasma gun",
+      "aliases": [
+        "blaasma",
+        "blaasma-powered weaponry"
+      ],
+      "short": "An absurd super-weapon your imagination invents: a gun firing periwinkle-blue 'blaasma' that detonates with the power of a dying star.",
+      "details": "When the station asks you to describe your missing service weapon, Inland Empire may urge you to describe the Blaasma Gun instead. You can also pitch the idea to an eccentric, fabulously rich stranger hiding in the harbour.\n\nKim, rubbing his eyes, points out that it is not even possible, and Logic agrees there is no such thing as blaasma. Gary the cryptofascist, on the other hand, lists blaasma-powered weaponry among the secret projects of his conspiracy theories.",
+      "seeAlso": [
+        "inland-empire",
+        "kim-kitsuragi"
+      ]
+    },
+    {
+      "id": "burning-rhino",
+      "term": "Burning Rhino",
+      "aliases": [
+        "burning rhinos",
+        "burning rhinoceros"
+      ],
+      "short": "Gary's favourite cryptid: rhinos that blaze with fire in mating season, the males forming a flaming ring around the females.",
+      "details": "Gary places it somewhere in Safre Serai, though he has no intention of going there to look. Morell doubts it exists, and Kim notes drily that even the cryptozoologists draw the line somewhere.",
+      "seeAlso": [
+        "cryptid",
+        "cryptozoology"
+      ]
+    },
+    {
+      "id": "coalition-shuttle-laurel",
+      "term": "Coalition Shuttle Laurel",
+      "caseSensitive": true,
+      "hideUntilSeen": true,
+      "short": "A smaller Coalition aerostatic, one of those hovering over the city, that can be sent to your position during a radio call with the Coalition Warship Archer.",
+      "spoiler": "It comes on behalf of the Committee of Responsibility to offer you an immediate extraction from Martinaise. Boarding it means abandoning the case, and the game ends.",
+      "seeAlso": [
+        "aerostatic",
+        "coalition",
+        "committee-of-responsibility"
+      ]
+    },
+    {
+      "id": "coalition-warship-archer",
+      "term": "Coalition Warship Archer",
+      "aliases": [
+        "Archer",
+        "Warship Archer"
+      ],
+      "caseSensitive": true,
+      "commonWord": true,
+      "short": "A giant Coalition airship warship hovering over the Bay of Revachol, its guns ready to fire on the city at any sign of revolt.",
+      "details": "It is the flagship of the Coalition's INSURCOM forces in Revachol. Encyclopedia says it can fire fifty shells a minute that would reach the city in 58 seconds, and it has orders to fire on unidentified aerostatics that approach it. It keeps a discreet distance so that Revacholians don't feel militarily occupied.\n\nThe Archer also runs the Coalition's surveillance and communications in the city, so a few people suggest that contacting it by radio is the fastest way to reach the Coalition's Committee directly.",
+      "spoiler": "With help from Soona or Noid you can rig the old Horseback Antenna in Jamrock and actually raise the Archer, under a call sign of your choosing such as Firewalker. You end up chatting with a polite second signaller from Messina, and the Committee may even offer you an immediate extraction aboard an airship called the Laurel.",
+      "seeAlso": [
+        "aerostatic",
+        "coalition",
+        "moralintern",
+        "moralism",
+        "zone-of-control"
+      ]
+    },
+    {
+      "id": "cor-de-leite",
+      "term": "Cor-de-Leite",
+      "aliases": [
+        "Cor-de-Leite '19"
+      ],
+      "caseSensitive": true,
+      "short": "Joyce Messier's white sloop, named after its type, a Cor-de-Leite '19 built by a Revachol East company of that name.",
+      "details": "Joyce explains that the boat has no name of its own: the company is Cor-de-Leite and the hull is 19 paces long. You can suggest names, but she politely sticks with the factory one. You first meet her beside it at the pier, and she likes it white.",
+      "seeAlso": [
+        "joyce-messier",
+        "harbour"
+      ]
+    },
+    {
+      "id": "coupris",
+      "term": "Coupris",
+      "aliases": [
+        "Coupris MotorCorp",
+        "Coupris Motor Corporation",
+        "Coupris L'Ange"
+      ],
+      "caseSensitive": true,
+      "short": "A motor carriage (car) brand: it makes both Kim's sleek Kineema and the common workhorse Coupris 40.",
+      "details": "Coupris MotorCorp built the Kineema as the follow-up to its hugely successful Coupris 40. According to Joyce Messier, the original company backed the king and went down with him; today Coupris is just a brand name owned by a Vespertine holding company.\n\nThe name also appears on a bottle of Coupris L'Ange engine starting fluid.",
+      "seeAlso": [
+        "kineema",
+        "coupris-40",
+        "motor-carriage"
+      ]
+    },
+    {
+      "id": "coupris-40",
+      "term": "Coupris 40",
+      "aliases": [
+        "Coupris Forty"
+      ],
+      "caseSensitive": true,
+      "short": "A sturdy, very common motor carriage model, driven by everyone from bank clerks to cops; one lies half-sunk in the sea off Martinaise.",
+      "details": "Encyclopedia calls it the workhorse of the motor park. Its successor is the Coupris Kineema that Kim drives, and the garages of Precinct 41 are full of them.",
+      "spoiler": "The half-sunken Coupris 40 is your own police motor carriage. During your binge you drove it through a billboard by the canal and straight into the sea.",
+      "seeAlso": [
+        "coupris",
+        "kineema",
+        "precinct-41"
+      ]
+    },
+    {
+      "id": "cryobacter-katlensis",
+      "term": "Cryobacter katlensis",
+      "aliases": [
+        "Cryobacter"
+      ],
+      "caseSensitive": true,
+      "short": "The smallest known cryptid: a single-celled bacterium found frozen in the ice of Katla's Boreal Plateau about seventy years ago.",
+      "details": "Lena explains that the geologist Catelyn Mijanou discovered a colony that had survived frozen since before recorded history. Mijanou injected herself with it, apparently hoping to live longer; she stopped ageing but grew eccentric and irascible, drove away her friends and finally disappeared into the wilderness. Lena believes she may still be out there.\n\nMorell respects Mijanou and regrets that her work on other cryptids is forgotten.",
+      "seeAlso": [
+        "cryptid",
+        "cryptozoology",
+        "lena",
+        "nnong-okk"
+      ]
+    },
+    {
+      "id": "dread-moose",
+      "term": "Dread Moose",
+      "aliases": [
+        "carnivorous moose"
+      ],
+      "short": "A carnivorous moose from Arda that looks like any ordinary moose but eats only flesh; Morell calls it the most dangerous cryptid.",
+      "details": "According to Morell it even digs up fresh graves. His evidence includes slaughterhouse workers near Vaasa who kept seeing moose staring at the building with bloodshot eyes, and hikers who saw a moose nibbling a carcass. He believes it is a young species born of a mutation and worries what would happen if people saw moose as predators.\n\nEncyclopedia notes that some deer scavenge anyway, and Logic suspects Morell is joking.",
+      "seeAlso": [
+        "cryptid",
+        "cryptozoology"
+      ]
+    },
+    {
+      "id": "drouin",
+      "term": "Drouin",
+      "caseSensitive": true,
+      "short": "A popular cigarette brand: a local Revacholian blend made from tobacco grown on the southern islands.",
+      "details": "According to Encyclopedia, Drouin and Astra (a legendary cigarette from Graad) are what most Revacholians smoke today, while the old-fashioned Tioumoutiri brand is left to older men.",
+      "seeAlso": [
+        "revachol"
+      ]
+    },
+    {
+      "id": "dynawave",
+      "term": "DynaWave",
+      "caseSensitive": true,
+      "short": "Kim Kitsuragi's beloved radio set. He claims that turned up loud it's like sitting in the front row of the National Concert Hall.",
+      "details": "Whenever you come across a fancy radio, such as the Kristallsprach at the pawnshop, Kim stays loyal to his DynaWave, though Savoir Faire is sure he's a little jealous.",
+      "seeAlso": [
+        "kim-kitsuragi"
+      ]
+    },
+    {
+      "id": "east-insulindian-repeater-station",
+      "term": "East-Insulindian Repeater Station",
+      "aliases": [
+        "East-Insulindian Station",
+        "Yvonne"
+      ],
+      "caseSensitive": true,
+      "commonWord": true,
+      "short": "A radio relay service you reach through old radiocomputers; its operator, an elderly woman named Yvonne, unlocks stored files if you give the right password.",
+      "details": "When you press PLAY on a radiocomputer with a filament memory inside, a voice answers from the repeater station: Yvonne, 74, who sits in a cubicle surrounded by radios. Her job is to know where each registered terminal is and to guard its files with passwords.\n\nThe machines you call from in Martinaise are registered to a company called Fortress Accident (one in the old church, one in the Doomed Commercial Area). Yvonne asks you to confirm the name of the filament you inserted and then its password; get it right and she unlocks it so you can print the contents. Without the password, she says, you would need a warrant.",
+      "seeAlso": [
+        "radiocomputer",
+        "church",
+        "doomed-commercial-area"
+      ]
+    },
+    {
+      "id": "east-motor-tract",
+      "term": "East Motor Tract",
+      "caseSensitive": true,
+      "short": "The road company that runs the motorway network and the drawbridge leading into Martinaise.",
+      "details": "At Wild Pines' request (the road company is a partner of one of its subsidiaries) the drawbridge has been raised, cutting the district's road link. Joyce Messier says it is meant to trap a smuggling operation she believes is funding the strike. Kim had to phone the company and beg to be let through when he drove in.",
+      "spoiler": "Clues found in an abandoned lorry suggest that smugglers have infiltrated East Motor Tract's road network and are secretly using it to move goods.",
+      "seeAlso": [
+        "wild-pines",
+        "joyce-messier",
+        "kim-kitsuragi",
+        "martinaise"
+      ]
+    },
+    {
+      "id": "entroponetics",
+      "term": "Entroponetics",
+      "aliases": [
+        "entroponetic",
+        "entroponetical",
+        "Entroponetic Business Class"
+      ],
+      "short": "The modern science of the Pale, the grey void between the world's landmasses. 'Entroponetic' describes anything to do with it.",
+      "details": "Joyce Messier explains that people have studied the Pale for some 6,000 years (the ancient Perikarnassians called it the Western Plain) and that this latest form of the science came by way of Graad. In her view it has changed little: the only real progress is that aerostatics now cross the Pale faster, so travellers suffer less exposure.\n\nJoyce flies 'Entroponetic Business Class', meaning she is cleared and trained for 22 days of Pale transit a year. Radio interference over long stretches of Pale is called entroponetic crosstalk.",
+      "seeAlso": [
+        "pale",
+        "aerostatic",
+        "joyce-messier"
+      ]
+    },
+    {
+      "id": "eternite",
+      "term": "eternite",
+      "short": "A cheap grey roofing material found all over Martinaise; it was meant to last forever but turned out to cause cancer.",
+      "details": "According to your Encyclopedia skill, eternite was invented some thirty years ago by a junior researcher named Õlari Taal at the unremarkable Värtna Polytechnic Institute. He named it for its supposed eternal durability; the only lasting thing about it proved to be its carcinogenic effect.\n\nEternite roofs and cinder blocks define the look of poor coastal Martinaise and the Fishing Village, and you will find loose panels of it in the Whirling's yard and on the beach.",
+      "inspiredBy": "Eternit, a real brand of asbestos-cement roofing sheets; asbestos is a well-known cause of cancer.",
+      "spoiler": "The suspiciously neat pile of eternite at the back of the Whirling's yard hides a secret door into Cuno's shack.",
+      "seeAlso": [
+        "cuno",
+        "martinaise",
+        "olari-taal",
+        "vartna-polytechnic-institute"
+      ]
+    },
+    {
+      "id": "faln",
+      "term": "FALN",
+      "aliases": [
+        "FALN AC"
+      ],
+      "caseSensitive": true,
+      "short": "A brand of sporty 'performance' clothing (tracksuits, sneakers, caps) that also builds lorries. Kids in Revachol love it; adults find it juvenile.",
+      "details": "FALN gear turns up all over Martinaise. Cuno will sell you a pair of FALN Modular pants, a street vendor named Siileng offers the sleek FALN Ultra sneakers, and other pieces turn up elsewhere. Kim and Jean tease that the look makes you resemble a bicycle courier or a high-schooler.\n\nThe company also makes motor lorries, such as the FALN A-Z Tempo with its notoriously slippery throttle, and Cuno claims the pants are made in Mirova by 'pants scientists'.",
+      "seeAlso": [
+        "headless-faln-rider",
+        "cuno",
+        "idiot-doom-spiral"
+      ]
+    },
+    {
+      "id": "feld-electrical",
+      "term": "Feld Electrical",
+      "aliases": [
+        "Feld",
+        "Feld Electric"
+      ],
+      "caseSensitive": true,
+      "short": "An electronics company that was once a giant of the cybernetics boom; it built the boardwalk side of Martinaise and now mostly sells ink cartridges.",
+      "details": "Trant Heidelstam tells you Feld began as a mid-sized electronics firm in Königstein about two centuries ago, moved aggressively to Revachol and became a world player in personal electronics before the Revolution. It built the boardwalk and that part of Martinaise to attract its star engineers, hoping to make it a global centre of cybernetics.\n\nThe Revolution ruined those plans: the revolutionary government seized Feld's assets and prototypes. Feld survives as a smaller company; radiocomputers still use Feld mainframes. Joyce counts it among the 'indotribes', Revachol's old giant companies.",
+      "seeAlso": [
+        "feld-building",
+        "feld-playback-experiment",
+        "radiocomputer",
+        "revolution"
+      ]
+    },
+    {
+      "id": "feld-playback-experiment",
+      "term": "Feld Playback Experiment",
+      "aliases": [
+        "Feld Playback Experience"
+      ],
+      "caseSensitive": true,
+      "short": "A legendary Feld Electrical prototype 'tape computer' that was lost when revolutionaries burned the company's research centre in '07.",
+      "details": "Trant Heidelstam describes it as an elegant, fragile machine: you wrote directly onto its tape with a special chemical solution, the machine read your handwriting, performed calculations and projected the result onto a white screen. It was Feld's secret weapon against its rival Tricentennial.\n\nAll three versions of the prototype were destroyed in the fires of '07. Trant insists the name is Experiment, not Experience.",
+      "seeAlso": [
+        "feld-electrical",
+        "feld-building",
+        "radiocomputer"
+      ]
+    },
+    {
+      "id": "filament-memory",
+      "term": "Filament memory",
+      "aliases": [
+        "filament memories",
+        "filament memory units"
+      ],
+      "short": "A radiocomputer's data store: a glowing cube of fine filaments that slides into the machine's core and holds programs and records.",
+      "details": "Their contents are protected by passwords kept by a repeater station, which you contact through the radiocomputer. Older models were made of wires cast in glass.\n\nYou will need to find and handle filament memories to help Soona, the programmer working in the old church.",
+      "seeAlso": [
+        "radiocomputer",
+        "church"
+      ]
+    },
+    {
+      "id": "fortress-accident",
+      "term": "Fortress Accident",
+      "aliases": [
+        "Fortress Accident SCA",
+        "Fortress Accident on Saint-Brune"
+      ],
+      "caseSensitive": true,
+      "short": "A failed radio game studio whose abandoned office sits in the Doomed Commercial Area; it burned through a fortune making 'Wirrâl Untethered'.",
+      "details": "Its official name was Fortress Accident SCA, and its catalogue blurb promised 'revolutionary interactive call-in radio games'. The 18-person team was mostly writers and concept artists, and its production schedule records a steady slide into bankruptcy. Soona, the programmer camped in the old church, was its lead programmer.\n\nRadiocomputer terminals are still registered in the company's name: one in its old office on Rue de Saint-Ghislaine and one in the church on Saint-Brune. That is why the East-Insulindian Repeater Station greets you as 'Fortress Accident' when you use them.",
+      "spoiler": "The Mega Rich Light-Bending Guy in the container yard says the founders once pitched him a world-changing role-playing game, and that the name should have been a red flag. The studio's files also record a strange numeric anomaly on the radio network while their game was being compiled.",
+      "seeAlso": [
+        "doomed-commercial-area",
+        "church",
+        "radiocomputer"
+      ]
+    },
+    {
+      "id": "giant-of-koko-nur",
+      "term": "Giant of Koko Nur",
+      "caseSensitive": true,
+      "short": "The biggest cryptid of all: a colossal creature said to roam the Koko Nur desert in South Samara, casting a strange glow over the wastes.",
+      "details": "Lena calls it the largest animal the planet can support and suggests a gravity anomaly under the desert may let it grow so huge. Locals see its towering light as a bad omen, while others dismiss it as a mirage. Morell has never been there, since the region has been at war for years. People also use its name as a joke for anyone enormous.",
+      "seeAlso": [
+        "cryptid",
+        "cryptozoology",
+        "lena",
+        "insulindian-phasmid"
+      ]
+    },
+    {
+      "id": "gnome-of-geroma",
+      "term": "Gnome of Geroma",
+      "caseSensitive": true,
+      "short": "Reputedly the most dangerous cryptid ever: a small, ugly creature whose venom dissolved its victims so completely that their bodies were never found.",
+      "details": "Lena describes it as small and ungainly, with webbed fingers and a protruding forehead, and notes that it still took the Gnome an entire day to die. Science lost its only specimen when a researcher put the corpse in formaldehyde to neutralise the venom: the venom leaked out and dissolved the creature itself.",
+      "seeAlso": [
+        "cryptid",
+        "cryptozoology",
+        "lena"
+      ]
+    },
+    {
+      "id": "gottwald",
+      "term": "Gottwald",
+      "aliases": [
+        "Gottwalder",
+        "Gottwalders",
+        "Gottwaldian",
+        "Gottwaldians"
+      ],
+      "caseSensitive": true,
+      "short": "A wealthy foreign nation known for fine engineering, stationery and critical theory; its people are Gottwaldians.",
+      "details": "Gottwaldian things turn up everywhere: Bird's Nest Roy calls his Kristallsprach Model 9 radio Gottwaldian engineering at its finest, Lena credits the Gottwaldian explorer Uwe Plattenkalk with sighting the eight-eyed teratorn, and Encyclopedia knows a prize-winning Gottwaldian children's book. Students of the left argue about Gottwaldian critical theory and philosophers, and Drama hears a guttural Gottwaldian accent in Egg Head's yells.\n\nMeasurehead uses 'Maun', a derogatory word for first-world people of Gottwaldian descent.",
+      "seeAlso": [
+        "egg-head",
+        "gottwald-school",
+        "oranje"
+      ]
+    },
+    {
+      "id": "graad",
+      "term": "Graad",
+      "aliases": [
+        "Graadian",
+        "Graadians"
+      ],
+      "caseSensitive": true,
+      "short": "A huge, powerful nation on its own isola, with the world's largest capital, Mirova; the Revolution began there in '02.",
+      "details": "Graad lies on the Graadian isola, far to the northeast of Insulinde. Its capital Mirova has 22 million people and is now considered the capital of the world. The telephone was invented there, and Graad gave the world Astra cigarettes, the International Language and gloomy 'Graadian realism' novels.\n\nThe world revolution started in Graad in '02, with Kras Mazov heading its Eleven Day Government until he was overthrown in '08; today Graad is part of the Coalition that crushed Revachol's Commune. It is also fighting a long proxy war in South Safre. People from Graad are nicknamed Kojkos.",
+      "inspiredBy": "Russia and the Soviet Union.",
+      "seeAlso": [
+        "coalition",
+        "communism",
+        "isola",
+        "kras-mazov",
+        "revolution",
+        "safre",
+        "yugo-graad"
+      ]
+    },
+    {
+      "id": "hydrodynamique-e40",
+      "term": "Hydrodynamique E40",
+      "caseSensitive": true,
+      "short": "A fast, silent and expensive sail; Joyce Messier says she would sooner buy one than hand you ten thousand réal.",
+      "details": "It comes up if you try to wheedle money out of Joyce on the pier: a new Hydrodynamique E40 sail and expensive hi-fi are her examples of things she'd rather spend her money on.",
+      "seeAlso": [
+        "joyce-messier",
+        "real"
+      ]
+    },
+    {
+      "id": "ice-bear-fridge",
+      "term": "Ice Bear Fridge",
+      "caseSensitive": true,
+      "short": "A giant refrigerator shaped like a snarling ice bear, standing in a cellar in the Doomed Commercial Area; big enough to hold a body.",
+      "details": "It was once used to sell ice cream (crumpled 'Revachol Ice City' wrappers still lie inside), an unfortunate marketing choice since it terrified children. It is still plugged in and costing someone money.\n\nIt is the answer to a practical problem: the hanged man needs to be kept cold until he can be taken away. Kim agrees it is eccentric but perfect, and the two of you can carry the body down to it.",
+      "spoiler": "A note on its door points to an ice cream maker in the same cellar, where a frozen filament memory labelled 'OFF-SITE COPY' is hidden.",
+      "seeAlso": [
+        "the-hanged-man",
+        "doomed-commercial-area",
+        "kim-kitsuragi"
+      ]
+    },
+    {
+      "id": "iilmaraa",
+      "term": "Iilmaraa",
+      "aliases": [
+        "Iilmaraan",
+        "Iilmaraans",
+        "Ile Marat"
+      ],
+      "caseSensitive": true,
+      "short": "One of the isolas (continent-sized landmasses) of Elysium; once colonised and plundered by foreign powers, it is now an industrial powerhouse.",
+      "details": "Its ancestral name was Ile Marat, as on the Suzerainty board game, where it supplies archaeological treasure; in real life many Iilmaraan treasures still sit in Revachol, Gottwald and Sur-la-Clef. Revachol once ruled the tobacco colony of Tioumoutiri there, whose people were mostly Iilmaraan Areopagites, and the Mesque colonised it too.\n\nIilmaraan things crop up in odd places: Measurehead blames Iilmaraa for alcohol, the Iilmaraan diaspora carried funk music to Graad, and the dicemaker's phrase die comes from Iilmaraa, where it was used for fortune-telling.",
+      "seeAlso": [
+        "isola",
+        "gottwald",
+        "graad",
+        "measurehead"
+      ]
+    },
+    {
+      "id": "indotribe",
+      "term": "Indotribe",
+      "aliases": [
+        "indotribes",
+        "Indotribes"
+      ],
+      "short": "One of Revachol's fourteen original great companies, granted royal monopolies by the king centuries ago; Wild Pines is one of them.",
+      "details": "Most indotribes failed or were swallowed up, but several survive. Joyce Messier mentions Villiers & La Salle (artillery and ballistics), now owned by Gottwalders. She says ten of the fourteen, including Feld, Coupris and Tricentennial, got the revolutionary era wrong, and the survivors are all ultraliberals now.\n\nKim says Revachol's crime syndicates, the besmerties, like to see themselves as heirs of the indotribes.",
+      "seeAlso": [
+        "wild-pines",
+        "royalists",
+        "ultraliberalism"
+      ]
+    },
+    {
+      "id": "insulindic-ocean",
+      "term": "Insulindic ocean",
+      "caseSensitive": true,
+      "short": "The world's largest body of water; the island Revachol stands on lies in the middle of it, and Joyce calls it the world's connective tissue.",
+      "details": "The map wall in the Martinaise bookstore shows it as a pale blue emptiness dotted with archipelagos. The largest dot, in the northeast, is Le Caillou, where you are; far to the southwest lie the Semenese Islands. Other specks include Ozonne, Laurentide, Face-a-la-Mer and the North Arcade Islands.\n\nThe adjective 'Insulindic' turns up elsewhere too: Insulindic regattas, the Insulindic thrush, the East-Insulindic radio region.",
+      "seeAlso": [
+        "insulinde",
+        "isola",
+        "revachol",
+        "joyce-messier"
+      ]
+    },
+    {
+      "id": "interisolary",
+      "term": "interisolary",
+      "short": "Between isolas: the in-world word for 'international' or 'intercontinental', as in interisolary travel or the interisolary reál.",
+      "details": "Because the world's landmasses are separated by the Pale, travel and trade between them are 'interisolary'. The Interisolary Age began with the discovery of Insulinde about three centuries ago. Examples: interisolary flights, the interisolary reál (IIR, the global reserve currency), the International Collaboration Police and the TipTop Tournée racing series.",
+      "seeAlso": [
+        "isola",
+        "pale",
+        "real",
+        "aerostatic"
+      ]
+    },
+    {
+      "id": "katla",
+      "term": "Katla",
+      "aliases": [
+        "Katlan"
+      ],
+      "caseSensitive": true,
+      "short": "The coldest isola in the world: a far-off landmass of tundra and taiga, home to Vaasa and to peoples like the Suru.",
+      "details": "Joyce names Katla among the world's isolas, the coldest of them. It lies as far from Revachol as possible. In the far north, beyond the latitude called 'winter's orbit', days last 25 hours; your Encyclopedia describes it as a land of eternite, drunks and failed rock stars. The Boreal Plateau is there, and the indigenous Suru and Uuhu peoples live on it.\n\nA fictionalised Katla is the setting of the Man from Hjelmdall pulp adventure books.",
+      "seeAlso": [
+        "isola",
+        "vaasa",
+        "graad"
+      ]
+    },
+    {
+      "id": "kedra",
+      "term": "Kedra",
+      "aliases": [
+        "Kedran",
+        "Kedreatic"
+      ],
+      "caseSensitive": true,
+      "short": "A large nation on the Mundi isola, north of the Occident; an emerging market and a contentious candidate for EPIS membership.",
+      "details": "'The Greatest Innocence' places it between the Irmalan mountain range and the Pisantic sea, and recalls Stepan the Despicable, regent of Kedra, who conquered the known world in the Kedreatic Conquest.\n\nThe Coalition official in the apartment building says his young friend's family emigrated to Revachol from Kedra, and that life has not been easy for them.",
+      "seeAlso": [
+        "isola"
+      ]
+    },
+    {
+      "id": "kiejl",
+      "term": "Kiejl",
+      "caseSensitive": true,
+      "short": "A firearms maker; its mass-produced A9 'Armistice' muzzleloader is one of the most common guns in the world, and Kim carries one.",
+      "details": "Encyclopedia describes the A9/90 Armistice as plain, frugal and everywhere. Kiejl also makes the Model 40 revolver.\n\nKim's sidearm is an Armistice; Interfacing suggests it may once have been your own weapon of choice too.",
+      "seeAlso": [
+        "kim-kitsuragi",
+        "rcm"
+      ]
+    },
+    {
+      "id": "kind-green-ape",
+      "term": "Kind Green Ape",
+      "aliases": [
+        "green ape",
+        "Kind Green Ape of South Safre"
+      ],
+      "short": "A shy cryptid from South Safre said to slip into wartime bunkers at night and heal wounded soldiers with its saliva.",
+      "details": "Lena calls it half war story, half undiscovered species of the genus homo: a cousin that evolved alongside humans. Some argue it should count as human because it has proved so humane. It only approaches people to save lives, and no scientist, not even Morell, has tracked it down.\n\nThe ape is pictured on a pen you carry, and Morell says it is one of Lena's favourites.",
+      "seeAlso": [
+        "cryptid",
+        "cryptozoology",
+        "lena"
+      ]
+    },
+    {
+      "id": "konigstein",
+      "term": "Königstein",
+      "aliases": [
+        "Königsteiner"
+      ],
+      "caseSensitive": true,
+      "short": "A wealthy, industrial foreign land known for its electronics industry and for fashionable, much-mocked psychological theories.",
+      "details": "The electronics firm Feld started out there two centuries ago, and the Whirling's old lift was made by a long-gone Königsteiner company. Kim lists it among the industrial places that make automated games.\n\nTrant Heidelstam speaks about fringe theories developed there in the Thirties, such as partial psychotraumatic amnesia and group personality theory. Acele, out on the ice, dismisses its psychology as 'Königstein wank' that rich people like.",
+      "seeAlso": [
+        "amnesia"
+      ]
+    },
+    {
+      "id": "kristallsprach",
+      "term": "Kristallsprach",
+      "aliases": [
+        "Kristallsprach Model 9"
+      ],
+      "caseSensitive": true,
+      "short": "A Gottwaldian brand of fine radio transceivers; Bird's Nest Roy's pawnshop has an expensive Kristallsprach Model 9 for sale.",
+      "details": "Roy praises the Model 9 as a specialist's set, ideal for picking up foreign signals, with a signal purifier to cut crosstalk. Kim calls it a connoisseur's model but says he is happy with his own DynaWave.\n\nIt is one of the transceivers you can bring to people who need a good radio for their project.",
+      "seeAlso": [
+        "kim-kitsuragi",
+        "radiocomputer"
+      ]
+    },
+    {
+      "id": "lickra",
+      "term": "Lickra",
+      "caseSensitive": true,
+      "short": "A shiny synthetic fabric, usually written with a trademark sign, used for flashy tracksuits. Encyclopedia is not impressed by it.",
+      "details": "Encyclopedia says Lickra was developed in the mid-'40s and is notable mostly for the swishing noise it makes when the wearer walks past. It adds that trials have linked it to several rare and nasty cancers.\n\nThe homeless former creative director who hangs around the fishing village wears a filthy two-piece Lickra tracksuit and still considers it premium material.",
+      "inspiredBy": "Lycra (spandex), the stretchy synthetic sportswear fabric.",
+      "seeAlso": [
+        "sansarique",
+        "fishing-village"
+      ]
+    },
+    {
+      "id": "linnea-g22",
+      "term": "Linnea G22",
+      "aliases": [
+        "Linnea"
+      ],
+      "caseSensitive": true,
+      "short": "An unpopular model of motor carriage with peculiar proportions. Visual Calculus suspects one might have made a wild jump over the canal.",
+      "details": "When you reconstruct the crash at the canal, where a vehicle vaulted off a roof and wrecked a SAMARAN BUTTER billboard, Visual Calculus names two candidates: the Coupris 40 and the Linnea G22, a sturdy but light carriage more likely than most to survive such a jump.",
+      "spoiler": "The tyre tracks match your own: the car was actually your Coupris 40, minutes before it ended up in the sea.",
+      "seeAlso": [
+        "motor-carriage"
+      ]
+    },
+    {
+      "id": "lintel",
+      "term": "Lintel",
+      "caseSensitive": true,
+      "short": "The company that licenses and runs the radio 'front' (the shared network of radiowaves) in the East-Insulindian region, carrying radiocomputer data.",
+      "details": "Radiocomputer operators send their data 'up to Lintel', and private data stored on the network can't be accessed without filing a warrant with them. A team of game makers who once worked in Martinaise spent weeks on the phone with Lintel after a mysterious error on its network destroyed their work, but the company never explained it or paid for the loss.",
+      "spoiler": "Lintel could only give the coordinates of the error, which turned out to match a real physical place. Following that lead points to the old church on the coast, and later the programmer Soona tries to repeat Lintel's calculation with better equipment.",
+      "seeAlso": [
+        "radiocomputer",
+        "insulinde",
+        "church"
+      ]
+    },
+    {
+      "id": "lo-manthang",
+      "term": "Lo Manthang",
+      "caseSensitive": true,
+      "short": "A distant group of isles, known for its rural tribes and a martial art fought with slender wooden sticks.",
+      "details": "Trant Heidelstam has practised Lo Manthang stick fighting for almost 20 years. According to Joyce, the Wild Pines fleet charted Lo Manthang some 250 years ago.\n\nEncyclopedia notes that self-immolation has become a grim trend there, especially among young religious protesters and university students who oppose the Seraise government and creeping Occidental influence.",
+      "inspiredBy": "The name comes from Lo Manthang, the old walled capital of the Mustang region in Nepal.",
+      "seeAlso": [
+        "wild-pines"
+      ]
+    },
+    {
+      "id": "lomonossov-s-land",
+      "term": "Lomonossov's Land",
+      "caseSensitive": true,
+      "short": "One of the deep routes through the pale driven by the Paledriver, a pale-scarred long-haul lorry driver you meet in the traffic jam.",
+      "details": "She lists it with other routes, such as Udachnaya Zemlya and the Western Plain. She warns that somewhere in the pale superdeep, if you stray too far off course, there is a point where every step takes you further from home, whichever way you go.",
+      "seeAlso": [
+        "pale"
+      ]
+    },
+    {
+      "id": "loosduin-county-savings-bank",
+      "term": "Loosduin County Savings Bank",
+      "caseSensitive": true,
+      "hideUntilSeen": true,
+      "short": "A small-sounding bank that actually belongs to the giant Looskap conglomerate; it comes up in Klaasje's past.",
+      "spoiler": "Klaasje admits it was the target of the second corporate-espionage job she did, and that many ordinary people lost their jobs because of it. Looskap and the people who hired her are now after her.",
+      "seeAlso": [
+        "klaasje"
+      ]
+    },
+    {
+      "id": "looskap",
+      "term": "Looskap",
+      "caseSensitive": true,
+      "short": "A huge financial conglomerate. Encyclopedia says it engineers financial disasters in poorer countries.",
+      "details": "Its holdings include the Loosduin County Savings Bank, the Bank of Consecration, Eeirberg and the popular Pappa Lollo line of dairy products. Kim thinks going after Looskap would be unwise.",
+      "spoiler": "Klaasje admits that one of her corporate-espionage jobs targeted a Looskap-owned bank, and that Looskap is now among the people after her.",
+      "seeAlso": [
+        "klaasje"
+      ]
+    },
+    {
+      "id": "major-majestic",
+      "term": "Major Majestic",
+      "aliases": [
+        "Major Majestic cockatoo"
+      ],
+      "caseSensitive": true,
+      "short": "A rare, endangered cockatoo with pink wings and a flowing crest, described as the most flamboyant and boastful bird in the jungle.",
+      "details": "You can read about it in a guide to keeping cockatoos, alongside the funeral cockatoo and the common bang-bang cockatoo. Harry can decide that the Major Majestic is the cockatoo for him.",
+      "inspiredBy": "Major Mitchell's cockatoo, a real pink cockatoo with a showy crest."
+    },
+    {
+      "id": "mauer-koshlai-mercury-group",
+      "term": "Mauer-Koshlai Mercury Group",
+      "aliases": [
+        "Mauer-Koshlai Mercury",
+        "Mauer-Koshlai"
+      ],
+      "caseSensitive": true,
+      "short": "A Gottwaldian-Iilmaraan company that extracts mercury. A very rich art buyer may offer you its shares instead of cash.",
+      "details": "The buyer says the company's profits keep growing thanks to the discovery of 'rödfärg' mercury. What he hands over is a stock certificate, though only a photocopy of one.",
+      "seeAlso": [
+        "ultraliberalism"
+      ]
+    },
+    {
+      "id": "may-bell",
+      "term": "May bell",
+      "aliases": [
+        "May bells",
+        "Insulindian Lily",
+        "Lucille's tears",
+        "May bell",
+        "Insulindian Lily",
+        "Lucille's tears"
+      ],
+      "short": "The Insulindian Lily: a white, bell-shaped spring flower. During the Revolution girls pinned it on soldiers going off to fight.",
+      "details": "Kim explains that the flower's old name is the Insulindian Lily and that it was also called May bells or Lucille's tears during the Revolution. Girls gave the flowers to young men leaving for battle; René remembers they were worn on the cap for luck. White was the colour of the revolutionaries, but the custom began in the royal army, so it meant something to both sides.\n\nFor Kim it is above all a symbol of the Civil War: of young people sent to die. It normally blooms in spring, so finding one in the cold before the season is strange.",
+      "spoiler": "Whole fields of May bells grow on the islet with the old Sea Fort, where the Deserter lives; he left the dried ones on the Whirling roof.",
+      "seeAlso": [
+        "dried-wildflower",
+        "revolution",
+        "rene-arnoux"
+      ]
+    },
+    {
+      "id": "megatherion",
+      "term": "Megatherion",
+      "caseSensitive": true,
+      "short": "The 'vision beast' of a drug-addled taxidermist: the huge, terrifying bear he built, which still stands in a cellar of the cursed commercial building.",
+      "details": "Neha the dicemaker explains that the taxidermist, Mr. Fabron, met his vision beast (an imaginary creature that guides you through life) while high on desiccants and named it Megatherion: 'a mega wild beast'.",
+      "inspiredBy": "The name echoes Megatherium, an extinct giant ground sloth, whose name means 'great beast'.",
+      "seeAlso": [
+        "doomed-commercial-area"
+      ]
+    },
+    {
+      "id": "mesque",
+      "term": "Mesque",
+      "aliases": [
+        "Northern Mesque",
+        "Mesques",
+        "mesques",
+        "Mesquese",
+        "Republic of Mesque"
+      ],
+      "caseSensitive": true,
+      "short": "A huge nation on the isola of Mundi, the largest state in the world by territory. Many Mesque immigrants live in Revachol.",
+      "details": "Encyclopedia describes the Republic of Mesque as a confederation, a petrostate and a constitutional monarchy that has recently become an outcast for tilting to the far right. Joyce blames 'Mesque petrofascists' for spreading hateful language. Mesque is also one of the Coalition nations.\n\nThe steppes of Northern Mesque are home to the boiadeiro cow herders, and 'marietti' is a Mesque style of folk music and dance. 'Banger' means a Mesque gang member. Centuries ago Dolores Dei waged campaigns against the Mesque state when it tried to break away from innocentic rule.",
+      "inspiredBy": "Loosely evokes Latin America, mixing Spanish and Portuguese words.",
+      "seeAlso": [
+        "magritte",
+        "coalition",
+        "dolores-dei",
+        "mondial"
+      ]
+    },
+    {
+      "id": "messina",
+      "term": "Messina",
+      "aliases": [
+        "Messinian",
+        "Messinians"
+      ],
+      "caseSensitive": true,
+      "short": "An Occidental nation and member of the Coalition. 'Messinian' means from Messina.",
+      "details": "Messina once formed the dual kingdom of Vesper-Messina on the southeastern coast of the Occident, before an amicable split into two republics. Vesper-Messina was the homeland of Dolores Dei, and Messina is remembered as the site of her crowning and a great centre of the Dolorian era. Its industry makes automated games, and instead of Fritttes it has Averro pharmacies.\n\nThe word 'isola' itself comes from Messinian.",
+      "seeAlso": [
+        "coalition",
+        "dolores-dei",
+        "frittte",
+        "isola",
+        "mondial",
+        "occident",
+        "vesper"
+      ]
+    },
+    {
+      "id": "meteo",
+      "term": "Meteo",
+      "aliases": [
+        "Meteoran",
+        "Meteorans"
+      ],
+      "caseSensitive": true,
+      "short": "A country on the isola of Mundi, by the Pisantic Sea. 'Meteoran' means from or of Meteo.",
+      "details": "Andre uses a Meteoran word for the Founding Party, the powerful religious organisation that owns the old church. Joyce mentions the plaza's restored Meteoran mosaic, and Measurehead counts the 'ancient Meteorans' in his race theory.",
+      "seeAlso": [
+        "church",
+        "mondial"
+      ]
+    },
+    {
+      "id": "mondial",
+      "term": "Mondial",
+      "aliases": [
+        "Mondials"
+      ],
+      "caseSensitive": true,
+      "short": "From Mundi, the largest isola. On police forms it is a broad racial category ('white-ish', says Encyclopedia), with subgroups such as Occidental.",
+      "details": "Kim records the hanged man's race as 'Mondial, subgroup Occidental'. The nations of Mundi (Mesque, the Occident and others) colonised Insulinde, and Joyce calls them the Mondials.",
+      "seeAlso": [
+        "isola",
+        "insulinde",
+        "mesque",
+        "messina",
+        "the-hanged-man"
+      ]
+    },
+    {
+      "id": "mother-of-silence",
+      "term": "Mother of Silence",
+      "aliases": [
+        "Church of the Mother of Silence"
+      ],
+      "caseSensitive": true,
+      "short": "The silent, indescribable 'Mother' worshipped by Tiago, the blind man in the rafters of the old church. He calls the church her church.",
+      "details": "Tiago says she cannot be painted or sculpted, calling her a cavity in the dark, beyond sense. He promises that her love can lift you out of the despair at the bottom of the bottle, and says it burns away memory and selfish desire. Inland Empire warns that she sounds like a serious player.",
+      "spoiler": "Tiago says the church was built around a 'perforation in the world' high up in its rafters, a way out into nothingness, which he circles and one day hopes to drink from.",
+      "seeAlso": [
+        "church",
+        "pale"
+      ]
+    },
+    {
+      "id": "mundi",
+      "term": "Mundi",
+      "aliases": [
+        "Mundi isola"
+      ],
+      "caseSensitive": true,
+      "short": "The largest isola (continent) in the world, north of Insulinde across the pale; home of Oranje, Mesque and the other 'Occidental' nations.",
+      "details": "Joyce says the nations that colonised Insulinde called their own isola Mundi, 'the World', because it was all they knew. About three hundred years ago explorers from Mundi discovered Insulinde, and Mundi's nations went on to reach the other isolas in a great age of interisolary contact.\n\nEncyclopedia places Oranje, Mesque and the Occidental sub-continent on Mundi, and Klaasje calls it the Old Old World. Dolores Dei ruled over both Mundi and Insulinde.",
+      "seeAlso": [
+        "isola",
+        "insulinde",
+        "oranje",
+        "pale",
+        "dolores-dei",
+        "corpus-mundi"
+      ]
+    },
+    {
+      "id": "nachtwey",
+      "term": "Nachtwey",
+      "caseSensitive": true,
+      "short": "A gun maker. Its Nachtwey 80 (or A80) is an old-fashioned two-barrelled front-loading pistol.",
+      "spoiler": "Ruby owns a Nachtwey 80, and you can end up carrying it as your own sidearm.",
+      "seeAlso": [
+        "ruby"
+      ]
+    },
+    {
+      "id": "new-new-world",
+      "term": "New New World",
+      "caseSensitive": true,
+      "short": "A nickname for Insulinde, the isola Revachol stands on, discovered about three centuries ago by explorers who crossed the pale from Mundi.",
+      "details": "The discovery followed a series of costly, often deadly voyages into the pale, sponsored by Queen Irene La Navigateur on the advice of Dolores Dei. Joyce Messier describes the land they found as empty of people, home only to wildlife and the River Esperance, and says the nations of Mundi used it to amass the greatest concentration of wealth the world had ever seen: Revachol the Suzerain.\n\nThe opposite term, the Old Old World, means Mundi, where the colonists came from. Klaasje jokes that she came to Revachol to see the New New World, like a tourist.",
+      "inspiredBy": "The 'New World' (the Americas), as Europeans called it in the age of exploration.",
+      "seeAlso": [
+        "insulinde",
+        "old-old-world",
+        "pale",
+        "dolores-dei",
+        "revachol"
+      ]
+    },
+    {
+      "id": "nnong-okk",
+      "term": "Nnong Okk",
+      "aliases": [
+        "cursor owl"
+      ],
+      "caseSensitive": true,
+      "short": "A flightless 'cursor owl' of the Semenine isles whose long legs supposedly make it the fastest-running bird, maybe the fastest animal.",
+      "details": "Morell mentions it among the cryptids he knows; he says the geologist Catelyn Mijanou also contributed to the search for it, though nobody remembers that.",
+      "seeAlso": [
+        "cryptid",
+        "cryptozoology",
+        "cryobacter-katlensis"
+      ]
+    },
+    {
+      "id": "occident",
+      "term": "Occident",
+      "aliases": [
+        "Occidental",
+        "Occidentals"
+      ],
+      "caseSensitive": true,
+      "short": "A subcontinent of the Mundi isola, home of rich Western nations like Oranje; 'Occidental' is also used as a racial label for white people.",
+      "details": "Its nations include Oranje, Sur-la-Clef, Vesper and Messina, and six major Occidental nations hold a stake in the Coalition's occupation of Revachol. The Sunday Friend calls the Occident part of the 'normal world' and talks of a supranational alliance, the United States of Occident.\n\nAs a racial term, 'Occidental' means fair or light-skinned: on police forms it is a subgroup of the 'Mondial' race. It is also the word a racist lorry driver uses when he argues that white people should be in charge.",
+      "inspiredBy": "The West (especially Western Europe); 'Occident' is an old word for the West.",
+      "seeAlso": [
+        "coalition",
+        "messina",
+        "new-new-world",
+        "old-old-world",
+        "oranje",
+        "sur-la-clef",
+        "vesper"
+      ]
+    },
+    {
+      "id": "old-old-world",
+      "term": "Old Old World",
+      "caseSensitive": true,
+      "short": "A nickname for Mundi, the largest isola and home of the Occident, the old heartland from which the colonists of Insulinde came.",
+      "details": "It is the counterpart of the New New World, as people call Insulinde. Mundi is home to the wealthy Occidental nations such as Oranje, as well as other states like Mesque and Kedra. The nations that colonised Insulinde named their own isola Mundi, 'the World', because it was all they knew.",
+      "inspiredBy": "The 'Old World' (Europe, Asia and Africa), as opposed to the Americas.",
+      "seeAlso": [
+        "new-new-world",
+        "occident",
+        "oranje",
+        "insulinde",
+        "isola"
+      ]
+    },
+    {
+      "id": "omicron",
+      "term": "Omicron",
+      "caseSensitive": true,
+      "short": "The brand on Acele's tape recorder, a chunky, battery-powered machine in yellow plastic that she uses to record sounds.",
+      "details": "Acele got the recorder at the Paliseum, a music club where musicians loop and splice recorded sounds into music.",
+      "seeAlso": [
+        "paliseum"
+      ]
+    },
+    {
+      "id": "pale-latitude-compressor",
+      "term": "Pale Latitude Compressor",
+      "aliases": [
+        "Latitude Compressor",
+        "Pale Compressor"
+      ],
+      "hideUntilSeen": true,
+      "short": "Esoteric radio technology that forces a radio-signal grid onto the pale to 'crunch' distances across it; being caught in its field is agony.",
+      "details": "Near a working compressor your head fills with a storm of static, numbers and stray voices, and your brain feels like it is swelling. The pain eases once the device is switched off or broken.",
+      "spoiler": "Ruby uses one in her hideout to overpower you and Kim when you find her.",
+      "seeAlso": [
+        "pale",
+        "ruby",
+        "radiocomputer"
+      ]
+    },
+    {
+      "id": "pappa-lollo",
+      "term": "Pappa Lollo",
+      "caseSensitive": true,
+      "short": "A popular brand of dairy products whose mascot smiles from milk cartons; it belongs to the powerful Looskap conglomerate.",
+      "details": "Encyclopedia lists it alongside the Bank of Consecration and Eeirberg as part of Looskap, a conglomerate that engineers financial disasters in 'second world' countries.",
+      "spoiler": "It comes up when Klaasje tells her real story: she worked in corporate espionage, and a job involving a Looskap-owned savings bank has put the conglomerate on her trail.",
+      "seeAlso": [
+        "klaasje"
+      ]
+    },
+    {
+      "id": "people-s-republic-of-samara",
+      "term": "People's Republic of Samara",
+      "aliases": [
+        "SRV",
+        "Samaran People's Republic"
+      ],
+      "caseSensitive": true,
+      "short": "A communist state on the Samaran isola, founded as a socialist utopia by communist revolutionaries; now widely seen as a corrupt, degenerated rogue state.",
+      "details": "Encyclopedia calls it a product of Revachol's 'sister revolution' in Graad, established by survivors of the Revolution. It has since become a bureaucratic workers' state under the decades-long rule of President Sapormat 'Sport' Knezhinisky, known for brutal repression, monumental corruption and an obsession with physical fitness. Ignus Nilsen, Kras Mazov's lieutenant, is honoured there as a founding father.\n\nIt sends 'solidarity aid' abroad, which is why some of the cheap goods in Martinaise, like a motor skiff and a pair of speakers, carry its stamp.",
+      "seeAlso": [
+        "communism",
+        "ignus-nilsen",
+        "isola",
+        "kras-mazov",
+        "president-knezhinisky",
+        "revolution",
+        "roo-a72-motor-skiff",
+        "sam-bo",
+        "samara"
+      ]
+    },
+    {
+      "id": "perikarnassian-church",
+      "term": "Perikarnassian Church",
+      "aliases": [
+        "Perikarnassianism",
+        "Perikarnassian theology",
+        "Perikarnassian Theory of Love",
+        "Star of Perikarnassis"
+      ],
+      "caseSensitive": true,
+      "short": "An ancient church whose central symbol, the Star of Perikarnassis, stands for a great moral height to strive towards.",
+      "details": "The star symbol is also called the Chi-Rho. The Founding Party, the world's oldest international organisation, is described as the church's custodian and as the body that anoints the innocences.\n\nThe Perikarnassian Theory of Love holds that love is a relay out of death: it lives on, generation after generation, in our children. Some theorists even argue that communism is a secular version of Perikarnassian theology, swapping faith in the divine for faith in humanity's future. The speedfreaks camped by the old abandoned church insist that it is all about love, just like their music.",
+      "inspiredBy": "Christianity: the Chi-Rho is a real early Christian symbol.",
+      "seeAlso": [
+        "the-perikarnassian",
+        "innocence",
+        "dolorian",
+        "anodic-music"
+      ]
+    },
+    {
+      "id": "perseus-black",
+      "term": "Perseus Black",
+      "caseSensitive": true,
+      "short": "A recognisable clothing label: the RCM's signature uniforms are Perseus Black, and a new Perseus Black outfit turns heads on the street.",
+      "details": "Esprit de Corps notes that some officers wear the uniform all the way to the top ranks of the RCM and are buried in it, while others, like you, wear it more casually.",
+      "seeAlso": [
+        "rcm",
+        "savoir-faire"
+      ]
+    },
+    {
+      "id": "phasmid-trap",
+      "term": "Phasmid Trap",
+      "aliases": [
+        "Phasmid traps",
+        "Trap: Land's End",
+        "Trap: Boathouses",
+        "Trap: Canal",
+        "Trap: Morell"
+      ],
+      "caseSensitive": true,
+      "short": "One of Morell's mesh cylinders, baited with live locusts and hidden in the coastal reeds to catch the Insulindian Phasmid.",
+      "details": "Lena designed the traps: the phasmid is supposed to crawl down a funnel to eat the locusts and then be unable to climb back out. The netting is soft so it won't damage the insect's delicate shell. Morell has placed them in the reeds at Land's End, near the boathouses and by the canal, and you can check them for him.",
+      "seeAlso": [
+        "morell",
+        "lena",
+        "insulindian-phasmid"
+      ]
+    },
+    {
+      "id": "poste-l-aventurier",
+      "term": "Poste L'Aventurier",
+      "aliases": [
+        "L'Aventurier"
+      ],
+      "caseSensitive": true,
+      "short": "A postal company; one of its mail collection boxes stands in Martinaise, covered in graffiti and pierced by two bullet holes.",
+      "details": "Call Me Mañana says the company once tried to recruit him as a postman, promising the job was fun and easy, just walking. He did not believe them.",
+      "seeAlso": [
+        "martinaise"
+      ]
+    },
+    {
+      "id": "real-belt",
+      "term": "Reál Belt",
+      "caseSensitive": true,
+      "short": "The wide group of nations under the Moralintern's influence; Klaasje calls Revachol its most volatile corner.",
+      "details": "Kim explains that the Moralintern is a union of centre-left and centre-right parties across the Reál Belt, with the Coalition government of Revachol as just one of its projects. Its policies apply in all of these nations: Encyclopedia notes, for instance, that peacetime police are restricted to front-loading rifles. Their legal systems are built to accommodate rule by an innocence, should one arise, and in their cultures the lungs are the symbol of love.\n\nKim scoffs at paranoid types who believe the Moralintern keeps score sheets on everyone in the Reál Belt.",
+      "seeAlso": [
+        "moralintern",
+        "coalition",
+        "innocence",
+        "real"
+      ]
+    },
+    {
+      "id": "rehm",
+      "term": "Rehm",
+      "aliases": [
+        "Rehm Civic",
+        "Rehm Prefect",
+        "Rehm Prefects",
+        "Rehm Rational"
+      ],
+      "caseSensitive": true,
+      "short": "A leading maker of radiocomputers. The Civic is its everyday model, the Prefect the government version and the Rational a military-grade series.",
+      "details": "Soona, the programmer camped in the abandoned church, works on a Rehm Prefect (model RC7024, with a Feld mainframe and a Rehm-compatible Interim printer). Encyclopedia explains it is built on the same technology as the Civic, with better noise filtering; Soona says it also works better with newer antennas, and that the Civic is widely agreed to be below all standards. Another Rehm Civic (model RC5120) sits in an abandoned office in the Doomed Commercial Area.\n\nTrant Heidelstam counts Rehm among today's tech giants, and the Mega Rich Light-Bending Guy can't wait for its next model.",
+      "spoiler": "If you bring Soona the transceiver from the Doomed Commercial Area's radiocomputer for your attempt to radio Coalition Warship Archer, she recognises it as the one from her own old Rehm Civic, and says it will do.",
+      "seeAlso": [
+        "radiocomputer",
+        "mega-rich-light-bending-guy",
+        "church",
+        "doomed-commercial-area"
+      ]
+    },
+    {
+      "id": "roo-a72-motor-skiff",
+      "term": "ROO A72 Motor Skiff",
+      "aliases": [
+        "ROO A72"
+      ],
+      "caseSensitive": true,
+      "short": "A small, battered two-seat motor boat in the fishing village; Lilienne the net picker can lend it to you to cross the bay.",
+      "details": "Encyclopedia identifies it as humanitarian aid from the People's Republic of Samara: the ROO logo and a white five-pointed star on the engine give it away. Lilienne has just tarred it and warns that it is strictly a no-rocking boat.",
+      "spoiler": "It takes you out to the old sea fortress on the island in the bay, and back again.",
+      "seeAlso": [
+        "fishing-village",
+        "people-s-republic-of-samara",
+        "samara"
+      ]
+    },
+    {
+      "id": "safre",
+      "term": "Safre",
+      "aliases": [
+        "Safre Empire",
+        "South Safre"
+      ],
+      "caseSensitive": true,
+      "short": "A former empire, once forced by Revachol's kings into the cocaine trade; South Safre is now the scene of a long proxy war between Graad and Safre.",
+      "details": "Your Encyclopedia notes that in the last century Revachol's suzerain flooded Safre with cocaine under an exclusive contract, creating a captive market; half of the former Safre Empire still depends on foreign aid. Safre also had its own short-lived uprising during the world revolution, crushed in '06.\n\nSouth Safre, on the Samaran isola, is a hub of bulk chemical manufacturing and the site of the South Safre conflict: a proxy war with Graad, twelve years hot, with atrocities committed mostly by Graad. The 'Suzerainty' board game re-enacts the cocaine episode.",
+      "inspiredBy": "Imperial China and the Opium Wars; the South Safre conflict echoes the Vietnam War.",
+      "seeAlso": [
+        "graad",
+        "isola"
+      ]
+    },
+    {
+      "id": "saint-batiste-pharmaceutics",
+      "term": "Saint-Batiste Pharmaceutics",
+      "aliases": [
+        "Saint-Batiste Pharmaceuticals"
+      ],
+      "caseSensitive": true,
+      "short": "A Revacholian pharmaceutical company whose logo is on the medicines in the Frittte's cabinet and the Whirling's medicine cabinet.",
+      "details": "Named after the city of Saint-Batiste, it makes everyday remedies such as nosaphed, drouamine, magnesium and hypnogamma. Encyclopedia lists Saint-Batiste among the old indotribes, companies granted royal monopolies centuries ago, and Joyce lists it among the clients of the mercenaries' security company.\n\nYour skills disagree about it: Authority calls it a narco outfit luring people into the gutter, while Inland Empire swells with pride at a proud local company.",
+      "seeAlso": [
+        "saint-batiste",
+        "frittte",
+        "wild-pines",
+        "mercenaries"
+      ]
+    },
+    {
+      "id": "samara",
+      "term": "Samara",
+      "aliases": [
+        "Samaran",
+        "Samaran isola",
+        "South Samara",
+        "South Samaran",
+        "South-Samaran"
+      ],
+      "caseSensitive": true,
+      "short": "One of the great isolas (continent-sized landmasses) of Elysium, lying to the east; 'Samaran' describes its people, goods and culture.",
+      "details": "It is home to the communist People's Republic of Samara (SRV), founded by survivors of the Revolution and now widely seen as a degenerated rogue state, and to places such as Siigay, South Safre, Hsin-Yao and the Koko Nur desert. Many of its nations lie outside the Moralintern's umbrella.\n\nSamaran things are all over Martinaise: goat-milk butter, boxing (Sam Bo), folk songs, cheap 'solidarity aid' goods, and people such as the washerwoman, who was born there, and the street vendor in the traffic jam.",
+      "seeAlso": [
+        "isola",
+        "moralintern",
+        "people-s-republic-of-samara",
+        "sam-bo",
+        "samaran-butter",
+        "semper-maa",
+        "seol",
+        "siigay"
+      ]
+    },
+    {
+      "id": "sansarique",
+      "term": "Sansarique",
+      "caseSensitive": true,
+      "short": "A sportswear brand with a V-shaped logo that makes 'premium' tracksuits and running shoes.",
+      "details": "The down-and-out former creative director at the fishing village fondly remembers how unstoppable he felt in his Sansarique Lickra tracksuit.",
+      "spoiler": "Very late in the case, the old man you finally confront wears worn-out Sansarique running shoes (model Corbeille, size 43) with a black and white spiral pattern on the soles.",
+      "seeAlso": [
+        "lickra"
+      ]
+    },
+    {
+      "id": "saramiriza",
+      "term": "Saramiriza",
+      "aliases": [
+        "Saramirizian",
+        "Saramirizians"
+      ],
+      "caseSensitive": true,
+      "short": "A distant land known for cocaine, coffee and crisp white twill jackets; 'Saramirizian' means from there.",
+      "details": "On the Suzerainty board game, Supramundi and Saramiriza supply magenta cocaine leaves, and the Paledriver hints at what she hauls on her trips from Saramiriza to Graad. Evrart Claire lists it among the proxy-war zones where hardened mercenaries learned their trade.\n\nA classic white Saramirizian jacket is a recognisable style: Steban says only old Saramirizian communists and drug smugglers still wear them. Shivers even pictures a Saramirizian restaurant in Revachol that serves homemade wine.",
+      "seeAlso": [
+        "supramundi",
+        "mercenaries"
+      ]
+    },
+    {
+      "id": "semenese-ward",
+      "term": "Semenese ward",
+      "caseSensitive": true,
+      "short": "A traditional charm from Semenine, meant to protect against bad luck, bad dreams, curses and other supernatural threats.",
+      "details": "Plaisance, who runs the bookstore in the Doomed Commercial Area, has hung dozens of them over the curtained back door of her shop to keep the 'doom' of the place at bay; a pair of Semenese mediators supplied them. She also wears a pendant she trusts to protect her. Soona, the programmer in the church, once found her terminal covered in similar wards.",
+      "seeAlso": [
+        "doomed-commercial-area"
+      ]
+    },
+    {
+      "id": "semenine",
+      "term": "Semenine",
+      "aliases": [
+        "Semenese",
+        "Semenine Islands",
+        "Semenine islands",
+        "Semenine Isles",
+        "Semenine isles",
+        "Semenese islands",
+        "Semenese Islands",
+        "Free State of Semenine",
+        "South Semenese"
+      ],
+      "caseSensitive": true,
+      "short": "A remote southern archipelago near the pale, also called Ile du Fantôme; 'Semenese' means its people and culture.",
+      "details": "The bookstore's wall map places the Semenese islands far to the southwest of Revachol, across the Insulindic ocean. The country is called the Free State of Semenine. Encyclopedia calls it a beautiful place with a rich and unique culture; Inland Empire prefers to imagine mist and wild shamans. Plaisance, the bookseller, covers her doors in Semenese wards against her shop's curse.\n\nThe islands recently suffered a proxy war in which mercenaries fought for Oranjese pharmaceutical interests. Measurehead proudly calls himself Semenese, claims the Semenese are the true indigenous people of the Insulindian archipelago and preaches Semenese supremacy, and the slur 'kipt' targets people of Semenese descent.",
+      "spoiler": "The hanged man's tattoos show he served as a mercenary in the Semenine conflict.",
+      "seeAlso": [
+        "measurehead",
+        "oranje",
+        "mercenaries",
+        "pale"
+      ]
+    },
+    {
+      "id": "semper-maa",
+      "term": "Semper Maa",
+      "caseSensitive": true,
+      "short": "A cryptid said to live in Samara's subtropical jungles: a 'colonial animal' that looks like mud and can supposedly reverse time.",
+      "details": "Gary, the cryptofascist, describes it as a mass of tiny organisms acting as one body, almost impossible to spot or catch, and very dangerous. When threatened it is said to revert to an earlier stage of its life cycle, perhaps endlessly, and the reversal supposedly turns back time for anything touching it.\n\nGary recommends it when you ask him about ways to turn back time.",
+      "inspiredBy": "The 'immortal jellyfish' (Turritopsis dohrnii), which can revert to an earlier stage of its life cycle.",
+      "seeAlso": [
+        "cryptid",
+        "cryptozoology",
+        "samara"
+      ]
+    },
+    {
+      "id": "seraise",
+      "term": "Seraise",
+      "aliases": [
+        "Seraise Empire"
+      ],
+      "caseSensitive": true,
+      "short": "An empire on the Samaran isola with its own language. Cheap plastic, rice farmers and a famously deadly giant hornet all come from there.",
+      "details": "Its provinces include the Siigay archipelago, nicknamed the 'Apricot Suzerainty' in Revachol (a term Kim calls fraught). In Lo Manthang, young religious protesters have been setting themselves on fire to oppose the Seraise government and creeping Occidental influence. Other mentions include the poet Lu Jiatun and the 'Vulgate Seraise' language.",
+      "seeAlso": [
+        "seraise-giant-hornet",
+        "occident"
+      ]
+    },
+    {
+      "id": "seraise-giant-hornet",
+      "term": "Seraise Giant Hornet",
+      "aliases": [
+        "Giant Seraise Hornet"
+      ],
+      "caseSensitive": true,
+      "short": "The world's second-largest insect: a hornet that can kill forty honey bees a minute. A small group can wipe out a whole hive in hours.",
+      "details": "Your Encyclopedia skill offers up this fact while you talk with Joyce, and you can later use it yourself as a grim comparison for what a small, determined group can do.",
+      "inspiredBy": "The Asian giant hornet, notorious for massacring honeybee hives.",
+      "seeAlso": [
+        "seraise"
+      ]
+    },
+    {
+      "id": "siigay",
+      "term": "Siigay",
+      "aliases": [
+        "Apricot Suzerainty",
+        "Siigayan"
+      ],
+      "caseSensitive": true,
+      "short": "An archipelago on the Samaran isola, once colonised by Revachol; Revacholians still call it the 'Apricot Suzerainty', a name with a sting.",
+      "details": "Revachol once colonised Siigay, so the nickname 'Apricot Suzerainty' counts as a slur. Today it is described as a province of the Seraise Empire, and Samaran factories there ship goods through the Martinaise harbour.\n\nSiileng, a street vendor in Martinaise, grew up there and is blunt about why he left. Encyclopedia notes that Siigayan apricots are processed in Sur-la-Clef into apricot-flavoured chewing gum.",
+      "seeAlso": [
+        "apricot-chewing-gum-wrapper",
+        "harbour",
+        "samara",
+        "siileng",
+        "suzerain",
+        "tutti-frutti"
+      ]
+    },
+    {
+      "id": "slipstream",
+      "term": "Slipstream",
+      "aliases": [
+        "Slipstream SCA"
+      ],
+      "caseSensitive": true,
+      "short": "A failed company from the Doomed Commercial Area that made rotor blades, then skis, before going under.",
+      "details": "Its logo is on the skis and rotor blades left lying around in an abandoned building. According to the Novelty Dicemaker, the company 'pivoted' from blades to skis, then its chief executive went on a 'vacation' with all the money, and bailiffs seized what was left in '47.\n\nIts name is still on the building's old doorbell panel, next to the other businesses that failed.",
+      "spoiler": "Pressing the Slipstream SCA doorbell gets a strange answer: a woman's voice introducing herself as Tricentennial Electrics. It may be a recording a hundred years old.",
+      "seeAlso": [
+        "doomed-commercial-area"
+      ]
+    },
+    {
+      "id": "sola",
+      "term": "Sola",
+      "aliases": [
+        "Solas"
+      ],
+      "caseSensitive": true,
+      "short": "An outspoken urban planner who became an Innocence last century, often called the 'anti-innocence'. Banknotes with her face are nicknamed Solas.",
+      "details": "She was anointed in the previous century and lived into the current one. Instead of offering herself as a model for history, she encouraged people to do well on their own.\n\nShe resigned after a Yugo nationalist tried to assassinate her, blaming her for not siding with the left during the turn-of-the-century revolutions. Innocences don't usually resign.\n\nBlack paper banknotes carry the faces of Innocences, which is why Savoir Faire calls cash 'Franconegros and Solas'.",
+      "seeAlso": [
+        "dolores-dei",
+        "erno-pasternak",
+        "innocence",
+        "real"
+      ]
+    },
+    {
+      "id": "stas-rajko",
+      "term": "Stas-Rajko",
+      "aliases": [
+        "Stas-Rajko KK-2"
+      ],
+      "caseSensitive": true,
+      "short": "A classic, tractor-tough motor carriage made in Zsiemsk. One painted a muddy brown is parked in Martinaise.",
+      "details": "Encyclopedia rates the KK-2 model as one of the finest Zsiemsk-made motor carriages. Its emblem is the Eight Antler, and every Stas-Rajko comes baby-blue by default: the blue-and-white colours of the ancient Zsiemsk ruler Zygismunt the Great.\n\nKim remembers a case from his precinct in which Zsiemsk migrants killed the driver of a repainted Stas-Rajko and called it an honour killing.",
+      "seeAlso": [
+        "motor-carriage",
+        "kim-kitsuragi",
+        "precinct-57"
+      ]
+    },
+    {
+      "id": "supramundi",
+      "term": "Supramundi",
+      "caseSensitive": true,
+      "short": "A far-off land counted among the nations of Mundi; it turns up as a source of cocaine and a corridor for brutal proxy wars.",
+      "details": "Encyclopedia says even far-away Supramundi accepted the rule of the innocence Dolores Dei. Today Joyce Messier lists it, with Yeesut and the Semenese islands, among the conflict zones where atrocities go unreported, and on the Suzerainty board game it supplies magenta cocaine along with Saramiriza. Its dust storms reach as far as Kedra.",
+      "seeAlso": [
+        "saramiriza",
+        "semenine",
+        "dolores-dei"
+      ]
+    },
+    {
+      "id": "sur-la-clef",
+      "term": "Sur-la-Clef",
+      "short": "A rich, modern Occidental nation and Coalition member. Much of Revachol's language and culture comes from it, and it hosts the main EPIS institutions.",
+      "details": "Its predecessor, the Kingdom of Suresne, once owned Revachol as a colony, which is why Revachol's language (Suresne), many of its people and some of its food come from there. Queen Irene La Navigateur of Suresne sponsored the costly voyages into the pale that discovered the isola you are standing on.\n\nToday Sur-la-Clef is a highly developed, urbanised country, best known as the business and executive heart of EPIS, the programme the Moralintern created to support certain Occidental nations. The Coalition's Institute of Price Stabilité is based there too.",
+      "seeAlso": [
+        "occident",
+        "coalition",
+        "moralintern",
+        "revachol",
+        "oranje"
+      ]
+    },
+    {
+      "id": "suresne",
+      "term": "Suresne",
+      "aliases": [
+        "Kingdom of Suresne"
+      ],
+      "caseSensitive": true,
+      "short": "The old kingdom that first colonised Revachol, a forerunner of today's Sur-la-Clef. Its name lives on as the language Revacholians speak.",
+      "details": "In the earliest colonial days the Kingdom of Suresne owned the city of Revachol. Its queen, Irene La Navigateur, sent eight expeditions into the pale, and Dolores Dei was her principal advisor.\n\nKim points out that there is no 'Revacholian language': people in Revachol speak Suresne.",
+      "seeAlso": [
+        "revachol",
+        "dolores-dei",
+        "pale",
+        "suzerain"
+      ]
+    },
+    {
+      "id": "suru",
+      "term": "Suru",
+      "aliases": [
+        "Suruese"
+      ],
+      "caseSensitive": true,
+      "short": "An indigenous, often red-haired minority from Vaasa on the cold isola of Katla. Revachol has a small Suruese community.",
+      "details": "Encyclopedia places their homeland far away in Katla, beyond 'winter's orbit', a freezing land where a day is said to last 25 hours. When Cunoesse sings what Cuno calls the song of her people, Encyclopedia recognises it as Suruese, and adds that the Suruese carry a 'ginger gene'.",
+      "seeAlso": [
+        "cunoesse",
+        "cuno"
+      ]
+    },
+    {
+      "id": "touloula",
+      "term": "Touloula",
+      "caseSensitive": true,
+      "short": "A cheap vodka brand. Empty 'Touloula' bottles turn up on the Martinaise boardwalk.",
+      "details": "The name also comes up as a far-off place: the Novelty Dicemaker imagines Slipstream's runaway boss sending holiday messages from Touloula, Tioumoutiri or Khasht-Kor.",
+      "seeAlso": [
+        "slipstream"
+      ]
+    },
+    {
+      "id": "tricentennial-electrics",
+      "term": "Tricentennial Electrics",
+      "aliases": [
+        "Tricentennial"
+      ],
+      "caseSensitive": true,
+      "short": "A major electric company of about a century ago; a woman claiming to work there answers one of the doorbells of the Doomed Commercial Area.",
+      "details": "It was one of the fourteen indotribes, the old Revacholian companies granted royal monopolies by the king, and it once beat Feld in business machines. The Novelty Dicemaker only remembers it as a big firm from a hundred years ago.\n\nWhen you press the button for Slipstream SCA on the building's old call box, a fragile voice full of static answers as Tricentennial Electrics and asks if you have come to place an order.",
+      "spoiler": "The voice seems to mistake you for someone called Michel who left her months ago, and on a second call it repeats itself word for word, like an ancient recording. Kim's best guess is an electrical anomaly.",
+      "seeAlso": [
+        "doomed-commercial-area"
+      ]
+    },
+    {
+      "id": "tutti-frutti",
+      "term": "Tutti Frutti",
+      "short": "A brand of apricot-flavoured chewing gum. You find one of its wrappers in a jeans pocket, and the smell stirs something painful.",
+      "details": "The worn wrapper smells faintly of apricots and cinnamon. Encyclopedia notes that the apricots probably come from Siigay and are made into gum in Sur-la-Clef. Your skills urge you to throw the wrapper away before it hurts you.",
+      "spoiler": "The scent is tied to the woman Harry lost, and it comes back in his memories and dreams of her.",
+      "seeAlso": [
+        "dora",
+        "siigay"
+      ]
+    },
+    {
+      "id": "ubi-sunt",
+      "term": "Ubi Sunt?",
+      "aliases": [
+        "Ubi",
+        "Ubis"
+      ],
+      "caseSensitive": true,
+      "short": "Poor, crumbling isles at the edge of the Mundi isola, breaking apart into the pale. Their people, the Ubi, are known for socialism and sheep.",
+      "details": "Encyclopedia says it is the only place in the world with a question mark in its name. The game calls it an island, a group of isles and a 'vanishing peninsula' on the Mundi isola; all agree it is a place of poverty and entroponetic collapse at the edge of the pale.\n\nUbi herdsmen came to Insulinde on the first boats and brought their own flowery folk style of Dolorian architecture. Ubi accents are thick, Conceptualization links an archaic-sounding quote to Ubi dialect, and Kim recognises Ubi folk dancing when he sees it. Easy Leo in the container yard is Ubi and insists the sheep rumours are lies; Lilienne the net picker is half Ubi through her mother.",
+      "inspiredBy": "'Ubi sunt?' is Latin for 'Where are they?', the opening of a classic medieval lament for things lost to time.",
+      "spoiler": "Noid believes that Ubi herdsmen, who came over on the first boats, built the old church on the coast centuries ago to contain something.",
+      "seeAlso": [
+        "church",
+        "dolorian",
+        "pale",
+        "ubi-dolorianism",
+        "vesper"
+      ]
+    },
+    {
+      "id": "ulan-frequency",
+      "term": "ULAN frequency",
+      "aliases": [
+        "ULAN",
+        "ULAN frequencies",
+        "Ulan frequencies",
+        "ULAN frequency system"
+      ],
+      "caseSensitive": true,
+      "short": "An obscure radio frequency system described in notes found in an abandoned lorry cabin. Even Kim has never heard of it.",
+      "details": "The notes are an article torn out of a radio enthusiasts' magazine, full of complex equations. Kim knows FM, AM and UKV, but not ULAN; he guesses it could be a way to link fleets without interference, or a way to tap into RCM networks.",
+      "spoiler": "The lorry belongs to Ruby, who dabbles in advanced radio theory. When you finally track her down, she attacks your mind with a pale emitter blasting the ULAN frequency.",
+      "seeAlso": [
+        "ruby",
+        "pale"
+      ]
+    },
+    {
+      "id": "vaasa",
+      "term": "Vaasa",
+      "aliases": [
+        "Vaasan",
+        "Vaasans",
+        "Vaasa City"
+      ],
+      "caseSensitive": true,
+      "short": "A wealthy social democratic nation on the cold isola of Katla, known (says your Encyclopedia) for impossibly blonde people.",
+      "details": "Vaasa is called a social democratic powerhouse. Its social democrats share many of the Moralintern's values yet refuse to join Moralism. The communist revolutionary Ignus Nilsen was Vaasan, and Trant Heidelstam recognises 'Ask the Wind' as a Vaasan lullaby.\n\nMorell the cryptozoologist cites centuries of cryptid sightings in Vaasa's forests.",
+      "inspiredBy": "The Nordic countries and their social democracies.",
+      "seeAlso": [
+        "katla",
+        "moralism",
+        "moralintern"
+      ]
+    },
+    {
+      "id": "vermillion",
+      "term": "Vermillion",
+      "aliases": [
+        "Vermillion Golden Spirits",
+        "Vermillion spirits",
+        "Vermillon"
+      ],
+      "short": "A local brewery whose 'Golden Spirits' logo is printed on the yellow cargo belt the victim was hanged with. Dockworkers use the same belts in the harbour.",
+      "details": "Kim records the belt in the autopsy: yellow, three metres long, 'Vermillion spirits' printed on the side. Titus Hardie recognises it at once as the kind of belt they use in the harbour, and you can find identical belts there.\n\nThe brewery's beer turns up elsewhere too: a six-pack of 'Vermillon Roi d'Or' (spelled that way) comes with a free plastic crown stamped ROI D'OR.",
+      "seeAlso": [
+        "the-hanged-man",
+        "harbour",
+        "titus-hardie"
+      ]
+    },
+    {
+      "id": "vesper",
+      "term": "Vesper",
+      "aliases": [
+        "Republic of Vesper",
+        "Vesper-Messina",
+        "Vespertine",
+        "Vespertines"
+      ],
+      "caseSensitive": true,
+      "short": "A wealthy Occidental nation and Coalition member, known for its exotic financial products. 'Vespertine' means from Vesper.",
+      "details": "Vesper was once joined with Messina as the dual kingdom of Vesper-Messina (Dolores Dei's homeland) before the two parted amicably; Vesper is the richer half. It sits on the edge of the Mundi isola, close to the pale and overlooking Ubi Sunt?, and has a reputation for an almost ominous stability.\n\nVespertine culture is everywhere in Revachol: the hero of the Dick Mullen crime novels is a Vespertine detective, Kim says RCM fashions borrow from classic Vespertine cop shows, and people mention Vespertine spy novels, rock stars and art movements. Joyce Messier holds Vespertine citizenship through her husband.",
+      "seeAlso": [
+        "coalition",
+        "dolores-dei",
+        "joyce-messier",
+        "messina",
+        "occident",
+        "pale",
+        "rcm",
+        "ubi-sunt"
+      ]
+    },
+    {
+      "id": "weiss-wiesemann-coefficient",
+      "term": "Weiss-Wiesemann coefficient",
+      "aliases": [
+        "Weiss-Wiesemann"
+      ],
+      "caseSensitive": true,
+      "short": "A measure of wealth inequality between people: near 1, one person owns everything. Past about .96, the laws of physics reportedly bend around the rich.",
+      "details": "Encyclopedia explains it when you notice that the light behaves strangely around the Mega Rich Light-Bending Guy in the container yard. The coefficient between you and him works out to .9998 repeating. He has heard of the effect, though naturally he has never witnessed it himself.",
+      "inspiredBy": "The Gini coefficient, the real-world measure of income or wealth inequality.",
+      "seeAlso": [
+        "ultraliberalism",
+        "plutocracy"
+      ]
+    },
+    {
+      "id": "western-plain",
+      "term": "Western Plain",
+      "caseSensitive": true,
+      "short": "An ancient name for the pale: Joyce Messier says the Perikarnassians of thousands of years ago called it the Western Plain.",
+      "details": "Joyce Messier says people have studied the pale for 6,000 years, and the Perikarnassians called it the Western Plain; there are signs of crossings even in pre-modern times.\n\nThe Paledriver in Jamrock names it among the pale routes she has driven, and recommends an old ballad, 'On the Western Plain', about a daring boiadeiro who promises to marry a girl when he returns from the plain. He comes back a changed man, kills her by the River Magritte and rides off again.",
+      "seeAlso": [
+        "joyce-messier",
+        "pale",
+        "paledriver"
+      ]
+    },
+    {
+      "id": "willow-people",
+      "term": "Willow People",
+      "aliases": [
+        "willow person"
+      ],
+      "short": "A cryptid Morell nearly caught: very thin, almost flat beings that hide by wrapping themselves around trees and blending into the bark.",
+      "details": "Morell compares them to the phasmid he is hunting in Martinaise. He and Gary once painted a whole grove of trees bright lavender with slow-drying paint, hoping to expose one, and after hours of waiting he glimpsed a lavender shadow dashing away.",
+      "seeAlso": [
+        "cryptid",
+        "cryptozoology",
+        "insulindian-phasmid"
+      ]
+    },
+    {
+      "id": "yeesut",
+      "term": "Yeesut",
+      "short": "A distant country known mainly for war and famine: one of the 'conflict corridors' where mercenaries fight proxy wars.",
+      "details": "Joyce Messier lists it with Supramundi and the Semenese islands as places with a poor record of reporting military atrocities, and Evrart Claire describes the company mercenaries as killers from proxy wars in Yeesut, Semenine and Saramiriza. Klaasje mentions the '36 famine in Yeesut. Measurehead blames the 'al-chemists of Yeesut and Bashir' for inventing Al Gul.",
+      "seeAlso": [
+        "mercenaries",
+        "al-gul",
+        "joyce-messier"
+      ]
+    },
+    {
+      "id": "yugo-graad",
+      "term": "Yugo-Graad",
+      "aliases": [
+        "Yugo-Graadian"
+      ],
+      "caseSensitive": true,
+      "short": "A region of Graad known for ethnic unrest, vodka and the Yugo-Graad Riots of '27 to '29.",
+      "details": "Your Encyclopedia describes the Yugo-Graad Riots as a wave of ethnic unrest met by state repression, which ended a short period of liberal reform known as the Yugo-Graad Spring. The bleak romance novel 'Sixteen Days of Coldest April' is set during the riots.\n\nYugo-Graadians are one of the Kojko peoples of Graad, and even a racist lorry driver admits their vodka is good.",
+      "spoiler": "Klaasje's real name turns out to be Graadian, Yugo-Graad or Zsiemsk in origin.",
+      "seeAlso": [
+        "graad",
+        "klaasje"
+      ]
+    },
+    {
+      "id": "zsiemsk",
+      "term": "Zsiemsk",
+      "aliases": [
+        "Zsiemsk-made"
+      ],
+      "caseSensitive": true,
+      "short": "A people and region of Graad, known in Revachol for its migrants, its sturdy Stas-Rajko motor carriages and its ancient kings.",
+      "details": "Visual Calculus counts the Zsiemsk among the Kojkos of Graad, along with the Yugo and Shest. Encyclopedia praises the Zsiemsk-made Stas-Rajko, built like a tractor and used as one in the countryside, in the zaffer blue and white of Zygismunt the Great. Hand/Eye Coordination knows the Ister 50 as a Zsiemsk-made monstrosity of a gun.\n\nKim remembers an old case: Zsiemsk migrants murdered the driver of a Stas-Rajko painted muddy brown, calling it an honour killing, and five thousand people protested the trial.",
+      "spoiler": "Klaasje eventually admits that her parents were Zsiemsk immigrants, though she grew up in Oranje.",
+      "seeAlso": [
+        "zygismunt-the-great",
+        "motor-carriage",
+        "kim-kitsuragi"
+      ]
     }
   ]
 }

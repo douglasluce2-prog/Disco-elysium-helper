@@ -1,0 +1,124 @@
+{
+  // Thought Cabinet thoughts: ideas you can internalize. Written from the game text.
+  "category": "Thoughts",
+  "entries": [
+    {
+      "id": "ace-s-high",
+      "term": "Ace's High",
+      "short": "Revachol's name for a high five, a custom started by the aerostatic brigades of the Revolution; slapping hands with Kim gives you a Thought of that name.",
+      "details": "Revacholians use it to celebrate success, especially in sports, and the gesture has spread around the world even though the revolutionaries who invented it lost. Kim says his precinct, the 57th, kept the custom alive, and leaving him hanging does not go down well.\n\nYou can follow it up with an Ace's Low.",
+      "spoiler": "Kim first offers one after you get the body down from the tree behind the Whirling-in-Rags. With the Thought internalized, you can ask Kim whether his jacket is from the revolutionary air brigades.",
+      "seeAlso": [
+        "ace-s-low",
+        "kim-kitsuragi",
+        "revolution",
+        "aerostatic",
+        "precinct-57"
+      ]
+    },
+    {
+      "id": "ace-s-low",
+      "term": "Ace's Low",
+      "short": "The follow-up to an Ace's High: you turn your back after the high five and wait for a second, low slap; doing it with Kim gives you a Thought.",
+      "details": "Interfacing suggests it as an optional flourish. Kim, ever precise, does not leave an Ace's Low hanging.",
+      "seeAlso": [
+        "ace-s-high",
+        "kim-kitsuragi"
+      ]
+    },
+    {
+      "id": "art-cop",
+      "term": "Art Cop",
+      "short": "A Thought and copotype for a detective who judges everything as art: half art critic, half cop.",
+      "details": "Conceptualization offers it once you have made enough artsy or critical remarks about paintings, music, books and buildings. It urges you to hunt down not just street criminals but trite, derivative artists and writers too. Show off your taste and people like Kim and Cindy may start calling you Art Cop.",
+      "seeAlso": [
+        "copotype",
+        "conceptualization",
+        "thought-cabinet"
+      ]
+    },
+    {
+      "id": "boring-cop",
+      "term": "Boring Cop",
+      "aliases": [
+        "Regular Cop"
+      ],
+      "caseSensitive": true,
+      "short": "A copotype Thought Drama offers if you keep choosing the plain, by-the-book answers; Drama announces that your copotype is 'Regular Cop'.",
+      "details": "Picking dull, safe options throughout the game quietly builds up this copotype. Eventually Drama teases you for always taking 'the regular, please, the brown', and offers to make it official. You can opt in, which adds the Boring Cop thought to your Thought Cabinet, or opt out.\n\nElsewhere, when Suggestion asks you to guess your copotype, you can suggest Regular Cop; Suggestion insists you are the Sorry Cop instead.",
+      "seeAlso": [
+        "copotype",
+        "drama",
+        "thought-cabinet"
+      ]
+    },
+    {
+      "id": "coach-physical-instrument",
+      "term": "Coach Physical Instrument",
+      "caseSensitive": true,
+      "short": "A Thought in which your Physical Instrument appoints itself your drill-sergeant gym coach, determined to whip your neglected body back into shape.",
+      "details": "Physical Instrument eventually insists on coaching you, promising push-ups, blood, sweat, piss and tears until you become a Master Athlete; you can opt in or turn it down. With the coach on board it barks motivational abuse at you in all sorts of situations, from your choice of trousers to climbing and throwing, and even Authority thinks it overdoes things.",
+      "seeAlso": [
+        "physical-instrument",
+        "thought-cabinet",
+        "thought"
+      ]
+    },
+    {
+      "id": "kingdom-of-conscience",
+      "term": "Kingdom of Conscience",
+      "caseSensitive": true,
+      "short": "Empathy's name for the far-off moralist ideal; it invites you to join once your political answers keep landing in the sensible middle.",
+      "details": "Empathy notices your 'normal, reasonable, temperate' opinions and offers you citizenship. The Kingdom, it says, is not a place but a rare moment in history that comes about only gradually: post-capitalist, post-national, post-ideological, and perhaps not reached even in your grandchildren's lifetime. It credits Dolores Dei with seeing that progress is worthless without stability.\n\nYou can question it or opt out; opting in adds a moralist thought to your Thought Cabinet.",
+      "seeAlso": [
+        "moralism",
+        "moralintern",
+        "centrism",
+        "dolores-dei",
+        "thought-cabinet",
+        "empathy"
+      ]
+    },
+    {
+      "id": "remote-viewer",
+      "term": "Remote Viewer",
+      "aliases": [
+        "Remote Viewer Du Bois"
+      ],
+      "short": "A Thought you can be offered after repeatedly claiming psychic insight: Inland Empire 'inducts' you into the Remote Viewers Division.",
+      "details": "Every time you explain things by extrasensory perception, ghosts or 'the veil', the game keeps count. After a few such claims, Inland Empire asks whether you feel something para-natural, then has you close your eyes and tune in to 'RVD HQ' while Kim looks on, unimpressed. You can discard the thought at several points, or let it connect and add Remote Viewer to your Thought Cabinet.\n\nWith it, extra para-natural dialogue options open up around Martinaise.",
+      "inspiredBy": "Remote viewing, the supposed psychic ability to see distant places, once studied by US military and intelligence programmes.",
+      "seeAlso": [
+        "remote-viewers-division",
+        "inland-empire",
+        "thought-cabinet"
+      ]
+    },
+    {
+      "id": "sorry-cop",
+      "term": "Sorry Cop",
+      "caseSensitive": true,
+      "short": "A Thought offered when you keep apologising and running yourself down: Suggestion announces that your copotype is the Sorry Cop.",
+      "details": "The game quietly counts how often you apologise or call yourself a failure. Once you've done it enough, Suggestion makes your copotype 'official' and offers you the thought.\n\nYou can also introduce yourself as the Sorry Cop in conversation.",
+      "seeAlso": [
+        "copotype",
+        "suggestion",
+        "superstar-cop",
+        "thought-cabinet"
+      ]
+    },
+    {
+      "id": "superstar-cop",
+      "term": "Superstar Cop",
+      "caseSensitive": true,
+      "short": "A Thought offered when you keep bragging about yourself: Composure declares you the world's first celebrity police officer.",
+      "details": "The game counts your boastful, attention-seeking choices. Once there are enough, Composure confirms that you're a Superstar Cop and invites you to shout 'action' and reinvent your messy life as a star vehicle.",
+      "seeAlso": [
+        "copotype",
+        "composure",
+        "sorry-cop",
+        "thought-cabinet"
+      ]
+    }
+  ]
+}

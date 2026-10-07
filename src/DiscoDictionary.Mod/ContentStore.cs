@@ -106,8 +106,9 @@ internal sealed class ContentStore
   // {
   //   ""term"": ""Example Word"",
   //   ""aliases"": [""example words""],
-  //   ""category"": ""Slang & Jargon"",     // Skills, Game Mechanics, People, Places, World, Factions,
-  //                                         // Politics & Ideas, History, Slang & Jargon, Vocabulary
+  //   ""category"": ""Slang & Jargon"",     // Skills, Thoughts, Game Mechanics, People, Places, World,
+  //                                         // Factions, Politics & Ideas, History, Culture & Media,
+  //                                         // Items, Slang & Jargon, Vocabulary
   //   ""short"": ""One line, shown in the sidebar."",
   //   ""details"": ""As much explanation as you like."",
   //   ""inspiredBy"": ""Optional real-world origin."",

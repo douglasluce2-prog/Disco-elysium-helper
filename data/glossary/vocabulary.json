@@ -5,82 +5,307 @@
   "category": "Vocabulary",
   "entries": [
     {
+      "id": "cryptozoology",
       "term": "Cryptozoology",
-      "aliases": ["cryptozoologist", "cryptozoologists", "cryptozoological"],
+      "aliases": [
+        "cryptozoologist",
+        "cryptozoologists",
+        "cryptozoological"
+      ],
       "short": "The study of animals whose existence isn't proven (like Bigfoot or the Loch Ness monster).",
-      "seeAlso": ["cryptid", "lena", "insulindian-phasmid"]
+      "seeAlso": [
+        "cryptid",
+        "lena",
+        "insulindian-phasmid"
+      ]
     },
     {
+      "id": "cryptid",
       "term": "Cryptid",
-      "aliases": ["cryptids"],
+      "aliases": [
+        "cryptids"
+      ],
       "short": "An animal that some people believe exists but science has not confirmed.",
-      "seeAlso": ["cryptozoology", "insulindian-phasmid"]
+      "seeAlso": [
+        "cryptozoology",
+        "insulindian-phasmid"
+      ]
     },
     {
       "id": "petanque",
       "term": "Pétanque",
-      "aliases": ["petanque", "boules"],
+      "aliases": [
+        "petanque",
+        "boules",
+        "boule"
+      ],
       "short": "A French ball game: players toss metal balls to land as close as possible to a small target ball.",
-      "seeAlso": ["rene-arnoux", "gaston-martin"]
+      "details": "In Martinaise two old men, René and Gaston, play it in a crater near the plaza. Players throw their boules as close as they can to the small target ball, the cochonnet.",
+      "seeAlso": [
+        "rene-arnoux",
+        "gaston-martin"
+      ]
     },
     {
+      "id": "lynching",
       "term": "Lynching",
-      "aliases": ["lynch", "lynched", "lynch mob", "lynchings"],
+      "aliases": [
+        "lynch",
+        "lynched",
+        "lynch mob",
+        "lynchings"
+      ],
       "short": "A killing by a mob without trial, often by hanging. The Hanged Man is said to have been lynched.",
-      "seeAlso": ["the-hanged-man", "hardie-boys"]
+      "seeAlso": [
+        "the-hanged-man",
+        "hardie-boys"
+      ]
     },
     {
+      "id": "rigor-mortis",
       "term": "Rigor mortis",
       "short": "The stiffening of a body's muscles after death. Useful for estimating time of death.",
-      "seeAlso": ["the-hanged-man"]
+      "seeAlso": [
+        "the-hanged-man"
+      ]
     },
     {
+      "id": "amnesia",
       "term": "Amnesia",
-      "aliases": ["amnesiac"],
+      "aliases": [
+        "amnesiac"
+      ],
       "short": "Loss of memory. Your detective has a severe case of it after his binge.",
-      "seeAlso": ["harry"]
+      "seeAlso": [
+        "harry"
+      ]
     },
     {
+      "id": "stevedore",
       "term": "Stevedore",
-      "aliases": ["stevedores", "longshoreman", "longshoremen"],
+      "aliases": [
+        "stevedores",
+        "longshoreman",
+        "longshoremen"
+      ],
       "short": "A dockworker who loads and unloads ships.",
-      "seeAlso": ["union", "harbour"]
+      "seeAlso": [
+        "union",
+        "harbour"
+      ]
     },
     {
+      "id": "ennui",
       "term": "Ennui",
-      "short": "French: a deep, listless boredom and dissatisfaction with life.",
-      "seeAlso": []
+      "short": "French: a deep, listless boredom and dissatisfaction with life."
     },
     {
+      "id": "solipsism",
       "term": "Solipsism",
-      "aliases": ["solipsist", "solipsistic"],
+      "aliases": [
+        "solipsist",
+        "solipsistic"
+      ],
       "short": "The idea that only your own mind is certain to exist. Also: extreme self-centredness.",
-      "seeAlso": ["nihilism"]
+      "seeAlso": [
+        "nihilism"
+      ]
     },
     {
+      "id": "nihilism",
       "term": "Nihilism",
-      "aliases": ["nihilist", "nihilists", "nihilistic"],
+      "aliases": [
+        "nihilist",
+        "nihilists",
+        "nihilistic"
+      ],
       "short": "The belief that nothing has meaning or value.",
-      "seeAlso": ["solipsism", "ennui"]
+      "seeAlso": [
+        "solipsism",
+        "ennui"
+      ]
     },
     {
+      "id": "entropy",
       "term": "Entropy",
-      "aliases": ["entropic"],
+      "aliases": [
+        "entropic"
+      ],
       "short": "Physics: the tendency of everything to fall into disorder. Used poetically for decay and the end of things.",
-      "seeAlso": ["pale"]
+      "seeAlso": [
+        "pale"
+      ]
     },
     {
+      "id": "apocalypse",
       "term": "Apocalypse",
-      "aliases": ["apocalyptic"],
-      "caseSensitive": false,
+      "aliases": [
+        "apocalyptic"
+      ],
       "short": "The end of the world. Some versions of your detective become obsessed with it ('Apocalypse Cop').",
-      "seeAlso": ["copotype", "pale"]
+      "seeAlso": [
+        "copotype",
+        "pale"
+      ]
     },
     {
+      "id": "deja-vu",
       "term": "Déjà vu",
-      "aliases": ["deja vu"],
-      "short": "French for 'already seen': the eerie feeling that you've lived this moment before.",
-      "seeAlso": []
+      "aliases": [
+        "deja vu"
+      ],
+      "short": "French for 'already seen': the eerie feeling that you've lived this moment before."
+    },
+    {
+      "id": "allumer",
+      "term": "Allumer",
+      "short": "French for 'switch on' or 'light up': a label on one of the dial keys of an old Feld control console.",
+      "details": "Other labels on the same console are French too, such as Radiodiffusé ('broadcast') on its frequency band."
+    },
+    {
+      "id": "arret",
+      "term": "Arrêt",
+      "short": "French for 'stop' or 'off': one of two worn buttons on the crane control panel in the container yard, next to Marche ('on').",
+      "details": "The panel controls the big crane above it, which has a shipping container hanging from its hook.",
+      "seeAlso": [
+        "harbour"
+      ]
+    },
+    {
+      "id": "cochonnet",
+      "term": "Cochonnet",
+      "short": "French for the small target ball in pétanque: players try to throw their metal boules as close to it as possible.",
+      "details": "Gaston Martin explains the rules as he and René play in the crater on the plaza: a coin toss decides who throws the cochonnet, the players stand in a rope circle with both feet planted, and the distances to the cochonnet are measured at the end.",
+      "seeAlso": [
+        "petanque",
+        "gaston-martin",
+        "rene-arnoux"
+      ]
+    },
+    {
+      "id": "contact-mic",
+      "term": "Contact mic",
+      "aliases": [
+        "contact microphone",
+        "contact mics",
+        "contact microphones"
+      ],
+      "short": "A microphone that picks up sound from inside solid things, like wood or ice, instead of from the air; Acele uses one for her field recordings.",
+      "details": "Acele, a young sound experimenter you meet on the frozen bay near the church, explains that her contact mic records sounds from inside things. Harry may mishear the name and start talking about Contact Mike, the boxer, instead."
+    },
+    {
+      "id": "eau-de-nil",
+      "term": "Eau-de-Nil",
+      "short": "French for 'water of the Nile': the name of a pale green colour. Inland Empire uses it to describe Joyce Messier's eyes.",
+      "seeAlso": [
+        "joyce-messier"
+      ]
+    },
+    {
+      "id": "liebling",
+      "term": "Liebling",
+      "short": "German for 'darling'. You hear it in stray foreign-language radio chatter while trying to raise the Coalition warship Archer.",
+      "details": "The voice belongs to a worried parent arguing with their partner. Roughly translated: 'No, darling! I won't allow it... How can you send our boy to Vredefort on one of those things?' and 'Darling, please... He's our only child. He can go to the academy next year.'",
+      "seeAlso": [
+        "luftschiff",
+        "coalition"
+      ]
+    },
+    {
+      "id": "lorryman",
+      "term": "Lorryman",
+      "aliases": [
+        "lorrymen"
+      ],
+      "short": "A lorry (truck) driver; several lorrymen and their lorries are stuck in the traffic jam at the roundabout outside the harbour gates.",
+      "details": "Lorrymen have their own guild, the Lorrymen and Carters Guild. Joyce Messier suggests interviewing the drivers still waiting in the traffic jam, since one of them may be expecting an important shipment. The Paledriver, who drives across the pale, calls herself a camionneur.",
+      "seeAlso": [
+        "paledriver",
+        "harbour"
+      ]
+    },
+    {
+      "id": "luftschiff",
+      "term": "Luftschiff",
+      "short": "German for 'airship' (an aerostatic in Elysium). It turns up in stray foreign-language radio chatter while you try to contact the Coalition warship Archer.",
+      "details": "Rhetoric struggles with the language. Roughly translated, the voice says that, according to a woman named Marianne, a man called Oskar has not been the same since he came back on an airship from Graad: the psychologists call him perfectly normal, but she feels she has been living with a stranger since his return.",
+      "seeAlso": [
+        "liebling",
+        "aerostatic",
+        "coalition"
+      ]
+    },
+    {
+      "id": "marche",
+      "term": "Marche",
+      "short": "French for 'on' (literally 'running'): the start button on the old crane control panel at the container yard. Its partner, Arrêt, means 'off'.",
+      "seeAlso": [
+        "harbour"
+      ]
+    },
+    {
+      "id": "memento-mori",
+      "term": "Memento mori",
+      "short": "Latin for 'remember that you must die': a reminder of death meant to show how vain and passing earthly pursuits are.",
+      "details": "Encyclopedia explains the phrase when Titus Hardie tosses it into conversation, and the rotting hanged man himself boasts of his 'memento mori features'.",
+      "seeAlso": [
+        "the-hanged-man",
+        "titus-hardie"
+      ]
+    },
+    {
+      "id": "ofcs",
+      "term": "OFCs",
+      "aliases": [
+        "Offshore Financial Centres"
+      ],
+      "caseSensitive": true,
+      "short": "Short for 'Offshore Financial Centres': a polite name for tax havens, places where the wealthy park money out of reach of taxes.",
+      "details": "The term comes up in the harbour's container yard, where Savoir Faire is convinced that someone nearby has assets stashed away offshore. Encyclopedia adds that the EPIS nations have a framework for dealing with OFCs, but they are still a problem.",
+      "seeAlso": [
+        "ultraliberalism",
+        "savoir-faire"
+      ]
+    },
+    {
+      "id": "oxygen-holocaust",
+      "term": "Oxygen holocaust",
+      "short": "A mass extinction billions of years ago, when early life began producing oxygen and poisoned the organisms that lived without it.",
+      "details": "In real-world science it is better known as the Great Oxygenation Event. In the game it comes up as a comparison for an even bigger catastrophe.",
+      "spoiler": "The Insulindian Phasmid compares what the spreading pale will do to the oxygen holocaust, only much worse.",
+      "seeAlso": [
+        "pale",
+        "insulindian-phasmid",
+        "entropy"
+      ]
+    },
+    {
+      "id": "radiodiffuse",
+      "term": "Radiodiffusé",
+      "short": "French for 'broadcast': the label on the frequency band of an old, dusty Feld control console.",
+      "details": "The console's other labels are French too: 'Allumer' ('switch on') and 'Urgence -- Ouvert!' ('Emergency -- Open!'). Kim reads them out and guesses the device once controlled the building's electronics.",
+      "spoiler": "The console stands inside the old sea fort you reach late in the game. Once the generator upstairs has fuel, it can switch on the lights and open a blast door."
+    },
+    {
+      "id": "trauma-and-stressor-disorder",
+      "term": "Trauma-and-Stressor Disorder",
+      "short": "The in-world name for lasting psychological damage after trauma, roughly what we call PTSD.",
+      "details": "Joyce Messier says the mercenaries in Martinaise have it after years of combat. Empathy also guesses that Kim avoids Cuno because of his years as a juvenile-crimes officer.",
+      "inspiredBy": "Post-traumatic stress disorder (PTSD), part of the real psychiatric category of trauma- and stressor-related disorders.",
+      "seeAlso": [
+        "mercenaries",
+        "kim-kitsuragi"
+      ]
+    },
+    {
+      "id": "urgence",
+      "term": "Urgence",
+      "aliases": [
+        "Urgence -- Ouvert!"
+      ],
+      "caseSensitive": true,
+      "short": "French for 'emergency'. 'Urgence -- Ouvert!' ('Emergency -- Open!') is printed on a dial key of an old, dusty Feld control console.",
+      "details": "The console's other labels are also French: 'Allumer' ('switch on') on another key and 'Radiodiffusé' ('broadcast') on the frequency band. Kim reads the labels aloud and guesses the device once controlled the building's electronics."
     }
   ]
 }

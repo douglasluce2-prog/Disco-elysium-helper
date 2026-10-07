@@ -6,179 +6,1896 @@
     {
       "id": "harry",
       "term": "Harrier Du Bois",
-      "aliases": ["Harry", "Harrier", "Du Bois", "Harry Du Bois", "Harry DuBois"],
+      "aliases": [
+        "Harry",
+        "Harrier",
+        "Du Bois",
+        "Harry Du Bois",
+        "Harry DuBois",
+        "Detective Du Bois",
+        "Johnny Thundercop",
+        "Lieutenant Double-Yefreitor Du Bois",
+        "Lieutenant Double-Yefreitor Love",
+        "Lieutenant Du Bois",
+        "Lieutenant Love",
+        "Lieutenant-yefreitor Du Bois",
+        "Loonie Roonie",
+        "Officer Disco",
+        "Officer Harry",
+        "Roonie"
+      ],
       "caseSensitive": true,
       "hideUntilSeen": true,
       "short": "The detective you play: an RCM officer who wakes up with no memory after a catastrophic binge.",
       "details": "Harry is a lieutenant double-yefreitor of the Revachol Citizens Militia from Precinct 41. At the start of the game he has destroyed his hotel room, lost his gun, his badge and his car, and remembers nothing, not even his own name. He was sent to Martinaise to investigate a hanging.",
       "spoiler": "The game slowly reveals that his life collapsed after his fiancée left him several years ago, and that he has been drinking himself toward death ever since. He was once considered an exceptional detective.",
-      "seeAlso": ["kim-kitsuragi", "rcm", "precinct-41", "yefreitor"]
+      "seeAlso": [
+        "kim-kitsuragi",
+        "rcm",
+        "precinct-41",
+        "yefreitor"
+      ]
     },
     {
+      "id": "kim-kitsuragi",
       "term": "Kim Kitsuragi",
-      "aliases": ["Kim", "Kitsuragi", "Lieutenant Kitsuragi"],
+      "aliases": [
+        "Kim",
+        "Kitsuragi",
+        "Lieutenant Kitsuragi"
+      ],
       "caseSensitive": true,
       "short": "Your partner on the case: a calm, methodical RCM lieutenant from Precinct 57.",
       "details": "Kim was assigned to work the hanging with you. He is precise, patient, keeps meticulous notes and treats you with dry professionalism even at your worst. He drives a Kineema motor carriage, which he loves. He is of Seolite descent, which some people in Martinaise are openly hostile about.",
-      "seeAlso": ["precinct-57", "kineema", "seol", "rcm"]
+      "seeAlso": [
+        "precinct-57",
+        "kineema",
+        "seol",
+        "rcm"
+      ]
     },
     {
       "id": "garte",
       "term": "Garte",
-      "aliases": ["Cafeteria Manager", "Garte the Cafeteria Manager"],
+      "aliases": [
+        "Cafeteria Manager",
+        "Garte, the Cafeteria Manager"
+      ],
       "caseSensitive": true,
       "short": "The manager of the Whirling-in-Rags. You owe him money for your room (and the damage).",
       "details": "Garte runs the hostel-cafeteria where you wake up. He is tired, sarcastic and mostly wants to be paid.",
-      "seeAlso": ["whirling-in-rags", "real"]
+      "seeAlso": [
+        "whirling-in-rags",
+        "real"
+      ]
     },
     {
       "id": "lena",
       "term": "Lena",
-      "aliases": ["Lena the Cryptozoologist's Wife", "Cryptozoologist's Wife"],
+      "aliases": [
+        "Lena, the Cryptozoologist's wife",
+        "Cryptozoologist's wife"
+      ],
       "caseSensitive": true,
       "short": "A kind, elderly woman at the Whirling-in-Rags, married to a cryptozoologist.",
       "details": "Lena loves to talk about cryptids, especially the legendary Insulindian Phasmid her husband is searching for. She is one of the gentlest people in Martinaise.",
-      "seeAlso": ["insulindian-phasmid", "cryptozoology", "whirling-in-rags"]
+      "seeAlso": [
+        "insulindian-phasmid",
+        "cryptozoology",
+        "whirling-in-rags"
+      ]
     },
     {
+      "id": "klaasje",
       "term": "Klaasje",
-      "aliases": ["Miss Oranje Disco Dancer"],
+      "aliases": [
+        "Klaasje Amandou",
+        "Miss Oranje Disco Dancer",
+        "Katarzine Alasije",
+        "Klaasje (Miss Oranje Disco Dancer)",
+        "Miss Oranje"
+      ],
       "caseSensitive": true,
       "short": "A charismatic woman staying on the Whirling's top floor, often smoking on her balcony.",
       "details": "Klaasje is witty, worldly and hard to read. Her balcony overlooks the yard where the body was found.",
       "spoiler": "She was with the victim on the night he died and has been hiding her part in events. She is not entirely who she claims to be.",
-      "seeAlso": ["whirling-in-rags", "oranje", "the-hanged-man"]
+      "seeAlso": [
+        "whirling-in-rags",
+        "oranje",
+        "the-hanged-man"
+      ]
     },
     {
+      "id": "titus-hardie",
       "term": "Titus Hardie",
-      "aliases": ["Titus"],
+      "aliases": [
+        "Titus"
+      ],
       "caseSensitive": true,
-      "short": "The leader of the Hardie Boys, a group of dockworkers who hang around the Whirling-in-Rags.",
-      "details": "Titus is a big, gruff union man who speaks for the Hardie Boys and is protective of his crew.",
-      "seeAlso": ["hardie-boys", "union"]
+      "short": "The leader of the Hardie boys, a crew of union dockworkers who drink at the Whirling-in-Rags.",
+      "details": "Titus is a big, gruff union man (his vest says he captains a rowing club) who speaks for the Hardie boys and is protective of his crew. He insists they act on their own: Evrart runs the Union, Titus runs the Hardie boys.",
+      "seeAlso": [
+        "hardie-boys",
+        "union"
+      ]
     },
     {
+      "id": "cuno",
       "term": "Cuno",
+      "aliases": [
+        "Cunn",
+        "Kuuno",
+        "Kuuno de Ruyter"
+      ],
       "caseSensitive": true,
       "short": "A foul-mouthed kid who throws rocks at the hanging body and talks about himself in the third person.",
       "details": "Cuno is a kid: aggressive and constantly swearing ('Cuno doesn't care'). He hangs around near the Whirling with his friend Cunoesse. Underneath the bluster he is a neglected child.",
-      "seeAlso": ["cunoesse", "pig"]
+      "seeAlso": [
+        "cunoesse",
+        "pig"
+      ]
     },
     {
+      "id": "cunoesse",
       "term": "Cunoesse",
       "caseSensitive": true,
       "short": "Cuno's friend and partner in crime: just as foul-mouthed.",
-      "seeAlso": ["cuno"]
+      "seeAlso": [
+        "cuno"
+      ]
     },
     {
+      "id": "evrart-claire",
       "term": "Evrart Claire",
-      "aliases": ["Evrart"],
+      "aliases": [
+        "Evrart"
+      ],
       "caseSensitive": true,
       "short": "The head of the Martinaise dockworkers' union. Enormous, friendly and very powerful.",
       "details": "Evrart effectively runs Martinaise from the harbour. He is warm, flattering and always talking about doing favours, which you will be expected to return. He is leading the strike against the Wild Pines company.",
-      "seeAlso": ["union", "harbour", "wild-pines", "strike"]
+      "seeAlso": [
+        "union",
+        "harbour",
+        "wild-pines",
+        "strike"
+      ]
     },
     {
+      "id": "joyce-messier",
       "term": "Joyce Messier",
-      "aliases": ["Joyce"],
+      "aliases": [
+        "Joyce",
+        "Joyce L. Messier",
+        "Rejoyce",
+        "Rejoyce Leyton",
+        "Rejoyce Leyton-Messier"
+      ],
       "caseSensitive": true,
       "short": "The negotiator sent by the Wild Pines company to deal with the dockworkers' strike.",
       "details": "Joyce is wealthy, sharp and surprisingly candid. She is one of the best people in the game to ask about Revachol's politics and history, how the city is governed and who holds power in Martinaise.",
-      "seeAlso": ["wild-pines", "strike", "mercenaries"]
+      "seeAlso": [
+        "wild-pines",
+        "strike",
+        "mercenaries"
+      ]
     },
     {
+      "id": "measurehead",
       "term": "Measurehead",
+      "aliases": [
+        "Jean-Luc Measurehead",
+        "Jean-Luc"
+      ],
       "caseSensitive": true,
-      "short": "A towering bouncer who lectures anyone who will listen on 'race theory'.",
-      "details": "Measurehead is a hulking man who explains the world through pseudo-scientific racial theories. The game presents his ideas as absurd and wrong, and lets you argue with him.",
+      "short": "A towering man who guards the harbour gate for the Union and lectures anyone who will listen on 'race theory'.",
+      "details": "Measurehead (first name Jean-Luc) is a hulking man who explains the world through pseudo-scientific racial theories. The game presents his ideas as absurd and wrong, and lets you argue with him.",
       "inspiredBy": "His name points at phrenology and craniometry: discredited 19th-century pseudosciences that 'measured heads' to justify racism.",
-      "seeAlso": ["fascism"]
+      "seeAlso": [
+        "fascism"
+      ]
     },
     {
       "id": "rene-arnoux",
       "term": "René Arnoux",
-      "aliases": ["René", "Rene Arnoux"],
+      "aliases": [
+        "René",
+        "Rene Arnoux"
+      ],
       "caseSensitive": true,
       "short": "An old veteran who plays pétanque. He fought for the royalists during the Revolution.",
       "details": "René is proud, grumpy and still loyal to the old monarchy that the communist revolution overthrew decades ago. He plays pétanque with his friend Gaston.",
-      "seeAlso": ["gaston-martin", "royalists", "revolution", "petanque"]
+      "seeAlso": [
+        "gaston-martin",
+        "royalists",
+        "revolution",
+        "petanque"
+      ]
     },
     {
+      "id": "gaston-martin",
       "term": "Gaston Martin",
-      "aliases": ["Gaston"],
+      "aliases": [
+        "Gaston"
+      ],
       "caseSensitive": true,
       "short": "René Arnoux's elderly friend and pétanque partner.",
-      "seeAlso": ["rene-arnoux", "petanque"]
+      "seeAlso": [
+        "rene-arnoux",
+        "petanque"
+      ]
     },
     {
+      "id": "jean-vicquemare",
       "term": "Jean Vicquemare",
-      "aliases": ["Jean"],
+      "aliases": [
+        "Jean",
+        "Vicquemare"
+      ],
       "caseSensitive": true,
       "short": "An officer from Harry's own Precinct 41 who has very little patience left for him.",
       "details": "Jean has worked with Harry for years and has seen the worst of him. He is bitter, blunt and tired of covering for his colleague.",
-      "seeAlso": ["precinct-41", "judit-minot"]
+      "seeAlso": [
+        "precinct-41",
+        "judit-minot"
+      ]
     },
     {
+      "id": "judit-minot",
       "term": "Judit Minot",
-      "aliases": ["Judit"],
+      "aliases": [
+        "Judit",
+        "Minot"
+      ],
       "caseSensitive": true,
-      "short": "An officer of Precinct 41 who works alongside Jean Vicquemare.",
-      "seeAlso": ["precinct-41", "jean-vicquemare"]
+      "short": "A patrol officer of Precinct 41 who works alongside Jean Vicquemare.",
+      "seeAlso": [
+        "precinct-41",
+        "jean-vicquemare"
+      ]
     },
     {
       "id": "dora",
       "term": "Dora",
+      "aliases": [
+        "Dora Ingerlund",
+        "Dora Du Bois"
+      ],
       "caseSensitive": true,
       "hideUntilSeen": true,
       "short": "A woman from Harry's past whom he cannot stop thinking about.",
       "spoiler": "Dora was Harry's fiancée. Her leaving him years ago is at the root of his collapse, and she haunts his dreams and thoughts throughout the game.",
-      "seeAlso": ["harry"]
+      "seeAlso": [
+        "harry"
+      ]
     },
     {
       "id": "ruby",
       "term": "Ruby",
-      "aliases": ["Ruby the Instigator"],
+      "aliases": [
+        "Ruby, the Instigator"
+      ],
       "caseSensitive": true,
       "hideUntilSeen": true,
-      "short": "A woman connected to the Hardie Boys who knows a lot about what happened.",
+      "short": "A woman connected to the Hardie boys who knows a lot about what happened.",
       "spoiler": "Ruby helped stage the hanging after the man was already dead. She is not the killer.",
-      "seeAlso": ["hardie-boys", "the-hanged-man"]
+      "seeAlso": [
+        "hardie-boys",
+        "the-hanged-man"
+      ]
     },
     {
       "id": "the-hanged-man",
       "term": "The Hanged Man",
-      "aliases": ["hanged man", "the corpse"],
+      "aliases": [
+        "hanged man",
+        "the corpse",
+        "Pretty Boy"
+      ],
       "short": "The murder victim: a man found hanging from a tree in the yard behind the Whirling-in-Rags.",
       "details": "Solving who he was and how he died is the main case of the game. He has been hanging there for days; the investigation should have started long before you woke up.",
       "spoiler": "He was a mercenary commander who arrived with the company's security force. He was already dead when he was hanged: someone shot him first.",
-      "seeAlso": ["lely", "hardie-boys", "whirling-in-rags", "mercenaries"]
+      "seeAlso": [
+        "lely",
+        "hardie-boys",
+        "whirling-in-rags",
+        "mercenaries"
+      ]
     },
     {
       "id": "lely",
       "term": "Lely",
+      "aliases": [
+        "Ellis Kortenaer"
+      ],
       "caseSensitive": true,
       "hideUntilSeen": true,
-      "short": "The name of the hanged man.",
+      "short": "The service name (nom de guerre) the hanged man went by.",
       "spoiler": "Lely was the commander of the mercenaries hired to protect the company's interests in the strike, and Klaasje's lover.",
-      "seeAlso": ["the-hanged-man", "mercenaries", "klaasje"]
+      "seeAlso": [
+        "the-hanged-man",
+        "mercenaries",
+        "klaasje"
+      ]
     },
     {
       "id": "iosef-dros",
       "term": "Iosef Lilianovich Dros",
-      "aliases": ["Dros", "the Deserter", "Iosef"],
+      "aliases": [
+        "Dros",
+        "the Deserter",
+        "Iosef",
+        "Lilianovich"
+      ],
       "caseSensitive": true,
       "hideUntilSeen": true,
       "short": "An old man you may meet very late in the case.",
       "spoiler": "Dros is the killer. He is a deserter from the communist army who has hidden alone on a ruined island fort since the Revolution was crushed, about fifty years ago. He shot Lely from the island out of envy and bitterness.",
-      "seeAlso": ["revolution", "commune", "the-hanged-man"]
+      "seeAlso": [
+        "revolution",
+        "commune",
+        "the-hanged-man"
+      ]
     },
     {
+      "id": "horrific-necktie",
       "term": "Horrific Necktie",
-      "aliases": ["necktie"],
+      "aliases": [
+        "necktie"
+      ],
+      "category": "Items",
       "caseSensitive": true,
       "short": "A hideous tie you can wear. It talks to you (through Inland Empire) and encourages bad decisions.",
-      "details": "The necktie is found in your room at the very start. If you put it on, it becomes a voice of its own: a party animal that cheers on your worst impulses.",
-      "seeAlso": ["inland-empire", "electrochemistry"]
+      "details": "You find it caught on the ceiling fan in your room at the very start. Once Inland Empire has brought it to life and you put it on, it becomes a voice of its own: a party animal that cheers on your worst impulses, especially drinking, smoking and drugs.",
+      "seeAlso": [
+        "inland-empire",
+        "electrochemistry"
+      ]
+    },
+    {
+      "id": "acele",
+      "term": "Acele",
+      "aliases": [
+        "Acele Berger"
+      ],
+      "caseSensitive": true,
+      "short": "A young sound experimenter kneeling on the frozen bay with a contact microphone; she belongs to a crew of speedfreaks who want to open a club in the old church.",
+      "details": "Acele Berger is usually the first of the group you meet, out on the ice near the church, listening to sounds under the water and ignoring the cold (and you). She is blunt and distracted, but she can tell you what she has seen in the church and what her friends are planning.\n\nHer crew is Andre, Noid and Egg Head. According to Evrart Claire, she is the daughter of a local tough known as Mico the Kebab.",
+      "seeAlso": [
+        "andre",
+        "church",
+        "evrart-claire"
+      ]
+    },
+    {
+      "id": "alain",
+      "term": "Alain",
+      "caseSensitive": true,
+      "commonWord": true,
+      "short": "A tattooed Hardie Boy who acts as Titus Hardie's right-hand man; openly hostile to cops and quick to reach for his holster.",
+      "details": "You meet him with the rest of the Hardie Boys at their table in the Whirling-in-Rags. He looks to be in his late thirties or early forties, possibly Mesque, and he is the least nervous of the gang when questioned, as if he has been through it many times before.",
+      "spoiler": "He survives the Tribunal shootout. Depending on how it ends, you may later find him back at the Whirling, drunk and broken.",
+      "seeAlso": [
+        "titus-hardie",
+        "hardie-boys",
+        "whirling-in-rags"
+      ]
+    },
+    {
+      "id": "alice",
+      "term": "Alice",
+      "aliases": [
+        "Alice DeMettrie",
+        "Alice de Mettrie",
+        "Officer Alice DeMettrie"
+      ],
+      "caseSensitive": true,
+      "commonWord": true,
+      "short": "The radio officer at Precinct 57 who answers when you use Kim's motor carriage radio; she can patch calls through and run checks for you.",
+      "details": "Alice handles dispatch for Kim's station. Through her you can report findings, have serial numbers checked against databases and get connected to outside numbers. She is noticeably friendlier with the lieutenant than with you.",
+      "seeAlso": [
+        "kim-kitsuragi",
+        "kineema",
+        "precinct-57"
+      ]
+    },
+    {
+      "id": "andre",
+      "term": "Andre",
+      "caseSensitive": true,
+      "commonWord": true,
+      "short": "The fast-talking leader of a young speedfreak crew camped on the ice by the old church, which they want to turn into a dance club.",
+      "details": "Andre bleaches the tips of his hair with a toothbrush and calls his group (Noid, Egg Head and Acele) 'music venue organizers'. He wants the police to deal with the 'spooky' people holed up in the church, so his crew can open the wildest club in Revachol there for their anodic dance music.",
+      "spoiler": "Their original plan to fund the club involved a speed lab inside the church; you can uncover it and talk them out of it.",
+      "seeAlso": [
+        "acele",
+        "church"
+      ]
+    },
+    {
+      "id": "annette",
+      "term": "Annette",
+      "caseSensitive": true,
+      "commonWord": true,
+      "short": "A cheerful little girl minding the book stands outside her mother's bookstore in the cold; she is a big fan of the detective Dick Mullen.",
+      "details": "Her mother Plaisance owns the shop, called 'Crime, Romance, and Biographies of Famous People', which also sells postcards and board games. Annette is friendly and a little cheeky, and at first she finds you a poor match for the fictional Dick Mullen.\n\nShe has also told her mother that their shop is cursed.",
+      "spoiler": "If you do some good police work around town, she may later give you a hat just like the one Dick Mullen wears.",
+      "seeAlso": [
+        "dick-mullen",
+        "doomed-commercial-area"
+      ]
+    },
+    {
+      "id": "annouk-meijer-smit",
+      "term": "Annouk Meijer-Smit",
+      "caseSensitive": true,
+      "hideUntilSeen": true,
+      "short": "A name that comes up late in your dealings with Klaasje, in connection with her passport.",
+      "spoiler": "Klaasje tells you her real passport is hidden in a plastic buoy in the reeds on the coast, made out in the name Annouk Meijer-Smit. When you find it, the name on it is a different one: she lied to you again, and Kim realises you never learned who she really is.",
+      "seeAlso": [
+        "klaasje",
+        "oranje"
+      ]
+    },
+    {
+      "id": "barry-the-butcher",
+      "term": "Barry the Butcher",
+      "caseSensitive": true,
+      "short": "A butcher stranded on the far side of the broken canal water lock, impatient for the repairs so he can get his meat to sell.",
+      "details": "You can see him waving from across the canal, in a yellow shirt and grey overalls. His friend on your side keeps him company by eating Barry's salami. He is not happy about the smashed billboard blocking the water lock, or with whoever knocked it down.",
+      "spoiler": "The billboard was knocked into the canal by a speeding motor carriage, and it is one you know very well.",
+      "seeAlso": [
+        "martinaise",
+        "coupris-40"
+      ]
+    },
+    {
+      "id": "beautiful-necktie",
+      "term": "Beautiful Necktie",
+      "caseSensitive": true,
+      "hideUntilSeen": true,
+      "short": "What your Horrific Necktie becomes in its final moments, when it speaks to you one last time.",
+      "spoiler": "During the Tribunal, if you light and throw the spirit bomb (a bottle with your tie inside), the burning tie talks to you in a gentler voice. It gives its real name, Joopson AS Men's Fashion model 'Colourful Tie', catalogue no. J327, remembers the day a sad man bought it, and says goodbye.",
+      "seeAlso": [
+        "horrific-necktie"
+      ]
+    },
+    {
+      "id": "billie-mejean",
+      "term": "Billie Méjean",
+      "aliases": [
+        "Billie",
+        "Méjeans"
+      ],
+      "caseSensitive": true,
+      "commonWord": true,
+      "short": "The name on a soggy Jamrock library card found on a dead man on the Martinaise boardwalk; tracing it is how you find out who he was.",
+      "details": "The card was issued by the Central Jamrock Public Library. Calling the library from Kim's motor carriage turns up a home address in Martinaise: apartment 20 of the Capeside Apartments.",
+      "spoiler": "Billie is a woman: the dead man's wife. Her husband, Victor Méjean, had been using her card. She lives with Victor and their two daughters, Jennie and Jolie, and she is also the 'working class woman' you can meet browsing the book stand on the plaza, insisting her husband isn't missing. You and Kim have to deliver the news of his death.",
+      "seeAlso": [
+        "victor-mejean",
+        "capeside-apartments",
+        "jamrock"
+      ]
+    },
+    {
+      "id": "birds-nest-roy",
+      "term": "Bird's Nest Roy",
+      "aliases": [
+        "Roy",
+        "Roy's Nest"
+      ],
+      "caseSensitive": true,
+      "commonWord": true,
+      "short": "The soft-spoken pawnbroker by the Martinaise canal; 'Bird's Nest Roy' is both his nickname and what people call his shop.",
+      "details": "You can pawn items here for cash, and the shop sells odds and ends such as boomboxes. Roy is enchanted by light shows and sound: long ago he was part of a group of young musicians who gave up music to record unusual noises, producing the 'Simfonia Col Do Ma Ma Daqua'.\n\nHe served in the Emergency Relief Brigade after the People's Pile disaster (a failed generator that leaked radioactive waste) and has taken Pyrholidon for radiation sickness ever since.",
+      "spoiler": "During your binge you pawned your own service pistol to Roy, and he has already sold it on to someone else.",
+      "seeAlso": [
+        "martinaise",
+        "harry"
+      ]
+    },
+    {
+      "id": "call-me-manana",
+      "term": "Call Me Mañana",
+      "aliases": [
+        "Mañana"
+      ],
+      "caseSensitive": true,
+      "short": "A jolly, laid-back union dockworker at the harbour gates whose name advertises his dislike of work; he can fill you in on the strike.",
+      "details": "Mañana is the first person you meet at the bottom of the harbour gates. He explains the strike and the 'scabs' trying to take the dockworkers' jobs, talks about the union boss, and has tips for dealing with Measurehead. Though the name sounds Mesque, he calls himself a 'Vacholiero' and lives by the ideals of the boiadeiro, a free cow herder of the northern Mesque steppes.\n\nEvrart Claire calls him the union's free agent for 'special operations' and may send you to him for a key. He is also friends with the Whirling's cook.",
+      "seeAlso": [
+        "union",
+        "evrart-claire",
+        "strike",
+        "scab",
+        "measurehead"
+      ]
+    },
+    {
+      "id": "catelyn-mijanou",
+      "term": "Catelyn Mijanou",
+      "aliases": [
+        "Mijanou",
+        "professor Mijanou"
+      ],
+      "caseSensitive": true,
+      "short": "A renowned geologist who, about 70 years ago, discovered the Cryobacter katlensis, a microscopic cryptid frozen in ancient ice.",
+      "details": "Lena tells the story: the bacteria had survived in the ice of Katla's Boreal Plateau since before recorded history. Mijanou injected herself with them, stopped ageing, grew eccentric and irritable, spoke a lot about the end of the world, and then vanished. Morell counts her among the few academics he respects.",
+      "seeAlso": [
+        "lena",
+        "cryptid",
+        "cryptozoology"
+      ]
+    },
+    {
+      "id": "chad-tillbrook",
+      "term": "Chad Tillbrook",
+      "aliases": [
+        "Tillbrook",
+        "Patrol Officer Tillbrook"
+      ],
+      "caseSensitive": true,
+      "short": "A junior patrol officer at Precinct 41 whom Esprit de Corps keeps showing you, going about honest everyday police work in Jamrock.",
+      "details": "In the visions he types up reports in the station's converted silk mill, refuses a bribe from a local hood, puts down a rabid dog in the Valley of Dogs, and listens patiently while a young man on Boogie Street asks whether his warts are cancer. In one of them he talks with his fellow officer Émile Mollins.",
+      "seeAlso": [
+        "precinct-41",
+        "esprit-de-corps",
+        "boogie-street"
+      ]
+    },
+    {
+      "id": "chester-mclaine",
+      "term": "Chester McLaine",
+      "aliases": [
+        "Satellite-Officer McLaine",
+        "McLaine"
+      ],
+      "caseSensitive": true,
+      "short": "A tall, lean, ginger-haired officer of Precinct 41 and Mack Torson's partner; he has a famous story about faking his own death.",
+      "details": "McLaine joins in the mockery when you radio the station, cracking jokes about your missing gun, badge and dignity. In Esprit de Corps visions he is often seen with Torson, telling the tale of tailing a man called 'Francis the Shoe'.",
+      "seeAlso": [
+        "precinct-41",
+        "mack-torson",
+        "jules-pidieu",
+        "esprit-de-corps"
+      ]
+    },
+    {
+      "id": "cindy-the-skull",
+      "term": "Cindy the SKULL",
+      "aliases": [
+        "Cindy"
+      ],
+      "caseSensitive": true,
+      "commonWord": true,
+      "short": "A sharp-tongued teenage graffiti artist from the SKULLS gang, waiting to paint a giant mural by the pier; she calls you 'pig' and refuses to snitch.",
+      "details": "Cindy is waiting for the right words for her mural and spends her time glaring at Joyce Messier on the boat nearby, which makes her a natural introduction to Joyce. She leans communist and has nothing but contempt for the police, though she can be coaxed into sharing some gossip about crime in Martinaise.\n\nThe SKULLS are a Revachol West street gang that seems half art movement; Cindy is fond of the kids who want to join. She also owns a paintbrush, handy if you want to paint a wall yourself.",
+      "seeAlso": [
+        "joyce-messier",
+        "pig",
+        "communism"
+      ]
+    },
+    {
+      "id": "claire-brothers",
+      "term": "Claire brothers",
+      "aliases": [
+        "Claires",
+        "the Claires",
+        "brothers Claire"
+      ],
+      "caseSensitive": true,
+      "short": "Evrart Claire and his twin brother Edgar, who together run the dockworkers' Union and, many say, all of Martinaise.",
+      "details": "Joyce Messier says the twins look and talk exactly alike (Edgar has a lazy eye), and that when one brother's term as foreman ends the other takes over. She calls them the most corrupt and nepotistic men she has dealt with, and suspects they had earlier union leaders assassinated. Kim believes nothing happens in Martinaise without the Claires knowing.\n\nThey grew up in Martinaise; Gaston Martin taught them history and human studies at school, alongside Easy Leo.",
+      "seeAlso": [
+        "evrart-claire",
+        "edgar-claire",
+        "union",
+        "gaston-martin"
+      ]
+    },
+    {
+      "id": "cleaning-lady",
+      "term": "Cleaning Lady",
+      "caseSensitive": true,
+      "short": "A coughing old woman who cleans the hallways of the apartment building by the pier; she knows every tenant and has opinions about all of them.",
+      "details": "She lets you into the building and lives in a tiny room upstairs next to the coal room. Ask her where someone lives and she will usually point the way, with a sour remark about the neighbours. She also asks you to look into an apartment that is supposed to be empty but clearly is not.",
+      "seeAlso": [
+        "martinaise",
+        "cunos-dad"
+      ]
+    },
+    {
+      "id": "cunos-dad",
+      "term": "Cuno's Dad",
+      "aliases": [
+        "Uuno de Ruyter"
+      ],
+      "caseSensitive": true,
+      "short": "Cuno's father, Uuno de Ruyter, whom Cuno brags is the most violent man in Revachol; he lives in the apartment building by the pier.",
+      "details": "To hear Cuno tell it, his dad is a raging monster on steroids and speed who does not care about anything. His apartment, number 12, has a chained door with an unpaid electricity bill pinned to it, and the cleaning lady would rather not talk about the family.",
+      "spoiler": "Inside you find not a monster but an ageing ginger alcoholic lying in a stupor on his bed, barely able to mumble insults at you.",
+      "seeAlso": [
+        "cleaning-lady",
+        "cuno"
+      ]
+    },
+    {
+      "id": "de-paule",
+      "term": "De Paule",
+      "aliases": [
+        "Phillis de Paule"
+      ],
+      "caseSensitive": true,
+      "short": "Phillis de Paule, one of the mercenaries in Martinaise and their radio operator; Joyce Messier can tell you about her.",
+      "details": "She is one of the hired soldiers looking after the company's side of the strike, and she keeps watch from somewhere out of sight, possibly one of the buildings overlooking the roundabout.",
+      "spoiler": "She turns up armoured at the Tribunal, cold and eager to kill, insisting she heard the Hardie Boys boast about killing her commander. She dies in the shootout.",
+      "seeAlso": [
+        "mercenaries",
+        "joyce-messier",
+        "wild-pines"
+      ]
+    },
+    {
+      "id": "dont-call-abigail",
+      "term": "Don't Call Abigail",
+      "caseSensitive": true,
+      "short": "A very drunk man in the fishing village who can only mumble about not calling Abigail; one of the self-styled Union of Moribund Alcoholics.",
+      "details": "He is unshaven, red-nosed and barely conscious, and whatever you ask, the answer comes back to Abigail, most likely a wife or girlfriend who is long gone. His drinking buddy Idiot Doom Spiral does most of the talking for the group.",
+      "spoiler": "He seems to recognise you, because you drank with this crowd during your binge.",
+      "seeAlso": [
+        "fishing-village"
+      ]
+    },
+    {
+      "id": "drysant",
+      "term": "Drysant",
+      "caseSensitive": true,
+      "short": "King Frissel's young cousin, a vain royal officer whose disastrous attack early in the Revolution nearly got René Arnoux killed.",
+      "details": "René still despises him. Drysant went into battle in purple velvet and cockatoo feathers with a gold-plated rifle, and marched his men single-file into partisan-held Couron while riding ahead on a red stallion. The rebels let them come close, then opened fire.\n\nBoth men survived: René crawled for two days with the badly wounded, jawless Drysant until cavalry found them, and Drysant had the king give René a medal for it.",
+      "seeAlso": [
+        "rene-arnoux",
+        "croix-de-bravoure",
+        "royalists",
+        "revolution"
+      ]
+    },
+    {
+      "id": "easy-leo",
+      "term": "Easy Leo",
+      "aliases": [
+        "Leonard Bellec",
+        "Leo"
+      ],
+      "caseSensitive": true,
+      "commonWord": true,
+      "short": "Leonard Bellec, a small, cheerful, endlessly talkative Union worker who repaints container covers in the harbour yard; he loves Evrart and gossip.",
+      "details": "Leo works in the container yard of the harbour near Evrart Claire's office, singing little songs to himself as he swaps the Wild Pines container covers for red Union ones. He is friendly, childlike and loyal, and he will talk about anyone and anything if you let him, often wandering off into stories about his school days.\n\nHe went to school with Evrart and his brother Edgar, and Gaston Martin was once his teacher. He admits his memory is poor and he leaves notes for himself. Because he says more than Evrart would like, he is a handy source of local information, for example about the Union's lawyer Elizabeth.",
+      "seeAlso": [
+        "evrart-claire",
+        "union",
+        "harbour",
+        "elizabeth",
+        "gaston-martin"
+      ]
+    },
+    {
+      "id": "echo-maker",
+      "term": "Echo Maker",
+      "caseSensitive": true,
+      "short": "The last member of Steban's underground communist reading group; he repeats and amplifies whatever Steban says, much to Steban's irritation.",
+      "details": "You find him with Steban, the Student Communist, in a disused part of the Capeside Apartments, where the two run a reading group that has expelled almost everyone else for lacking ideological fortitude. He is a hanger-on and a toady: he echoes Steban's opinions, adds pompous theory, recommends difficult books and gossips about former comrades.\n\nThe pair also play the fantasy game Wirrâl together, and he has strong opinions about it.",
+      "seeAlso": [
+        "communism",
+        "kras-mazov"
+      ]
+    },
+    {
+      "id": "edgar-claire",
+      "term": "Edgar Claire",
+      "aliases": [
+        "Edgar",
+        "Mr. Edgar"
+      ],
+      "caseSensitive": true,
+      "commonWord": true,
+      "short": "Evrart Claire's twin brother and fellow boss of the dockworkers' Union; he is away from Revachol on union business while you are in Martinaise.",
+      "details": "People say he looks and talks just like Evrart, apart from a lazy eye, and the twins take turns as the Union's foreman. Easy Leo calls him a very smart fellow, and Joyce Messier rates him as even more venal and nepotistic than his brother.",
+      "spoiler": "The old deserter on the island reveals that Edgar sought him out about twenty years ago, around the time the Claires came to power. Edgar studied at a university in East Revachol and can talk about the class struggle and quote Mazov. The deserter hints that the union leader of that time, Tiphaine Holly, who supposedly ran away, was in fact shot, but he refuses to testify against Edgar.",
+      "seeAlso": [
+        "evrart-claire",
+        "claire-brothers",
+        "union"
+      ]
+    },
+    {
+      "id": "egg-head",
+      "term": "Egg Head",
+      "aliases": [
+        "Germaine",
+        "Germaine Egg Head",
+        "Germaine Egg-Head",
+        "Germaine van der Wijk"
+      ],
+      "caseSensitive": true,
+      "short": "A peroxide-blond, wildly enthusiastic party boy in a group of young ravers camped by the old church; he shouts 'HARD CORE!' at everything.",
+      "details": "Egg Head is one of four young people (with Andre, Noid and Acele) camped on the ice next to the abandoned church, which they dream of turning into a club for 'anodic music', their brand of electronic dance music. He carries a tape player, wears big boiadeiro boots and fires off nonsense rhymes and slogans at full volume.\n\nHe calls himself 'just the party boy': he keeps the mood up while the others handle the technical work. Under the bravado he is sweet, naive and worried that their club will never happen.",
+      "inspiredBy": "H.P. Baxxter, frontman of the German techno group Scooter; Egg Head's shouts echo Scooter lyrics such as 'How much is the fish?'.",
+      "spoiler": "His papers give his full name as Germaine van der Wijk.",
+      "seeAlso": [
+        "boiadeiro",
+        "church"
+      ]
+    },
+    {
+      "id": "elizabeth",
+      "term": "Elizabeth",
+      "aliases": [
+        "Elizabeth Beaufort",
+        "Miss Beaufort",
+        "Lizzy",
+        "Lizzie",
+        "Liz",
+        "Miss Beaufort",
+        "Lizzy",
+        "Elizabeth",
+        "Lizzy Beaufort"
+      ],
+      "caseSensitive": true,
+      "commonWord": true,
+      "short": "Elizabeth Beaufort, the sharp, cold legal counsellor of the Dockworkers' Union; she sits in on your questioning of the Hardie Boys to protect them.",
+      "details": "Elizabeth grew up in Martinaise; Evrart Claire paid for her to study law, and she came back as the Union's lawyer and fixer. When you go to interview Titus Hardie in the Whirling-in-Rags, she takes charge of the room, reminds you the Union does not recognise your authority, and steps in whenever your questions get too close.\n\nShe has no patience for your drinking or your antics and gives you a sarcastic nickname based on your worst moments.",
+      "spoiler": "She is the same young woman you may have met earlier posing as a gardener by the Whirling-in-Rags; she was watching you. She can be killed in the shootout at the Tribunal.",
+      "seeAlso": [
+        "union",
+        "evrart-claire",
+        "titus-hardie",
+        "hardie-boys",
+        "easy-leo"
+      ]
+    },
+    {
+      "id": "emile-mollins",
+      "term": "Émile Mollins",
+      "aliases": [
+        "Mollins",
+        "Officer Mollins"
+      ],
+      "caseSensitive": true,
+      "short": "A Precinct 41 patrol officer and partner of Chad Tillbrook, glimpsed only in Esprit de Corps visions of cops elsewhere in the city.",
+      "details": "In these visions Mollins whispers to Tillbrook about Tequila Sunset losing his mind in Martinaise, deals with a man who won't believe his dog is dead, and is ambushed in Porta Rosa, an alley off Boogie Street, while reaching for a cigarette for a stranger.",
+      "spoiler": "Late in the case, Judit Minot mentions she had Tillbrook and Mollins take care of the funeral arrangements for a body found in Martinaise.",
+      "seeAlso": [
+        "precinct-41",
+        "esprit-de-corps",
+        "judit-minot"
+      ]
+    },
+    {
+      "id": "erno-pasternak",
+      "term": "Ernö Pasternak",
+      "aliases": [
+        "Pasternak"
+      ],
+      "caseSensitive": true,
+      "short": "The most famous false innocence in history: a despot fond of torture, hymns, cannons and world conquest, who was beaten by the regent of Kedra.",
+      "details": "Besides the true innocences, history has produced a number of counter- or false-innocences: rulers believed to have innocentic qualities, or who simply believed it of themselves. Pasternak was the most important of them. His dream of conquering the world ended in defeat and humiliation at the hands of Stepan the Despicable of Kedra, who conquered the known world in his place.\n\nHe features in the quiz book The Greatest Innocence.",
+      "seeAlso": [
+        "innocence",
+        "sola",
+        "dolores-dei"
+      ]
+    },
+    {
+      "id": "eugene",
+      "term": "Eugene",
+      "caseSensitive": true,
+      "commonWord": true,
+      "short": "The youngest of the Hardie Boys, a musician with a guitar pick on a cord around his neck; less brutish than the rest and quicker to think.",
+      "details": "Eugene sits with Titus Hardie's crew in the Whirling-in-Rags cafeteria. He is a young musician among the dockworkers, more thoughtful than most of his friends, and he tends to follow the logic of an argument even when Titus would rather he didn't.\n\nHis work boots are the same size as Glen's, which matters when you study the footprints in the yard.",
+      "spoiler": "He survives the Tribunal shootout. Afterwards, with most of his friends dead, he feels he has to stay and keep the Hardie Boys going.",
+      "seeAlso": [
+        "hardie-boys",
+        "titus-hardie",
+        "glen",
+        "fat-angus"
+      ]
+    },
+    {
+      "id": "exilus-bucher",
+      "term": "Exilus Bücher",
+      "aliases": [
+        "Exilus"
+      ],
+      "caseSensitive": true,
+      "short": "One of two bylines on an essay attacking the TipTop Tournée motor race, printed in the radical left-wing magazine La Fumée.",
+      "details": "The other byline is Nasteb Encalada-Bernal. Conceptualization doubts anyone is really called Exilus and suspects a pseudonym.",
+      "spoiler": "Both names are anagrams of the real authors: Steban and his comrade Ulixes, the student communists you can meet in the Capeside Apartments.",
+      "seeAlso": [
+        "nasteb-encalada-bernal"
+      ]
+    },
+    {
+      "id": "fat-angus",
+      "term": "Fat Angus",
+      "aliases": [
+        "Angus",
+        "Angie"
+      ],
+      "caseSensitive": true,
+      "commonWord": true,
+      "short": "A huge, wheezing, sweaty member of the Hardie Boys; his friends protect him, and he looks like the weakest link in their story.",
+      "details": "Angus sits among Titus Hardie's crew in the Whirling-in-Rags. He is very heavy, short of breath (he forgot his inhaler) and anxious under questioning, and the others, especially Titus, keep him out of the conversation. His friends call him Angie. His boots are size 46 and he leaves unusually deep footprints.",
+      "spoiler": "He is the one most likely to crack under pressure and let slip that the Hardie Boys' story about the hanging is not the whole truth; he also knows Ruby was building a 'pale emitter'. He dies in the Tribunal shootout.",
+      "seeAlso": [
+        "hardie-boys",
+        "titus-hardie",
+        "ruby",
+        "glen",
+        "eugene"
+      ]
+    },
+    {
+      "id": "father-jairzinho",
+      "term": "Father Jairzinho",
+      "aliases": [
+        "Jairzinho"
+      ],
+      "caseSensitive": true,
+      "short": "Measurehead's father, a welder whom he reveres as the only man truly worthy of being called a man.",
+      "details": "Measurehead says his stern, distant father made him hard where his mother made him soft. He talks about him while lecturing you on manhood, and won't hear a word against him.",
+      "seeAlso": [
+        "measurehead"
+      ]
+    },
+    {
+      "id": "frittte-clerk",
+      "term": "Frittte clerk",
+      "caseSensitive": true,
+      "short": "The bored fifteen-year-old girl behind the counter of the Martinaise Frittte, chewing gum over a celebrity magazine; 'don't fuck with Frittte'.",
+      "details": "She would rather read Pop-Stars than talk to you, but she will answer questions, slowly and vaguely. She runs the shop's tare machine (it pays money for empty bottles) and sells everything from raincoats to medicine.\n\nShe keeps repeating that you should not mess with Frittte. Ask why and she casually explains that the chain has its own private army, which is why nobody robs it, and that Frittte polices itself.",
+      "seeAlso": [
+        "frittte"
+      ]
+    },
+    {
+      "id": "fuck-the-world",
+      "term": "Fuck the World",
+      "caseSensitive": true,
+      "short": "One of two teenage wannabe gangsters loitering near Kim's motor carriage, named for the slogan on his jacket; his friend's jacket is ruder.",
+      "details": "He and his companion, named for an even cruder slogan, hang around the area near Kim's Kineema, eyeing the car and dreaming of joining the SKULLS, a gang of car thieves, and of being as cool as Cindy the SKULL. He spouts mock-nihilist philosophy about 'fucking the void' but panics the moment things get serious.\n\nWith the right approach you can talk the pair out of their slogan jackets and wear one yourself, which several characters will comment on.",
+      "seeAlso": [
+        "kineema",
+        "nihilism"
+      ]
+    },
+    {
+      "id": "gary",
+      "term": "Gary",
+      "aliases": [
+        "Gary, the Cryptofascist"
+      ],
+      "caseSensitive": true,
+      "commonWord": true,
+      "short": "Morell the cryptozoologist's assistant: a polite, shifty pie-delivery courier whose friendly chat soon turns into racist conspiracy theories.",
+      "details": "Morell and his wife Lena are staying at Gary's apartment near the Whirling. You find him out in the coastal reeds with Morell, soaked, cold and desperate to go home. He claims to be a 'special courier' but admits he delivers topping pies.\n\nThe game labels him a cryptofascist: he hides his politics behind excessive courtesy, but with little prompting he explains his theory of a secret Seolite plot to control the world, while nervously eyeing Kim.",
+      "spoiler": "The clicking sound under his clothes is the hanged man's missing armour, which Gary took and is wearing.",
+      "seeAlso": [
+        "lena",
+        "cryptozoology",
+        "seol",
+        "kim-kitsuragi",
+        "fascism"
+      ]
+    },
+    {
+      "id": "gertrude-het",
+      "term": "Gertrude Het",
+      "caseSensitive": true,
+      "short": "The heroine of a Martinaise ghost story: in the summer of '44, aged seventeen, she was the first to see the Headless FALN Rider by the canal.",
+      "details": "Idiot Doom Spiral tells the tale for the price of a bottle. Walking home from a late shift at the harbour, Gertrude stops for a cigarette by the canal and hears hooves behind her: a headless man in a FALN tracksuit on horseback, searching for the FALN cap he lost along with his head. Legend says she needed years of psychotherapy before she could look at a horse or a tracksuit again."
+    },
+    {
+      "id": "girard",
+      "term": "Girard",
+      "caseSensitive": true,
+      "short": "A stranger who picks up when you dial a random number from the boardwalk payphone; your detective can prank him mercilessly.",
+      "details": "He answers cheerfully, and a woman with a thick Samaran accent can be heard in the background. Your detective can be astonishingly rude to him, much to Authority's embarrassment."
+    },
+    {
+      "id": "glen",
+      "term": "Glen",
+      "aliases": [
+        "Glenny"
+      ],
+      "caseSensitive": true,
+      "commonWord": true,
+      "short": "A big, aggressive, muscular blond Hardie Boy; he is quick to insult and quicker to lose his temper.",
+      "details": "Glen sits with Titus Hardie's crew in the Whirling-in-Rags. He is muscular and loud, mocks you and Kim freely and flirts clumsily with the Union's lawyer Elizabeth.\n\nHis boot size, 44, is one of the clues when you study the footprints in the yard.",
+      "spoiler": "Glen can be killed in the shootout at the tribunal; Titus later mourns him as the best friend he ever had.",
+      "seeAlso": [
+        "eugene",
+        "fat-angus",
+        "hardie-boys",
+        "titus-hardie",
+        "whirling-in-rags"
+      ]
+    },
+    {
+      "id": "goracy-kubek",
+      "term": "Gorący Kubek",
+      "caseSensitive": true,
+      "short": "The Whirling-in-Rags cook, a man from Graad who speaks almost none of the local language; your detective assumes his name is Gorący Kubek.",
+      "details": "He smokes under the kitchen hood and cooks a big pot of borscht for the Union men, happy to pour in more vodka; he will ladle you a cup of the brew. He is friends with Mañana from the harbour gates.\n\nThe only words you catch from him are 'gorący' and 'kubek', so your Logic skill first takes them for his name, then begs you never to use it. Kim calls him a Kojko, a nickname for people from Graad.",
+      "inspiredBy": "'Gorący kubek' is Polish for 'hot mug' (also a well-known instant soup in Poland); his few understandable words, like 'barszcz' and 'wódka', are Polish.",
+      "seeAlso": [
+        "whirling-in-rags",
+        "graad",
+        "garte"
+      ]
+    },
+    {
+      "id": "horse-faced-woman",
+      "term": "Horse-Faced Woman",
+      "caseSensitive": true,
+      "short": "A sad-eyed uniformed patrol officer who turns up at the Whirling-in-Rags with a man in sunglasses; she clearly knows you, though you do not know her.",
+      "details": "She is uncomfortable around you and her stern companion, calls you Harry without explanation and mostly wants you to finish the investigation so everyone can go home. Your detective gives her this unkind nickname himself, and insulting her to her face is a reliable way to make things worse.",
+      "spoiler": "She is Judit Minot, an officer of Harry's own Precinct 41 assigned to his unit two months earlier; the man with sunglasses is Jean Vicquemare. She tells you her real name at the end of the case.",
+      "seeAlso": [
+        "rcm",
+        "whirling-in-rags"
+      ]
+    },
+    {
+      "id": "idiot-doom-spiral",
+      "term": "Idiot Doom Spiral",
+      "aliases": [
+        "Doom Spiral"
+      ],
+      "caseSensitive": true,
+      "short": "A thirty-something ex-businessman in a filthy tracksuit who drinks on the shore of the Fishing Village and calls you 'Tequila'.",
+      "details": "He used to be, he says, a moderately-high-net-worth hustler in marketing, until he lost his keys one rainy night and ended up homeless on the beach with his drinking buddies. He still talks like a salesman, about 'high-concept' ideas and 'the reality situation', and he would love a business opportunity.\n\nHe is a gifted storyteller, especially of the Headless FALN Rider legend, and he has lost his jacket, which you can help him find.",
+      "spoiler": "He saw you arrive in Martinaise during your binge, introducing yourself as 'Tequila Sunset', and watched you drive your motor carriage off the jetty and through the ice.",
+      "seeAlso": [
+        "filthy-jacket",
+        "fishing-village",
+        "harry",
+        "headless-faln-rider",
+        "horseback-monument",
+        "ultraliberalism"
+      ]
+    },
+    {
+      "id": "jeanne-marie-beaulieu",
+      "term": "Jeanne-Marie Beaulieu",
+      "aliases": [
+        "Jeannie",
+        "Jeanne-Marie"
+      ],
+      "caseSensitive": true,
+      "commonWord": true,
+      "short": "The woman René Arnoux and Gaston Martin both loved for most of their lives; Gaston calls her 'sweet Jeannie'.",
+      "details": "She appears in an old photo of the three friends at a parade some sixty years ago. Gaston says she was the finest woman in all of Revachol and the only one besides him who could stand René.\n\nShe kept leaving one man for the other but never stayed long enough to marry either. She died peacefully of pneumonia two winters ago, at 79, and René still bristles when Gaston talks about her.",
+      "seeAlso": [
+        "rene-arnoux",
+        "gaston-martin"
+      ]
+    },
+    {
+      "id": "joao-paolo-salomao-lopez-de-fuego",
+      "term": "João Paolo Salomao Lopez de Fuego",
+      "aliases": [
+        "Lopez de Fuego"
+      ],
+      "caseSensitive": true,
+      "short": "The author of 'The Greatest Innocence', a huge, heavy history book about the innocences sold at the Martinaise bookstore.",
+      "details": "The bookseller recommends his book as an important look at history, religion and 'innocentic power'. Having read it, you can summarise his argument for the student communists in the apartment building.",
+      "spoiler": "The book argues that Dolores Dei was the greatest innocence of all.",
+      "seeAlso": [
+        "innocence",
+        "dolores-dei"
+      ]
+    },
+    {
+      "id": "joseph-mills",
+      "term": "Joseph Mills",
+      "caseSensitive": true,
+      "short": "A late RCM officer from the cases in your ledger; he couldn't solve the 'Murder at the Hookah Parlour', so the case was handed to you.",
+      "details": "Your damaged ledger recalls that Mills worked the hookah parlour case alone for weeks and called it the toughest case he had ever had, until the captain lost patience. He later died in unrelated circumstances: beaten to death by Villalobos gang members while answering a call with his partner. The ledger's verdict is blunt: he was not a good detective.",
+      "seeAlso": [
+        "rcm"
+      ]
+    },
+    {
+      "id": "jules-pidieu",
+      "term": "Jules Pidieu",
+      "aliases": [
+        "Oldboy",
+        "Communications Officer Jules Pidieu"
+      ],
+      "caseSensitive": true,
+      "short": "Precinct 41's radio operator, nicknamed 'Oldboy'; he answers when you call your home station from the radio in Kim's motor carriage.",
+      "details": "Jules works the relay booth at the 41st Precinct, a job he inherited from his late brother, known as 'Cardiac' Pidieu. He talks in radio codes ('10-4', 'Over') and tries hard to stay professional.\n\nCalling in about your lost gun and badge draws a crowd of your colleagues around his desk, and he ends up relaying their jokes and insults to you. Underneath it all he is quietly decent: he may offer to sit on his report for a few days.",
+      "seeAlso": [
+        "precinct-41",
+        "kineema",
+        "mack-torson",
+        "chester-mclaine"
+      ]
+    },
+    {
+      "id": "keith-and-guy-joost",
+      "term": "Keith and Guy Joost",
+      "caseSensitive": true,
+      "short": "Twin curators at the Wompty-Dompty-Dom Centre, an art venue in Vredefort, Oranje; Trant Heidelstam drops their names as if everyone knows them.",
+      "details": "Trant mentions them while recalling an exhibition he consulted on ten years ago, when Paul Ockermann was head curator and before the twins joined the team. Even Encyclopedia has no idea who they are.",
+      "seeAlso": [
+        "oranje"
+      ]
+    },
+    {
+      "id": "kortenaer",
+      "term": "Kortenaer",
+      "aliases": [
+        "Korty",
+        "Raul Kortenaer",
+        "Sergeant Major Raul Kortenaer"
+      ],
+      "caseSensitive": true,
+      "hideUntilSeen": true,
+      "short": "A hot-tempered Krenel mercenary nicknamed 'Korty', one of the three company mercenaries that Joyce Messier says arrived in Martinaise.",
+      "details": "Joyce describes Korty as the unit's gunner, working alongside the radio operator Phillis de Paule; the mercenaries come from Krenel, an Oranjese military company, and report to her only sporadically. He boasts of being a veteran officer with more than fifteen years of combat behind him.",
+      "spoiler": "He is the huge, ill-disguised 'scab leader' preaching the Right to Work at the harbour gates. The hanged man was his commander; the two grew up together on the same farm. Drunk and grieving, he leads an armed mercenary 'tribunal' outside the Whirling-in-Rags to avenge him.",
+      "seeAlso": [
+        "hardie-boys",
+        "joyce-messier",
+        "krenel",
+        "lely",
+        "mercenaries",
+        "the-hanged-man"
+      ]
+    },
+    {
+      "id": "lamby",
+      "term": "Lamby",
+      "caseSensitive": true,
+      "short": "Little Lily's stuffed lamb in the Fishing Village: tattered, missing an eye button, and her best friend.",
+      "details": "Lily holds Lamby up to meet you, presses him to your cheek and covers his ears when grown-ups swear. She claims Lamby has lived a long life and was once a 'revolutionary', if she can get the word out.",
+      "seeAlso": [
+        "fishing-village"
+      ]
+    },
+    {
+      "id": "lilienne",
+      "term": "Lilienne",
+      "aliases": [
+        "Lilienne, the Net Picker",
+        "Lilienne Carter",
+        "Net Picker",
+        "Mademoiselle Lilienne"
+      ],
+      "caseSensitive": true,
+      "short": "A sharp-tongued, independent woman in the fishing village who picks fish from the nets, carries a sword and raises three children.",
+      "details": "Lilienne grew up by the sea and works on the village's fishing nets. She is dry, teasing and hard to impress, and her politics lean towards a rough Revacholian patriotism. Her three 'monsters' are a pair of twin boys and a little girl, Little Lily.\n\nEvrart Claire needs her signature, and that of Isobel the old washerwoman, for a construction project in the village, so she is one of the people you may be sent to ask. If you hit it off, she may invite you to walk out to Land's End with her.",
+      "spoiler": "At Land's End she shares her thoughts about the sun as a power that favours everyone, and she may give you her sabre.",
+      "seeAlso": [
+        "fishing-village",
+        "little-lily",
+        "lilienne-s-twins",
+        "evrart-claire"
+      ]
+    },
+    {
+      "id": "lilienne-s-twins",
+      "term": "Lilienne's Twins",
+      "aliases": [
+        "Lilienne's Twin",
+        "Lilienne's Other Twin",
+        "Netpicker's Twins"
+      ],
+      "caseSensitive": true,
+      "short": "Lilienne's young twin boys, who play outside in the fishing village kicking stones and answer questions in confusing half-sentences.",
+      "details": "The scruffy boys are Little Lily's older brothers. They chatter about the island out in the bay (an old seafort you can reach by raft) and about lights and fires there, and admit they got into trouble for repeating bad words they heard as voices 'in their head'.",
+      "spoiler": "Their talk about someone who stays on the island, and about the strange voices, are early hints at secrets you uncover later.",
+      "seeAlso": [
+        "lilienne",
+        "little-lily",
+        "fishing-village"
+      ]
+    },
+    {
+      "id": "little-lily",
+      "term": "Little Lily",
+      "caseSensitive": true,
+      "short": "Lilienne's youngest child, a girl of about four or five who sits by the fire in the family's house in the fishing village, cuddling her toy lamb.",
+      "details": "Lily is cheerful and chatty, adores her mother and carries a battered stuffed lamb called Lamby, which she insists was a 'revolutionary'. She has trouble saying her l's and r's and gets upset if you swear. A stuffed grouse hangs from the ceiling of the house, and she might let you have it.",
+      "spoiler": "She found a pair of heavy armoured gloves in an empty house while playing hide-and-seek and buried them in her sandcastle behind the house. She can tell you where to dig them up.",
+      "seeAlso": [
+        "lilienne",
+        "lilienne-s-twins",
+        "fishing-village",
+        "garte"
+      ]
+    },
+    {
+      "id": "mack-torson",
+      "term": "Mack Torson",
+      "aliases": [
+        "Sergeant Mack Torson",
+        "Sergeant Torson",
+        "Torson"
+      ],
+      "caseSensitive": true,
+      "short": "A loud, crude sergeant at Precinct 41, nicknamed 'The Torso'; he leads the laughter when you call the station about your lost gun and badge.",
+      "details": "Torson is a muscular, bald officer who dresses in jeans and leather and is always paired with his partner, Satellite-Officer Chester McLaine. He mostly turns up in Esprit de Corps visions of the station, swapping dirty stories and jokes about you and your colleagues.\n\nJudit Minot considers Torson and McLaine unfit to run a wing of the station on their own.",
+      "seeAlso": [
+        "precinct-41",
+        "chester-mclaine",
+        "jules-pidieu",
+        "esprit-de-corps"
+      ]
+    },
+    {
+      "id": "man-on-water-lock",
+      "term": "Man on water lock",
+      "caseSensitive": true,
+      "short": "A burly man by the canal water lock, slicing salami while his friend Barry the Butcher is stranded on the other side.",
+      "details": "A huge billboard has fallen into the canal and jammed the water lock, which cuts off the rest of the coast (the fishing village, an old fish market and a strange church) until it is fixed. He tells you a canal crew will restart it on Wednesday morning at 07:15 and invites you to work the controls when the time comes.",
+      "seeAlso": [
+        "fishing-village",
+        "church",
+        "morell"
+      ]
+    },
+    {
+      "id": "man-with-sunglasses",
+      "term": "Man with Sunglasses",
+      "caseSensitive": true,
+      "short": "A sarcastic blond man in sunglasses who sits in the Whirling-in-Rags cafeteria with a woman; he seems to know you and is furious about it.",
+      "details": "He wears his sunglasses indoors, calls you 'superstar' and mocks your drinking and your police work, but keeps telling you to go and solve the hanging. He proposes odd 'thought experiments' about a hypothetical station and partnership, and gets visibly hurt when they go nowhere.",
+      "spoiler": "He is Jean Vicquemare, your own partner from Precinct 41, in a blond wig and sunglasses, keeping an eye on you; the woman with him is Judit Minot. You don't recognise either of them.",
+      "seeAlso": [
+        "whirling-in-rags",
+        "jean-vicquemare",
+        "judit-minot",
+        "precinct-41"
+      ]
+    },
+    {
+      "id": "marielle-charpentier",
+      "term": "Marielle Charpentier",
+      "aliases": [
+        "Real Estate Agent"
+      ],
+      "caseSensitive": true,
+      "short": "A brisk, harried agent from Martinaise Realty Associates whom you can meet at night in the apartment building, cleaning up a trashed flat.",
+      "details": "She is getting an apartment ready for a new lease after its tenant ran off owing three months' rent. To make matters worse, someone left the neighbouring door open and there is now a hole in the wall, so both flats are unrentable.\n\nShe insists Martinaise has a bright future of artists and radiocomputer wizards, shows you her papers to prove she isn't breaking in, and clearly wants to get back to La Delta as soon as possible.",
+      "seeAlso": [
+        "martinaise"
+      ]
+    },
+    {
+      "id": "measurehead-s-babe",
+      "term": "Measurehead's Babe",
+      "aliases": [
+        "Measurehead's Babes"
+      ],
+      "caseSensitive": true,
+      "short": "One of the three admiring young women who hang around Measurehead at the harbour gates, chiming in to praise him.",
+      "details": "You cannot talk to her directly, but she adds her own comments during conversations with Measurehead, swooning over his speeches, agreeing with his race theories and occasionally asking him to go easier on you.",
+      "seeAlso": [
+        "measurehead",
+        "harbour"
+      ]
+    },
+    {
+      "id": "mega-rich-light-bending-guy",
+      "term": "Mega Rich Light-Bending Guy",
+      "aliases": [
+        "Mr. Diodore",
+        "Roustame Diodore"
+      ],
+      "caseSensitive": true,
+      "hideUntilSeen": true,
+      "short": "A staggeringly rich investor hiding inside a shipping container in the harbour's container yard; his wealth literally bends the light around him.",
+      "details": "He introduces himself as Roustame Diodore, an investor and 'extremely high-net-worth individual' who inherited his fortune and travels in the container to avoid crowds and advertising. You can't make out his features, because the light swims around him; Encyclopedia blames the extreme wealth gap between you.\n\nHe is friendly in a breezy ultraliberal way, lectures on markets and modernism, and listens to investment pitches. If you have ideas, he may stake you a little seed money.",
+      "spoiler": "Evrart Claire laughs off the idea of light-bending millionaires in his containers, and Kim insists the man bent no light at all: that part was in your head.",
+      "seeAlso": [
+        "harbour",
+        "real",
+        "rehm",
+        "ultraliberalism"
+      ]
+    },
+    {
+      "id": "mico-the-kebab",
+      "term": "Mico the Kebab",
+      "caseSensitive": true,
+      "short": "A man Evrart Claire mentions, supposedly famous for once killing a man with a kebab.",
+      "details": "Moments after naming him, Evrart can't remember whether the man was actually called Mico, Bogowir, Jakub or Konrad.",
+      "spoiler": "Evrart brings him up to vouch for Acele, one of the young people at the church, who he says is Mico's daughter and therefore tough enough to run a nightclub.",
+      "seeAlso": [
+        "evrart-claire",
+        "church"
+      ]
+    },
+    {
+      "id": "mikael-heidelstam",
+      "term": "Mikael Heidelstam",
+      "aliases": [
+        "Mikael"
+      ],
+      "caseSensitive": true,
+      "short": "Trant Heidelstam's shy little son, who clutches a würm-themed colouring book and would rather climb ladders than hear about history.",
+      "details": "He hides behind his father's coat on the boardwalk, begs to climb the ladder next to the mural, and cheerfully reveals that his dad spends four hours every evening fighting with sticks in a special room, wearing a special costume.",
+      "seeAlso": [
+        "trant-heidelstam"
+      ]
+    },
+    {
+      "id": "moneyman",
+      "term": "Moneyman",
+      "caseSensitive": true,
+      "short": "A background figure on the Whirling-in-Rags' upper floor who keeps muttering investment platitudes about money.",
+      "details": "You can't hold a conversation with him; as you pass, he offers lines like 'You gotta spend money to make money' and 'Money is actually all about trust'.",
+      "seeAlso": [
+        "whirling-in-rags",
+        "ultraliberalism"
+      ]
+    },
+    {
+      "id": "morell",
+      "term": "Morell",
+      "aliases": [
+        "Morell, the Cryptozoologist",
+        "Poor Morell"
+      ],
+      "caseSensitive": true,
+      "short": "Lena's husband, a passionate cryptozoologist hunting the Insulindian Phasmid in the reeds on the coast west of Martinaise.",
+      "details": "Morell came from Jamrock with his wife Lena and his assistant Gary after a credible-sounding sighting of the phasmid by some teenagers. He has set locust-baited traps, cleverly designed by Lena, in the reeds along the coast. Since the broken water lock cut off the coast, he has been camped out there for days, and Lena is worried.\n\nHe is touchy about mainstream scientists who refuse to take cryptozoology seriously, and insists he is a dispassionate scientist, not an adventurer.",
+      "spoiler": "The 'sighting' that brought him to Martinaise may have a much more ordinary explanation than a cryptid.",
+      "seeAlso": [
+        "lena",
+        "insulindian-phasmid",
+        "cryptozoology",
+        "phasmid-trap",
+        "man-on-water-lock"
+      ]
+    },
+    {
+      "id": "mysterious-pair-of-eyes",
+      "term": "Mysterious Pair of Eyes",
+      "caseSensitive": true,
+      "short": "Intense blue eyes peering at you through a gap in the harbour gates, belonging to a mocking voice that seems to have watched everything you have done.",
+      "details": "The voice behind the gates insults you as a 'piggy' and a 'copper', lists your embarrassing or violent acts around Martinaise, and insists the eyes of Martinaise are always watching. He refuses to say who he is and denies being a lookout for anyone.",
+      "seeAlso": [
+        "harbour",
+        "pig"
+      ]
+    },
+    {
+      "id": "nasteb-encalada-bernal",
+      "term": "Nasteb Encalada-Bernal",
+      "aliases": [
+        "Nasteb"
+      ],
+      "caseSensitive": true,
+      "short": "One of two bylines on an essay attacking the TipTop Tournée motor race, printed in the radical left-wing magazine La Fumée.",
+      "details": "The other byline is Exilus Bücher. Both names look suspiciously like pseudonyms.",
+      "spoiler": "'Nasteb' is an anagram of Steban, the student communist who runs a secret reading group in the Capeside Apartments.",
+      "seeAlso": [
+        "exilus-bucher"
+      ]
+    },
+    {
+      "id": "nix-gottlieb",
+      "term": "Nix Gottlieb",
+      "aliases": [
+        "Dr. Gottlieb",
+        "Dr. Nix Gottlieb",
+        "Gottlieb",
+        "Nix Fucklieb"
+      ],
+      "caseSensitive": true,
+      "short": "Precinct 41's station medic and surgeon; you can phone him from Kim's motor carriage, though his bedside manner is brutal.",
+      "details": "Gottlieb runs the station's lazareth (infirmary) and makeshift morgue. If you call him about your symptoms, he diagnoses you with weary contempt, then tells you to stop drinking and take magnesium and vitamin D.\n\nStation gossip says he once removed an officer's appendix in the middle of a party while reeking of schnapps, did a fine job, and had no memory of it afterwards.",
+      "spoiler": "Late in the game, after Harry is badly wounded, Gottlieb operates on him in his room while he sleeps. Cuno, who sticks around at Harry's bedside, remembers the doctor as 'Nix Fucklieb'.",
+      "seeAlso": [
+        "esprit-de-corps",
+        "kineema",
+        "precinct-41",
+        "ptolemy-pryce"
+      ]
+    },
+    {
+      "id": "noid",
+      "term": "Noid",
+      "caseSensitive": true,
+      "short": "A jittery young speedfreak and tinkerer from Faubourg, part of Andre's group of ravers trying to set up a club in the old church.",
+      "details": "Noid spends his time hunched over a toolbox, sorting screws and admiring the church's carpentry. He won't talk properly until he has 'got a reading on your sine', and then holds forth on the 'hard core' philosophy: beats, bright lights, suspicion of nearly everything, and deep distrust of left-right politics and its 'pig/wheat paradigm'.\n\nIf you wear the Horrific Necktie, he is very impressed by it.",
+      "spoiler": "With a suitable transceiver and his tinkering, you can attempt to contact the Coalition warship Archer.",
+      "seeAlso": [
+        "church",
+        "horrific-necktie"
+      ]
+    },
+    {
+      "id": "novelty-dicemaker",
+      "term": "Novelty Dicemaker",
+      "aliases": [
+        "Neha",
+        "dicemaker"
+      ],
+      "caseSensitive": true,
+      "short": "Neha, a bird-like jeweller and repair expert in the Doomed Commercial Area who makes custom dice for role-playing games.",
+      "details": "Sitting among her tools and precious stones, Neha will design a die for any role-playing system or idea you describe, for a few réal, ready in eight hours. She makes only one per customer.\n\nShe knows the sad history of the building's many failed businesses (a radio game studio, an ice cream parlour, an atelier, a ski company) and is curious whether you believe the place is cursed. She also hands you a pair of lucky dice as a gift.",
+      "seeAlso": [
+        "doomed-commercial-area",
+        "plaisance"
+      ]
+    },
+    {
+      "id": "olari-taal",
+      "term": "Õlari Taal",
+      "caseSensitive": true,
+      "short": "The junior researcher who invented eternite at the Värtna Polytechnic Institute some thirty years ago. He thought it would last forever.",
+      "details": "That belief gave the material its name. According to Encyclopedia, the only lasting thing about eternite turned out to be its power to cause cancer.",
+      "seeAlso": [
+        "eternite",
+        "vartna-polytechnic-institute"
+      ]
+    },
+    {
+      "id": "paledriver",
+      "term": "Paledriver",
+      "caseSensitive": true,
+      "short": "An elderly long-haul lorry driver stuck in the traffic jam; years of crossing the pale have left her lost in dreams and other people's memories.",
+      "details": "She calls herself one of the best camionneurs around, driving pale routes no one else will take, with her lorry carried in the hold of an airship. She leans on the railing listening to her radio, clutching a photo of the old Mesque film star Gabriel Buenguerro, and drifts back to the golden age of Mesque cinema and memories she knows are not her own.\n\nShe calls you 'lawman' or 'xerife' and is equal parts dreamy and scornful. Talking to her is a good way to learn how the pale affects the mind.",
+      "seeAlso": [
+        "pale",
+        "western-plain",
+        "lorryman",
+        "aerostatic"
+      ]
+    },
+    {
+      "id": "paul-ockermann",
+      "term": "Paul Ockermann",
+      "caseSensitive": true,
+      "short": "The former head curator of the Wompty-Dompty-Dom Centre for Contemporary Arts in Vredefort, Oranje; Trant Heidelstam drops his name.",
+      "details": "Trant mentions him while recalling an exhibition he consulted on about ten years ago, which drew on 'Lagerman's notion of memory'. The name means nothing to you.",
+      "seeAlso": [
+        "oranje"
+      ]
+    },
+    {
+      "id": "pissf-t",
+      "term": "Pissf****t",
+      "caseSensitive": true,
+      "short": "A blond would-be gangster loitering by Kim's motor carriage with his friend 'Fuck the World', named after the word painted on his jacket.",
+      "details": "He and his friend admire the Kineema, dream of joining the SKULLS (which they call the most vicious gang of the Besmertnyé) and worship a girl called Cindy the SKULL. He has a lofty nihilist explanation for the slur on his back, but crumbles at the first sign of real confrontation.\n\nWith enough pressure you can make him hand over his jacket, which you can then wear.",
+      "seeAlso": [
+        "kineema",
+        "kim-kitsuragi"
+      ]
+    },
+    {
+      "id": "plaisance",
+      "term": "Plaisance",
+      "caseSensitive": true,
+      "short": "The anxious, superstitious owner of the bookstore 'Crime, Romance, and Biographies of Famous People' in the Doomed Commercial Area.",
+      "details": "Plaisance wears a moss-green outfit and little gold spectacles and keeps fiddling with her pendant. She insists her shop has wonderful 'magnetic' energy and denies the rumoured curse on the building, yet talks of spirits and wards and becomes frantic if you go near the curtained back room.\n\nShe sells novels, maps, board games and esoteric books, and dislikes many of the titles she stocks. Her daughter Annette stands outside on the plaza selling books for her.",
+      "seeAlso": [
+        "doomed-commercial-area",
+        "man-from-hjelmdall",
+        "medicinal-purposes-of-the-pale",
+        "novelty-dicemaker"
+      ]
+    },
+    {
+      "id": "president-knezhinisky",
+      "term": "President Knezhinisky",
+      "aliases": ["Knezhinisky", "Sapormat 'Sport' Knezhinisky", "Uncle Sport"],
+      "caseSensitive": true,
+      "short": "Sapormat 'Sport' Knezhinisky, long-ruling president of the communist People's Republic of Samara, famous for his fitness obsession.",
+      "details": "Encyclopedia says he is well into his third decade in power and known abroad for three things: brutal repression of dissent, monumental corruption and a near-pathological obsession with physical fitness. Like all Samaran men over forty, he wears a spectacular walrus moustache.\n\nThe magazine La Fumée reports that 'Uncle Sport', as his people call him, has made bear wrestling the national sport as part of a public fitness drive. Steban and his reading group insist he absorbs a book's content just by staring at its cover.",
+      "seeAlso": [
+        "people-s-republic-of-samara",
+        "communism"
+      ]
+    },
+    {
+      "id": "ptolemy-pryce",
+      "term": "Ptolemy Pryce",
+      "aliases": [
+        "Captain Pryce",
+        "Captain Ptolemy Pryce",
+        "Pryce",
+        "Ptolemaios Pryce"
+      ],
+      "caseSensitive": true,
+      "short": "The captain of Precinct 41, Harry's home station: one of the most respected men in the RCM, glimpsed only through Esprit de Corps visions.",
+      "details": "Esprit de Corps shows him as a bald, bespectacled man of 58 who keeps the station's ledger by the light of a green desk lamp and rides home on a piebald horse. Kim says everyone respects the 41st because it has Captain Pryce, and Judit Minot explains that he is the son of the old Pryce, one of the founders of the RCM.\n\nJean Vicquemare has had to explain Harry's behaviour to him more than once.",
+      "spoiler": "Jean Vicquemare complains that he has had to explain Harry's behaviour to Pryce more than once. In the closing scene, Pryce tells the precinct medic Nix Gottlieb that Harry is 'our man' and will pull through.",
+      "seeAlso": [
+        "esprit-de-corps",
+        "jean-vicquemare",
+        "judit-minot",
+        "nix-gottlieb",
+        "precinct-41",
+        "rcm"
+      ]
+    },
+    {
+      "id": "racist-lorry-driver",
+      "term": "Racist lorry driver",
+      "short": "A lorry driver stuck in the traffic jam near the harbour, waiting on a load of apples; he greets newcomers with 'Welcome to Revachol!' and has ugly views on race.",
+      "details": "He calls himself a camionneur, a father of three and a Revacholian patriot, and boasts of an ancient, privileged guild of lorrymen. Given an audience, he lectures on 'race theory' and the supposed superiority of Occidentals, and he is openly hostile to Kim.\n\nHe complains that cargo is being looted from the stranded lorries at night and points the finger at Siileng, the street vendor down by the canal.",
+      "seeAlso": [
+        "siileng",
+        "kim-kitsuragi",
+        "fascism",
+        "strike"
+      ]
+    },
+    {
+      "id": "raphael-ambrosius-costeau",
+      "term": "Raphaël Ambrosius Costeau",
+      "aliases": [
+        "Raphaël A. Costeau",
+        "Mr. Costeau",
+        "Raphael Costeau"
+      ],
+      "caseSensitive": true,
+      "short": "A grand fake name that Conceptualization can invent for you when Kim first asks who you are. You can keep using it around Martinaise.",
+      "details": "Having forgotten your real name, you can let Conceptualization dream up something that sounds 'solemn and historical'. Kim plays along with a straight face, the Horrific Necktie loves it, and most people take it with a pinch of salt. Insisting on it can even earn you a Thought.",
+      "seeAlso": [
+        "harry",
+        "conceptualization",
+        "tequila-sunset",
+        "horrific-necktie"
+      ]
+    },
+    {
+      "id": "rosemary",
+      "term": "Rosemary",
+      "caseSensitive": true,
+      "commonWord": true,
+      "short": "A jolly drunk in the fishing village who runs a tiny shop of cigarettes, cheap pilsner, speed and a suspicious bottle of blue 'spirits'.",
+      "details": "He hangs out with Idiot Doom Spiral as part of what they call the Union of Moribund Alcoholics, and calls you 'buddy-boy' and 'legend'. He says he used to teach high school biology.\n\nHis prize item is a bottle of blue medicinal spirits, nearly pure alcohol, which he claims to have swiped from a doctor's office (after throwing out the preserved snakes). He keeps forgetting whether it costs 300 réal or 3.",
+      "seeAlso": [
+        "fishing-village",
+        "real",
+        "electrochemistry"
+      ]
+    },
+    {
+      "id": "ruud-hoenkloewen",
+      "term": "Ruud Hoenkloewen",
+      "aliases": [
+        "Ruud"
+      ],
+      "caseSensitive": true,
+      "hideUntilSeen": true,
+      "short": "A silent mercenary in ceramic armour and a full helmet, armed with a long rifle; his comrades call him 'The Killer'.",
+      "details": "He barely speaks, and when he does it comes out as a muffled shout from inside his helmet. Little stick figures counted along the rim of the helmet hint at his record.",
+      "spoiler": "He is one of the three armed comrades of the dead man who come to Martinaise for revenge and confront you at the tribunal, alongside Kortenaer and De Paule.",
+      "seeAlso": [
+        "mercenaries",
+        "the-hanged-man",
+        "scab-leader"
+      ]
+    },
+    {
+      "id": "scab-leader",
+      "term": "Scab Leader",
+      "caseSensitive": true,
+      "short": "The loudest of the strikebreakers outside the harbour gates: a huge, square-jawed man chanting 'Right to work!' at the striking dockworkers.",
+      "details": "He claims to be an odd-job man and former bouncer from the Eminent Domain in Jamrock, and he urges the police to open the gates for 'honest workers'. Your skills notice that something is off: his clothes don't fit, his slogans sound memorised, and he tenses up whenever the murder comes up.\n\nAround him, a crowd of desperate scabs shout for work, money and their right to feed their families.",
+      "spoiler": "He is a mercenary in disguise, one of the dead man's comrades: Kortenaer, who later reappears in full armour at the tribunal.",
+      "seeAlso": [
+        "scab",
+        "strike",
+        "mercenaries",
+        "harbour",
+        "ruud-hoenkloewen"
+      ]
+    },
+    {
+      "id": "shanky",
+      "term": "Shanky",
+      "aliases": [
+        "Dennis",
+        "Shanks"
+      ],
+      "caseSensitive": true,
+      "commonWord": true,
+      "short": "A small, rat-faced Hardie Boy with two front teeth missing; he sucks up to Titus and heckles you at every turn.",
+      "details": "His real name is Dennis, and his mates also call him Shanks. He is a sneering, cunning man in his forties who sucks up to Titus Hardie and jeers at you whenever you question the gang.\n\nThe other Hardies give it back to him, mostly by teasing him about women and about still living with his mother.",
+      "spoiler": "When violence breaks out at the tribunal, Shanky either dies or runs away, depending on how events go; if he runs, the surviving Hardie Boys swear to make him pay.",
+      "seeAlso": [
+        "hardie-boys",
+        "ruby",
+        "titus-hardie",
+        "whirling-in-rags"
+      ]
+    },
+    {
+      "id": "siileng",
+      "term": "Siileng",
+      "caseSensitive": true,
+      "short": "A relentlessly upbeat street vendor from Siigay who runs an unlicensed stall by the traffic jam, selling clothes, sneakers, sunglasses and food parcels.",
+      "details": "Everything at Siileng's is 'cool' and '50% off'. He loves Revachol because no one needs a permit to sell anything, calls himself an independent entrepreneur, and says he sends half his profits to his grandma back home. His stock includes FALN sneakers, sunglasses, a sports visor and some old Samaran speakers he is ashamed of.\n\nThe racist lorry driver nearby accuses him of looting cargo.",
+      "spoiler": "Some of his goods are humanitarian aid: food kits marked as not for resale, from the Humanox aid lorry parked nearby, whose security seals have been broken.",
+      "seeAlso": [
+        "siigay",
+        "samara",
+        "racist-lorry-driver",
+        "ultraliberalism"
+      ]
+    },
+    {
+      "id": "sleeping-dockworker",
+      "term": "Sleeping Dockworker",
+      "aliases": [
+        "Santiago S. John"
+      ],
+      "caseSensitive": true,
+      "short": "A striking dockworker passed out at a table in the Whirling-in-Rags after a bottle or two of rum.",
+      "details": "His ID card names him Santiago S. John. With Interfacing you can pick his pocket for a little cash and his dockworker ID card; with enough shouting you can wake him. Awake, he explains the strike, praises Evrart, and warns that the dead man had dangerous friends who might come looking for trouble.",
+      "seeAlso": [
+        "whirling-in-rags",
+        "union",
+        "strike",
+        "interfacing"
+      ]
+    },
+    {
+      "id": "smoker-on-the-balcony",
+      "term": "Smoker on the Balcony",
+      "aliases": [
+        "Martin Martinaise"
+      ],
+      "caseSensitive": true,
+      "short": "A handsome, evasive young man smoking on a balcony that overlooks the Whirling's backyard; he gives his name as 'Martin Martinaise'.",
+      "details": "He talks in a lowered voice, keeps glancing at the neighbouring windows and won't give his real name. He says someone more 'muscular' already asked him about the hanging, and he mentions spending Sunday night with a 'Sunday friend', who might be a witness.\n\nHe lives in apartment #28 of the building, and later turns up in the Whirling-in-Rags as well.",
+      "spoiler": "His Sunday friend is a Coalition official who did see something on the night of the hanging. The friend describes him as a young art student whose family emigrated from Kedra.",
+      "seeAlso": [
+        "sunday-friend",
+        "the-hanged-man",
+        "whirling-in-rags"
+      ]
+    },
+    {
+      "id": "soona",
+      "term": "Soona",
+      "aliases": [
+        "Soona, the Programmer",
+        "Soona Luukanen-Kilde"
+      ],
+      "caseSensitive": true,
+      "short": "A prickly, brilliant programmer who has set up her radiocomputer and strange equipment inside the abandoned church, researching something she won't easily explain.",
+      "details": "She is the former lead programmer of Fortress Accident, a failed radio game studio, and of RSA Radios, and calls herself a circuit bender. She has surrounded herself with basins and hydrotransducers, trying to measure a silence in the church and find where it begins.\n\nThe ravers who want the church for a nightclub need her to move, and she will cooperate only if you help her research first, starting with recovering a backup from her old studio in the Doomed Commercial Area.",
+      "spoiler": "Her research points to an entroponetic anomaly in the church, which you come to describe as a two-millimetre hole in reality. She can also help you get a radio signal through to Coalition Warship Archer.",
+      "seeAlso": [
+        "church",
+        "radiocomputer",
+        "project-dread-board",
+        "pale",
+        "doomed-commercial-area"
+      ]
+    },
+    {
+      "id": "steban",
+      "term": "Steban",
+      "aliases": [
+        "Steban, the Student Communist"
+      ],
+      "caseSensitive": true,
+      "short": "A young, combative communist student who runs a secret night-time reading group in a disused corner of the Capeside Apartments.",
+      "details": "He and his fellow student Ulixes meet only at night, and Steban is paranoid enough to demand passphrases at the door; Cindy the Skull can point you to him. He has expelled most of the group over ideological heresies and loves to argue theory, but underneath he is sincere and gentler than he first seems.\n\nA communist-leaning detective will find plenty to talk about with him.",
+      "seeAlso": [
+        "communism",
+        "kras-mazov",
+        "dialectics",
+        "revolution"
+      ]
+    },
+    {
+      "id": "sulislaw-zawisza",
+      "term": "Sulisław Zawisza",
+      "aliases": [
+        "Sulisław",
+        "Zawisza",
+        "Sulislaw"
+      ],
+      "caseSensitive": true,
+      "short": "The Zsiemsk-born lead designer of 'Wirrâl Untethered', a radiocomputer game made by the studio Fortress Accident.",
+      "details": "His name is signed on a note left in a fridge, telling a colleague where to find the project's off-site copy. A project report blames him for last-minute additions, such as a secret mystical location at the very edge of the game's map.\n\nSoona, who worked on the same project, calls him the project lead and grumbles about his feature creep.",
+      "seeAlso": [
+        "doomed-commercial-area",
+        "radiocomputer"
+      ]
+    },
+    {
+      "id": "sunday-friend",
+      "term": "Sunday Friend",
+      "aliases": [
+        "Charles Villedrouin"
+      ],
+      "short": "A polished Coalition official from Sur-la-Clef whom you meet in apartment #28, home of the Smoker on the Balcony; he may have seen something on the night of the hanging.",
+      "details": "He introduces himself as Charles Villedrouin, an official of the Coalition Government working for the 'Institute of Price Stabilité'. He is eager to explain inflation targets, EPIS and the benefits of peace and prosperity, and stresses that he is only in Martinaise unofficially.\n\nHe speaks warmly but vaguely of his young 'friend', and you may run into him again strolling on the coast.",
+      "spoiler": "He saw part of the night's events from the balcony: around half past midnight a group of men carried what looked like a body into the yard while the surrounding windows went dark. He never saw the hanging itself or heard any shots.",
+      "seeAlso": [
+        "smoker-on-the-balcony",
+        "coalition",
+        "moralintern",
+        "moralism"
+      ]
+    },
+    {
+      "id": "sylvie",
+      "term": "Sylvie",
+      "aliases": [
+        "Sylvie Malaìika"
+      ],
+      "caseSensitive": true,
+      "short": "The Whirling-in-Rags' former waitress, who quit just before you woke up; you can reach her on the radio and hear exactly how badly you behaved.",
+      "details": "She left because of the rotting body in the yard, an awkward moment with Garte, and above all your drunken antics: waving your gun and badge around, smashing a stuffed skua, wrecking your room, clogging the toilet with police documents and singing the same sad song over and over.\n\nShe is nervous on the line, mostly worried about getting in trouble with the Union, and would rather you never called again.",
+      "spoiler": "She actually liked Garte and was flattered when he asked for her number; she asks you to tell him she is sorry.",
+      "seeAlso": [
+        "whirling-in-rags",
+        "garte",
+        "kineema",
+        "union"
+      ]
+    },
+    {
+      "id": "tequila-sunset",
+      "term": "Tequila Sunset",
+      "aliases": [
+        "Officer Sunset",
+        "Officer Tequila Sunset",
+        "Tequila"
+      ],
+      "caseSensitive": true,
+      "commonWord": true,
+      "short": "A grand name Harry gave himself during the drinking binge that wiped his memory; once you rediscover it, you can choose to go by it.",
+      "details": "You start the game not knowing it, but your skills drop hints, and people who met you during the binge, like Idiot Doom Spiral, still call you 'Tequila'. Once you know the name you can introduce yourself with it, and even use it as your callsign on the radio, where you become 'Officer Sunset'.\n\nThe name is a pun on the Tequila Sunrise cocktail: as several voices point out, this is a sunset, not a sunrise, because its owner is burning out.",
+      "inspiredBy": "The Tequila Sunrise cocktail.",
+      "spoiler": "Idiot Doom Spiral can tell the whole tale of how Tequila Sunset rolled into Martinaise the Friday before and partied with him, but only after you have found out what happened to your motor carriage.",
+      "seeAlso": [
+        "harry",
+        "personal-brand-strategist",
+        "raphael-ambrosius-costeau"
+      ]
+    },
+    {
+      "id": "the-gardener",
+      "term": "The Gardener",
+      "caseSensitive": true,
+      "short": "A polite young woman with a wheelbarrow at the corner by the Whirling-in-Rags; she gives directions and can lend you gloves and smelling salts.",
+      "details": "She says she is working on the gardens by the yard but keeps taking breaks because of the smell of the corpse. Ask her for directions around Martinaise, borrow her rubber gloves for the autopsy, or get ammonia salts for the stench. She mentions that the Wild Pines company woman is in town.",
+      "spoiler": "She is not a gardener: she is Elizabeth 'Lizzie' Beaufort, a legal counsellor for the Dockworkers' Union (Evrart paid for her schooling) who has been keeping an eye on you, and she reappears at the Whirling to steer you towards Titus. She is badly hurt if the tribunal turns violent.",
+      "seeAlso": [
+        "union",
+        "whirling-in-rags",
+        "titus-hardie",
+        "evrart-claire"
+      ]
+    },
+    {
+      "id": "the-pigs",
+      "term": "The Pigs",
+      "aliases": [
+        "Auntie LePlante",
+        "Marianne LePlante",
+        "Miss LePlante"
+      ],
+      "caseSensitive": true,
+      "short": "A confused old woman who haunts the old fish market on the boardwalk at night, buried in scavenged police gear and yelling police jargon through a megaphone.",
+      "details": "She calls herself 'the Pigs' and is convinced she is a police officer. She wears a mountain of RCM paraphernalia with battery-powered sirens and beacon lights strapped to her back, barely registers the people around her, and keeps calling out for a 'Mr. Morrand'.",
+      "spoiler": "She has your missing service pistol: Evrart Claire arranges for you to meet her at the old fish market at night, where she points the three-barrelled gun at you; it turns out to be unloaded. Afterwards you can ask the Hardie Boys to look after her. Titus remembers her as 'Auntie LePlante' (Marianne LePlante), an old woman who did right by the dockworkers when they were kids; her own children moved away and never visit. 'Mr. Morrand' is Gareth Morrand, a former cop turned crime-show host on Channel 8 radio.",
+      "seeAlso": [
+        "evrart-claire",
+        "titus-hardie",
+        "hardie-boys"
+      ]
+    },
+    {
+      "id": "theo",
+      "term": "Theo",
+      "caseSensitive": true,
+      "commonWord": true,
+      "short": "The oldest and quietest of the Hardie Boys: a silver-haired dockworker in his fifties who smokes and watches from the back of their room at the Whirling.",
+      "details": "Theo speaks slowly and rarely, and when he does it is blunt. He has a grim bet running that you will end up killing yourself, and says so in an almost kind voice. Like Eugene, he is of Areopagite descent.\n\nIf you are after the spare workshop key, he can fetch it from the tree outside the window and slide it across the table, while insisting he couldn't care less about your key.",
+      "spoiler": "Theo can be among the Hardie Boys killed in the shootout at the tribunal; Kim remarks that he was simply too old for that kind of fight.",
+      "seeAlso": [
+        "hardie-boys",
+        "titus-hardie",
+        "whirling-in-rags",
+        "areopagite"
+      ]
+    },
+    {
+      "id": "tiago",
+      "term": "Tiago",
+      "aliases": [
+        "crab-man",
+        "Crab Man"
+      ],
+      "caseSensitive": true,
+      "commonWord": true,
+      "short": "A wiry man who lives in the rafters of the old church, carving wooden figures and urging you to give up drink for the love of 'the Mother'.",
+      "details": "The speedfreaks camped outside call him the crab-man because of the way he scuttles along the beams; he prefers to think of himself as a flame. He is Mesque and speaks in Mesque slang. He says he was once in a gang and a heavy drinker, but his memories of that life are fading, which he sees as a blessing.\n\nHe calls himself a saeraff who sings the silent glory of the Mother of Silence, and he keeps telling you that the bottle is wrecking your mind and spirit.",
+      "spoiler": "He tells you there is a perforation in the world up near the church ceiling, a way out into nothingness, and that the church was built around it. He circles it, hoping to become pure enough to drink from it one day. He also knows the password to the radiocomputer of the programmer working in the church.",
+      "seeAlso": [
+        "church"
+      ]
+    },
+    {
+      "id": "tibbs",
+      "term": "Tibbs",
+      "aliases": [
+        "Tiberius"
+      ],
+      "caseSensitive": true,
+      "short": "Titus Hardie's brother, a family man with a window-fitting business who keeps out of the Hardie Boys' affairs.",
+      "details": "Tibbs is short for Tiberius. Eugene says he has a wife, two kids and a third on the way, and has refused Titus's attempts to recruit him for years.",
+      "spoiler": "Tibbs helped Fat Angus replace the broken window in Klaasje's room, part of the Hardie Boys' effort to cover up what really happened.",
+      "seeAlso": [
+        "hardie-boys",
+        "klaasje",
+        "titus-hardie"
+      ]
+    },
+    {
+      "id": "tiphaine-holly",
+      "term": "Tiphaine Holly",
+      "aliases": [
+        "Holly"
+      ],
+      "caseSensitive": true,
+      "commonWord": true,
+      "short": "The dockworkers' Union's forewoman before Evrart Claire. She stepped down after one term and vanished from public life.",
+      "details": "Joyce Messier knows her only as 'Holly' from company correspondence. On the last day of the local elections, her daughter supposedly phoned to say she would not run again or ever come back to work. Joyce finds this suspicious, and Bird's Nest Roy remembers her as rather more pleasant than Evrart, wondering where she went.",
+      "spoiler": "The Deserter despised her as a bourgeois deal-maker. He hints that, around twenty years ago, she was shot and fell into a canal on her way home, as part of a deal with Edgar Claire, and that the call from her 'daughter' was faked. He never quite admits to pulling the trigger himself.",
+      "seeAlso": [
+        "evrart-claire",
+        "iosef-dros",
+        "joyce-messier",
+        "union",
+        "wild-pines"
+      ]
+    },
+    {
+      "id": "tommy-le-homme",
+      "term": "Tommy Le Homme",
+      "aliases": [
+        "Tommy",
+        "Jerry Lefitte"
+      ],
+      "caseSensitive": true,
+      "commonWord": true,
+      "short": "A lorry driver stuck for a week in the traffic jam outside the harbour gates; he passes the time writing rhymes and missing his family.",
+      "details": "Tommy hauls FALN sportswear (mostly tracksuits) and has to guard his cargo while the strike keeps the gates shut. He wants to become a musician, half-spoken verse over beats, and warms to you if you show some poetic talent. 'Tommy Le Homme' is a stage name; his real name is Jerry Lefitte.\n\nHis wife and child, with a second on the way, live in Deora-of-the-Seven-Seas on the island of Laurentide, at the far end of Le Caillou. He used to take drugs but says he has been clean for some time. He is friends with the 'lady driver' whose lorry stands abandoned in the jam.",
+      "spoiler": "The lady driver left him the keys to her lorry before she disappeared. He insists she is no drug trafficker and would rather not help you find her.",
+      "seeAlso": [
+        "strike",
+        "harbour"
+      ]
+    },
+    {
+      "id": "trant-heidelstam",
+      "term": "Trant Heidelstam",
+      "aliases": [
+        "Trant"
+      ],
+      "caseSensitive": true,
+      "short": "A friendly, endlessly knowledgeable man you meet on the boardwalk with his young son, eager to explain the hidden history of West Martinaise.",
+      "details": "Trant is showing his son Mikael the ruined Feld Electrical building by the big mural. He explains that Feld built this side of Martinaise as a research centre during the turn-of-the-century cybernetics boom, and that the Coalition landed here in '08. He has something to say about almost everything, from tape computers and the Commune's March decree to Lo Manthang stick fighting, which he has practised for nearly twenty years.\n\nHe is pleasant company but lectures until you doze off. One of his asides can give you a Thought.",
+      "spoiler": "He turns up again at the very end of the case as a special consultant brought in by the RCM, offering theories about your amnesia and very interested in the public-relations value of what you have found.",
+      "seeAlso": [
+        "mikael-heidelstam",
+        "coalition",
+        "commune",
+        "rcm"
+      ]
+    },
+    {
+      "id": "ulixes",
+      "term": "Ulixes",
+      "aliases": [
+        "Uli",
+        "Comrade Ulixes"
+      ],
+      "caseSensitive": true,
+      "short": "Steban's sidekick in the communist reading group at the Capeside Apartments, nicknamed Uli. He echoes and backs up whatever Steban says.",
+      "details": "He is the one member of the reading group whom Steban has not excommunicated, and the game simply labels him the Echo Maker: an intellectual hanger-on who repeats Steban's points, sometimes to Steban's irritation. Steban says Uli's father is from Gottwald and that Ulixes is especially interested in capitalist violence.\n\nThe two students argue theory, test how much 'plasm' they can muster between them, and play board games such as one about managing your own Zone of Ecological Catastrophe. Cindy the SKULL knows them both.",
+      "spoiler": "The bylines in the student zine La Fumée look like pseudonyms; Logic suspects they are anagrams of Steban and Ulixes.",
+      "seeAlso": [
+        "communism",
+        "kras-mazov",
+        "yekokataa"
+      ]
+    },
+    {
+      "id": "ulla-deponte",
+      "term": "Ulla Deponte",
+      "aliases": [
+        "Deponte"
+      ],
+      "caseSensitive": true,
+      "short": "A woman from a local legend and an old police case: in autumn '46 she was fishing by the water lock with Eva Delgado when Delgado vanished into the canal.",
+      "details": "Idiot Doom Spiral tells it as a ghost story: a sudden downpour, a scream, and the silhouette of the Headless FALN Rider on the horizon. Eva slipped into the canal and her body was never found. Kim knows it as the Deponte-Delgado case from the case files.",
+      "spoiler": "According to Kim, Deponte became the prime suspect, since the police theory was a love triangle and a fight on the jetty. She insisted the Headless FALN Rider was to blame, then killed herself before she could be taken into custody.",
+      "seeAlso": [
+        "union-of-moribund-alcoholics",
+        "fishing-village",
+        "kim-kitsuragi"
+      ]
+    },
+    {
+      "id": "victor-mejean",
+      "term": "Victor Méjean",
+      "aliases": [
+        "Victor"
+      ],
+      "caseSensitive": true,
+      "commonWord": true,
+      "hideUntilSeen": true,
+      "short": "The man found dead on the Martinaise boardwalk; he fell through a rotten plank and struck his head on a metal bench, an empty vodka bottle beside him.",
+      "details": "His body lies by a hole in the creaking boardwalk with a chewing gum wrapper clutched in his fist, and a library card issued to someone named Billie Méjean in his pocket.",
+      "spoiler": "He is Billie Méjean's husband. He was often in some kind of trouble, and he had borrowed books on his wife's library card, which is how the card leads you to their apartment in the Capeside Apartments.",
+      "seeAlso": [
+        "billie-mejean",
+        "capeside-apartments"
+      ]
+    },
+    {
+      "id": "washerwoman",
+      "term": "Washerwoman",
+      "aliases": [
+        "Isobel",
+        "Isobel Sadie"
+      ],
+      "caseSensitive": true,
+      "commonWord": true,
+      "short": "An old, half-blind woman doing laundry in the Fishing Village; she knows everyone there and can rent you a room in her shack.",
+      "details": "Her name is Isobel, Sadie by marriage. Born in Samara, she has cataracts but a sharp ear and a sharper tongue, hums an old Samaran lullaby while she works, and is proud of the cinderblock village its people built for themselves. She offers you the spare room in her shack for free, as a gesture of goodwill to the RCM.\n\nShe distrusts the Union and the Claire brothers, and hers is one of the two signatures Evrart Claire needs for his plans in the village.",
+      "spoiler": "She had rented the same room to Ruby and is protective of her. If you find enough evidence in the shack, you can confront her about it.",
+      "seeAlso": [
+        "evrart-claire",
+        "fishing-village",
+        "ruby",
+        "union",
+        "white-envelope"
+      ]
+    },
+    {
+      "id": "women-s-rights",
+      "term": "Women's Rights",
+      "caseSensitive": true,
+      "short": "A lone protester with a women's rights sign standing among the strikebreakers at the harbour gates, possibly at the wrong protest.",
+      "details": "The protester chants for equal wages, against domestic abuse and against being told to smile, and at one point wonders aloud whether this is the correct protest.",
+      "inspiredBy": "The drunken mutterings you can hear later paraphrase Valerie Solanas's SCUM Manifesto (1967).",
+      "spoiler": "Later in the game the protester can be found lying drunk in the sand on the coast, mumbling anti-male slogans.",
+      "seeAlso": [
+        "scab",
+        "strike",
+        "picket-line"
+      ]
+    },
+    {
+      "id": "working-class-woman",
+      "term": "Working Class Woman",
+      "caseSensitive": true,
+      "short": "A tired woman browsing the soggy books at the book stand on the plaza; she insists her husband and daughters are not missing.",
+      "details": "She would rather read than talk to the police. Her daughters, she says, are safe at a party in Jamrock, and her husband went to the library yesterday morning to fetch her a book, promising to come straight home. Pushing her on it only irritates her.",
+      "spoiler": "She is Billie Méjean, and her husband Victor is the dead man found on the Martinaise boardwalk. You can end up breaking the news to her at her flat in the apartment building.",
+      "seeAlso": [
+        "jamrock"
+      ]
     }
   ]
 }

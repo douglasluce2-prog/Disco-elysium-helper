@@ -2,79 +2,1123 @@
   "category": "Places",
   "entries": [
     {
+      "id": "revachol",
       "term": "Revachol",
-      "aliases": ["Revacholian", "Revacholians", "Revachol West"],
+      "aliases": [
+        "Revacholian",
+        "Revacholians",
+        "Revachol West",
+        "Revacholiere"
+      ],
+      "caseSensitive": true,
       "short": "The city where the game takes place: a war-scarred former capital, now run by foreign powers.",
-      "details": "Revachol was once the grand capital of a kingdom. About fifty years ago a communist revolution took over the city and declared a Commune; an alliance of foreign nations, the Coalition, crushed it. Ever since, Revachol has been administered under the Coalition's rule: poor, partly ruined, and still full of people who remember the Revolution.\n\nThe game takes place in one small district of it, Martinaise.",
-      "inspiredBy": "Revachol mixes Paris (its French-flavoured names and the Paris Commune of 1871) with the decline of post-Soviet port cities in Eastern Europe.",
-      "seeAlso": ["martinaise", "coalition", "revolution", "commune", "insulinde"]
+      "details": "Revachol was once the seat of a powerful monarchy; Encyclopedia calls it the 'disgraced former capital of the world'. About fifty years ago a communist revolution took over the city and declared a Commune; an alliance of foreign nations, the Coalition, crushed it. Since then Revachol has been occupied and divided into zones of control, much of it poor and war-scarred, and still full of people who remember the Revolution.\n\nThe game takes place in one small district of it, Martinaise.",
+      "inspiredBy": "Paris: the French-flavoured names, and the Commune, which echoes the Paris Commune of 1871.",
+      "seeAlso": [
+        "martinaise",
+        "coalition",
+        "revolution",
+        "commune",
+        "insulinde"
+      ]
     },
     {
+      "id": "martinaise",
       "term": "Martinaise",
+      "aliases": [
+        "North Jamrock"
+      ],
+      "caseSensitive": true,
       "short": "The poor harbour district of Revachol where the whole game takes place.",
       "details": "Martinaise is a run-down neighbourhood of docks, shuttered shops, a fishing village and an abandoned church. The dockworkers' union is the real power here, and the district is in the middle of a strike.",
-      "seeAlso": ["revachol", "harbour", "union", "whirling-in-rags"]
+      "seeAlso": [
+        "revachol",
+        "harbour",
+        "union",
+        "whirling-in-rags"
+      ]
     },
     {
       "id": "whirling-in-rags",
       "term": "Whirling-in-Rags",
-      "aliases": ["the Whirling", "Whirling"],
+      "aliases": [
+        "the Whirling",
+        "Whirling"
+      ],
       "caseSensitive": true,
       "short": "The cheap hostel and cafeteria where you wake up. The body hangs in the yard behind it.",
       "details": "A combined bar, cafeteria and hostel managed by Garte. You've been staying (and wrecking things) upstairs, and you need to pay for your room. Many important characters are inside or nearby.",
-      "seeAlso": ["garte", "the-hanged-man", "martinaise"]
+      "seeAlso": [
+        "garte",
+        "the-hanged-man",
+        "martinaise"
+      ]
     },
     {
       "id": "harbour",
       "term": "Harbour",
-      "aliases": ["Harbor", "the harbour", "the harbor"],
+      "aliases": [
+        "Harbor",
+        "the harbour",
+        "the harbor",
+        "Terminal B"
+      ],
       "caseSensitive": true,
       "commonWord": true,
       "short": "The Martinaise docks, controlled by the dockworkers' union and currently shut down by a strike.",
-      "seeAlso": ["union", "evrart-claire", "strike", "wild-pines"]
+      "seeAlso": [
+        "union",
+        "evrart-claire",
+        "strike",
+        "wild-pines"
+      ]
     },
     {
-      "term": "Fishing Village",
-      "caseSensitive": true,
-      "short": "A small coastal community at the edge of Martinaise.",
-      "seeAlso": ["martinaise"]
+      "id": "fishing-village",
+      "term": "Fishing village",
+      "aliases": [
+        "Illisible"
+      ],
+      "short": "A small, run-down fishing village on the Martinaise coast; it has no real name, though some call it Illisible.",
+      "details": "You reach it by crossing the canal's water lock, which is broken when the game begins. The washerwoman who lives there can give you a shack to sleep in, and the abandoned church stands nearby on the coast.",
+      "seeAlso": [
+        "martinaise",
+        "church"
+      ]
     },
     {
+      "id": "doomed-commercial-area",
       "term": "Doomed Commercial Area",
+      "aliases": [
+        "East Delta Commerce Centre"
+      ],
       "caseSensitive": true,
-      "short": "A row of shopfronts where every business seems to fail. Locals believe the place is cursed.",
-      "seeAlso": ["martinaise"]
+      "short": "A commercial building in Martinaise where business after business has failed; locals believe it is cursed.",
+      "details": "Its official name is the East Delta Commerce Centre, on Rue de Saint-Ghislaine. Plaisance, who runs the bookstore on the plaza, is convinced the curse is real, and the way inside goes through her shop.",
+      "seeAlso": [
+        "martinaise"
+      ]
     },
     {
       "id": "church",
       "term": "Dolorian Church of Humanity",
-      "aliases": ["the Church", "Dolorian church"],
+      "aliases": [
+        "the Church",
+        "Dolorian church",
+        "Small Pinewood Church"
+      ],
       "caseSensitive": true,
       "short": "An old, abandoned church in Martinaise.",
-      "details": "The church was built for the Dolorian faith, named after the Innocence Dolores Dei. It has long since stopped being used for worship.",
-      "seeAlso": ["dolores-dei", "dolorian", "innocence"]
+      "details": "The church was built for the Dolorian faith, named after the Innocence Dolores Dei, and has long since stopped being used for worship; some records call it the Small Pinewood Church. It is an old wooden stave church on the coast near the fishing village, one of les Sept Soeurs (the Seven Sisters) that once stood along the coast.\n\nThese days a group of young ravers want to turn it into a dance club.",
+      "seeAlso": [
+        "dolores-dei",
+        "dolorian",
+        "innocence",
+        "fishing-village"
+      ]
     },
     {
       "id": "precinct-41",
       "term": "Precinct 41",
-      "aliases": ["41st Precinct", "41st", "Forty-first"],
+      "aliases": [
+        "41st Precinct",
+        "41st",
+        "Forty-first",
+        "Bloody Murder Station"
+      ],
       "caseSensitive": true,
       "short": "Harry's home police station, in the district of Jamrock.",
-      "seeAlso": ["rcm", "jamrock", "jean-vicquemare", "judit-minot"]
+      "seeAlso": [
+        "rcm",
+        "jamrock",
+        "jean-vicquemare",
+        "judit-minot"
+      ]
     },
     {
       "id": "precinct-57",
       "term": "Precinct 57",
-      "aliases": ["57th Precinct", "57th"],
+      "aliases": [
+        "57th Precinct",
+        "57th"
+      ],
       "caseSensitive": true,
       "short": "Kim Kitsuragi's police station.",
-      "seeAlso": ["rcm", "kim-kitsuragi"]
+      "seeAlso": [
+        "rcm",
+        "kim-kitsuragi"
+      ]
     },
     {
+      "id": "jamrock",
       "term": "Jamrock",
+      "aliases": [
+        "Jamrock Quarter"
+      ],
       "caseSensitive": true,
       "short": "A rough district of Revachol, home of Harry's Precinct 41.",
-      "seeAlso": ["precinct-41", "revachol"]
+      "seeAlso": [
+        "precinct-41",
+        "revachol"
+      ]
+    },
+    {
+      "id": "8-81",
+      "term": "8/81",
+      "aliases": [
+        "Motorway 8/81",
+        "Route 8/81"
+      ],
+      "caseSensitive": true,
+      "commonWord": true,
+      "short": "A huge elevated motorway running through Revachol; it separates Martinaise from Jamrock and casts its shadow over the slums beneath it.",
+      "details": "Motor carriages roar along it day and night, high above the rooftops. The streets underneath form a maze of alleys and ramshackle housing that is hard to get through on foot. The Eminent Domain lies in its shadow, and the Pox lies to the south of it.",
+      "seeAlso": [
+        "martinaise",
+        "jamrock",
+        "the-pox",
+        "revachol"
+      ]
+    },
+    {
+      "id": "abandoned-lorry",
+      "term": "Abandoned Lorry",
+      "short": "An empty lorry cabin left in the traffic jam by the roundabout; its missing driver seems tied to a drug-smuggling operation.",
+      "details": "The locked cabin is full of cigarette smell, old posters of forgotten film starlets, a toolbox and a powerful radio transmitter. The other drivers talk about a 'lady driver' who has vanished, and Kim learns the lorry was used to move raw drug ingredients from Terminal B to Jamrock.",
+      "spoiler": "The lorry belongs to Ruby, the 'Instigator' the Hardie Boys mention. Sandpaper glued to the accelerator explains an oddly smooth boot print at the crime scene, placing her at the lynching. Its high-end radio transceiver can later help you reach Coalition Warship Archer.",
+      "seeAlso": [
+        "ruby",
+        "the-hanged-man",
+        "coalition-warship-archer"
+      ]
+    },
+    {
+      "id": "advesperascit",
+      "term": "Advesperascit",
+      "caseSensitive": true,
+      "short": "An old city in Vesper-Messina, the homeland of Dolores Dei, where she was crowned; the name means 'Evening comes'.",
+      "details": "It was one of the three Crown Cities of the Dolorian era on the Mundi isola, along with Deora and Rheasilvia. Its old town, sometimes called the Ceremonial Heart of Humanity, is all weathered marble, with thousands of columns and arcades around grand plazas, and its canals freeze in winter. Some say the city summoned Dolores Dei, or was built centuries in advance to prepare for her.\n\nVesper-Messina, the state it belonged to, has since split into the Republics of Vesper and Messina.",
+      "seeAlso": [
+        "dolores-dei",
+        "dolorian",
+        "innocence"
+      ]
+    },
+    {
+      "id": "banaital",
+      "term": "Banaital",
+      "caseSensitive": true,
+      "short": "A jungle-covered island in the Semenese archipelago, near the pale, that served as a stronghold for Semenese nationalists in a proxy war.",
+      "details": "Encyclopedia explains the name when a veteran recalls a jungle reconnaissance mission there in the monsoon season of '41.",
+      "spoiler": "The memory is prompted by the hanged man's tattoos, which refer to Banaital, '41: his old unit served there under his command, and his surviving squadmates defend the brutal things done there.",
+      "seeAlso": [
+        "the-hanged-man",
+        "mercenaries"
+      ]
+    },
+    {
+      "id": "bay-of-revachol",
+      "term": "Bay of Revachol",
+      "caseSensitive": true,
+      "short": "The deep bay on which Revachol stands; it opens to the ocean and is crossed by company cargo ships.",
+      "details": "Martinaise looks out over the bay, which is more than 1200 metres deep at its deepest. Huge cargo ships bearing company logos such as Wild Pines, ZAMM and Moriyn cross it, a Coalition warship patrols its far reaches, and cold winds blow in from it through the city streets.",
+      "seeAlso": [
+        "revachol",
+        "martinaise",
+        "harbour",
+        "wild-pines",
+        "coalition"
+      ]
+    },
+    {
+      "id": "boogie-street",
+      "term": "Boogie Street",
+      "caseSensitive": true,
+      "short": "A long, lively and rough street that runs up through Revachol's poor districts to Jamrock, full of immigrants, music clubs, drug dens and gangs.",
+      "details": "Acele describes it as cool but bewildering, home to all kinds of people; poor kids from Faubourg walk its whole length up to Jamrock every spring for fun. It has a music club and synthesizer workshop where real musicians live, a charity school, and darker corners: the side alley Porta Rosa, where drugs change hands after midnight, and a drug den called 'The Door to the River'.\n\nIts youth slang is catching on, and the Hardie Boys talk about 'Boogie Street justice'. Officers of Precinct 41 patrol it.",
+      "seeAlso": [
+        "jamrock",
+        "precinct-41"
+      ]
+    },
+    {
+      "id": "boreal-plateau",
+      "term": "Boreal Plateau",
+      "caseSensitive": true,
+      "short": "A frozen region in the far north of Katla, the coldest of the isolas; the smallest known cryptid, a bacterium, was discovered there.",
+      "details": "Lena explains that the bacterium Cryobacter katlensis was found at one of Katla's northernmost points by the geologist Catelyn Mijanou some 70 years ago. Encyclopedia adds that the communist revolutionary Ignus Nilsen once hid in a hut on the plateau for ten months, and Measurehead dreams of a superstate stretching all the way from Semenine to the Boreal Plateau.",
+      "seeAlso": [
+        "cryptid",
+        "cryptozoology",
+        "lena",
+        "isola"
+      ]
+    },
+    {
+      "id": "caillou",
+      "term": "Caillou",
+      "aliases": [
+        "Le Caillou",
+        "The Pebble"
+      ],
+      "caseSensitive": true,
+      "short": "The large island on which Revachol stands; the name means 'pebble', and Martinaise lies on its north coast.",
+      "details": "Joyce Messier describes it as a smoothed, cracked pebble in a great blue sea; the cracks are the River Esperance, and Martinaise sits on the sixth branch of the river's delta. Encyclopedia notes that Le Caillou is a single fertile landmass, the fourth largest island in the world, unlike the neighbouring archipelagos of Ozonne and Face-à-La-Mer.\n\nIt was once the largest of the fertile, uninhabited islands of the northeast Insulindian archipelago; four centuries and two revolutions later it holds the city.",
+      "seeAlso": [
+        "revachol",
+        "insulinde",
+        "martinaise",
+        "isola"
+      ]
+    },
+    {
+      "id": "capeside-apartments",
+      "term": "Capeside Apartments",
+      "aliases": [
+        "Capeside",
+        "Capeside apartment buildings"
+      ],
+      "caseSensitive": true,
+      "short": "The war-scarred tower block by the pier, next to the yard where the body hangs; several people involved in your case live there.",
+      "details": "Its address is Rue de Saint-Ghislaine 33A and 33B. Artillery fire shaved off its top floors, bullets are still lodged in its walls, and its blasted facade is wrapped in giant tarps and rusting scaffolding. The doors are locked, so getting inside takes some effort.\n\nIts tenants include a pair of student communists, and a communist newsletter accuses the owner of trying to evict communist tenants for not paying rent. The library card found on the dead man on the boardwalk also leads to an apartment here.",
+      "seeAlso": [
+        "whirling-in-rags",
+        "billie-mejean",
+        "communism"
+      ]
+    },
+    {
+      "id": "central-jamrock-public-library",
+      "term": "Central Jamrock Public Library",
+      "aliases": [
+        "Jamrock Public Library",
+        "Jamrock Library"
+      ],
+      "caseSensitive": true,
+      "short": "A public library in Jamrock that you can phone from the radio in Kim's motor carriage to trace the owner of a library card.",
+      "details": "A rain-soaked card from this library turns up in the pocket of a dead man on the Martinaise boardwalk. The card names the borrower and gives the library's address on Meroe Street in Jamrock.\n\nOnce you decide to follow the lead, the station operator can connect you to the library, where a polite male librarian looks the borrower up in the records for you. It only answers during opening hours.",
+      "spoiler": "The card belongs to the dead man's wife, Billie Méjean. The librarian gives you her home address in Martinaise, in the Capeside Apartments, where the news has to be delivered.",
+      "seeAlso": [
+        "jamrock",
+        "kineema"
+      ]
+    },
+    {
+      "id": "coal-city",
+      "term": "Coal City",
+      "caseSensitive": true,
+      "short": "A destitute district of Revachol further along the coast, once a coal-mining boom town; by most accounts the worst place in the city.",
+      "details": "Shivers recalls its boom years, when coal from countless shafts powered Revachol. Once petroleum from the ocean floor and hydropower from the River Esperance replaced coal, everything collapsed, and only the weakest people remain among the defunct mines. Its black runoff stains the coast near Martinaise.\n\nIt was reduced to rubble in the war against the Commune, and Kim says gangs ferry amphetamines through it.",
+      "seeAlso": [
+        "revachol",
+        "martinaise",
+        "jamrock"
+      ]
+    },
+    {
+      "id": "coin-operated-viewer",
+      "term": "Coin-Operated Viewer",
+      "short": "Coin-operated tourist telescopes on the Martinaise plaza; one shows a half-sunken sea-fort in the bay, the other is jammed with old bubblegum.",
+      "details": "They are leftovers of a 1949 project to restore Martinaise to its pre-war glory, which Kim suspects the union pushed out. The working viewer costs a few centims and looks south at a ruined sea-fort on an islet, with a lone birch growing from its old anti-aircraft tower. The broken one faces the church across the water, its lens covered in graffiti.",
+      "spoiler": "The sea-fort it shows becomes important very late in the case.",
+      "seeAlso": [
+        "martinaise",
+        "church",
+        "union"
+      ]
+    },
+    {
+      "id": "corpus-mundi",
+      "term": "Corpus Mundi",
+      "caseSensitive": true,
+      "short": "A dormant shield volcano and, at 18.9 km, the highest summit in the world.",
+      "details": "Encyclopedia cheerfully offers this fact while admitting it has no idea what a field autopsy is, during your examination of the hanged man.",
+      "seeAlso": [
+        "mundi",
+        "encyclopedia"
+      ]
+    },
+    {
+      "id": "couron",
+      "term": "Couron",
+      "aliases": [
+        "the Couron"
+      ],
+      "caseSensitive": true,
+      "short": "A lower-middle-class district of Revachol just east of Jamrock: not glamorous, but somewhere you can actually live.",
+      "details": "Shivers sees its seven-storey buildings cut into blocks by distributary after distributary of the river. The Coalition Government's courts, where the RCM sends the people it arrests, sit in Couron and La Delta.\n\nRené Arnoux fought communist partisans in Couron in the first months of the Revolution.",
+      "spoiler": "Before joining the police, Harry was a high school gym teacher in Couron.",
+      "seeAlso": [
+        "jamrock",
+        "revachol",
+        "grand-couron",
+        "rene-arnoux"
+      ]
+    },
+    {
+      "id": "crime-romance-and-biographies-of-famous-people",
+      "term": "Crime, Romance, and Biographies of Famous People",
+      "aliases": [
+        "Crime, Romance & Biographies of Famous People",
+        "Biographies of Famous People"
+      ],
+      "caseSensitive": true,
+      "short": "The little bookshop in the Doomed Commercial Area, run by the nervous Plaisance; it sells books, postcards and a few board games.",
+      "details": "Plaisance greets every visitor with the shop's full name, almost like a robot, while her daughter Annette stands outside to signal that the store is open. Plaisance insists that business is thriving and that the building has a 'magnetic' energy, not a curse.",
+      "seeAlso": [
+        "doomed-commercial-area"
+      ]
+    },
+    {
+      "id": "death-island",
+      "term": "Death Island",
+      "caseSensitive": true,
+      "hideUntilSeen": true,
+      "short": "Cuno's grim nickname for the small island with the ruined sea fort, out in the bay off the coast of Martinaise.",
+      "details": "The sea fort was built by King Filippe II, taken over by the Commune, and wrecked during the Landing. Lilienne in the Fishing Village says people died there, and it always seemed like a bad place to her.",
+      "spoiler": "Cuno only calls it this if he ends up as your partner for the final stretch of the case, when the investigation finally leads you out to the island.",
+      "seeAlso": [
+        "cuno",
+        "operation-death-blow",
+        "fishing-village"
+      ]
+    },
+    {
+      "id": "disco-elysium",
+      "term": "Disco Elysium",
+      "caseSensitive": true,
+      "short": "The title of the game, and also a name you can suggest for the dance club that Andre's crew wants to open in the old church.",
+      "details": "Noid connects the name to Elysium, the word for the whole world, while Acele wonders whether disco isn't a bit wacky and forgotten these days.",
+      "spoiler": "If you offer it when the club is finally named, Acele welcomes everyone to Disco Elysium as the lights sweep the dance floor.",
+      "seeAlso": [
+        "elysium",
+        "church"
+      ]
+    },
+    {
+      "id": "east-delta-pinball-arcade",
+      "term": "East Delta Pinball Arcade",
+      "aliases": [
+        "East Delta Pinball"
+      ],
+      "caseSensitive": true,
+      "short": "A failed pinball arcade that once filled the building now housing the Whirling-in-Rags. Its broken machines are still lying around.",
+      "details": "Theo, an older man at the Whirling, remembers it as a weird place that went bankrupt. The dead pinball cabinets, the freight elevator and a dusty repair workshop upstairs are all leftovers from it.\n\nIts name is still listed on the doorbell panel in the Doomed Commercial Area, because both buildings were built as part of the same development.",
+      "seeAlso": [
+        "whirling-in-rags",
+        "doomed-commercial-area"
+      ]
+    },
+    {
+      "id": "eminent-domain",
+      "term": "Eminent Domain",
+      "caseSensitive": true,
+      "short": "A poor, working-class district of Jamrock that lies in the shadow of the elevated Motorway 8/81.",
+      "details": "Encyclopedia notes it has next to no municipal infrastructure. The leader of the strikebreakers at the harbour gates says he comes from there.",
+      "seeAlso": [
+        "jamrock",
+        "scab"
+      ]
+    },
+    {
+      "id": "faubourg",
+      "term": "Faubourg",
+      "aliases": [
+        "Faubourger"
+      ],
+      "caseSensitive": true,
+      "short": "A vast, poor district south of Jamrock: the largest ghetto in Revachol, and according to Kim possibly in the world.",
+      "details": "Kim calls it a massive banlieue; it is divided into eleven districts. Acele and most of her friends grew up there, and Kim plans to drive the hanged man's body there for processing.\n\nBird's Nest Roy moved to Martinaise to get as far from Faubourg as he could after the nuclear accident at the People's Pile.",
+      "seeAlso": [
+        "jamrock",
+        "revachol",
+        "emergency-relief-brigade"
+      ]
+    },
+    {
+      "id": "feld-building",
+      "term": "Feld building",
+      "aliases": ["Feld Mural"],
+      "caseSensitive": true,
+      "short": "The gutted ruin of Feld Electrical's research centre on the coast near the boardwalk, with a faded mural that once read 'FELD ELECTRICAL R&D'.",
+      "details": "The abandoned building looms over the boardwalk: collapsed roof, broken windows, birds nesting in the walls. Its peeling mural still shows the company name and the ghost of a slogan, 'Tomorrow is just a whisper away'. Trant Heidelstam likes to stand nearby with his son and lecture about its history.\n\nDuring the Revolution it was seized by revolutionaries. Your Shivers skill keeps pulling you back to it for reasons you cannot explain at first.",
+      "spoiler": "The missing Ruby, the Instigator, is hiding inside the ruin; the Shivers clues and the local children point the way in.",
+      "seeAlso": [
+        "feld-electrical",
+        "feld-playback-experiment",
+        "ruby",
+        "shivers"
+      ]
+    },
+    {
+      "id": "grand-couron",
+      "term": "Grand Couron",
+      "caseSensitive": true,
+      "short": "A quarter of Jamrock dominated by a failed real-estate development: monstrous new tower blocks that almost no one can afford to live in.",
+      "details": "Encyclopedia lists Grand-Couron among Jamrock's quarters. Shivers sees cold wind howling through its empty halls, homes built on delusions; one eight-storey ghost tower overlooks Central Jamrock. Plaisance at the bookstore dreams of moving there with her husband. The Grand Couron Arena hosts big boxing matches.",
+      "seeAlso": [
+        "jamrock",
+        "couron",
+        "crime-romance-and-biographies-of-famous-people"
+      ]
+    },
+    {
+      "id": "horseback-monument",
+      "term": "Horseback Monument",
+      "aliases": [
+        "Horseback Antenna",
+        "equestrian monument"
+      ],
+      "caseSensitive": true,
+      "short": "The bronze statue of King Filippe III on horseback on the traffic island at the roundabout; it is restored to look as if it is being blown apart.",
+      "details": "The plaque calls him Filippe III, the Squanderer, son of Filippe II the Opulent and father of Filippe IV the Insane. Communards blew the statue apart during the Revolution; years later some designers ironically restored it, frozen in the moment of the explosion. It is unpopular in left-leaning Martinaise, and the king's chest is pocked with odd dents.\n\nWhen you first see it, it is surrounded by scaffolding.",
+      "spoiler": "It can become the centrepiece of a get-rich scheme with Idiot Doom Spiral that remakes the monument, and you can climb it to use as a makeshift radio antenna to reach the Coalition Warship Archer.",
+      "seeAlso": [
+        "revolution",
+        "royalists",
+        "idiot-doom-spiral",
+        "martinaise"
+      ]
+    },
+    {
+      "id": "hsin-yao",
+      "term": "Hsin-Yao",
+      "aliases": [
+        "Hsin-Yao Commune"
+      ],
+      "caseSensitive": true,
+      "short": "A place in the old Safre Empire on the Samaran isola, now home to big factories; long ago it had its own short-lived communist commune.",
+      "details": "Joyce Messier says much of the cargo passing through the harbour comes from large Samaran factories in South Safre, Siigay and Hsin-Yao.\n\nThe Hsin-Yao Commune was a third outbreak of the world revolution, in the Safre Empire, put down in '06 and now almost forgotten. Its Triangong rifles were stamped 'For Safre, and for all mankind', and its revolutionaries sang 'Boy with a Scythe / Golden Sun'.",
+      "spoiler": "You learn about the Commune from the Deserter, whose Triangong rifle was military aid sent by the Hsin-Yao Commune to Revachol's communards.",
+      "seeAlso": [
+        "revolution",
+        "commune",
+        "communism"
+      ]
+    },
+    {
+      "id": "ile-du-fantome",
+      "term": "Ile du Fantôme",
+      "caseSensitive": true,
+      "short": "Another name for the Semenine (Semenese) Islands, a distant southern archipelago; the name means 'Ghost Island'.",
+      "details": "The bookstore's wall map shows it far off in the southwest of the Insulindic ocean. Inland Empire imagines mist-shrouded islands full of eerie pygmies and wild shamans; Encyclopedia corrects it, calling it a beautiful place with a rich and unique culture."
+    },
+    {
+      "id": "industrial-harbour",
+      "term": "Industrial Harbour",
+      "aliases": [
+        "Greater Revachol Industrial Harbour"
+      ],
+      "caseSensitive": true,
+      "short": "Revachol's vast port and container district right next to Martinaise; most of it is the beat of Kim's Precinct 57.",
+      "details": "Shivers sees it as an artificial mountain range of shipping containers, holding immense wealth with poverty in its shadow. The dockworkers' Union wants a piece of it. Harry's 41st and Kim's 57th can't agree whether Martinaise belongs to Jamrock or to the Industrial Harbour, so neither precinct has really policed it.",
+      "seeAlso": [
+        "harbour",
+        "martinaise",
+        "precinct-57",
+        "precinct-41",
+        "jamrock",
+        "union"
+      ]
+    },
+    {
+      "id": "international-zone",
+      "term": "International Zone",
+      "caseSensitive": true,
+      "short": "A name for Revachol under foreign administration after the Revolution; Joyce says it was chosen because no nation wanted responsibility for the city.",
+      "details": "Kim says the Coalition Government formed the RCM to restore order in the International Zone after the Revolution, and that the militia now simply tries to keep that order. Joyce puts it differently: the RCM brought back peace where the Coalition had failed, as a citizens' initiative.\n\nJamrock is described as part of the International Zone.",
+      "seeAlso": [
+        "revachol",
+        "coalition",
+        "rcm",
+        "revolution",
+        "jamrock"
+      ]
+    },
+    {
+      "id": "karaoke-stand",
+      "term": "Karaoke Stand",
+      "aliases": [
+        "karaoke stage",
+        "karaoke carousel"
+      ],
+      "short": "The karaoke stage in the Whirling-in-Rags cafeteria; Inland Empire badly wants you to sing on it.",
+      "details": "Garte keeps the 'karaoke carousel' switched off and calls it a prop, blaming a 'Great Karaoke Catastrophe of '44'. He will only plug it in for you once your bills are paid and you bring him a tape of a song to sing.\n\nHow the performance goes depends partly on the time of day: in the morning the hall is nearly empty, while in the evening the room is full of drinkers who may (or may not) listen.",
+      "seeAlso": [
+        "whirling-in-rags",
+        "garte",
+        "inland-empire"
+      ]
+    },
+    {
+      "id": "koko-nur",
+      "term": "Koko Nur",
+      "caseSensitive": true,
+      "short": "A vast, arid desert in South Samara, said to be home to the Giant of Koko Nur, the biggest cryptid of all.",
+      "details": "Lena says the Giant lives in the driest parts of the desert, casting a strange light over the wastes, and that local folklore treats its towering glow as a bad omen. Some think a gravity anomaly under the desert lets it grow so huge.\n\nMorell has never been there and probably never will: the desert region has been caught in a small civil war for eight years.",
+      "seeAlso": [
+        "cryptid",
+        "cryptozoology",
+        "lena"
+      ]
+    },
+    {
+      "id": "la-cherte",
+      "term": "La Cherte",
+      "caseSensitive": true,
+      "short": "A great city in Sur-la-Clef, home to La Cherte University and namesake of the First La Cherte Accord, an international agreement.",
+      "details": "The angry author of the book 'Un Pays Infernal' teaches at La Cherte University. A Coalition official mentions that corporate espionage violates the First La Cherte Accord, and the Coalition warship's voice names La Cherte among the world's great cities.",
+      "seeAlso": [
+        "moralintern",
+        "coalition"
+      ]
+    },
+    {
+      "id": "la-delta",
+      "term": "La Delta",
+      "caseSensitive": true,
+      "short": "Revachol's wealthy financial district, whose golden skyscrapers you can see across the bay from Martinaise.",
+      "details": "It sits on the delta of the River Esperance, where countless bridges join city blocks to river islands. It is home to the stock exchange, office towers and Coalition Government courts; Evrart Claire's accountant works there too.\n\nTo the people of Martinaise it stands for money and power.",
+      "seeAlso": [
+        "revachol",
+        "martinaise",
+        "coalition"
+      ]
+    },
+    {
+      "id": "land-s-end",
+      "term": "Land's End",
+      "caseSensitive": true,
+      "short": "The northern tip of the coastal peninsula beyond the church, with reeds, an abandoned building and a disused radio relay tower.",
+      "details": "Lilienne says locals know it as a make-out spot and agrees to an evening stroll there. Morell set one of his cryptid traps behind a sand dune on the way to the old radio tower, and the washerwoman points real-estate types to the abandoned building.",
+      "spoiler": "A rare brand of cigarette butts found there matches ones you can find later out on the sea fort island, a clue that someone has been moving between the two. You can also suggest its old radio relay tower as an antenna site for a radio project.",
+      "seeAlso": [
+        "fishing-village",
+        "church"
+      ]
+    },
+    {
+      "id": "lausanne-central-aerodrome",
+      "term": "Lausanne Central Aerodrome",
+      "aliases": [
+        "Lausanne Aerodrome"
+      ],
+      "caseSensitive": true,
+      "short": "Revachol's great airport: a cocoon hung by suspension cables above Midtown's skyscrapers across the bay, circled by aircraft.",
+      "details": "You see it in a Shivers vision of Midtown. It also comes up in one of your dreams, where someone must catch a flight from the Lausanne Aerodrome at 10:20 PM.",
+      "seeAlso": [
+        "revachol",
+        "aerostatic"
+      ]
+    },
+    {
+      "id": "le-jardin",
+      "term": "Le Jardin",
+      "caseSensitive": true,
+      "short": "A rich area of Revachol East on the hills beyond the river, with a zoo, an aquarium, universities and courts.",
+      "details": "The bookstore map groups it with Stella Maris and Saint-Batiste as the wealthy suburbs of Revachol East. The Institute for Revacholian Culture has its architecturally significant headquarters there, and at the Hardie Boys' table you are told that guilt is for the courts in Le Jardin to decide.",
+      "seeAlso": [
+        "revachol"
+      ]
+    },
+    {
+      "id": "le-royaume",
+      "term": "Le Royaume",
+      "caseSensitive": true,
+      "short": "Revachol's ancient catacombs, where for three centuries the city laid its blue-blooded dead to rest.",
+      "details": "Shivers senses doors leading down to it from the flooded storm drains, and reports the 'petits rats' braving underground passages from L'Ossuaire Municipal, the city's underground cemetery, to reach it. Cuno says he is going to move down there and live in a catacomb.",
+      "seeAlso": [
+        "revachol",
+        "royalists",
+        "cuno"
+      ]
+    },
+    {
+      "id": "lelystad",
+      "term": "Lelystad",
+      "caseSensitive": true,
+      "short": "A farming municipality in Oranje, near the border of Gottwald; the hanged man came from there, which is where the nickname 'Lely' comes from.",
+      "details": "Klaasje explains that she called him Lely, short for Lelystad, and that it was his army name. Encyclopedia sums the place up as cows, silos and wheat.",
+      "inspiredBy": "Lelystad, a real town in the Netherlands.",
+      "seeAlso": [
+        "lely",
+        "the-hanged-man",
+        "klaasje",
+        "oranje"
+      ]
+    },
+    {
+      "id": "magritte",
+      "term": "Magritte",
+      "aliases": [
+        "River Magritte"
+      ],
+      "caseSensitive": true,
+      "short": "A great river in Mesque. Its upper reaches ('upstream Magritte') are the steppes of Northern Mesque, home of the boiadeiro cow herders.",
+      "details": "Historically, the Innocence Dolores Dei's mass resettlement of upstream Magritte is remembered as one of her darker policies.\n\nIn the old ballad 'On the Western Plain', which the Paledriver describes, the river is where a boiadeiro's tragic love story comes to its grim end.",
+      "seeAlso": [
+        "mesque",
+        "dolores-dei"
+      ]
+    },
+    {
+      "id": "main-street",
+      "term": "Main Street",
+      "caseSensitive": true,
+      "short": "A street in Jamrock, the district of Harry's Precinct 41.",
+      "details": "Shivers pictures Jamrock as a chessboard of wooden firetraps stretching from Main Street to Precinct 41 atop the motorway. Harry's old case files grumble that investigations keep stalling at the corner of Main Street and Perdition, where two troublemakers are always hanging out.",
+      "seeAlso": [
+        "jamrock",
+        "precinct-41",
+        "rue-saint-gerome"
+      ]
+    },
+    {
+      "id": "mirova",
+      "term": "Mirova",
+      "caseSensitive": true,
+      "short": "The capital of Graad, a city of 22 million people. Encyclopedia calls it the capital of the world since Revachol's fall.",
+      "details": "Its area code comes up when you use a payphone. Cuno claims his fancy trousers were made in Mirova by 'pants scientists'.",
+      "inspiredBy": "Loosely Moscow, as Graad is loosely modelled on Russia and the Soviet Union.",
+      "spoiler": "In a dream, a woman from Harry's past tells him she has left for Mirova and a new life there.",
+      "seeAlso": [
+        "lu-jiatun",
+        "revachol"
+      ]
+    },
+    {
+      "id": "night-city",
+      "term": "Night City",
+      "aliases": [
+        "City of Locusts",
+        "City of Rage",
+        "Locust City",
+        "Rage City",
+        "City of Locusts",
+        "City of Rage",
+        "Night City"
+      ],
+      "caseSensitive": true,
+      "short": "Cuno's grand names for a 'city' he claims to be building; when you ask where he has been, he says he was in Night City.",
+      "details": "Ask Cuno where he has been and he says he was in Night City. Encyclopedia points out that no such city exists anywhere; it sounds like something from a pulp science fiction novel. Cuno gets furious if anyone calls the project lame, while Conceptualization senses real artistic tension in it.",
+      "spoiler": "The city is an insect town in a nearby shack: towers of mud and sand full of locusts that Cuno took from the cryptozoologist's phasmid traps. Finding it solves the 'missing locust' mystery and shows that it was Cuno, not the phasmid, who took the bait.",
+      "seeAlso": [
+        "cuno",
+        "cunoesse",
+        "insulindian-phasmid"
+      ]
+    },
+    {
+      "id": "nightwatchman-s-booth",
+      "term": "Nightwatchman's Booth",
+      "caseSensitive": true,
+      "short": "René Arnoux's spotless night-watchman's booth up on the harbour walkway, with his name on the door.",
+      "details": "Everything inside is meticulously organised. You can find René's very colourful old uniform folded on the table, a framed black-and-white photograph of a young couple at a street fair, and a box of out-of-date painkillers in a drawer.",
+      "spoiler": "The young man in the photo is René himself, in a Royal Carabineer uniform. If you take the picture, you can ask him about it.",
+      "seeAlso": [
+        "rene-arnoux",
+        "harbour",
+        "royalists"
+      ]
+    },
+    {
+      "id": "old-cinema",
+      "term": "Old Cinema",
+      "caseSensitive": true,
+      "short": "A cinema building in Revachol that Shivers glimpses sinking into ruin beneath Villalobos, one of the quarters of Jamrock.",
+      "seeAlso": [
+        "jamrock",
+        "shivers"
+      ]
+    },
+    {
+      "id": "old-military-hospital",
+      "term": "Old Military Hospital",
+      "caseSensitive": true,
+      "short": "An abandoned hospital in the Pox, an overgrown sub-district of Jamrock right next to Precinct 41; most people avoid it.",
+      "details": "Shivers recalls that its grounds were once a park where patients recovered, until it became a quarantine centre during a measles outbreak in the Twenties that killed many children. Since then almost everyone has kept away from the hospital and its park, though heavy drug users still slip in, hoping to find something in the hastily abandoned supplies.",
+      "seeAlso": [
+        "jamrock",
+        "precinct-41",
+        "shivers",
+        "old-south"
+      ]
+    },
+    {
+      "id": "old-south",
+      "term": "Old South",
+      "caseSensitive": true,
+      "short": "One of the quarters that make up Jamrock, the district of Harry's precinct; an off-ramp of the elevated motorway 8/81 leads there.",
+      "details": "Encyclopedia lists Jamrock's quarters as the Pox, Villalobos, Central Jamrock, Grand-Couron, Old South and the Valley of the Dogs.",
+      "seeAlso": [
+        "jamrock",
+        "precinct-41",
+        "old-military-hospital"
+      ]
+    },
+    {
+      "id": "ozonne",
+      "term": "Ozonne",
+      "caseSensitive": true,
+      "short": "A wealthy archipelago about two days' travel from Revachol, where the rich keep their châteaus; its people rarely set foot in Martinaise.",
+      "details": "Encyclopedia explains that its moneyed residents are used to posh restaurants and upscale boutiques. Joyce Messier recalls visiting Martinaise with her girlfriends from Ozonne in their shiny boats, and to people in Martinaise, from Cindy to Evrart Claire, the name stands for the rich who live far from the city's troubles. Its towns include Fond de l'Air and Virmandeux.",
+      "seeAlso": [
+        "joyce-messier",
+        "revachol",
+        "insulinde"
+      ]
+    },
+    {
+      "id": "paliseum",
+      "term": "Paliseum",
+      "aliases": [
+        "The Paliseum"
+      ],
+      "caseSensitive": true,
+      "short": "A music club and synthesizer workshop on Boogie Street in Jamrock; to Acele and her friends it is the coolest place in the city.",
+      "details": "Real musicians live there, making the new synthesizer dance music and looping tape recordings of everyday sounds, like cracking ice or jangling keys. Acele got her tape recorder and microphone there and once spotted the musician Arno van Eyck. It is an open-minded place, and Noid and his friends make the pilgrimage north from Faubourg to visit it. Acele's group hopes to turn the old church into a club for the same kind of music.",
+      "seeAlso": [
+        "jamrock",
+        "omicron",
+        "church"
+      ]
+    },
+    {
+      "id": "pawnshop",
+      "term": "Pawnshop",
+      "aliases": [
+        "pawn shop"
+      ],
+      "short": "A shop in a shack by the Martinaise canal and water lock, run by Bird's Nest Roy, where you can sell things for cash and buy odd gear.",
+      "details": "Kim and others point you there whenever you need money or equipment, such as a new tape player. Its owner, Roy, keeps a strange light show running inside and prefers natural sounds to music.\n\nAs Lena explains, pawning means handing over something valuable for money; you can buy it back later for a little more, if nobody has bought it first.",
+      "spoiler": "Before the case began, you sold your own service pistol here to pay for drink.",
+      "seeAlso": [
+        "martinaise",
+        "real"
+      ]
+    },
+    {
+      "id": "perdition",
+      "term": "Perdition",
+      "aliases": [
+        "Perdition and Main"
+      ],
+      "caseSensitive": true,
+      "commonWord": true,
+      "short": "A street in Revachol near Precinct 41; the corner of Perdition and Main is a familiar spot to the officers of Harry's station.",
+      "details": "Esprit de Corps shows Captain Pryce turning onto it as he rides home from the station, and Shivers follows the traffic from Eminent Domain to Perdition and on to Main Street.",
+      "spoiler": "Harry lives near there: Shivers glimpses his home as a vacant, nondescript building on the corner of Perdition and Main.",
+      "seeAlso": [
+        "precinct-41",
+        "jamrock",
+        "ptolemy-pryce"
+      ]
+    },
+    {
+      "id": "porta-rosa",
+      "term": "Porta Rosa",
+      "caseSensitive": true,
+      "short": "A side alley off Boogie Street where, after midnight, drugs and all kinds of 'funny things' are for sale, and sex too.",
+      "details": "Cindy the SKULL says she used to get anti-radiation pills there, sold by veterans of the People's Pile clean-up. Esprit de Corps glimpses an RCM patrol officer on duty in the alley.",
+      "seeAlso": [
+        "people-s-pile",
+        "jamrock"
+      ]
+    },
+    {
+      "id": "raehl",
+      "term": "Raehl",
+      "caseSensitive": true,
+      "short": "A place with grand stairs that the Paledriver 'remembers' from the day of Franconegro's coronation, long before she was born.",
+      "details": "The Paledriver, an old lorry driver whose mind has been worn by years of pale crossings, says she remembers everything, even things she never knew. Among those memories: roses on the grand stairs of Raehl on Franconegro's coronation day, and holding her father's hand as he descended the stairs before a silent crowd. Then, she says, the memory was simply gone: pale damage.",
+      "seeAlso": [
+        "pale",
+        "innocence"
+      ]
+    },
+    {
+      "id": "river-esperance",
+      "term": "River Esperance",
+      "aliases": [
+        "Esperance"
+      ],
+      "caseSensitive": true,
+      "short": "The great river whose delta Revachol is built on; Martinaise lies on its sixth branch, the Martinaise distributary.",
+      "details": "The bookstore's wall map shows the river's delta shattering the island's north coast, with countless bridges joining city blocks to river islands and the district of La Delta at its heart. Precinct 57 stands on its south bank, and its hydropower helped put the old coal mines out of business.\n\nIt has had its disasters: the People's Pile, a failed particle decay generator, once leaked radioactive waste into it. The Coalition also runs a military prison named after it, the River Esperance Correctional Facility, which inmates call 'Reunion'.",
+      "seeAlso": [
+        "revachol",
+        "martinaise",
+        "precinct-57",
+        "coalition"
+      ]
+    },
+    {
+      "id": "roundabout-north",
+      "term": "Roundabout North",
+      "caseSensitive": true,
+      "short": "The name of the roundabout near the Whirling-in-Rags, with a horseback statue of an old king in the middle and lorries stuck in a traffic jam.",
+      "details": "The Gardener, who stands nearby with her wheelbarrow, tells you its name when you ask where you are. The lorry drivers stranded in the traffic jam and the statue of King Filippe III are here.",
+      "seeAlso": [
+        "whirling-in-rags",
+        "martinaise"
+      ]
+    },
+    {
+      "id": "rue-de-saint-ghislaine",
+      "term": "Rue de Saint-Ghislaine",
+      "aliases": [
+        "Saint-Ghislaine"
+      ],
+      "caseSensitive": true,
+      "short": "A major street of Martinaise: the Doomed Commercial Area is at No. 10 and the Capeside Apartments at Nos. 33A and 33B.",
+      "details": "Joyce Messier praises the street's old bastions and the restored streetlamps. Her boat is moored at the pier reserved for residents of number 33A, and a gnarled hawthorn tree grows on the street next to the canal.\n\nWhen you use the radiocomputer in the Doomed Commercial Area, the repeater station greets you as 'Fortress Accident on Rue de Saint-Ghislaine', because a terminal there is still registered to that failed game studio.",
+      "seeAlso": [
+        "martinaise",
+        "doomed-commercial-area",
+        "joyce-messier"
+      ]
+    },
+    {
+      "id": "rue-saint-gerome",
+      "term": "Rue Saint-Gérôme",
+      "caseSensitive": true,
+      "short": "A street in Revachol that Shivers glimpses in its visions of the city.",
+      "details": "In one vision it crumbles in the wind together with Main Street while the Old Cinema sinks beneath Villalobos; in another, a square bullet slides into a square chamber somewhere on it.",
+      "seeAlso": [
+        "shivers",
+        "revachol",
+        "main-street"
+      ]
+    },
+    {
+      "id": "saint-batiste",
+      "term": "Saint-Batiste",
+      "caseSensitive": true,
+      "short": "A former city absorbed into Revachol's sprawl, now part of the well-off eastern suburbs; it gives its name to a big pharmaceutical company.",
+      "details": "Its suburbs lie among the rolling hills of Revachol East alongside Le Jardin and Stella Maris, though it also has its slums: the boxer Contact Mike is said to have come from them. It hosted the Saint-Batiste Summer Dinghy Races, held only twice, in '31 and '33; Lena offers you her commemorative pin from the '31 races to pawn.",
+      "seeAlso": [
+        "revachol",
+        "saint-batiste-pharmaceutics",
+        "lena"
+      ]
+    },
+    {
+      "id": "samaran-butter",
+      "term": "Samaran Butter",
+      "aliases": [
+        "Samaran Butter sign",
+        "Samaran Butter Sign"
+      ],
+      "caseSensitive": true,
+      "short": "A crumpled billboard advertising Samaran goat-milk butter that lies in the canal, jamming the water lock so you can't cross to the coast.",
+      "details": "The sign fell in recently: a speeding motor carriage used a shack roof as a ramp, tore through it and flew on into the fog. Visual Calculus can reconstruct the jump in detail and even guess the make of car, and Kim reminds you that you are not traffic cops.\n\nUntil the water lock is fixed, the canal blocks the way to the western coast and the fishing village.",
+      "spoiler": "The tyre tracks are your own: you made the jump yourself during your binge, in your police Coupris 40, minutes before driving it into the sea.",
+      "seeAlso": [
+        "samara",
+        "sunken-motor-carriage",
+        "visual-calculus",
+        "fishing-village"
+      ]
+    },
+    {
+      "id": "scattering-of-bullet-holes",
+      "term": "Scattering of Bullet Holes",
+      "caseSensitive": true,
+      "short": "A crumbling wall on the western coast riddled with old automatic-rifle fire: the site of a mass execution during the Revolution.",
+      "details": "Visual Calculus can reconstruct the scene as ghostly figures: a dozen or more blindfolded people facing the wall, a firing squad of seven, and a commandant standing to one side. Who died here is unknown; Kim suggests it could have been royalists killed by communists, communists killed by the Coalition, or staff of the nearby Feld research centre.\n\nKim adds that fully automatic rifles were restricted after the Revolution because they proved too destructive.",
+      "seeAlso": [
+        "revolution",
+        "visual-calculus",
+        "coalition",
+        "commune"
+      ]
+    },
+    {
+      "id": "sept-soeurs",
+      "term": "Sept Soeurs",
+      "aliases": [
+        "les Sept Soeurs",
+        "Seven Sisters"
+      ],
+      "caseSensitive": true,
+      "short": "'The Seven Sisters': seven old wooden stave churches that once stood on the coast. Most were destroyed; the church in Martinaise is a survivor.",
+      "details": "Kim explains that the others were burnt during the Revolution or taken apart for building materials. Accounts differ on whether one or two of the sisters still stand. The surviving church in Martinaise is a small, weather-beaten building put up by settlers from the Occident some 380 years ago.",
+      "seeAlso": [
+        "church",
+        "revolution",
+        "occident"
+      ]
+    },
+    {
+      "id": "stella-maris",
+      "term": "Stella Maris",
+      "caseSensitive": true,
+      "short": "A wealthy hillside suburb of Revachol East, and one of the three footholds of Operation Death Blow in '08.",
+      "details": "The map in the bookstore places it among the rich eastern suburbs, along with Le Jardin and Saint-Batiste. René Arnoux says Martinaise, Stella Maris and the Delta were the three footholds used in Revachol during Operation Death Blow in '08, and Joyce Messier mentions the wealthy keeping châteaus there.",
+      "seeAlso": [
+        "revachol",
+        "martinaise"
+      ]
+    },
+    {
+      "id": "sunken-motor-carriage",
+      "term": "Sunken Motor Carriage",
+      "caseSensitive": true,
+      "short": "A wrecked motor carriage lying half-sunk in the icy sea off the southern coast; the tyre tracks from the reckless canal jump lead here.",
+      "details": "Only the roof, rear wheels and engine show above the water. Kim estimates it went in over the weekend and suggests waiting for low tide to look inside, which you can do sitting on a nearby swing set.",
+      "spoiler": "It is your own police car, a Coupris 40 marked with the number 41 for your precinct. You drove it across the canal and into the sea during your binge, and it is a total write-off.",
+      "seeAlso": [
+        "motor-carriage",
+        "samaran-butter",
+        "precinct-41",
+        "kineema"
+      ]
+    },
+    {
+      "id": "tabernacle-road",
+      "term": "Tabernacle Road",
+      "caseSensitive": true,
+      "short": "A street in Jamrock where Lena lives; her address is 1113 Tabernacle Road.",
+      "seeAlso": [
+        "lena",
+        "jamrock"
+      ]
+    },
+    {
+      "id": "terminal-h",
+      "term": "Terminal H",
+      "caseSensitive": true,
+      "short": "A cargo terminal on the south bank of the River Esperance. Kim's Precinct 57 stands near its gates.",
+      "seeAlso": [
+        "precinct-57",
+        "harbour"
+      ]
+    },
+    {
+      "id": "the-pox",
+      "term": "The Pox",
+      "aliases": [
+        "Pox"
+      ],
+      "caseSensitive": true,
+      "commonWord": true,
+      "short": "A wild, overgrown slum south of the 8/81 motorway, around an abandoned military hospital right next to Harry's Precinct 41.",
+      "details": "The area grew up around the Old Military Hospital, which later served as a goodwill hospital for shell-shocked veterans and as a quarantine centre during a deadly measles outbreak, before it was shut down. Today it is a maze of nameless streets, cinderblock shacks and thickets roamed by feral dogs and even wolves. Drug users hole up in the old hospital, and the police keep the deepest corners cordoned off.",
+      "seeAlso": [
+        "8-81",
+        "precinct-41",
+        "jamrock"
+      ]
+    },
+    {
+      "id": "uamrao",
+      "term": "Uamrao",
+      "caseSensitive": true,
+      "short": "The world's largest canyon system, a dried-up riverbed in southeast Iilmaraa. Cryptozoologists say a giant bird was seen there.",
+      "details": "Lena explains that it lies east of the Erg desert and is vast, barren and mostly unexplored. It is where Dr. Plattenkalk, lost on a botanical expedition, says he followed the teratorn, a gigantic black bird.",
+      "seeAlso": [
+        "lena",
+        "cryptozoology",
+        "cryptid"
+      ]
+    },
+    {
+      "id": "vartna-polytechnic-institute",
+      "term": "Värtna Polytechnic Institute",
+      "caseSensitive": true,
+      "short": "A rather un-prestigious technical school where junior researcher Õlari Taal invented eternite about thirty years ago.",
+      "seeAlso": [
+        "olari-taal",
+        "eternite"
+      ]
+    },
+    {
+      "id": "video-revachol-24h",
+      "term": "Video Revachol, 24h",
+      "aliases": [
+        "Video Revachol",
+        "Video Revachol 24"
+      ],
+      "caseSensitive": true,
+      "short": "A 24-hour film rental shop on the corner of Voyager and Main in Revachol; your fingers still remember its phone number.",
+      "details": "It rents eight- and ten-millimetre film for home use. From the punch-clock payphone in the dockworkers' office at the harbour, you can try dialling a number from muscle memory and reach Lemmy, the clerk on duty, who is not much help over the phone.",
+      "spoiler": "It is the rental place you and your ex-wife used to visit. You still have their copy of the bleak film 'Blue Ocean Hell', rented in November '46 and never returned.",
+      "seeAlso": [
+        "revachol",
+        "harry"
+      ]
+    },
+    {
+      "id": "villalobos",
+      "term": "Villalobos",
+      "caseSensitive": true,
+      "short": "A quarter of Jamrock built around a housing project, and also a peninsula in Mesque whose dialect many Mesque Revacholians speak.",
+      "details": "Jamrock is made up of Pox, Villalobos, Central Jamrock, Grand-Couron, Old South and the Valley of the Dogs. Encyclopedia recognises a Villalobos accent in Tiago's voice, and reads the fading gang tattoos of one of the Hardie Boys as a youth spent in the Villalobos projects, with time behind bars.\n\nIt also turns up in Harry's old case notes: Villalobos gang members once beat an RCM officer to death when he answered a call.",
+      "seeAlso": [
+        "jamrock",
+        "precinct-41",
+        "hardie-boys"
+      ]
+    },
+    {
+      "id": "voyager-road",
+      "term": "Voyager Road",
+      "aliases": [
+        "Voyager and Main"
+      ],
+      "caseSensitive": true,
+      "short": "A street in Revachol that keeps surfacing in your memories. The 24-hour Video Revachol rental shop stands on the corner of Voyager and Main.",
+      "details": "If you phone Video Revachol, the clerk tells you to come by the corner of Voyager and Main, and Shivers shows you the shop's neon sign in the rain. Inland Empire later offers a fleeting, happy image of you walking from Voyager Road each morning.",
+      "spoiler": "Harry and Dora lived together at Voyager Road 21A, on the outskirts of Central Jamrock, when they were engaged; they used to rent videos at the shop at the end of the road. Her farewell note speaks of carrying a little piece of sadness down Voyager Road every morning.",
+      "seeAlso": [
+        "dora",
+        "harry",
+        "jamrock"
+      ]
+    },
+    {
+      "id": "vredefort",
+      "term": "Vredefort",
+      "caseSensitive": true,
+      "short": "The capital of Oranje: a conference city of parks, glass and duraluminium. Klaasje says she comes from there.",
+      "details": "Klaasje remembers it as a city of lilacs and lightning where it was always autumn and night. Vredefort has a military academy, a contemporary art centre with an absurd name (the Wompty-Dompty-Dom Centre), and the original men's workwear shop called Fritte, which is why the convenience store chain had to add a third 't'. It also turns up in radio weather reports.",
+      "spoiler": "The Hanged Man trained at the Ijsbrand Military Academy in Vredefort before serving in the Oranjese forces. Mercenaries' tattooed maps traditionally place Vredefort on the right shoulder.",
+      "seeAlso": [
+        "oranje",
+        "klaasje",
+        "wompty-dompty-dom-centre",
+        "frittte"
+      ]
+    },
+    {
+      "id": "wompty-dompty-dom-centre",
+      "term": "Wompty-Dompty-Dom Centre",
+      "aliases": [
+        "Wompty-Dompty-Dom Centre for Contemporary Arts",
+        "Wompty-Dompty-Dom Centre of Arts"
+      ],
+      "caseSensitive": true,
+      "short": "A contemporary art centre in Vredefort, Oranje, whose ridiculous name Trant Heidelstam drops with a perfectly straight face.",
+      "details": "Trant says he was a special consultant there for an exhibition ten years ago, working with head curator Paul Ockermann before the twins Keith and Guy Joost joined the team. Several of your skills cannot believe the name is real, but Trant insists you can visit it if you are ever in Vredefort and need an exhibition space.",
+      "seeAlso": [
+        "vredefort",
+        "oranje"
+      ]
+    },
+    {
+      "id": "yekokataa",
+      "term": "Yekokataa",
+      "aliases": [
+        "Zone of Ecological Catastrophe"
+      ],
+      "short": "A Graadian farming megaproject turned desolate wasteland; the name shortens 'Zone of Ecological Catastrophe'. Egg Head insists it's 'the place to be'.",
+      "details": "Encyclopedia explains that Yekokataa is an abbreviation of a Graadian term meaning 'Zone of Ecological Catastrophe'. It was a giant agricultural project in the far south-east of the Graadian isola, built on experimental irrigation and a completely new kind of fertilizer. Today it is a desolate place of irrigation ditches and phosphorous mud that supports almost no plant or animal life.\n\nEgg Head, one of the young ravers camped on the ice by the old church, keeps yelling that Yekokataa is 'the place to be' and a 'hard core' place. The racist lorry driver in the traffic jam claims it has lovely scenery and grows apples, which is plainly wrong. Steban the student communist even mentions a new board game about managing your own Zone of Ecological Catastrophe.",
+      "spoiler": "The Deserter, an old hardline communist, thinks artists and revisionists belong in Yekokataa doing hard labour.",
+      "seeAlso": [
+        "communism",
+        "isola",
+        "ulixes"
+      ]
     }
   ]
 }

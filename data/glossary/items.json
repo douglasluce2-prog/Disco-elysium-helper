@@ -1,0 +1,779 @@
+{
+  // Things you can carry or wear. Written from the game text.
+  "category": "Items",
+  "entries": [
+    {
+      "id": "a-brief-look-at-infra-materialism",
+      "term": "A Brief Look at Infra-Materialism",
+      "caseSensitive": true,
+      "short": "A pocket guide to infra-materialism, a mystical branch of communist theory; the student communists give it to you as your first reading assignment.",
+      "details": "Infra-materialism grew out of the ideas of Ignus Nilsen, one of Kras Mazov's closest associates. It claims that thoughts radiate out of the brain as politically charged energy called 'plasm', and that a community with enough revolutionary fervour could start to change physical reality: first boosting crop yields (and beards), and at the highest level suspending the laws of physics.\n\nThe guide admits that plasm has never been observed and that critics on all sides call it nonsense. Reading it lets you keep up with the reading group in the apartment building.",
+      "seeAlso": [
+        "communism",
+        "kras-mazov"
+      ]
+    },
+    {
+      "id": "a-folded-library-card",
+      "term": "A Folded Library Card",
+      "caseSensitive": true,
+      "short": "A rain-soaked Jamrock library card found on a dead man on the Martinaise boardwalk; it is your first lead to who he was.",
+      "details": "The card was issued by the Central Jamrock Public Library to someone named Billie Méjean, and the back lists recently borrowed books, mostly science fiction and thrillers. You can call the library from the radio in Kim's motor carriage to learn more.",
+      "spoiler": "Billie Méjean is the dead man's wife; he is her husband, Victor Méjean. The library can give you the family's home address in the apartment building by the pier, where the news has to be delivered.",
+      "seeAlso": [
+        "kim-kitsuragi",
+        "kineema",
+        "jamrock"
+      ]
+    },
+    {
+      "id": "a-note-from-the-fridge",
+      "term": "A Note from the Fridge",
+      "caseSensitive": true,
+      "short": "A note found in a giant ice-bear-shaped fridge in a cellar of the Doomed Commercial Area; it says where a valuable radiocomputer backup was hidden.",
+      "details": "The note is signed by Sulisław and says that an 'off-site copy' on a filament memory (a storage part for a radiocomputer) was moved into a frozen ice cream maker, out of reach of a thieving ginger kid. Kim has a good guess who that kid is.\n\nIt helps with the errand Soona the programmer gives you: recovering that copy from her old workspace.",
+      "seeAlso": [
+        "doomed-commercial-area",
+        "radiocomputer",
+        "cuno"
+      ]
+    },
+    {
+      "id": "ammonia-ampoule",
+      "term": "Ammonia ampoule",
+      "short": "A small capsule of ammonia to sniff; it helps you keep your stomach down while examining the reeking corpse behind the Whirling-in-Rags.",
+      "details": "When the smell of the hanging body and your hangover make you want to throw up, Kim suggests some ammonia to clear your head. Having it gives you a bonus on the check to hold it in, and lets you retry that check. The gardener in the plaza, who uses ammonium salts herself, can give you one, and the Frittte sells it too.\n\nSoona the programmer notes that, in a pinch, ammonia also works for cleaning oily radio antenna connections.",
+      "seeAlso": [
+        "the-hanged-man",
+        "frittte",
+        "white-check"
+      ]
+    },
+    {
+      "id": "antique-rifle",
+      "term": "Antique rifle",
+      "short": "An old Belle-Magrave rifle from the Revolution that you can find in a hidden weapons cache. It's beautiful, but it no longer fires.",
+      "details": "Kim identifies it as a Revolution-era Belle-Magrave: a Revacholian-made, breech-loading rifle in 4.46 calibre, known above all for its reliability. He admires it even though it has clearly been out of order for years. It lies with other, more damaged weapons in a cache hidden in a hole in the wall of the Doomed Commercial Area.\n\nYou can show it to people around Martinaise, such as René Arnoux, Titus Hardie or Steban the student communist, to hear what they make of it.",
+      "spoiler": "Its 4.46 mm calibre matches the bullet that killed the Hanged Man, which points you toward an old military rifle as the murder weapon (though not necessarily a Belle-Magrave).",
+      "seeAlso": [
+        "revolution",
+        "the-hanged-man",
+        "doomed-commercial-area",
+        "rene-arnoux",
+        "triangong"
+      ]
+    },
+    {
+      "id": "apricot-chewing-gum-wrapper",
+      "term": "Apricot Chewing Gum Wrapper",
+      "caseSensitive": true,
+      "short": "A crinkled 'Tutti Frutti' gum wrapper smelling of apricot and cinnamon, found in a pocket; it stirs a painful, half-buried memory.",
+      "details": "You find it in the pocket of a pair of work jeans once you put them on. Encyclopedia notes that apricot gum is made in Sur-la-Clef from Siigayan apricots, but your skills care more about the smell, which feels terribly familiar. Inland Empire begs you to throw it away.",
+      "spoiler": "The scent is tied to Harry's memories of the woman who left him; the Ledger of Failure smells of the same gum, and your mind calls her 'The Apricot Chewing Gum Scented One'.",
+      "seeAlso": [
+        "dora",
+        "siigay",
+        "inland-empire",
+        "limbic-system"
+      ]
+    },
+    {
+      "id": "armistice",
+      "term": "Armistice",
+      "aliases": [
+        "Kiejl A9",
+        "Kiejl A9/90",
+        "Armistice A9",
+        "A9 Armistice"
+      ],
+      "caseSensitive": true,
+      "commonWord": true,
+      "short": "Kim Kitsuragi's sidearm: a cheap, mass-produced Kiejl A9 muzzleloader, one of the most common guns in the world. He lends it to you only briefly.",
+      "details": "Encyclopedia describes the Kiejl A9/90 Armistice as a frugal, mass-produced single-shot muzzleloader. Like other muzzleloaders it has to be reloaded after every shot or two, but Kim insists it is precise enough at close range. Your hands seem to remember it, as if it was once your own weapon of choice.\n\nKim may hand it to you at a few tense moments, at the hanging tree or in the Whirling with the Hardie Boys, and he always takes it straight back.",
+      "seeAlso": [
+        "kim-kitsuragi",
+        "rcm",
+        "bullet"
+      ]
+    },
+    {
+      "id": "astra",
+      "term": "Astra",
+      "aliases": [
+        "Astra Whites",
+        "Astra Menthol",
+        "Red Astra"
+      ],
+      "caseSensitive": true,
+      "commonWord": true,
+      "short": "A legendary cigarette brand from Graad; with the local Drouin, it's what most Revacholians smoke today. The Frittte sells it.",
+      "details": "Variants you hear about include Astra Whites, Astra Menthol (Klaasje's brand) and Red Astra, a high-tar black-market version. You can buy a pack at the Frittte or from Rosemary in the Fishing Village, and the racist lorry driver in the traffic jam gives you one if you play along with him. Cuno will happily take a pack too.\n\nCigarettes raise your Intellect skills at the cost of Health, and lighting up can restart your old smoking habit.",
+      "seeAlso": [
+        "frittte",
+        "tioumoutiri",
+        "cuno",
+        "intellect"
+      ]
+    },
+    {
+      "id": "badge-ltn-2jfr-du-bois",
+      "term": "BADGE: LTN-2JFR DU BOIS",
+      "aliases": [
+        "LTN-2JFR DU BOIS"
+      ],
+      "caseSensitive": true,
+      "short": "Your RCM police badge, missing when the game begins; once found, it confirms your name, rank and precinct.",
+      "details": "The badge is a bluish card sealed in plastic, with an old photo of you, a watermark of Revachol West's street grid and a serial number. It names you as Harrier Du Bois of Precinct 41 in Jamrock, with the rank LTN-2JFR (lieutenant double-yefreitor), and was issued about four months ago.\n\nLosing it is serious: one of your first tasks is to report it missing to your station.",
+      "spoiler": "You can get it back very late in the case, out by the fishing village, in the company of officers from Precinct 41.",
+      "seeAlso": [
+        "harry",
+        "precinct-41",
+        "yefreitor",
+        "rcm"
+      ]
+    },
+    {
+      "id": "blue-medicinal-spirit",
+      "term": "Blue medicinal spirit",
+      "aliases": [
+        "medicinal spirits"
+      ],
+      "short": "A bottle of 98.7% pure blue alcohol that Rosemary sells in the Fishing Village for 300 réal. Your necktie insists you need it.",
+      "details": "Rosemary, the drunk shopkeeper of the Union of Moribund Alcoholics, says he got it from a doctor's office and calls it magic. The Horrific Necktie gives you a task built around it: buy the spirits and hold on to them until the time is right.",
+      "spoiler": "After Ruby's scene, the necktie leads a 'dark celebration' that turns the bottle into a spirit bomb. Keep it in hand during the violent standoff in the plaza: you can light it and throw it.",
+      "seeAlso": [
+        "horrific-necktie",
+        "fishing-village"
+      ]
+    },
+    {
+      "id": "blue-oblong-pen",
+      "term": "Blue oblong pen",
+      "short": "A plain blue pen that Kim Kitsuragi gives you when you need to write something, since you clearly don't own one.",
+      "details": "Kim hands it over when you need to write in your ledger or deal with paperwork, either kindly (he says he has another) or, if you push him, with open resentment. It's handy whenever someone has to sign something, such as the documents from Evrart Claire that need signatures in the Fishing Village, and you can lend it out or scribble comments in a magazine with it.\n\nThe only other pen around is a green one decorated with the 'kind green ape' cryptid.",
+      "seeAlso": [
+        "kim-kitsuragi",
+        "evrart-claire"
+      ]
+    },
+    {
+      "id": "boots-with-rotting-flesh",
+      "term": "Boots with Rotting Flesh",
+      "caseSensitive": true,
+      "short": "The hanged man's armoured boots, pried off the corpse with bits of him still stuck inside; cleaned up, they would make fine footwear.",
+      "details": "They are high-tech ceramic sabatons marked 'Fairweather T-500 / VE', covered in graceful whorls that hide a serial number. They need a thorough cleaning before you can wear them, and the industrial stove in the Whirling-in-Rags kitchen is one way to do it.\n\nThe serial number can be run through Alice, the radio officer at Precinct 57.",
+      "seeAlso": [
+        "the-hanged-man",
+        "alice",
+        "whirling-in-rags"
+      ]
+    },
+    {
+      "id": "box-with-locusts",
+      "term": "Box with locusts",
+      "short": "A fresh batch of live locusts that Morell the cryptozoologist gives you to restock the empty bait trap in the reeds.",
+      "details": "Morell and his wife Lena hunt the Insulindian Phasmid with funnel traps baited with locusts, hoping the creature will crawl in to feed and get stuck. When one trap turns up empty, you can promise to refill it, and Morell hands you the locusts to release into it.",
+      "spoiler": "No phasmid ate the missing locusts: Cuno took them for his 'Locust City'.",
+      "seeAlso": [
+        "insulindian-phasmid",
+        "lena",
+        "cryptozoology"
+      ]
+    },
+    {
+      "id": "bullet",
+      "term": "Bullet",
+      "caseSensitive": true,
+      "commonWord": true,
+      "autoDetect": false,
+      "short": "A single 9 mm bullet for a muzzleloader pistol. With your own gun and ammunition missing, it may be the only round you get.",
+      "details": "It fits any 9 mm muzzleloader, the kind of sidearm RCM officers carry, such as the Villiers pistol you are supposed to own. You can find it hidden under a loose floorboard in the shack in the Fishing Village.",
+      "spoiler": "It suggests Ruby has been secretly staying in the shack, and Kim says it's enough to confront the washerwoman with. Loaded into a gun, it gives you a shot during the violent standoff in the plaza.",
+      "seeAlso": [
+        "armistice",
+        "ruby",
+        "fishing-village"
+      ]
+    },
+    {
+      "id": "chaincutters",
+      "term": "Chaincutters",
+      "aliases": [
+        "chain-cutters",
+        "chaincutter"
+      ],
+      "short": "Rubber-handled cutters from the toolbox in Kim's motor carriage. You need them to cut through the hanged man's steel-reinforced belt.",
+      "details": "Kim keeps a pair of RCM-issue chaincutters in the toolbox of his Kineema and lets you use it. Besides freeing the body for the autopsy, they can snip chains and corroded padlocks on doors around Martinaise, though they're blunter than they look. You can even use them on the leaky faucet in the Whirling's bathroom.",
+      "seeAlso": [
+        "kineema",
+        "kim-kitsuragi",
+        "the-hanged-man"
+      ]
+    },
+    {
+      "id": "cindy-s-brush",
+      "term": "Cindy's brush",
+      "caseSensitive": true,
+      "short": "The paintbrush of Cindy the SKULL, a young graffiti artist by the pier. Get it from her and you can paint your own message on the wall.",
+      "details": "Cindy paints her big red mural with heavy fuel oil rather than paint. With the right approach she'll drop her brush for you, especially once she's out of fuel oil. Pair it with the red-dyed heavy fuel oil in the fuel canister from Kim's Kineema to add your own contribution to the wall, which counts toward Art Cop.",
+      "seeAlso": [
+        "cindy-s-painting",
+        "kineema",
+        "copotype"
+      ]
+    },
+    {
+      "id": "cindy-s-painting",
+      "term": "Cindy's painting",
+      "caseSensitive": true,
+      "short": "A painting by Cindy the SKULL that you can buy from her and resell at a profit, as part of your ultraliberal dream of getting rich.",
+      "details": "Cindy normally refuses to sell her art, since street art is meant for everyone, but she keeps a small painting tucked in her coat and will part with it for the right price. Savoir Faire immediately starts looking for a buyer. The Mega Rich Light-Bending Guy in the container yard is interested if you sell him a good story with it, and even a name.\n\nCompleting the sale moves your get-rich plans forward; he suggests your next step should be a Personal Brand Strategist.",
+      "seeAlso": [
+        "cindy-s-brush",
+        "ultraliberalism"
+      ]
+    },
+    {
+      "id": "commemorative-pin",
+      "term": "Commemorative pin",
+      "aliases": [
+        "Lena's pin"
+      ],
+      "short": "A tarnished gold pin from the 'Saint-Batiste Summer '31 Dinghy Races' that kind old Lena gives you to pawn when you ask her for money.",
+      "details": "It shows three sailboats with the sun behind them. Bird's Nest Roy at the pawnshop will pay 3.20 réal for it (a little over its value), and you can ask him to hold on to it for a while. Lena would clearly rather keep it, so you can give it back, or buy it back from Roy and return it, which is the honourable choice.",
+      "seeAlso": [
+        "lena",
+        "real"
+      ]
+    },
+    {
+      "id": "commodore-red",
+      "term": "Commodore Red",
+      "caseSensitive": true,
+      "short": "A cheap red wine sold in big green glass bottles; it seems to have been a favourite of yours during the binge that wiped your memory.",
+      "details": "It comes in 1.5 litre bottles. Garte, the Whirling's manager, may hand you the rest of his bottle once his love troubles with Sylvie are settled. Like all alcohol it boosts your Physique skills at the cost of Morale, and opening a bottle can restart your old drinking habit. Idiot Doom Spiral in the Fishing Village will trade stories for a bottle.",
+      "seeAlso": [
+        "amnesia",
+        "electrochemistry",
+        "frittte",
+        "garte",
+        "morale",
+        "physique"
+      ]
+    },
+    {
+      "id": "cursed-die",
+      "term": "Cursed die",
+      "aliases": [
+        "cursed dice"
+      ],
+      "short": "A tiny black sphere marked with six fatalistic phrases, which the Novelty Dicemaker makes for you if you ask for a 'cursed' die.",
+      "details": "Order it from Neha, the Novelty Dicemaker in the Doomed Commercial Area, by asking for a die as cursed as the area (or as your life). It costs seven réal and takes eight hours. The sphere pretends to be a six-sided die; its faces read 'God is indifferent', 'Take all', 'Lose all', '50/50', 'Nothing happens' and 'pale'. Neha says the design comes from Iilmaraa, where such dice were used to tell fortunes, and insists it isn't really cursed.",
+      "spoiler": "Neha has weighted it, so every roll lands on 'God is indifferent'. That, she says, is the curse.",
+      "seeAlso": [
+        "doomed-commercial-area",
+        "wirral-untethered-die",
+        "pale"
+      ]
+    },
+    {
+      "id": "damaged-ledger",
+      "term": "Damaged Ledger",
+      "aliases": [
+        "Ledger of Failure and Hatred",
+        "Ledger of Oblivion",
+        "Oblivion Ledger",
+        "Ledger of (Oblivion Induced) Mental Health"
+      ],
+      "caseSensitive": true,
+      "short": "Your official RCM ledger: a blue clipboard of soggy forms and case notes, fished out of a trash container. Reading it turns up pieces of your past.",
+      "details": "It holds old forms, summonses, notes on past cases and a few personal keepsakes, all damp and reeking of rubbish. Early on you use it to give the case an official name.\n\nLater it turns into a special tool you can hold in your hand for skill bonuses.",
+      "spoiler": "A card from a woman in your past is tucked inside. If you read it you black out, and Kim hands the ledger back as the Ledger of Failure and Hatred; if you let the wind take the card, it becomes the Ledger of Oblivion instead.",
+      "seeAlso": [
+        "rcm",
+        "kim-kitsuragi"
+      ]
+    },
+    {
+      "id": "deluxe-topping-pie",
+      "term": "Deluxe Topping Pie",
+      "caseSensitive": true,
+      "short": "A fancy vegan topping pie (pizza) with a wheat-free crust, given to you by Gary, a topping-pie courier; eating it restores some Health.",
+      "details": "Topping pie is the local name for a pizza-style pie. Gary, Morell's grumpy companion out by the reeds, admits he works as a 'special' topping pie delivery courier and offers you Revachol's best. This deluxe one has meatless bacon, avocado, pineapple, fig and basil on a wheat-free crust.\n\nAuthority considers it a bribe from a sleazy man. You can eat it, throw it on the ground, or try to share it with Kim, who is not keen.",
+      "seeAlso": [
+        "health",
+        "kim-kitsuragi"
+      ]
+    },
+    {
+      "id": "detached-scope",
+      "term": "Detached scope",
+      "hideUntilSeen": true,
+      "short": "A lone rifle scope that turns up late in the case, in a very strange place.",
+      "spoiler": "It lies in the Insulindian Phasmid's nest, together with a Fairweather T-500 helmet and Klaasje's passport. It seems to be the scope missing from the Deserter's rifle, which he used to watch people across the water.",
+      "seeAlso": [
+        "triangong",
+        "insulindian-phasmid"
+      ]
+    },
+    {
+      "id": "dick-mullen-and-the-mistaken-identity",
+      "term": "Dick Mullen and the Mistaken Identity",
+      "aliases": [
+        "Mistaken Identity"
+      ],
+      "caseSensitive": true,
+      "short": "A brittle Dick Mullen paperback from the local bookstore, in which Mullen is accused of murder; the last part of the book is missing.",
+      "details": "You can buy it from Plaisance's crime shelf, which is crammed with novels about the Vespertine detective Dick Mullen. In this one, Mullen drives his old friend Charlie Spillane to a coastal town, passes out drunk at home, and is later charged with Spillane's murder. Released for three days to find the real killer, he meets the mysterious Deanna Deneuve and stumbles onto an amphetamine smuggling ring.\n\nKim says the books are about dames and gunplay rather than real police work, and Esprit de Corps is offended by the police procedure.",
+      "spoiler": "There is no other copy to be found. In the end you have to decide for yourself who the killer was, and your skills happily go along with whatever you choose.",
+      "seeAlso": [
+        "annette",
+        "dick-mullen"
+      ]
+    },
+    {
+      "id": "dockworker-id-card",
+      "term": "Dockworker ID card",
+      "aliases": [
+        "shift card"
+      ],
+      "short": "A plastic shift card you can pickpocket from a dockworker snoring in the Whirling-in-Rags. It belongs to a man named John.",
+      "details": "Slipping it off him takes some Interfacing. You can then flash it at the harbour gates and claim to be a fellow worker, which fools no one, since the photo isn't you. Call Me Mañana, the dockworker at the gates, knows John and offers to get the card back to him; handing it over is the honourable choice.",
+      "seeAlso": [
+        "whirling-in-rags",
+        "union",
+        "measurehead"
+      ]
+    },
+    {
+      "id": "dried-wildflower",
+      "term": "Dried Wildflower",
+      "aliases": [
+        "dried May bells",
+        "dried May bell"
+      ],
+      "caseSensitive": true,
+      "short": "A few crumbling white petals you can catch on the Whirling-in-Rags roof, outside Klaasje's window; a small, odd clue.",
+      "details": "A handful of dried white wildflowers lies on the roof outside Klaasje's top-floor window. With quick hands you can save one before the wind blows the rest away; it then sits in your inventory as the Dried Wildflower.\n\nKim identifies it as a May bell (the Insulindian Lily), a spring flower that should not be blooming yet and looks deliberately dried. He and your skills suggest showing it to someone who remembers the Revolution, such as the old veteran René on the plaza.",
+      "spoiler": "The flowers were left on purpose by Iosef Lilianovich Dros, the old deserter on the Sea Fort island, where May bells grow wild. Linking the flower to him helps you reach the end of the case.",
+      "seeAlso": [
+        "may-bell",
+        "klaasje",
+        "rene-arnoux",
+        "kim-kitsuragi"
+      ]
+    },
+    {
+      "id": "filthy-jacket",
+      "term": "Filthy Jacket",
+      "caseSensitive": true,
+      "short": "A jacket so caked in sea muck and seagull droppings that it crunches; you can find it hanging on a railing by the boardwalk.",
+      "details": "The jacket seems to have spent time in the sea, been dragged along the beach and then baked in the sun on a railing. Examining it too closely only gets the filth on your hands.\n\nIt belongs to Idiot Doom Spiral in the Fishing Village, who has lost it. You can give it back as it is, or first have it cleaned by the washerwoman in the village.",
+      "spoiler": "Once washed, it turns out to be a perfectly good FALN jacket you can wear.",
+      "seeAlso": [
+        "idiot-doom-spiral",
+        "faln",
+        "fishing-village"
+      ]
+    },
+    {
+      "id": "fractured-bullet",
+      "term": "Fractured Bullet",
+      "caseSensitive": true,
+      "hideUntilSeen": true,
+      "short": "A squashed, military-grade bullet dug out of the hanged man's body during your examination, sealed by Kim in an RCM evidence bag.",
+      "details": "The bullet's yellowish jacket has burst open around a dark core; its base is about 5 mm across and shows faint rifling marks. It is unusual ammunition, and the next step is to find a gun that could have fired it.",
+      "spoiler": "It proves the victim was shot, not simply hanged. Ballistics later match it to the old rifle of Iosef Lilianovich Dros, the Deserter.",
+      "seeAlso": [
+        "the-hanged-man",
+        "kim-kitsuragi",
+        "iosef-dros"
+      ]
+    },
+    {
+      "id": "from-a-to-zrieek-a-guide-to-a-well-behaved-cockatoo",
+      "term": "From A to Zrieek! A Guide To a Well-Behaved Cockatoo",
+      "aliases": [
+        "From A to Zrieek",
+        "From A to Zrieek!",
+        "guide to cockatoos"
+      ],
+      "caseSensitive": true,
+      "short": "A colourful guide to pet cockatoos sold in the Martinaise bookstore; reading it lets you decide which kind of cockatoo you are.",
+      "details": "Plaisance sells it at Crime, Romance, and Biographies of Famous People, or you can try to steal it. The book stresses that every cockatoo species is needy, loud and full of behavioural problems.\n\nThe idea of a heraldic bird comes up while talking to the Working Class Woman in the plaza. Reading about the funeral cockatoo, the Major Majestic and the common grey 'bang-bang' lets you decide which one you are (or that you're a 'fuckatoo'), nudging your copotype toward Apocalypse, Superstar, Boring or Sorry Cop.",
+      "seeAlso": [
+        "copotype",
+        "doomed-commercial-area"
+      ]
+    },
+    {
+      "id": "gaston-s-sandwich",
+      "term": "Gaston's Sandwich",
+      "caseSensitive": true,
+      "short": "Gaston Martin's enormous ham sandwich, loaded with mayo, roasted onions and tomatoes; you can coax it off him on the plaza.",
+      "details": "Gaston keeps his lunch with him while playing pétanque with René. With the right words you can persuade him to hand it over.\n\nEating it restores a little health, and it is famously delicious. You can also share it with Kim or offer it to René.",
+      "seeAlso": [
+        "gaston-martin",
+        "rene-arnoux",
+        "health"
+      ]
+    },
+    {
+      "id": "hjelmdallermann-the-man-from-hjelmdall",
+      "term": "Hjelmdallermann: the Man from Hjelmdall",
+      "caseSensitive": true,
+      "short": "A tattered Man from Hjelmdall paperback sold at the bookstore, advertised as a good introduction to the series.",
+      "details": "The cover shows the hero standing on a pile of corpses with his twin greatswords, Sturm and Drang. Inside, he and his blood-brother Tyrbald fight off an undead army, then take on a quest for the southern king Lord Wrôthgär. It ends on a cliffhanger urging you to buy the next book, 'Hjelmdallermann at the Gates of Tomorrow'.\n\nCuno, the foul-mouthed kid in the yard, will take a Hjelmdall book off your hands, which can help you make peace with him after a failed attempt to hit him.",
+      "seeAlso": [
+        "cuno",
+        "man-from-hjelmdall",
+        "man-from-hjelmdall-and-the-devil-woman",
+        "plaisance"
+      ]
+    },
+    {
+      "id": "la-fumee",
+      "term": "La Fumée",
+      "aliases": [
+        "La Fumée, Vol. 1 No. 4"
+      ],
+      "caseSensitive": true,
+      "short": "A small Martinaise quarterly of radical Mazovian (communist) thought; Kim says the copy you can read was lying around the Union's offices.",
+      "details": "Its name comes from Kras Mazov's phrase 'Du cristal à la fumée', describing how the rigid structures of capitalist ideology turn to smoke under communism. The issue you find has a satirical cover of the late King Frissel wearing white antlers (a communist symbol) and sections on international news, culture ('Kunst und Kultur') and local concerns. It carries no advertising, and Kim suspects the dockworkers' Union bankrolls it.\n\nOne essay, a critique of the TipTop Tournée motor carriage race signed 'Nasteb' and 'Exilus', turns out to be the work of the student communists Steban and Ulixes. You can scribble your own comments in it with a pen and show them.",
+      "spoiler": "The essay's two bylines are pen names of the student communists you can meet in the apartment building, and you can show or give them the magazine.",
+      "seeAlso": [
+        "communism",
+        "kras-mazov",
+        "tiptop-tournee",
+        "union"
+      ]
+    },
+    {
+      "id": "man-from-hjelmdall-and-the-devil-woman",
+      "term": "Man from Hjelmdall and the Devil Woman",
+      "aliases": [
+        "Devil Woman"
+      ],
+      "caseSensitive": true,
+      "short": "A well-thumbed Man from Hjelmdall novel from the bookstore, in which the hero is captured by a wicked queen in a jungle citadel.",
+      "details": "The muscle-bound hero crash-lands in a jungle, is captured by female warriors and taken to Cloud City, where the wicked Queen Lydiaana tries to seduce him into leading her armies. You can buy it from Plaisance, the bookseller, and read it from your inventory.\n\nPlaisance calls the series violent and rather immoral, but admits it sells very well. Joyce Messier jokingly borrows the title when talking about women.",
+      "spoiler": "Cuno will accept this book as a peace offering if you need to make up with him.",
+      "seeAlso": [
+        "cuno",
+        "doomed-commercial-area",
+        "hjelmdallermann-the-man-from-hjelmdall",
+        "man-from-hjelmdall",
+        "plaisance"
+      ]
+    },
+    {
+      "id": "medicinal-purposes-of-the-pale",
+      "term": "Medicinal Purposes of the Pale",
+      "aliases": [
+        "Medicinal Purposes"
+      ],
+      "caseSensitive": true,
+      "short": "An esoteric book of pale-based herbal medicine from the bookstore's paranormal shelf; Encyclopedia calls it quackery.",
+      "details": "The heavy tome claims to collect the wisdom of Seolite healers, Mesque mystics and Iilmaraan folk doctors. It recommends strolls and meditation in the pale, swatting yourself with birch twigs from the 'near-pale', and drinking spirits aged in jars buried just inside the pale. Encyclopedia dismisses it all as quackery.\n\nIts pharmacopoeia lets you combine ingredients such as ginger, mint, birch bark, aloe and whiskey into teas, tinctures and poultices. None of them cures your hangover, but one relaxing tea restores a point of Morale.",
+      "seeAlso": [
+        "morale",
+        "pale",
+        "pale-aged-vodka",
+        "plaisance"
+      ]
+    },
+    {
+      "id": "oranjese-passport",
+      "term": "Oranjese Passport",
+      "caseSensitive": true,
+      "hideUntilSeen": true,
+      "short": "A passport from the Republic of Oranje that Klaasje hid in a plastic buoy out in the reeds along the coast.",
+      "details": "Klaasje tells you where she hid it, and you can fish it out of the buoy. The photo shows her with short black hair and glasses.",
+      "spoiler": "It is issued to 'Katarzine Alasije', not to Annouk Meijer-Smit as she claimed. Kim concludes that neither name, nor Klaasje, is likely to be her real identity.",
+      "seeAlso": [
+        "klaasje",
+        "oranje"
+      ]
+    },
+    {
+      "id": "pale-aged-vodka",
+      "term": "Pale-aged vodka",
+      "aliases": [
+        "pale-aged liquor"
+      ],
+      "short": "Rare, very strong and very expensive vodka that has been stored in the pale for years. The Frittte keeps it behind the counter.",
+      "details": "The Frittte clerk explains that it is aged in the pale for a couple of years, which makes it pricey and potent. The book Medicinal Purposes of the Pale recommends burying jars of spirits just inside the pale for 30 to 60 days, depending on the strength you want. Electrochemistry treats a bottle as a gift from the gods, and Idiot Doom Spiral in the Fishing Village will take one in exchange for stories.",
+      "seeAlso": [
+        "pale",
+        "frittte",
+        "medicinal-purposes-of-the-pale"
+      ]
+    },
+    {
+      "id": "photo-of-tattoos",
+      "term": "Photo of Tattoos",
+      "caseSensitive": true,
+      "short": "Kim's instant photograph of the hanged man's tattooed chest, taken so you can study the tattoo and show it to people.",
+      "details": "The tattoo is a web of fading blue lines running from the right shoulder to the solar plexus, with a small white star wherever lines cross; the stars cluster around the heart. It could be a star chart, a map or just decoration, and you won't work it out alone, so ask around.",
+      "spoiler": "Joyce Messier recognises it as an Oranjese Map of the Waterways, an old sailor's tattoo that later became a mercenary tradition.",
+      "seeAlso": [
+        "the-hanged-man",
+        "kim-kitsuragi",
+        "joyce-messier",
+        "oranjese-map-of-the-waterways"
+      ]
+    },
+    {
+      "id": "plastic-rain-coat",
+      "term": "Plastic Rain Coat",
+      "caseSensitive": true,
+      "short": "A cheap, transparent raincoat with a big 'FRITTTE' slogan on the back, sold at the Frittte convenience store for four réal.",
+      "details": "The coats sit in packets on a low shelf near the counter. You can buy one from the clerk or try to steal one, which the clerk is not happy about if you get caught. Composure may point you to it when it rains.",
+      "seeAlso": [
+        "frittte",
+        "real"
+      ]
+    },
+    {
+      "id": "police-badge",
+      "term": "Police badge",
+      "short": "Your RCM identification badge, which you lost along with your gun during your binge. Finding it is one of your tasks.",
+      "details": "Without it you have trouble proving you're a police officer, and Kim suggests reporting it missing to the station over the radio in his motor carriage. Once you have it back, it shows your full name, your rank (LTN-2JFR, lieutenant double-yefreitor), your precinct, a serial number and an old photo of a younger, winking you.\n\nLooking at it with Kim lets him explain your rank and the RCM's 'décomptage' system of counting ranks down to twos.",
+      "seeAlso": [
+        "harry",
+        "rcm",
+        "yefreitor",
+        "precinct-41",
+        "kineema"
+      ]
+    },
+    {
+      "id": "policeman-cloak",
+      "term": "Policeman Cloak",
+      "aliases": [
+        "patrol cloak"
+      ],
+      "caseSensitive": true,
+      "short": "A tarpaulin RCM cloak flapping on a railing high above the harbour's container yard; it is yours, and getting it means a daring jump.",
+      "details": "Esprit de Corps and Perception spot the white RCM rectangle on its back, and Kim agrees it is most likely the service cloak your station issued you. It hangs over a long drop, so you have to leap down from the ledge to grab it (or come at it from below).\n\nThe jump also takes you down into the harbour area, a back way in that avoids the strikers at the gates.",
+      "seeAlso": [
+        "rcm",
+        "harbour",
+        "kim-kitsuragi",
+        "savoir-faire"
+      ]
+    },
+    {
+      "id": "porta-reel",
+      "term": "Porta-reel",
+      "aliases": [
+        "porta-reel boombox"
+      ],
+      "short": "The in-world word for a portable tape player. You can buy a gold-and-amber boombox at the pawnshop to play the tapes you find.",
+      "details": "Some evidence comes on tape, such as the 'Great Doorgunner Megamix' Titus Hardie gives you, and you need a player to hear it. Bird's Nest Roy at the pawnshop has a shelf of well-worn boomboxes; the one that catches your eye is a gold-and-amber Harmon Wowshi, and you can haggle over the price.\n\nYou can carry it around on your shoulder; when no tape is playing, it tunes back to cheerful radio beats.",
+      "seeAlso": [
+        "titus-hardie"
+      ]
+    },
+    {
+      "id": "potent-pilsner",
+      "term": "Potent Pilsner",
+      "caseSensitive": true,
+      "short": "Cheap, mass-produced beer with well over 10% alcohol, sold at the Frittte and by Rosemary in the Fishing Village.",
+      "details": "Electrochemistry calls it piss water but loves it anyway, and Jean Vicquemare mocks how much of it you supposedly drink every hour. Like other alcohol it raises your Physique skills and damages Morale. Idiot Doom Spiral in the Fishing Village will swap stories for one.",
+      "seeAlso": [
+        "frittte",
+        "jean-vicquemare",
+        "physique"
+      ]
+    },
+    {
+      "id": "primer-book",
+      "term": "Primer Book",
+      "aliases": [
+        "A Primer for Small Kids"
+      ],
+      "caseSensitive": true,
+      "short": "A colourful alphabet book for very small children, sold at the bookstore in the Doomed Commercial Area; a task suggests it might help you relearn the basics.",
+      "details": "Its title is 'A Primer for Small Kids', and an anthropomorphic bear guides the reader through it. Each page pairs a letter with one word and a faded picture, from 'Azimuth' and 'Diamat' to 'Warheit' and 'Zenith'. Conceptualization recognises many of the words as IL, the International Language created by scientists from Graad in the Twenties.\n\nThe bookseller is baffled that a grown man wants it. Reading it takes a moment and leaves you knowing the alphabet, which you can proudly report to Kim.",
+      "seeAlso": [
+        "doomed-commercial-area",
+        "encyclopedia",
+        "kim-kitsuragi"
+      ]
+    },
+    {
+      "id": "pyrholidon",
+      "term": "Pyrholidon",
+      "short": "A rare synthetic hallucinogen, also used to treat radiation sickness. It boosts your Psyche skills at the cost of Health.",
+      "details": "Electrochemistry calls it the double rainbow of synthetic hallucinogens, a product of the atomic age, and it is hard to find on the street. Bird's Nest Roy at the pawnshop has taken it ever since the People's Pile disaster and can share some with you, and you can also confiscate a phial from the Pigs, an unhinged woman on the boardwalk.\n\nTaking it gives +1 to Empathy, Suggestion, Authority, Inland Empire, Esprit de Corps and Volition, which helps before a White Check, but it damages your Health.",
+      "seeAlso": [
+        "psyche",
+        "health",
+        "white-check"
+      ]
+    },
+    {
+      "id": "ruby-s-journal",
+      "term": "Ruby's Journal",
+      "caseSensitive": true,
+      "short": "Ruby's worn brown leather journal, full of coded logistics notes, radio diagrams and frank personal reflections.",
+      "details": "About two thirds of its pages are filled with dated entries. Much of the practical material is in code, the diagrams deal with esoteric radio technology, and the personal passages show someone wrestling with hard decisions and expecting betrayal. Kim thinks a codebreaker at his station could make use of it.",
+      "spoiler": "You find it in Ruby's tent in her hiding place. The recent entries show she feared that 'M' (the drug boss known as La Puta Madre) had sent someone to kill her, and she admits that staging a lynching is a crime in itself. Her diagrams relate to a device called the Latitude Compressor.",
+      "seeAlso": [
+        "ruby",
+        "hardie-boys",
+        "the-hanged-man"
+      ]
+    },
+    {
+      "id": "sixteen-days-of-coldest-april",
+      "term": "Sixteen Days of Coldest April",
+      "caseSensitive": true,
+      "short": "A heavy, grim Graadian novel by Yekartina Dahl, misplaced on the bookstore's romance shelf; you can buy it and try to read it.",
+      "details": "Set during the Yugo-Graad Riots of the Twenties, it follows two young people who fall for each other amid the street violence, told in cold and exhausting detail. The book is so heavy it feels lined with lead. You can push through it (Pain Threshold enjoys the suffering) or decline to subject yourself to Graadian realism.\n\nSteban the student communist may ask what you made of it.",
+      "spoiler": "The lovers betray each other and are crushed by the state: he ends up a lens-grinder, she spends decades at a fish processing plant, and both die alone with their regrets.",
+      "seeAlso": [
+        "doomed-commercial-area",
+        "pain-threshold"
+      ]
+    },
+    {
+      "id": "stock-certificate",
+      "term": "Stock Certificate",
+      "caseSensitive": true,
+      "short": "A (photocopied) certificate for shares in Mauer-Koshlai Mercury Group, written in a flamboyant, nearly unreadable script; proof of your new net worth.",
+      "details": "The Mega Rich Light-Bending Guy gives it to you instead of cash when he buys a piece of art from you. Deciphering the curly font takes Perception and Logic; at the top is a sketch of a girl riding an industrial drill above a river of liquid metal.\n\nOn the money-minded path you can show it off to various people to prove you are a serious player.",
+      "seeAlso": [
+        "ultraliberalism",
+        "logic",
+        "perception"
+      ]
+    },
+    {
+      "id": "suzerainty-the-board-game",
+      "term": "Suzerainty: The Board Game",
+      "caseSensitive": true,
+      "short": "A 'family' strategy board game from the bookstore in which players are administrators exploiting Revachol's colonies for the old king's glory.",
+      "details": "It costs 12 réal. Players place workers in four vassal lands to gather apricots, marble, sugar and magenta cocaine, fulfil contracts and build monuments back in Revachol for victory points. The cheerful artwork of smiling labourers sits awkwardly with its subject, and Rhetoric suspects a political agenda.\n\nYou can open it, read the rules and talk Kim into playing a game with you.",
+      "seeAlso": [
+        "suzerain",
+        "siigay",
+        "kim-kitsuragi",
+        "doomed-commercial-area"
+      ]
+    },
+    {
+      "id": "the-great-doorgunner-megamix",
+      "term": "The Great Doorgunner Megamix",
+      "aliases": [
+        "Great Doorgunner Megamix",
+        "Doorgunner Megamix"
+      ],
+      "caseSensitive": true,
+      "short": "An audio tape Titus Hardie slams on the table, claiming it proves the dead man was a killer; you need a tape player to hear it.",
+      "details": "The Hardie Boys named it themselves and say you will understand why once you listen. Finding a way to play it (a boombox or a porta-reel) becomes a task, and Klaasje has her own view of what is on it.",
+      "spoiler": "It holds drunken, static-filled recordings of the hanged mercenary boasting of war atrocities and threatening the 'dancer' upstairs, which is how the Hardies justify the lynching. An experimental-music fan at the pawnshop would love it.",
+      "seeAlso": [
+        "titus-hardie",
+        "hardie-boys",
+        "the-hanged-man",
+        "klaasje"
+      ]
+    },
+    {
+      "id": "the-greatest-innocence",
+      "term": "The Greatest Innocence",
+      "aliases": [
+        "Greatest Innocence"
+      ],
+      "caseSensitive": true,
+      "short": "A huge, heavy history book about the innocences, sold at Plaisance's bookstore; finishing it springs a pop quiz on you.",
+      "details": "Written by João Paolo Salomao Lopez de Fuego, it surveys history and religion through the innocences, the rare world-historical figures who have led the known world. Plaisance calls it an important and daring educational work that re-examines the whole innocentic system.\n\nWhen you finish reading, the book tests you with four questions: who was the first, the strongest, the false and the greatest innocence. Encyclopedia is very eager to help, though it is not always right.",
+      "spoiler": "The book's answers: the first innocence was the Perikarnassian, the strongest was Franconegro, the false one was Ernö Pasternak, and the greatest, in the author's view, is Dolores Dei. Questions about Dolores Dei stir up strange, painful feelings in you that have nothing to do with the quiz.",
+      "seeAlso": [
+        "dolores-dei",
+        "encyclopedia",
+        "innocence",
+        "the-perikarnassian"
+      ]
+    },
+    {
+      "id": "tioumoutiri",
+      "term": "Tioumoutiri",
+      "caseSensitive": true,
+      "short": "An old-fashioned cigarette brand with paper filters, lots of tar and a sweet smell, smoked mostly by older men.",
+      "details": "Its logo is the silhouette of a boy in a kofia hat picking tobacco. The brand is named after Tioumoutiri, a former Revacholian colony on Iilmaraa that was known for its tobacco exports. Most Revacholians today prefer Astra or the local Drouin, so Tioumoutiri butts stand out.",
+      "spoiler": "Tioumoutiri butts turn up both at Land's End and in a hidden mattress nest in the old sea fort, suggesting the same person visited both places.",
+      "seeAlso": [
+        "astra"
+      ]
+    },
+    {
+      "id": "triangong",
+      "term": "Triangong",
+      "aliases": [
+        "Triangong 4-46",
+        "Triangong 4.46"
+      ],
+      "caseSensitive": true,
+      "hideUntilSeen": true,
+      "short": "A rifle model, the Triangong 4.46, made in Hsin-Yao. You only come across one very late in the case.",
+      "details": "The make and origin are burnt into its wooden butt, along with the slogan 'For Safre, and for all mankind'.",
+      "spoiler": "It belongs to Iosef Lilianovich Dros, the Deserter, who used it to shoot the Hanged Man from about a kilometre away across the water. You can pick it up from the sand and keep it.",
+      "seeAlso": [
+        "antique-rifle",
+        "detached-scope",
+        "iosef-dros",
+        "the-hanged-man"
+      ]
+    },
+    {
+      "id": "vodka-borscht",
+      "term": "Vodka-borscht",
+      "short": "A thermal cup of borscht spiked with vodka, ladled out by Gorący Kubek, the cook at the Whirling-in-Rags. It counts as alcohol.",
+      "details": "Gorący Kubek doesn't speak your language, but he happily shares his brew, and if you egg him on he pours half a bottle of vodka into the pot. Harry describes it as the special strike brew the Union uses. Like other alcohol it boosts your Physique skills while hurting Morale.",
+      "seeAlso": [
+        "whirling-in-rags",
+        "union",
+        "physique"
+      ]
+    },
+    {
+      "id": "white-envelope",
+      "term": "White Envelope",
+      "caseSensitive": true,
+      "short": "An envelope of legal papers from Evrart Claire for a youth centre in the Fishing Village; it needs signatures from two residents.",
+      "details": "Inside are the construction documents: a building period of 12 to 40 months and a zoning plan for a three-storey youth centre jutting into the sea and covering most of the village's street and square. Evrart wants it signed by Isobel Sadie (the Washerwoman) and Lilienne Carter, the net picker, and then mailed back to him.",
+      "spoiler": "Both women are wary of Union paperwork. You can also try forging the signatures or getting the village drunks to sign, but Logic points out that the drunks' signatures are worthless.",
+      "seeAlso": [
+        "evrart-claire",
+        "washerwoman",
+        "fishing-village",
+        "union"
+      ]
+    },
+    {
+      "id": "wirral-untethered-die",
+      "term": "Wirrâl Untethered die",
+      "caseSensitive": true,
+      "short": "A custom role-playing die you can order from the Novelty Dicemaker: alligator jawbone cast in black resin, themed on ice, death and loss.",
+      "details": "Neha, the Novelty Dicemaker in the Doomed Commercial Area, makes a die for whatever role-playing system you name. Ask for one for Wirrâl Untethered (the bleak setting of an unfinished radio game by the studio Fortress Accident) and she designs a variation of the standard Wirrâl die that swaps its plant motifs for ice and death. It costs seven réal and is ready eight hours after you order it.\n\nIt feels icy to hold; through the dark resin you can see a nugget of bone from an alligator's jaw.",
+      "seeAlso": [
+        "doomed-commercial-area",
+        "cursed-die",
+        "real"
+      ]
+    },
+    {
+      "id": "yellow-man-mug",
+      "term": "Yellow Man Mug",
+      "short": "A broken mug with a racist caricature of 'the yellow man' frolicking in saffron, which you can dig out of the trash container in the Whirling's yard.",
+      "details": "It was thrown away in the same container as some clothes worth investigating, so it works as a clue: you can show it to people around Martinaise and see who reacts. Trying to have deep thoughts about it mostly gets you told to get back to your case.",
+      "spoiler": "It matches the collection of colonial mugs in the apartment of Gary, the Cryptofascist, pointing to him as the one who has been dumping things in the Whirling's trash.",
+      "seeAlso": [
+        "whirling-in-rags"
+      ]
+    }
+  ]
+}

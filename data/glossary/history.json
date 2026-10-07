@@ -2,31 +2,482 @@
   "category": "History",
   "entries": [
     {
+      "id": "revolution",
       "term": "Revolution",
-      "aliases": ["the Revolution", "Revacholian Revolution", "the revolution"],
+      "aliases": [
+        "the Revolution",
+        "the revolution",
+        "Antecentennial Revolution",
+        "Turn-of-the-Century Revolution",
+        "Turn-Of-The-Century Revolution",
+        "Centennial Revolution",
+        "turn of the century revolutions"
+      ],
       "caseSensitive": true,
       "commonWord": true,
       "short": "The communist uprising in Revachol, about fifty years before the game. It overthrew the monarchy.",
-      "details": "Communist revolutionaries took the city from its royal government and founded the Commune. Their victory was short-lived: the Coalition of foreign nations invaded and crushed it. The Revolution is still a living memory for older characters, and the scars (bullet holes, ruins, grudges) are everywhere.",
+      "details": "Communist revolutionaries took the city from its royal government and founded the Commune. Their victory did not last: the Coalition of foreign nations invaded and crushed it. The Revolution is still a living memory for older characters, and the scars (bullet holes, ruins, grudges) are everywhere.\n\nThe game also calls it the Antecentennial or Turn-of-the-Century Revolution. It was not limited to Revachol: in Graad, Kras Mazov headed a revolutionary government of his own.",
       "inspiredBy": "The Paris Commune of 1871 and the revolutions of the 20th century.",
-      "seeAlso": ["commune", "coalition", "communism", "royalists"]
+      "seeAlso": [
+        "commune",
+        "coalition",
+        "communism",
+        "royalists"
+      ]
     },
     {
+      "id": "commune",
       "term": "Commune",
-      "aliases": ["the Commune", "Revacholian Commune", "Communard", "Communards", "communard", "communards"],
+      "aliases": [
+        "Commune of Revachol",
+        "the Commune",
+        "Revacholian Commune",
+        "Communard",
+        "Communards",
+        "communard",
+        "communards",
+        "Revachol commune"
+      ],
       "caseSensitive": true,
       "commonWord": true,
       "short": "The short-lived communist government of Revachol after the Revolution. Its members were Communards.",
-      "details": "The Commune ruled Revachol until the Coalition invaded and destroyed it. Its defeat shaped the city's present: foreign rule, poverty, and an RCM police force improvised from citizens.",
+      "details": "The Commune of Revachol was declared in '02 and ruled the city until the Coalition invaded and destroyed it several years later. Its army was the Insulindian Citizens Militia (ICM), and the RCM may descend from it.\n\nCommunists are still called communards today.",
       "inspiredBy": "The Paris Commune of 1871, whose members were also called Communards and which was also crushed by force.",
-      "seeAlso": ["revolution", "coalition", "communism"]
+      "seeAlso": [
+        "revolution",
+        "coalition",
+        "communism"
+      ]
     },
     {
+      "id": "royalists",
       "term": "Royalists",
-      "aliases": ["royalist", "monarchist", "monarchists"],
+      "aliases": [
+        "royalist",
+        "kingsman",
+        "kingsmen"
+      ],
       "short": "Supporters of Revachol's old monarchy, which the communist revolution overthrew.",
-      "details": "Some old veterans, like René Arnoux, fought for the king against the revolutionaries and still hold onto that loyalty.",
-      "seeAlso": ["rene-arnoux", "revolution", "reactionary"]
+      "details": "Some old veterans, like René Arnoux of the Royal Carabineers, fought for the king against the revolutionaries and still hold onto that loyalty.",
+      "seeAlso": [
+        "rene-arnoux",
+        "revolution",
+        "reactionary"
+      ]
+    },
+    {
+      "id": "beachhead",
+      "term": "Beachhead",
+      "aliases": [
+        "the Beachhead",
+        "Martinaise Beachhead"
+      ],
+      "caseSensitive": true,
+      "commonWord": true,
+      "short": "The Coalition's amphibious landing to retake Revachol from the Commune in '08; Martinaise was one of the three places where the troops came ashore.",
+      "details": "René Arnoux explains that the operation, called Operation Death Blow, used Martinaise as one of three footholds in the city, the others being Stella Maris and the Delta. The district was shelled first to 'soften up' the communists, which is why it is still full of bomb craters and war damage.\n\nFor Joyce Messier the Beachhead is the day the Coalition took the city, and she sees the present as a shadow cast by that day. René, a royalist veteran, hates the foreigners but calls them the lesser evil.",
+      "seeAlso": [
+        "revolution",
+        "commune",
+        "coalition",
+        "martinaise",
+        "rene-arnoux"
+      ]
+    },
+    {
+      "id": "church-raid",
+      "term": "Church raid",
+      "aliases": [
+        "police raid"
+      ],
+      "short": "A secret police raid that shot up the old church in Martinaise some time ago and left it abandoned; nobody likes to talk about it.",
+      "details": "Tiago, who lives in the church, says it was abandoned after a police raid, and suddenly goes flat when asked about it. Kim heard the place was shot to pieces in a clandestine operation involving three precincts, reportedly including Harry's own Precinct 41. He knows nothing more and prefers not to pry into other districts' business.",
+      "spoiler": "If you ask your colleagues from Precinct 41 about it, Jean Vicquemare admits there may have been a raid on 'some churches' because the RCM's enemies were believed to be hiding in one. He refuses to say more, telling you your security clearance is far too low right now.",
+      "seeAlso": [
+        "church",
+        "precinct-41",
+        "rcm",
+        "jean-vicquemare"
+      ]
+    },
+    {
+      "id": "co-hoi",
+      "term": "Co Hoi",
+      "aliases": [
+        "Co Hoi-style",
+        "Co Hoi massacre"
+      ],
+      "caseSensitive": true,
+      "short": "A village in South Safre made infamous by war crimes in the long proxy war between Graad and Safre; mercenaries use its name as shorthand for atrocity.",
+      "details": "Encyclopedia explains that the South Safre conflict has been raging for 12 years with atrocities piling up daily, most of them committed by Graad. Titus Hardie describes the dead mercenary as a man who 'had Co Hoi and Semenine written all over him'. Kim suspects that 'Co Hoi' is simply merc talk for slaughter.",
+      "spoiler": "On a tape of the dead mercenary's voice he threatens to do the people at the Whirling 'Co Hoi-style'. Klaasje says he never told her he had served there, but that he lived 'his own little Co Hoi' all the same.",
+      "seeAlso": [
+        "mercenaries",
+        "the-hanged-man",
+        "klaasje"
+      ]
+    },
+    {
+      "id": "croix-de-bravoure",
+      "term": "Croix de Bravoure",
+      "aliases": [
+        "Cross of Valour"
+      ],
+      "caseSensitive": true,
+      "short": "The 'Cross of Valour', the highest battlefield medal of the old royal army. René Arnoux still wears one pinned to his uniform.",
+      "details": "Encyclopedia describes it as the top award for exceptional bravery in the armed forces of King Frissel the First, the king who was executed during the Revolution. The medal shows a crowned head in front of two crossed rifles, hanging from a blue striped triangle.\n\nRené says he got his for bravery, after dragging a badly wounded royal officer, Drysant, out of a disastrous battle. He also wears the Setting Sun, a separate medal given to seasoned combat veterans.",
+      "seeAlso": [
+        "rene-arnoux",
+        "drysant",
+        "royalists",
+        "revolution"
+      ]
+    },
+    {
+      "id": "dobreva-and-abadanaiz",
+      "term": "Dobreva and Abadanaiz",
+      "aliases": [
+        "Abadanaiz",
+        "Dobreva",
+        "Dual Commissars of Revolution",
+        "Jean Abadanaiz",
+        "Julia Dobreva",
+        "Revolutionary Lovers"
+      ],
+      "caseSensitive": true,
+      "short": "Julia Dobreva and Jean Abadanaiz, the 'Revolutionary Lovers': legendary joint commissars of the communist revolution in Insulinde.",
+      "details": "Dobreva came from Graad and Abadanaiz was born in Revachol. Steban, the student communist, describes her as a brilliant, charismatic comet and him as the steady partner who kept her in orbit. They served together as Dual Commissars of Revolution, and their forbidden love and disappearance when the Commune collapsed made them legends.\n\nJoyce Messier, for her part, claims Dobreva ended up with a bullet in her head. Encyclopedia considers the pair a deep cut, but young communists in Martinaise still invoke their names.",
+      "spoiler": "'Remember Dobreva and Abadanaiz' is the passphrase that opens the metal grille door to the student communists' secret reading group in the Capeside Apartments.",
+      "seeAlso": [
+        "commune",
+        "communism",
+        "insulinde",
+        "revolution"
+      ]
+    },
+    {
+      "id": "ecole-de-controle-aerien",
+      "term": "Ecole de Contrôle Aérien",
+      "caseSensitive": true,
+      "short": "A military training school of the Revolution's army, the Insulindian Citizens Militia. The French name means 'School of Air Control'.",
+      "spoiler": "The Deserter, an old communard soldier, says he was recruited in Jamrock in '07, trained here, and assigned to emergency defence duties in '08.",
+      "seeAlso": [
+        "revolution",
+        "commune",
+        "iosef-dros"
+      ]
+    },
+    {
+      "id": "eleven-day-government",
+      "term": "Eleven Day Government",
+      "caseSensitive": true,
+      "short": "The revolutionary government that Kras Mazov headed in Graad during the Turn-of-the-Century Revolution.",
+      "details": "Encyclopedia brings it up whenever Mazov does: the economist and historian, father of scientific communism, was a leading figure on the Graad side of that revolution (also called the Centennial Revolution) and led this government.",
+      "seeAlso": [
+        "kras-mazov",
+        "communism"
+      ]
+    },
+    {
+      "id": "filippe-iii",
+      "term": "Filippe III",
+      "aliases": [
+        "Filippe III the Squanderer",
+        "Filippe III, the Squanderer",
+        "Filippe the III",
+        "Filippe the Third",
+        "Fillipe III",
+        "King Filippe III",
+        "Old Filippe",
+        "Squanderer",
+        "the Squanderer"
+      ],
+      "caseSensitive": true,
+      "short": "An extravagant old king of Revachol nicknamed the Squanderer; his bronze statue on horseback towers over the roundabout near the Whirling-in-Rags.",
+      "details": "The plaque on the horseback monument calls him the greatest of the Filippian kings of Revachol, son of Filippe II the Opulent and father of Filippe IV the Insane. He was famous for wasting the national treasury on gold, ceremonial weapons and monuments to himself, and for his love of the purest cocaine; René Arnoux and Gaston Martin can tell you all about it, and treasure hunters still dream of finding his stash.\n\nRené sees the statue as a reminder of what Revachol once was. Not everyone agrees: some call Filippe III a syphilitic murderer, though Encyclopedia insists he wasn't syphilitic, just mad.",
+      "spoiler": "The Deserter, an old communard, despises him as a syphilitic murderer (Encyclopedia says he was not syphilitic, just mad), and the bullet hole in the statue's heart turns out to be his work.",
+      "seeAlso": [
+        "filippian-kings",
+        "gaston-martin",
+        "rene-arnoux",
+        "revachol",
+        "royalists",
+        "sol-aurum",
+        "suzerain",
+        "whirling-in-rags"
+      ]
+    },
+    {
+      "id": "filippian-kings",
+      "term": "Filippian kings",
+      "aliases": [
+        "Filippian Kings of Revachol",
+        "Filippian",
+        "Filippian cocaine"
+      ],
+      "caseSensitive": true,
+      "short": "Revachol's line of kings named Filippe, remembered for gold, grand monuments and royal cocaine, which was purple and said to be twice as strong.",
+      "details": "René Arnoux claims the Filippian kings used the purest cocaine for clarity of vision and calls their age 'Regnum Cocainum', Revachol's finest years. Shivers recalls the mausoleums where they were buried with their doctors and admirals.\n\nAccording to an old communard veteran, the communist Party blew up every one of the 141 Filippian monuments. The ruined sea fort off the Martinaise coast was built by Filippe II.",
+      "seeAlso": [
+        "filippe-iii",
+        "royalists",
+        "revachol",
+        "electrochemistry"
+      ]
+    },
+    {
+      "id": "franconegro",
+      "term": "Franconegro",
+      "aliases": [
+        "Franconegros",
+        "Franconigerian",
+        "His Innocence Franconegro",
+        "Innocence Franconegro",
+        "Franconigerian cavalry",
+        "Franconigerian knights"
+      ],
+      "caseSensitive": true,
+      "short": "An Innocence crowned about 500 years ago: a militarist and nationalist ruler whom many, especially the Mesque, revere as the father of nations.",
+      "details": "Franconegro built concrete churches and cathedrals and tried to settle the conflict between aristocracy and bourgeoisie with a unified society in which everyone had a place, yet could rise to nobility through virtue. His famously wide heavy cavalry swept over the nations of his enemies in the fifth century, bringing a unified currency in its wake. Bird's Nest Roy sells a set of Franconigerian cavalry figurines, and Kim admits he used to be very serious about those knights.\n\nThe faces of innocences appear on banknotes, so Savoir Faire calls cash 'Franconegros and Solas'. The Paledriver claims to remember his coronation on the grand stairs of Raehl.",
+      "seeAlso": [
+        "dolores-dei",
+        "fascism",
+        "innocence",
+        "real"
+      ]
+    },
+    {
+      "id": "frissel",
+      "term": "Frissel",
+      "aliases": [
+        "Frissel the First",
+        "King Frissel",
+        "King Frissel the First"
+      ],
+      "caseSensitive": true,
+      "short": "Revachol's king during the communist Revolution; when his uncle King Guillaume fled, Frissel was left behind and publicly executed.",
+      "details": "René Arnoux served him as a Royal Carabineer: the medals on René's chest were awarded in Frissel's service, and he remembers how Frissel sent his cousin Drysant to crush the unrest in one decisive strike. Even René calls him a 'damn clown', and Gaston Martin jokes about 'Frissel the Fun'.\n\nTo the communards he embodied everything they wanted to overthrow; the radical journal La Fumée puts a satirical portrait of him, sprouting white antlers, on its cover.",
+      "seeAlso": [
+        "rene-arnoux",
+        "royalists",
+        "revolution",
+        "commune"
+      ]
+    },
+    {
+      "id": "ikeira-operation",
+      "term": "Ikeira Operation",
+      "caseSensitive": true,
+      "short": "A seven-year military campaign in which King Guillaume's army forcibly brought the Ikeira tribes of Le Petit Continent under Revacholian rule.",
+      "details": "It took place in the southeastern part of Le Petit Continent, back when Revachol was ruled by its kings. René Arnoux served in it as a young man and came home at 22 to find his sweetheart in the arms of another man.",
+      "seeAlso": [
+        "rene-arnoux",
+        "royalists",
+        "revachol"
+      ]
+    },
+    {
+      "id": "insulindian-citizens-militia",
+      "term": "Insulindian Citizens Militia",
+      "aliases": [
+        "ICM",
+        "Black and White Army of the Revolution"
+      ],
+      "caseSensitive": true,
+      "short": "The ICM: the official name of the communards' army during the Revolution. The RCM may be descended from it.",
+      "details": "You may spot the initials on an old emblem. Kim calls it the Black and White Army of the Revolution and says hardly anyone remembers it now; he and Encyclopedia both think the RCM may descend from it.",
+      "spoiler": "The Deserter, Iosef Lilianovich Dros, is a last holdover of the ICM, recruited in Jamrock in '07.",
+      "seeAlso": [
+        "commune",
+        "revolution",
+        "rcm",
+        "iosef-dros"
+      ]
+    },
+    {
+      "id": "irene-la-navigateur",
+      "term": "Irene La Navigateur",
+      "aliases": [
+        "Queen of Suresne"
+      ],
+      "caseSensitive": true,
+      "short": "A queen of Suresne (forerunner of Sur-la-Clef) who sent expedition after expedition into the pale, which led to the discovery of the 'New New World'.",
+      "details": "Joyce Messier tells how the pale was once thought impossible to cross. The queen sent eight expeditions into it, one after another: five crews never came back and two returned having lost their minds.\n\nAccording to Encyclopedia, her principal advisor was Dolores Dei, on whose advice the costly voyages were made. They were vindicated by the discovery of the land you are standing on.",
+      "seeAlso": [
+        "pale",
+        "dolores-dei",
+        "revachol",
+        "insulinde"
+      ]
+    },
+    {
+      "id": "operation-death-blow",
+      "term": "Operation Death Blow",
+      "aliases": [
+        "Death Blow",
+        "the Landing",
+        "The Landing",
+        "Landing",
+        "Operation Death Blow",
+        "Coalition landings"
+      ],
+      "caseSensitive": true,
+      "short": "The Coalition's military code name for its '08 assault that retook Revachol from the Commune. Locals simply call it the Landing.",
+      "details": "According to René Arnoux, Martinaise was one of three footholds for the attack, along with Stella Maris and the Delta. Airships filled the sky and poured soldiers into the city, and the old sea fort off the Martinaise coast was wrecked in the fighting.\n\nThe Landing brought down the Commune and opened the era of Coalition rule over Revachol.",
+      "spoiler": "An old communard you may meet very late in the case is still bitter about the name: he asks who would call an operation against a population of millions 'Death Blow'.",
+      "seeAlso": [
+        "commune",
+        "coalition",
+        "revolution",
+        "death-island",
+        "martinaise"
+      ]
+    },
+    {
+      "id": "people-s-pile",
+      "term": "People's Pile",
+      "caseSensitive": true,
+      "short": "A primitive nuclear reactor built to bring poor communities cheap electricity; it failed on start-up and leaked radioactive waste into the River Esperance.",
+      "details": "Encyclopedia calls it a Type U particle decay generator ('pile' is another word for such a reactor) that broke down immediately after entering service. Bird's Nest Roy at the pawnshop says he was with the Emergency Relief Brigade that cleaned up after the disaster, and has had to take Pyrholidon for radiation sickness ever since. According to Cindy, veterans of the clean-up sell their stash of pills in Porta Rosa.",
+      "inspiredBy": "Real nuclear disasters such as Chernobyl; early nuclear reactors were called 'piles' (as in Chicago Pile-1).",
+      "seeAlso": [
+        "porta-rosa"
+      ]
+    },
+    {
+      "id": "perikarnassis",
+      "term": "Perikarnassis",
+      "aliases": [
+        "Perikarnassians",
+        "Perikarnassian"
+      ],
+      "caseSensitive": true,
+      "short": "An ancient civilisation of Elysium, thousands of years old, whose cities, religion and ideas still echo through history.",
+      "details": "It comes up in passing: its great marble cities, its serfs, an eight-eyed imperial eagle, and a proto-Perikarnassian script from which the letter A is said to descend. The Perikarnassians studied the pale some 6,000 years ago and called it the Western Plain, and their theory that love is the key to immortality is still quoted. The Perikarnassian Church and its Star of Perikarnassis survive to this day.\n\nThe Coalition Warship Archer counts nearly 8,000 years of recorded history since the 'Perikarnassian Incident'.",
+      "inspiredBy": "Classical antiquity; the name echoes the ancient Greek city of Halicarnassus.",
+      "seeAlso": [
+        "pale",
+        "innocence"
+      ]
+    },
+    {
+      "id": "ramout-karzai",
+      "term": "Ramout Karzai",
+      "caseSensitive": true,
+      "short": "An ancient hero of Graad; your skills invoke him as an image of primal, war-painted strength.",
+      "details": "When you smear your hands with coal at the furnace in the Doomed Commercial Area, Inland Empire feels his spirit pulsing through you and suggests war-paint. Pain Threshold compares Titus Hardie to him after a bone-jarring fist bump: Titus is stronger than he looks, and he looks like Ramout Karzai.",
+      "seeAlso": [
+        "titus-hardie",
+        "inland-empire",
+        "pain-threshold"
+      ]
+    },
+    {
+      "id": "royal-carabineers",
+      "term": "Royal Carabineers",
+      "aliases": [
+        "Royal Carabineer",
+        "carabineer",
+        "carabineers"
+      ],
+      "caseSensitive": true,
+      "short": "The royal army unit René Arnoux served in during the Revolution; the old veteran still wears its colourful uniform.",
+      "details": "René says he served the Carabineers under King Frissel the First, Guillaume 'Le Lion' and, before them, King Filippe the Fifth. He insists they were the last ones keeping the war's worst killers in check, and that without them Revachol might not be standing at all. He blames 782 Carabineer deaths on the incompetence of the royal commander Drysant.\n\nGaston Martin says René's Carabineer pension is not enough to live on, so Evrart Claire created a night watchman job for him.",
+      "spoiler": "You can end up wearing an old Carabineer uniform yourself; Kim suggests you take up historical re-enactment.",
+      "seeAlso": [
+        "rene-arnoux",
+        "royalists",
+        "revolution",
+        "setting-sun",
+        "gaston-martin"
+      ]
+    },
+    {
+      "id": "setting-sun",
+      "term": "Setting Sun",
+      "aliases": [
+        "Setting Sun medal"
+      ],
+      "caseSensitive": true,
+      "short": "A sun-shaped medal for seasoned combat veterans of King Frissel the First's army; René Arnoux wears one on his chest.",
+      "details": "Encyclopedia explains the decoration when you ask René about his medals. It hangs next to his Croix de Bravoure. Gaston Martin notes that you don't get one just for a service record: you have to get shot, repeatedly.",
+      "spoiler": "If you win a red check by impressing René with a heroic story of your own, he gives you his Setting Sun. You can later pin it on the chest of the ageing woman in police gear who shouts through a megaphone on the boardwalk.",
+      "seeAlso": [
+        "rene-arnoux",
+        "royal-carabineers",
+        "royalists",
+        "gaston-martin"
+      ]
+    },
+    {
+      "id": "sol-aurum",
+      "term": "Sol Aurum",
+      "caseSensitive": true,
+      "short": "King Filippe III's legendary treasure chamber, crammed with gold and riches; a byword for royal excess.",
+      "details": "Encyclopedia says the king turned his bedroom into a vault of gold bars, coins, ornate weapons and chalices, and rumour had it that he slept on a heap of gold-dipped feathers.\n\nJoyce Messier recalls that it was eventually melted down for its gold and platinum and sold to buy bullets.",
+      "seeAlso": [
+        "filippe-iii",
+        "suzerain"
+      ]
+    },
+    {
+      "id": "suzerain",
+      "term": "Suzerain",
+      "aliases": [
+        "Revachol the Suzerain",
+        "Suzerain of Revachol",
+        "Suzerainty"
+      ],
+      "short": "The title of Revachol's old kings, and the name for the royal era when Revachol was a rich colonial superpower; the communist Revolution swept it away.",
+      "details": "As René puts it, the suzerain is the king. Under the Suzerain, Revachol ruled vassals and colonies across the world (Siigay, the 'Apricot Suzerainty', and Tioumoutiri on Iilmaraa among them), and the king granted royal monopolies to trading companies such as Wild Pines. Its old flag still hangs on the odd wall in Martinaise.\n\nJoyce counts today's Zone of Control as the third Revachol, after the Suzerain and the Commune. In real English, a suzerain is a ruler with power over vassal states.",
+      "seeAlso": [
+        "coalition",
+        "commune",
+        "filippe-iii",
+        "revolution",
+        "royalists",
+        "siigay",
+        "suzerainty-the-board-game"
+      ]
+    },
+    {
+      "id": "the-perikarnassian",
+      "term": "The Perikarnassian",
+      "caseSensitive": true,
+      "short": "The first innocence in history: an ancient, mysterious figure said to have invented god and the idea that all people are equal before god.",
+      "details": "Almost nothing certain is known about the Perikarnassian. Even the gender is unclear, though later tradition assumed a man, and the innocence Franconegro called him Pius. Icons show a young man with molten gold pouring from his mouth, because everything he said was gold. He is also credited with introducing the gold standard.\n\nAs the first innocence, he declared that there should be more like him. His disciples are thought to have formed the Holy Party, known today as the Founding Party, which still searches for new innocences.",
+      "seeAlso": [
+        "innocence",
+        "perikarnassian-church",
+        "the-greatest-innocence"
+      ]
+    },
+    {
+      "id": "world-revolution",
+      "term": "World Revolution",
+      "short": "The worldwide wave of communist revolution about fifty years ago, which included Revachol's own. It failed, and Revachol ended up under foreign occupation.",
+      "details": "Encyclopedia calls Revachol the disgraced former capital of the world, half a century after the failed world revolution. Joyce Messier puts the toll at around 40 million people shot, and the communists themselves all got shot.\n\nIt had three anthems: La Revacholière in Revachol, 'Brave Children, Favourites of History' in Graad, and a third from Hsin-Yao. Almost nobody remembers that its third outbreak, in the Safre Empire, was put down in '06.",
+      "seeAlso": [
+        "revolution",
+        "commune",
+        "communism",
+        "world-republic",
+        "zone-of-control"
+      ]
+    },
+    {
+      "id": "zygismunt-the-great",
+      "term": "Zygismunt the Great",
+      "aliases": [
+        "Zygismunt"
+      ],
+      "caseSensitive": true,
+      "short": "An ancient Zsiemsk ruler whose zaffer blue and white banners live on as the classic colours of the Stas-Rajko motor carriage.",
+      "details": "Encyclopedia remembers this much while you admire a Stas-Rajko in Jamrock, and not much else about ancient Zsiemsk kings.",
+      "seeAlso": [
+        "zsiemsk",
+        "motor-carriage"
+      ]
     }
   ]
 }

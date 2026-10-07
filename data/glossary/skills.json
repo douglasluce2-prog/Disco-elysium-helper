@@ -9,8 +9,13 @@
       "caseSensitive": true,
       "commonWord": true,
       "short": "Attribute: raw brain power. Governs Logic, Encyclopedia, Rhetoric, Drama, Conceptualization and Visual Calculus.",
-      "details": "One of your four attributes. Your Intellect score sets the starting level and the maximum level of its six skills. High-Intellect characters notice contradictions, remember trivia and win arguments, but can lose touch with their feelings and their body.",
-      "seeAlso": ["psyche", "physique", "motorics", "skill-check"]
+      "details": "One of your four attributes, described in the game as your capacity to reason. Your Intellect score sets the starting level and the maximum level of its six skills. High-Intellect characters spot contradictions, remember trivia, win arguments and read art.",
+      "seeAlso": [
+        "psyche",
+        "physique",
+        "motorics",
+        "skill-check"
+      ]
     },
     {
       "id": "psyche",
@@ -19,7 +24,12 @@
       "commonWord": true,
       "short": "Attribute: emotional intelligence and willpower. Governs Volition, Inland Empire, Empathy, Authority, Esprit de Corps and Suggestion.",
       "details": "One of your four attributes. It covers reading people, influencing them and keeping yourself together. Your Morale (your mental health bar) comes from this side of you.",
-      "seeAlso": ["intellect", "physique", "motorics", "morale"]
+      "seeAlso": [
+        "intellect",
+        "physique",
+        "motorics",
+        "morale"
+      ]
     },
     {
       "id": "physique",
@@ -28,7 +38,12 @@
       "commonWord": true,
       "short": "Attribute: the body. Governs Endurance, Pain Threshold, Physical Instrument, Electrochemistry, Shivers and Half Light.",
       "details": "One of your four attributes. Strength, toughness and appetites. Your Health (your physical health bar) comes from this side of you.",
-      "seeAlso": ["intellect", "psyche", "motorics", "health"]
+      "seeAlso": [
+        "intellect",
+        "psyche",
+        "motorics",
+        "health"
+      ]
     },
     {
       "id": "motorics",
@@ -37,88 +52,146 @@
       "commonWord": true,
       "short": "Attribute: coordination and senses. Governs Hand/Eye Coordination, Perception, Reaction Speed, Savoir Faire, Interfacing and Composure.",
       "details": "One of your four attributes. Reflexes, fine motor control, noticing details, style and keeping a straight face.",
-      "seeAlso": ["intellect", "psyche", "physique"]
+      "seeAlso": [
+        "intellect",
+        "psyche",
+        "physique"
+      ]
     },
-
     {
+      "id": "logic",
       "term": "Logic",
+      "aliases": [
+        "Puzzle Face"
+      ],
       "caseSensitive": true,
       "commonWord": true,
       "short": "Intellect skill: reasoning and deduction. Spots contradictions and connects facts.",
-      "details": "Logic is the cold, analytical voice. It points out when a story doesn't add up and pieces evidence together. Turned up too high it can make you dismiss anything that isn't strictly rational.",
-      "seeAlso": ["intellect", "visual-calculus", "encyclopedia"]
+      "details": "Logic is the cold, analytical voice. It points out when a story doesn't add up and pieces evidence together. At high levels it makes you so proud of your own brilliance that intellectual flattery works on you, and you can miss clues.",
+      "seeAlso": [
+        "intellect",
+        "visual-calculus",
+        "encyclopedia"
+      ]
     },
     {
+      "id": "encyclopedia",
       "term": "Encyclopedia",
       "caseSensitive": true,
       "commonWord": true,
       "short": "Intellect skill: your store of trivia about history, science and culture.",
       "details": "Encyclopedia is the voice that explains the world: who a historical figure was, what a political movement believed, what a building used to be. It is one of the best sources of lore in the game, but it often recalls useless facts while forgetting important personal ones (like your own name).",
-      "seeAlso": ["intellect", "logic", "rhetoric"]
+      "seeAlso": [
+        "intellect",
+        "logic",
+        "rhetoric"
+      ]
     },
     {
+      "id": "rhetoric",
       "term": "Rhetoric",
       "caseSensitive": true,
       "commonWord": true,
       "short": "Intellect skill: argument, debate and politics. Picks apart what people say.",
       "details": "Rhetoric helps you win debates, notice loaded words and recognise political positions. It loves ideology, and it can make you rigid and argumentative.",
-      "seeAlso": ["intellect", "drama", "communism", "ultraliberalism", "moralism", "fascism"]
+      "seeAlso": [
+        "intellect",
+        "drama",
+        "communism",
+        "ultraliberalism",
+        "moralism",
+        "fascism"
+      ]
     },
     {
+      "id": "drama",
       "term": "Drama",
       "caseSensitive": true,
       "commonWord": true,
       "short": "Intellect skill: acting and lying, and telling when others are lying.",
       "details": "Drama is your inner actor. It speaks in a theatrical, flowery way. It helps you bluff and warns you when someone is putting on a performance, but it can also make you paranoid and melodramatic.",
-      "seeAlso": ["intellect", "empathy", "composure"]
+      "seeAlso": [
+        "intellect",
+        "empathy",
+        "composure"
+      ]
     },
     {
+      "id": "conceptualization",
       "term": "Conceptualization",
       "caseSensitive": true,
       "commonWord": true,
       "short": "Intellect skill: creativity and art. Sees artistic meaning and comes up with original ideas.",
       "details": "Conceptualization judges art, invents metaphors and proposes creative solutions. It is often grandiose and harshly critical of anything it considers unoriginal.",
-      "seeAlso": ["intellect", "inland-empire"]
+      "seeAlso": [
+        "intellect",
+        "inland-empire"
+      ]
     },
     {
+      "id": "visual-calculus",
       "term": "Visual Calculus",
       "caseSensitive": true,
       "short": "Intellect skill: spatial reasoning. Reconstructs crime scenes, angles and trajectories.",
       "details": "Visual Calculus turns a scene into geometry: where a shot came from, how a body fell, what distance something was thrown. It is the forensic, almost mathematical part of your detective work.",
-      "seeAlso": ["intellect", "logic", "perception"]
+      "seeAlso": [
+        "intellect",
+        "logic",
+        "perception"
+      ]
     },
-
     {
+      "id": "volition",
       "term": "Volition",
       "caseSensitive": true,
       "commonWord": true,
       "short": "Psyche skill: willpower and self-respect. Keeps your Morale up and resists temptation.",
       "details": "Volition is the steady voice that tells you to pull yourself together, stop drinking and treat yourself (and others) decently. It also protects your Morale. If the other voices are a crowd, Volition is the one trying to keep order.",
-      "seeAlso": ["psyche", "morale", "electrochemistry"]
+      "seeAlso": [
+        "psyche",
+        "morale",
+        "electrochemistry"
+      ]
     },
     {
+      "id": "inland-empire",
       "term": "Inland Empire",
       "caseSensitive": true,
       "short": "Psyche skill: imagination, hunches and the uncanny. Lets you 'hear' objects and dreams.",
       "details": "Inland Empire is the mystical, dreamlike part of your mind. It gives inanimate things voices (your necktie, even a corpse), offers gut feelings that turn out to be true, and drifts into the surreal. It is often right in ways that make no logical sense.",
       "inspiredBy": "Almost certainly named after David Lynch's 2006 film 'Inland Empire', known for its dream logic. (The Inland Empire is also a real region of California.)",
-      "seeAlso": ["psyche", "horrific-necktie", "shivers", "conceptualization"]
+      "seeAlso": [
+        "psyche",
+        "horrific-necktie",
+        "shivers",
+        "conceptualization"
+      ]
     },
     {
+      "id": "empathy",
       "term": "Empathy",
       "caseSensitive": true,
       "commonWord": true,
       "short": "Psyche skill: understanding how other people feel.",
       "details": "Empathy reads emotions behind words and faces: who is grieving, who is ashamed, who is hiding pain. It makes you kinder, and also more easily hurt.",
-      "seeAlso": ["psyche", "drama", "suggestion"]
+      "seeAlso": [
+        "psyche",
+        "drama",
+        "suggestion"
+      ]
     },
     {
+      "id": "authority",
       "term": "Authority",
       "caseSensitive": true,
       "commonWord": true,
       "short": "Psyche skill: asserting yourself and commanding respect.",
       "details": "Authority is the voice that demands obedience and gets offended when you're disrespected. It helps you intimidate and take control of a conversation, and it tends to push you toward shouting.",
-      "seeAlso": ["psyche", "half-light", "physical-instrument"]
+      "seeAlso": [
+        "psyche",
+        "half-light",
+        "physical-instrument"
+      ]
     },
     {
       "id": "esprit-de-corps",
@@ -127,86 +200,136 @@
       "short": "Psyche skill: cop culture and loyalty to your fellow officers. Shows you glimpses of them elsewhere.",
       "details": "Esprit de Corps understands what it means to be police. Its special trick is the 'flash-sideways': short scenes showing what other officers are doing or thinking at that moment, far away from you.",
       "inspiredBy": "French for 'spirit of the body (corps)': the morale and loyalty that bind members of a group, especially soldiers or police.",
-      "seeAlso": ["psyche", "rcm", "kim-kitsuragi"]
+      "seeAlso": [
+        "psyche",
+        "rcm",
+        "kim-kitsuragi"
+      ]
     },
     {
+      "id": "suggestion",
       "term": "Suggestion",
       "caseSensitive": true,
       "commonWord": true,
       "short": "Psyche skill: charm and soft manipulation. Getting people to do what you want.",
       "details": "Suggestion is the smooth talker. Where Authority pushes, Suggestion persuades: it knows what to say to make someone like you or agree with you.",
-      "seeAlso": ["psyche", "empathy", "authority"]
+      "seeAlso": [
+        "psyche",
+        "empathy",
+        "authority"
+      ]
     },
-
     {
+      "id": "endurance",
       "term": "Endurance",
       "caseSensitive": true,
       "commonWord": true,
       "short": "Physique skill: stamina and toughness. Sets how much Health you have.",
       "details": "Endurance keeps you going on no sleep and a ruined body. Your maximum Health depends on it.",
-      "seeAlso": ["physique", "health", "pain-threshold"]
+      "seeAlso": [
+        "physique",
+        "health",
+        "pain-threshold"
+      ]
     },
     {
+      "id": "pain-threshold",
       "term": "Pain Threshold",
       "caseSensitive": true,
       "short": "Physique skill: withstanding pain, physical and emotional.",
       "details": "Pain Threshold helps you shrug off injuries and keep going. It has a darker side: it can come to enjoy pain and push you toward things that hurt.",
-      "seeAlso": ["physique", "endurance", "health"]
+      "seeAlso": [
+        "physique",
+        "endurance",
+        "health"
+      ]
     },
     {
+      "id": "physical-instrument",
       "term": "Physical Instrument",
       "caseSensitive": true,
       "short": "Physique skill: raw strength and physical presence.",
       "details": "Physical Instrument is your inner gym coach: loud, blunt and convinced every problem can be solved with muscles. It helps with lifting, breaking and intimidating.",
-      "seeAlso": ["physique", "authority", "half-light"]
+      "seeAlso": [
+        "physique",
+        "authority",
+        "half-light"
+      ]
     },
     {
+      "id": "electrochemistry",
       "term": "Electrochemistry",
       "caseSensitive": true,
       "commonWord": true,
       "short": "Physique skill: appetites. Drugs, alcohol, sex, and knowing how to party.",
       "details": "Electrochemistry speaks for your brain chemistry and cravings. It knows everything about substances and pleasure, encourages you to indulge, and is very persuasive about it. It is a big part of why the detective is in the state he is in.",
-      "seeAlso": ["physique", "volition"]
+      "seeAlso": [
+        "physique",
+        "volition"
+      ]
     },
     {
+      "id": "shivers",
       "term": "Shivers",
       "caseSensitive": true,
       "commonWord": true,
       "short": "Physique skill: a supernatural connection to the city. Lets you sense what is happening elsewhere.",
       "details": "Shivers lets the city of Revachol speak to you. When it triggers, you feel the wind and the cold and suddenly perceive scenes somewhere else in the district. Its voice is often written as if the city itself is talking.",
-      "seeAlso": ["physique", "revachol", "inland-empire"]
+      "seeAlso": [
+        "physique",
+        "revachol",
+        "inland-empire"
+      ]
     },
     {
+      "id": "half-light",
       "term": "Half Light",
       "caseSensitive": true,
       "short": "Physique skill: fight-or-flight. Fear, aggression and sensing danger.",
       "details": "Half Light is the animal alarm system. It warns you of threats, makes you jumpy and suspicious, and urges you to strike first. It is useful in danger and dangerous in conversation.",
-      "seeAlso": ["physique", "authority", "reaction-speed"]
+      "seeAlso": [
+        "physique",
+        "authority",
+        "reaction-speed"
+      ]
     },
-
     {
       "id": "hand-eye-coordination",
       "term": "Hand/Eye Coordination",
-      "aliases": ["Hand-Eye Coordination", "Hand Eye Coordination"],
+      "aliases": [
+        "Hand-Eye Coordination",
+        "Hand Eye Coordination"
+      ],
       "caseSensitive": true,
       "short": "Motorics skill: aim and precision. Shooting, throwing and steady hands.",
       "details": "Hand/Eye Coordination is about accuracy: firing a gun, throwing something, doing delicate work. It is fond of guns.",
-      "seeAlso": ["motorics", "reaction-speed"]
+      "seeAlso": [
+        "motorics",
+        "reaction-speed"
+      ]
     },
     {
+      "id": "perception",
       "term": "Perception",
       "caseSensitive": true,
       "commonWord": true,
       "short": "Motorics skill: noticing things with your senses: sight, hearing, smell and taste.",
       "details": "Perception catches the small details others miss: a smell in the air, something half-hidden, a sound in the distance. It is one of the most frequently heard voices.",
-      "seeAlso": ["motorics", "visual-calculus"]
+      "seeAlso": [
+        "motorics",
+        "visual-calculus"
+      ]
     },
     {
+      "id": "reaction-speed",
       "term": "Reaction Speed",
       "caseSensitive": true,
       "short": "Motorics skill: reflexes and quick wits.",
       "details": "Reaction Speed lets you dodge, catch and answer fast. It also notices quick changes, like someone's expression flickering.",
-      "seeAlso": ["motorics", "half-light"]
+      "seeAlso": [
+        "motorics",
+        "half-light"
+      ]
     },
     {
       "id": "savoir-faire",
@@ -215,46 +338,71 @@
       "short": "Motorics skill: style and agility. Jumping, sneaking, stealing, and looking cool doing it.",
       "details": "Savoir Faire wants you to be effortlessly cool. It handles acrobatics, sleight of hand and flair, and it is crushed when you embarrass yourself.",
       "inspiredBy": "French for 'knowing how to do': social grace, poise and confidence.",
-      "seeAlso": ["motorics", "composure"]
+      "seeAlso": [
+        "motorics",
+        "composure"
+      ]
     },
     {
+      "id": "interfacing",
       "term": "Interfacing",
       "caseSensitive": true,
       "commonWord": true,
       "short": "Motorics skill: machines and mechanisms. Locks, radios, radiocomputers.",
       "details": "Interfacing understands how things work with your hands: picking locks, fixing devices, operating radiocomputers. It also gives you an almost tactile sense of machinery.",
-      "seeAlso": ["motorics", "radiocomputer"]
+      "seeAlso": [
+        "motorics",
+        "radiocomputer"
+      ]
     },
     {
+      "id": "composure",
       "term": "Composure",
       "caseSensitive": true,
       "commonWord": true,
       "short": "Motorics skill: poker face, body language and keeping it together in public.",
       "details": "Composure controls how you hold yourself: not flinching, not crying, reading other people's body language. It also has strong opinions about clothing. Very high Composure can make it hard to show any emotion at all.",
-      "seeAlso": ["motorics", "drama", "savoir-faire"]
+      "seeAlso": [
+        "motorics",
+        "drama",
+        "savoir-faire"
+      ]
     },
-
     {
+      "id": "ancient-reptilian-brain",
       "term": "Ancient Reptilian Brain",
-      "aliases": ["Reptilian Brain"],
+      "aliases": [
+        "Reptilian Brain"
+      ],
       "caseSensitive": true,
       "short": "A primal inner voice (not one of the 24 skills): deep, slow and comforting about oblivion.",
       "details": "The oldest part of your brain. It speaks in the darkest moments, such as the very first lines of the game and when you are close to death, and it tempts you to give up and sink back into nothing.",
-      "seeAlso": ["limbic-system", "spinal-cord"]
+      "seeAlso": [
+        "limbic-system",
+        "spinal-cord"
+      ]
     },
     {
+      "id": "limbic-system",
       "term": "Limbic System",
       "caseSensitive": true,
       "short": "A primal inner voice (not one of the 24 skills): the raw, hurting emotional core of your mind.",
       "details": "The Limbic System speaks for old pain and fear. It appears at the start of the game alongside the Ancient Reptilian Brain, and in moments of emotional crisis. It is cruel because it knows exactly what hurts.",
-      "seeAlso": ["ancient-reptilian-brain", "spinal-cord"]
+      "seeAlso": [
+        "ancient-reptilian-brain",
+        "spinal-cord"
+      ]
     },
     {
+      "id": "spinal-cord",
       "term": "Spinal Cord",
       "caseSensitive": true,
       "short": "A primal inner voice (not one of the 24 skills): pure, thoughtless physical action.",
       "details": "The Spinal Cord speaks rarely, when the body takes over completely and thinking stops.",
-      "seeAlso": ["ancient-reptilian-brain", "limbic-system"]
+      "seeAlso": [
+        "ancient-reptilian-brain",
+        "limbic-system"
+      ]
     }
   ]
 }

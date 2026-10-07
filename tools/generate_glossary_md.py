@@ -12,8 +12,8 @@ import re
 
 ROOT = pathlib.Path(__file__).resolve().parent.parent
 CATEGORIES = [
-    "Skills", "Game Mechanics", "People", "Places", "World", "Factions",
-    "Politics & Ideas", "History", "Slang & Jargon", "Vocabulary",
+    "Skills", "Thoughts", "Game Mechanics", "People", "Places", "World", "Factions",
+    "Politics & Ideas", "History", "Culture & Media", "Items", "Slang & Jargon", "Vocabulary",
 ]
 
 

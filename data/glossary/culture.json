@@ -1,0 +1,737 @@
+{
+  // Books, music, radio, films, games, sports and celebrities of Elysium. Written from the game text.
+  "category": "Culture & Media",
+  "entries": [
+    {
+      "id": "an-asshole-is-a-mouth-for-shit-and-i-m-puking",
+      "term": "An Asshole Is A Mouth For Shit (And I'm Puking)",
+      "aliases": [
+        "An Asshole Is A Mouth For Shit",
+        "Asshole Is A Mouth For Shit"
+      ],
+      "caseSensitive": true,
+      "short": "DJ Flacio's crude debut single, freshly premiered on the Speedfreaks FM radio station; DJ Mesh is sure it is the future of music.",
+      "details": "DJ Mesh calls its sound 'stinkcore' and says listeners keep phoning in to request it. You can ask him about it by having the dispatcher patch you through to the station from the radio in Kim's motor carriage.",
+      "spoiler": "Lilienne's twins in the fishing village can recite the single's on-air introduction, even though they claim they don't know what a radio is and simply 'heard it in their heads'. Calling DJ Mesh confirms that the track really did debut a few days ago.",
+      "seeAlso": [
+        "kineema",
+        "fishing-village"
+      ]
+    },
+    {
+      "id": "anodic-music",
+      "term": "Anodic music",
+      "aliases": [
+        "anodic dance music",
+        "anodic"
+      ],
+      "short": "A new, hard style of electronic dance music; the speedfreaks by the old church dream of turning the building into a club for it.",
+      "details": "As Acele puts it: anodic, cathodic, music made with electronic instruments. It is meant to be harder than ordinary dance music, mostly skips traditional vocals (thought of as rock, and a bit backward), and is played at places like The Paliseum. Egg Head has been blasting the same Arno van Eyck track for a month.\n\nYou can joke that you refuse to become an 'Anodic Cop' on top of all your other copotypes.",
+      "inspiredBy": "Techno and other electronic dance music.",
+      "seeAlso": [
+        "church",
+        "copotype"
+      ]
+    },
+    {
+      "id": "antistar",
+      "term": "Antistar",
+      "aliases": [
+        "The Antistar"
+      ],
+      "caseSensitive": true,
+      "short": "A notorious Occidental rock star famous for extreme drug use; a slim biography of him sits on the bookstore's biography shelf.",
+      "details": "He is said to have shot morphine into one eyeball and cocaine into the other. Encyclopedia describes him as a Vespertine rock and roll star who took so many drugs that he eventually mutated into a corpse. Klaasje uses him as the yardstick for a truly huge fortune.",
+      "seeAlso": [
+        "klaasje"
+      ]
+    },
+    {
+      "id": "arno-van-eyck",
+      "term": "Arno van Eyck",
+      "aliases": [
+        "van Eyck",
+        "Van Eyck"
+      ],
+      "caseSensitive": true,
+      "short": "A celebrated pioneer of anodic music (new synthesizer-driven dance music), probably Oranjese. The young ravers you meet idolise him.",
+      "details": "Egg Head has been pumping one Arno van Eyck jam for a month and plans to keep it going all year; Andre says it is really a reworking of a Pepi Popikarnassos track. Acele once saw van Eyck at the Paliseum, a club and synthesizer workshop on Boogie Street in Jamrock, and two youths on the plaza call Cindy the SKULL a true artist of the future, just like him. Encyclopedia guesses from his name that he's from Oranje.\n\nHelping Egg Head make that jam hit harder is one of the side tasks you can take on.",
+      "seeAlso": [
+        "oranje",
+        "jamrock"
+      ]
+    },
+    {
+      "id": "automatik-polychrome",
+      "term": "Automatik Polychrome",
+      "caseSensitive": true,
+      "short": "Apparently a colour film process from the days of Twenties movie stars; Electrochemistry pictures Klaasje glowing on screen 'in Automatik Polychrome'.",
+      "details": "The name only comes up in passing, when Electrochemistry gushes over Klaasje's film-star looks and remembers some old movie posters.",
+      "inspiredBy": "Technicolor",
+      "seeAlso": [
+        "klaasje",
+        "electrochemistry"
+      ]
+    },
+    {
+      "id": "boiadeiro",
+      "term": "boiadeiro",
+      "aliases": [
+        "boiadeiros",
+        "boia"
+      ],
+      "short": "A cow herder of the Mesque steppes and a romantic, lone-rider ideal of cool; Mañana at the harbour gates lives by its code.",
+      "details": "Your Encyclopedia explains that a boiadeiro ('boia' for short) is a herdsman from upstream Magritte, the great steppes of northern Mesque. The figure has become a pop-culture icon, with boiadeiro films, boots and swagger, and a code of conduct reaching back to Franconigerian times.\n\nCall Me Mañana, the man at the harbour gates, follows this code: he avoids work, rides alone and calls people 'boiadeiro' or 'boia' as a term of respect. Several characters wear boiadeiro boots.",
+      "inspiredBy": "'Boiadeiro' is Portuguese for a cattle drover; the figure plays the role of the cowboy or gaucho of Western films.",
+      "seeAlso": [
+        "egg-head"
+      ]
+    },
+    {
+      "id": "charlie-spillane",
+      "term": "Charlie Spillane",
+      "aliases": [
+        "Spillane"
+      ],
+      "caseSensitive": true,
+      "short": "A character in the detective novel 'Dick Mullen and the Mistaken Identity': Mullen's old friend, whose murder sets the plot in motion.",
+      "details": "On a cold night Spillane asks Mullen to drive him from Vesper to a small town on the Insulindian coast. He is then shot dead in a bar there by a man matching Mullen's description, and Mullen is arrested for the murder.\n\nAs Mullen digs into the case, he learns that Spillane was mixed up in a local amphetamine-smuggling ring. That gives a corrupt police captain, a powerful politician's son and the art collector Torvald all reasons to want him dead.",
+      "spoiler": "The last fifth of your copy of the book has fallen out, so you never learn who the killer is. You have to pick one yourself.",
+      "seeAlso": [
+        "deanna-deneuve"
+      ]
+    },
+    {
+      "id": "cocaine-skull",
+      "term": "Cocaine Skull",
+      "aliases": [
+        "the Cocaine Skull"
+      ],
+      "caseSensitive": true,
+      "short": "A Martinaise urban legend about a famous designer buried with a quarter kilo of cocaine still lodged in his sinuses; treasure hunters dig for it.",
+      "details": "According to the story told by one of the drinkers in the fishing village, a celebrated lead designer born in Martinaise died at his desk working on an advert so minimal it was pure white. The autopsy supposedly found 250 grams of pure cocaine packed into his nose, and he was buried with it somewhere around Martinaise: under a pipe on the shore, further down the coast, in a hidden mausoleum or on the islets in the bay, depending on who you ask.\n\nArchaeologists, gangsters, junkies and ad-agency people have all mounted expeditions to find it. Kim points out that sinuses cannot hold that much of anything; Electrochemistry is very interested anyway.",
+      "seeAlso": [
+        "martinaise",
+        "electrochemistry"
+      ]
+    },
+    {
+      "id": "codex-urik",
+      "term": "Codex Urik",
+      "caseSensitive": true,
+      "short": "A Wirrâl sourcebook about the dweorgr, the fantasy game's hairy, hard-drinking, axe-swinging folk; it sits in the bookstore's pile of board games.",
+      "details": "Its full title is 'Codex Urik: the Industrious Dweorgr of Wirrâl', a guide to creating dweorg characters and their culture. Wirrâl is a popular sword-and-sorcery board game, and the shop is full of its merchandise. Leafing through it invites some unflattering comparisons between you and the bulbous-nosed dweorg on the cover.",
+      "inspiredBy": "Fantasy role-playing game supplements such as Dungeons & Dragons race books (the dweorgr are this world's dwarves).",
+      "seeAlso": [
+        "annette"
+      ]
+    },
+    {
+      "id": "contact-mike",
+      "term": "Contact Mike",
+      "caseSensitive": true,
+      "short": "A boxing champion who rose from the slums of Saint-Batiste to the top of the sport despite serious brain trauma; your mangled brain idolises him.",
+      "details": "He comes to mind when Acele mentions her contact microphone, and Harry insists on holding him up to her as an inspirational role model. Talking Acele into being 'more like Contact Mike' gives you a Thought named after him, and with it you can even dedicate a karaoke song to him.",
+      "spoiler": "Your old colleagues at Precinct 41 know all about your Contact Mike obsession (to you he is a 5,000-to-1 outsider who made it); Jean Vicquemare hates the guy.",
+      "seeAlso": [
+        "thought-cabinet",
+        "encyclopedia"
+      ]
+    },
+    {
+      "id": "deanna-deneuve",
+      "term": "Deanna Deneuve",
+      "aliases": [
+        "Deneuve"
+      ],
+      "caseSensitive": true,
+      "short": "A character in the novel 'Dick Mullen and the Mistaken Identity': a beautiful, mysterious woman Mullen meets at the bar where his friend was killed.",
+      "details": "She tells Mullen she was Charlie Spillane's lover and that he was involved in amphetamine smuggling. Later Mullen discovers that the art collector Torvald was once involved with her too.",
+      "spoiler": "She and Mullen become lovers, and soon after he wakes up to find her dead beside him. Your copy of the book is missing its ending, so you have to guess who killed her.",
+      "seeAlso": [
+        "charlie-spillane"
+      ]
+    },
+    {
+      "id": "dick-mullen",
+      "term": "Dick Mullen",
+      "aliases": [
+        "Dick Mullen and the Murder in the Orchard",
+        "Dick Mullen on the Job",
+        "Get Me Mullen!",
+        "Mullen",
+        "Richard P. Mullen",
+        "The Sordid Affair of Dick Mullen",
+        "The Stalwart Adventures of Richard P. Mullen"
+      ],
+      "caseSensitive": true,
+      "commonWord": true,
+      "short": "The hero of a popular series of pulp detective novels: a tough, brilliant Vespertine police detective who always cracks the case.",
+      "details": "The bookstore in Martinaise has whole shelves of Mullen titles, from his classic hard-boiled phase onward. Annette, the little girl outside the bookstore, reads them and will happily tell you that you look nothing like him.\n\nYou can find a copy of 'Dick Mullen and the Mistaken Identity' with its ending torn out, leaving you to work out the culprit yourself. Encyclopedia is keen to remind you that Mullen is fictional, and that he is not you.",
+      "seeAlso": [
+        "annette",
+        "dick-mullen-and-the-mistaken-identity"
+      ]
+    },
+    {
+      "id": "dj-flacio",
+      "term": "DJ Flacio",
+      "aliases": [
+        "Flacio"
+      ],
+      "caseSensitive": true,
+      "short": "One of the two shouting DJs of Speedfreaks FM, a wild Revachol radio station; his debut single has just come out.",
+      "details": "He co-hosts with DJ Mesh, mixing loud rock with the sounds of car crashes and illegal street races. You may catch the station on the radio in Kim's motor carriage. Lilienne's twins in the fishing village somehow know all about his new single, which sets off a small mystery.",
+      "seeAlso": [
+        "dj-mesh",
+        "kineema",
+        "fishing-village"
+      ]
+    },
+    {
+      "id": "dj-mesh",
+      "term": "DJ Mesh",
+      "caseSensitive": true,
+      "short": "The loud co-host of Speedfreaks FM, a radio station that calls itself Revachol's hottest; you can get him on the line through the police radio.",
+      "details": "Mesh hosts alongside DJ Flacio and calls himself a 'spoken word guy'. Through Precinct 57's radio officer you can call him to ask about the station's broadcasts; he finds a cop calling him hilarious, and turns hostile if you push the wrong politics on him.",
+      "spoiler": "Kim's own motor carriage radio has Speedfreaks FM saved as a favourite, something he would rather you did not bring up.",
+      "seeAlso": [
+        "dj-flacio",
+        "alice",
+        "kineema"
+      ]
+    },
+    {
+      "id": "gabriel-buenguerro",
+      "term": "Gabriel Buenguerro",
+      "caseSensitive": true,
+      "short": "A dashing Mesque film star of the Revolution era, famous for boiadeiro (cowboy-style) pictures; the Paledriver is still devoted to him.",
+      "details": "According to the Paledriver he was the biggest star of his day: girls fainted in the cinema aisles and schoolboys memorised his lines. She keeps his photograph in a lavish amber frame, compares your jawline unfavourably with his, and mentions films such as 'Segure-me, Paraíso', 'O Céu Dourado' and 'Pergunte à Poeira'.",
+      "seeAlso": [
+        "revolution"
+      ]
+    },
+    {
+      "id": "gareth-morrand",
+      "term": "Gareth Morrand",
+      "aliases": [
+        "Mr. Morrand"
+      ],
+      "caseSensitive": true,
+      "short": "A former cop who now hosts a crime show on Channel 8 radio; a confused old woman on the boardwalk keeps calling out for 'Mr. Morrand'.",
+      "details": "Encyclopedia identifies him as the ex-cop turned radio host, and Esprit de Corps adds that he worked in Traffic. The Hardie Boys can't stand him: Alain calls him a racist, and Titus says nobody trusts him.",
+      "spoiler": "The old woman who calls herself the Pigs spends her lonely days with nothing but his voice on Channel 8 for company.",
+      "seeAlso": [
+        "hardie-boys",
+        "titus-hardie"
+      ]
+    },
+    {
+      "id": "headless-faln-rider",
+      "term": "Headless FALN Rider",
+      "aliases": [
+        "FALN Rider",
+        "Headless Rider"
+      ],
+      "caseSensitive": true,
+      "short": "A Martinaise urban legend: a headless man in a FALN tracksuit who rides the streets by night, searching for the FALN cap he lost with his head.",
+      "details": "Idiot Doom Spiral in the Fishing Village loves telling the full tale, with its many conflicting versions: some say the rider was an undercover cop beheaded by a gang, others a jockey who met a clothes line. He rides a horse, or a bull, or a pig, depending on who you ask, and is said to appear near the canal at midnight. Kim insists he is just a story.\n\nBird's Nest Roy's pawnshop sells a small figurine of the rider, complete with a tiny cap, which Roy says brings luck.",
+      "inspiredBy": "The Headless Horseman of Washington Irving's 'The Legend of Sleepy Hollow'.",
+      "spoiler": "If you own the figurine, you can offer it as a gift to the woman you lost, in a dream late in the game.",
+      "seeAlso": [
+        "faln",
+        "idiot-doom-spiral"
+      ]
+    },
+    {
+      "id": "high-speed-love",
+      "term": "High Speed Love",
+      "aliases": [
+        "High Speed Love: The Tragic True Story of Jacob Irw and Alfie Deletraz"
+      ],
+      "caseSensitive": true,
+      "short": "A biography in the Martinaise bookstore about the tragic romance between racing drivers Jacob Irw and Alfie Deletraz.",
+      "details": "Written by one Cecilia Averbrook, the book sits on the bookstore's biography shelf with Irw's blond mane on the cover. It tells how two of the finest TipTop Tournée racers fell in love, and how Irw carried on after Alfie's death.",
+      "seeAlso": [
+        "jacob-irw",
+        "doomed-commercial-area"
+      ]
+    },
+    {
+      "id": "innocence-of-capital",
+      "term": "Innocence of Capital",
+      "caseSensitive": true,
+      "short": "A multi-volume work of communist theory by Puncher and Wattmann; the student communists have just finished its second volume.",
+      "details": "According to the Echo Maker, the book argues that communists must possess as little capital as possible to keep their thinking undiluted by it. Steban lists it first when you ask what his reading group reads.",
+      "seeAlso": [
+        "puncher-and-wattmann",
+        "communism"
+      ]
+    },
+    {
+      "id": "jacob-irw",
+      "term": "Jacob Irw",
+      "aliases": [
+        "Irw"
+      ],
+      "caseSensitive": true,
+      "short": "A legendary, death-defying TipTop Tournée racing champion; Harry keeps blaming him for the reckless driving he finds evidence of around Martinaise.",
+      "details": "Irw was famous for driving like a man who wanted to die, especially after his fellow racer and great love Alfie Deletraz was killed at Fjordhammer; death simply refused to take him. Their story is told in the biography 'High Speed Love' in the Martinaise bookstore.\n\nWhen you find signs of a crazed motor carriage driver in the district, you can insist to Kim that Irw must be behind it. Kim is not convinced.",
+      "spoiler": "Irw has nothing to do with it. The wrecked motor carriage in the sea is your own police vehicle, which you drove into the ocean yourself, and Jean Vicquemare is not amused by the Irw story.",
+      "seeAlso": [
+        "high-speed-love",
+        "jean-vicquemare",
+        "kim-kitsuragi",
+        "motor-carriage"
+      ]
+    },
+    {
+      "id": "la-revacholiere",
+      "term": "La Revacholière",
+      "caseSensitive": true,
+      "short": "A revolutionary soldiers' marching song; the name is also used for the city of Revachol herself, imagined as a living being.",
+      "details": "An old man you may meet calls it real music, real proletkult, a 'chanson de soldat', unlike your rock and roll. You can say you know it as the marching song of the World Revolution.\n\nHe also recalls frightened children during the shelling who began talking to the city itself, begging it to protect them and calling it La Revacholière.",
+      "spoiler": "Late in the game, through Shivers, you may hear the city speak to you directly, and Kim asks what La Revacholière told you about the future.",
+      "seeAlso": [
+        "revolution",
+        "commune",
+        "revachol",
+        "shivers"
+      ]
+    },
+    {
+      "id": "lo-manthang-stick-fighting",
+      "term": "Lo Manthang stick fighting",
+      "aliases": [
+        "stick fighting"
+      ],
+      "caseSensitive": true,
+      "short": "A martial art from the isle of Lo Manthang, fought with slender wooden sticks. Trant Heidelstam has practised it for nearly twenty years.",
+      "details": "Trant, a talkative trivia lover you can meet near the FELD building, will happily explain it, along with the history of stick fighting in many other cultures, at great length. He compares his hobby to a pyrholidon habit."
+    },
+    {
+      "id": "loos-radio-city",
+      "term": "Loos, Radio City",
+      "aliases": [
+        "Radio City",
+        "Loos, Radio City '87"
+      ],
+      "caseSensitive": true,
+      "short": "A science fiction novel; its new release, 'Loos, Radio City '87', comes up when you phone the Jamrock library about a library card.",
+      "details": "When you phone the Central Jamrock Public Library about a soggy library card, the librarian mentions that the card holder's husband asked for this new sci-fi release, which the library doesn't have yet. Logic immediately remembers the tired working class woman reading the very same book at the bookstand on the plaza.",
+      "spoiler": "The working class woman is Billie Méjean, the card's owner, and the husband who wanted the book is the dead man found on the boardwalk.",
+      "seeAlso": [
+        "martinaise"
+      ]
+    },
+    {
+      "id": "lord-wrothgar",
+      "term": "Lord Wrôthgär",
+      "aliases": [
+        "Wrôthgär"
+      ],
+      "caseSensitive": true,
+      "short": "A powerful old southern king in the pulp fantasy book Hjelmdallermann: the Man from Hjelmdall.",
+      "details": "In the story he begs the Man from Hjelmdall to rid his kingdom of the Nachtherrer, a clan of blind wizards, and the hero makes him pay a high price for the job.",
+      "seeAlso": [
+        "nachtherrer"
+      ]
+    },
+    {
+      "id": "lu-jiatun",
+      "term": "Lu Jiatun",
+      "caseSensitive": true,
+      "short": "A Seraise poet from the previous century whose poem cycle features 'Girl Child Communism', a ghostly figure who keeps returning.",
+      "details": "Encyclopedia confirms that Lu Jiatun composed the work in the Fifties of the last century. Trant Heidelstam calls it the 'Mirova Cycle' (or 'Mirova 82').",
+      "spoiler": "When the big graffiti in Martinaise comes up, Trant may recognise its words as a line from this poem cycle.",
+      "seeAlso": [
+        "mirova",
+        "communism"
+      ]
+    },
+    {
+      "id": "man-from-hjelmdall",
+      "term": "Man from Hjelmdall",
+      "aliases": [
+        "Hjelmdallermann",
+        "Hjelmdallermenn",
+        "Hjelmdall Saga",
+        "Man from Hjelmdall Series"
+      ],
+      "caseSensitive": true,
+      "short": "A hugely popular series of violent barbarian adventure novels, sold by the hundred at the Martinaise bookstore.",
+      "details": "The hero is a giant, muscular warrior from the frozen Northlands who wields two great swords, Sturm and Drang, and travels from land to land cutting down wizards, monsters and armies, often with his blood-brother Tyrbald at his side.\n\nPlaisance, who runs the bookstore, finds the books immoral and violent but admits they sell incredibly well, and Kim calls the series 'endearingly racist'. The books have fans around Martinaise, and the hero even appears on a T-shirt in the pawnshop. You can buy two of the books to read.",
+      "inspiredBy": "Conan the Barbarian and similar sword-and-sorcery pulp fiction.",
+      "seeAlso": [
+        "hjelmdallermann-the-man-from-hjelmdall",
+        "man-from-hjelmdall-and-the-devil-woman",
+        "plaisance"
+      ]
+    },
+    {
+      "id": "miss-page-three",
+      "term": "Miss Page-Three",
+      "caseSensitive": true,
+      "short": "Electrochemistry's name for a freckled pin-up girl printed on 'page three', who it says will lead you to the origin of disco.",
+      "details": "Electrochemistry urges you to 'party' with her right there in public, which Rhetoric calls gross public indecency. Inland Empire senses that the freckles only make you sad.",
+      "inspiredBy": "The 'Page 3 girl' pin-ups of British tabloid newspapers.",
+      "seeAlso": [
+        "electrochemistry",
+        "copotype"
+      ]
+    },
+    {
+      "id": "nachtherrer",
+      "term": "Nachtherrer",
+      "caseSensitive": true,
+      "short": "The villains of the pulp fantasy book Hjelmdallermann: a clan of blind underground wizards who traded their souls for demonic powers.",
+      "details": "The Man from Hjelmdall and his blood-brother Tyrbald are hired by Lord Wrôthgär to destroy them, and fight their way through hordes of 'orkenoid' thralls to reach them.",
+      "seeAlso": [
+        "lord-wrothgar"
+      ]
+    },
+    {
+      "id": "no-truce-with-the-furies",
+      "term": "No Truce with the Furies",
+      "aliases": [
+        "Furies",
+        "The Furies Are at Home in the Mirror"
+      ],
+      "caseSensitive": true,
+      "short": "A dramatic, poetic name your detective can suggest more than once, for the murder case in Kim's notebook and later for a dance club.",
+      "details": "When Kim asks what to call the case, one of your options is THE FURIES ARE AT HOME IN THE MIRROR. Kim isn't keen: he says he isn't feeling the inner strife the name refers to and would prefer something less poetic.",
+      "inspiredBy": "Disco Elysium's own original working title, 'No Truce With The Furies'.",
+      "spoiler": "If Andre's crew get their club running in the old church, you can suggest calling it No Truce with the Furies, and Acele may make it official. If you suggested 'Furies' for the case, a later glimpse of Kim's notebook shows he used it after all.",
+      "seeAlso": [
+        "kim-kitsuragi",
+        "church"
+      ]
+    },
+    {
+      "id": "one-day-i-will-return-to-your-side",
+      "term": "ONE DAY I WILL RETURN TO YOUR SIDE",
+      "hideUntilSeen": true,
+      "short": "A giant, freshly painted graffito that appears on the square outside the Whirling-in-Rags; it smells of fuel oil and blood.",
+      "details": "The letters are painted in red-dyed heavy fuel oil, mopped onto the ground in huge strokes. Kim calls it an 'aerograffito', meant to be read from the aerostatics passing over the city, and connects it to the whispers about 'The Return' heard all over Revachol West.\n\nInterfacing points out that fuel oil is flammable.",
+      "spoiler": "It is painted over the bloody traces of the fight outside the Whirling, probably by Cindy the SKULL. Lighting it with a cigarette sets it ablaze for a moment.",
+      "seeAlso": [
+        "whirling-in-rags",
+        "klaasje"
+      ]
+    },
+    {
+      "id": "oranjese-map-of-the-waterways",
+      "term": "Oranjese Map of the Waterways",
+      "aliases": [
+        "Map of the Waterways"
+      ],
+      "caseSensitive": true,
+      "short": "An old Oranjese sailor's tattoo: a web of lines with stars marking the port cities the wearer has sailed to.",
+      "details": "Joyce Messier explains that sailors of the Dolorian century, more than 300 years ago, tattooed their bodies to map their travels across the oceans. The custom has since changed into a style of mercenary tattoos in the Occident.",
+      "spoiler": "The hanged man's chest is covered in one, which points to his mercenary past.",
+      "seeAlso": [
+        "photo-of-tattoos",
+        "joyce-messier",
+        "oranje",
+        "the-hanged-man"
+      ]
+    },
+    {
+      "id": "ostentatious-orchestrations",
+      "term": "Ostentatious Orchestrations",
+      "caseSensitive": true,
+      "short": "A disco rock band; Klaasje says their songs led the loud disco music she heard coming from your room during your binge.",
+      "details": "Encyclopedia winces at the name and would rather say as little as possible about them, adding that they are more of a disco rock band anyway. In Revachol, disco really meant one man: Guillaume Le Million.",
+      "seeAlso": [
+        "klaasje",
+        "encyclopedia"
+      ]
+    },
+    {
+      "id": "paradox-b",
+      "term": "Paradox B",
+      "caseSensitive": true,
+      "short": "A fringe science magazine from Graad about theories like telekinesis and pale appearing inside the isolas; skeptics treat it as crackpot reading.",
+      "details": "Encyclopedia says its mission is to explain such theories before they get out of hand. The popular radio show 'Truth Hunt' is its broadcast counterpart, and Gary, the cryptofascist in Martinaise, admits most of what he says comes from one or the other.",
+      "spoiler": "At the end of the case, Jean Vicquemare dismisses Harry's stranger findings as Paradox B material.",
+      "seeAlso": [
+        "pale",
+        "cryptozoology",
+        "cryptid"
+      ]
+    },
+    {
+      "id": "project-dread-board",
+      "term": "Project Dread Board",
+      "caseSensitive": true,
+      "short": "An old green chalkboard in the abandoned studio of Fortress Accident, a failed radio game company, covered in concept art and a doomed production schedule.",
+      "details": "The board belonged to the team behind 'Wirrâl Untethered', a call-in radio game set in a frozen world drifting away from its sun. It holds photos of icy wastelands, slogans such as 'Call in, tune out!' and 'Heat death of the Universe', and countless drawings of welkins: lithe, pointy-eared fantasy creatures, including a sinister 'high welkin' who wants every other race purged.\n\nA production calendar from the year '50 fills up with tasks and then empties out towards the end, a silent record of the studio running out of time and money. Kim is struck by how much effort went into it.",
+      "seeAlso": [
+        "doomed-commercial-area",
+        "soona",
+        "radiocomputer"
+      ]
+    },
+    {
+      "id": "queen-lydiaana",
+      "term": "Queen Lydiaana",
+      "aliases": [
+        "Lydiaana"
+      ],
+      "caseSensitive": true,
+      "short": "The seductive, scheming queen of Cloud City in the pulp novel 'Man from Hjelmdall and the Devil Woman'.",
+      "details": "In the book, the barbarian hero is captured by a tribe of female warriors and brought to her throne room. She laughs off his vows of purity and tries to win him over with potions and spells: first he is to please her, then lead her armies against the cannibals.\n\nYou can read the book after buying it from the bookstore in the Doomed Commercial Area.",
+      "spoiler": "By the final pages Lydiaana is dead, and the hero rides off on his gryffin while cannibals storm the gates.",
+      "seeAlso": [
+        "doomed-commercial-area"
+      ]
+    },
+    {
+      "id": "real-and-reality",
+      "term": "Reál and Reality",
+      "caseSensitive": true,
+      "short": "A book of communist theory that the student communists' reading group has worked through; its title is a pun on the reál, the currency.",
+      "details": "Steban lists it among the texts the group has read, just before Wertmüller's 'The Mega-Structure of History'. Conceptualization remarks that communist theorists love puns. The Echo Maker grumbles that the new translation is garbage.",
+      "seeAlso": [
+        "puncher-and-wattmann",
+        "real",
+        "communism"
+      ]
+    },
+    {
+      "id": "rietveldt",
+      "term": "Rietveldt",
+      "caseSensitive": true,
+      "short": "An anodic music pioneer; the punks on the plaza name him alongside Arno van Eyck as a true artist of the future.",
+      "details": "Fuck the World uses him as the highest praise for his friend Cindy the SKULL. Noid brings him up too, as one of the famous people nobody accuses of mass murder."
+    },
+    {
+      "id": "sad-fm",
+      "term": "Sad FM",
+      "caseSensitive": true,
+      "short": "A radio station that plays sad, slow rock songs; your detective seems to know its frequency by heart.",
+      "details": "Inland Empire can't resist urging you to tune in, and Kim agrees to 'blast' it with a resigned shrug.",
+      "spoiler": "You can play it on the motor skiff on the way to the island. The old man you meet there hates the station, calling its songs counter-revolutionary dirges.",
+      "seeAlso": [
+        "kim-kitsuragi",
+        "inland-empire"
+      ]
+    },
+    {
+      "id": "sam-bo",
+      "term": "Sam Bo",
+      "aliases": [
+        "Sam Bo style",
+        "Sam Bo-style",
+        "Samaran boxing"
+      ],
+      "caseSensitive": true,
+      "short": "Samaran boxing: a graceful, violent one-on-one fighting style from the Samaran isola; 'Sam Bo style' means stealth, cleverness and cool.",
+      "details": "It once covered a wide range of martial disciplines, from archery to mounted combat, but today it mostly means elegant single combat. Your skills use the phrase whenever you pull off something slick, such as trying to slip away from Garte without settling your debt; Garte is sarcastically unimpressed.\n\nKlaasje admits she is no trained Sam Bo fighter.",
+      "inspiredBy": "The name echoes sambo, a Soviet martial art.",
+      "seeAlso": [
+        "encyclopedia",
+        "garte",
+        "klaasje",
+        "people-s-republic-of-samara",
+        "samara"
+      ]
+    },
+    {
+      "id": "samir-loisir",
+      "term": "Samir Loisir",
+      "caseSensitive": true,
+      "short": "A legendary Gurdi businessman who rose from the coal mines to fabulous wealth; Savoir Faire holds him up as proof that anyone can get rich.",
+      "details": "Encyclopedia says he made his first millions selling the ultra-rare mineral phasium to the luxury jeweller Zachaël et Cie, and the rest through wise investments and the invention of pleochroic lights.\n\nSavoir Faire claims he grew up eating dirt in Gurdi's mines and still made fifty-five billion reál, so you have no excuses. Logic thinks both the fortune and the dirt-eating are exaggerated.",
+      "seeAlso": [
+        "ultraliberalism",
+        "savoir-faire",
+        "real"
+      ]
+    },
+    {
+      "id": "smallest-church-in-saint-saens",
+      "term": "Smallest Church in Saint-Saëns",
+      "aliases": [
+        "The Smallest Church in Saint-Saëns",
+        "The Smallest Church In Saint-Saëns"
+      ],
+      "caseSensitive": true,
+      "short": "A slow, melancholy organ song about a tiny church by the sea; you can find it on tape and sing it at the Whirling-in-Rags karaoke.",
+      "details": "The lyrics describe a tiny church in Saint-Saëns with an even tinier yard, the sea mist and pale cliffs, and they end on a note of loneliness. Garte recognises the song at once.\n\nA tape of it turns up in an abandoned summer house on the coast. You need a tape player or porta-reel to listen to it, and you can hand it to Garte if you want to perform it on the karaoke stage.",
+      "spoiler": "It is the sad song you sang during your binge; Klaasje and Sylvie, the Whirling's former waitress, can both identify it. Egg Head turns it down as far too sad for his dance music.",
+      "seeAlso": [
+        "whirling-in-rags",
+        "garte",
+        "klaasje"
+      ]
+    },
+    {
+      "id": "son-of-lung",
+      "term": "Son of Lung",
+      "aliases": [
+        "Far Out Son of Lung"
+      ],
+      "caseSensitive": true,
+      "short": "A police urban legend about a detective so far undercover, or so far gone, that he forgets who he is. People compare you to him.",
+      "details": "Kim calls it an urban myth about an officer who goes so deep undercover he can't remember his own identity. Another explanation is that it's a cultural reference to a detective who uses wildly experimental methods.\n\nA heckler in the Whirling-in-Rags mockingly calls you the 'Far Out Son of Lung': a supercop who drinks himself into delirium to solve crimes.",
+      "inspiredBy": "The name echoes 'Far-Out Son of Lung and the Ramblings of a Madman', a 1995 track by the electronic group The Future Sound of London.",
+      "seeAlso": [
+        "harry",
+        "amnesia"
+      ]
+    },
+    {
+      "id": "speedfreaks-fm",
+      "term": "Speedfreaks FM",
+      "caseSensitive": true,
+      "short": "A dance-music radio station hosted by DJ Mesh, which turns up in a strange radio mystery on the coast.",
+      "details": "It is saved as the favourite station on the radio of Kim's motor carriage, though he would rather not talk about it.\n\nTwo boys in the fishing village seem to have heard Speedfreaks FM without any radio, which sets off a small side mystery.",
+      "seeAlso": [
+        "kineema",
+        "kim-kitsuragi",
+        "speedfreak",
+        "fishing-village"
+      ]
+    },
+    {
+      "id": "stained-glass-window",
+      "term": "Stained Glass Window",
+      "aliases": [
+        "Shards of Dei"
+      ],
+      "caseSensitive": true,
+      "short": "A cracked stained glass window in the abandoned Dolorian church showing Dolores Dei, the 'young mother of humanism', in apricot-coloured light.",
+      "details": "The tall, sad figure is painted on a single pane, with a crack running across her body; cold air and snow get in through it. Visual Calculus can reconstruct the shattered part: once there was an older woman below her and a line of text. You can kneel before her, and Kim quietly draws an x-shaped cross from shoulder to shoulder.\n\nKim identifies the building as the Dolorian Church of Humanity, also called the Small Pinewood Church, the last of seven old stave churches on the coast.",
+      "spoiler": "Kim suspects the church was shot up in a police raid some time ago, and that Precinct 41 was among the three precincts involved.",
+      "seeAlso": [
+        "church",
+        "dolores-dei",
+        "dolorian",
+        "visual-calculus"
+      ]
+    },
+    {
+      "id": "stormers",
+      "term": "Stormers",
+      "caseSensitive": true,
+      "short": "A local sports team that keeps losing; Titus Hardie thinks they can't play at all.",
+      "details": "In an Esprit de Corps vision, a policeman checks the box scores and sees they lost again, 17-32. Kim jokes that he would have to grow ten centimetres to play flanker for them.",
+      "seeAlso": [
+        "titus-hardie",
+        "kim-kitsuragi"
+      ]
+    },
+    {
+      "id": "the-glinting-curve",
+      "term": "The Glinting Curve",
+      "aliases": [
+        "Glinting Curve"
+      ],
+      "caseSensitive": true,
+      "short": "A book by M. Thibault, the last title listed on the soggy library card found on a dead man on the boardwalk.",
+      "details": "The card's owner was clearly a keen reader: the list also includes 'Radiothriller' and 'Stand a Little Less Between Me and the Sun', and a library stamp shows The Glinting Curve was returned. The title helps you work out whose card it is.",
+      "spoiler": "The Working Class Woman in the apartment building recognises it as her own book; her husband had gone to return it to the library."
+    },
+    {
+      "id": "tiptop-tournee",
+      "term": "TipTop Tournée",
+      "aliases": [
+        "TipTop"
+      ],
+      "caseSensitive": true,
+      "short": "A hugely popular interisolary motor racing series, famous for its speed, its absurd sponsorship deals and its many deaths; Kim is a fan.",
+      "details": "In Revachol the Tournée is held every four years at the Zéro Carrousel racing circuit. Kim, who adores his own motor carriage, perks up if you say you like TipTop, and Harry can mock his outfit as that of a 'washed-up TipTop racer'.\n\nThe bookstore sells 'High Speed Love', a biography of the madcap champion driver Jacob Irw. The communist journal La Fumée runs a long essay condemning the races as a capitalist ritual of brands and destruction.",
+      "inspiredBy": "Formula One motor racing, especially its dangerous early decades.",
+      "seeAlso": [
+        "kim-kitsuragi",
+        "kineema",
+        "motor-carriage",
+        "la-fumee"
+      ]
+    },
+    {
+      "id": "truth-hunt",
+      "term": "Truth Hunt",
+      "caseSensitive": true,
+      "short": "A popular radio show about cryptids, conspiracy theories and fringe history. Gary the Cryptofascist gets his ideas from it.",
+      "details": "Each week its two eccentric hosts cover everything from cryptids to ethnic warfare and the 'historical' Man from Hjelmdall. Encyclopedia calls it the radio counterpart of the Graadian fringe science magazine 'Paradox B'.",
+      "seeAlso": [
+        "cryptid",
+        "fascism"
+      ]
+    },
+    {
+      "id": "ubi-dolorianism",
+      "term": "Ubi Dolorianism",
+      "caseSensitive": true,
+      "short": "A homespun, flowery folk version of Dolorian architecture, brought to Insulinde by Ubi herdsmen who came on the first boats.",
+      "details": "Conceptualization pictures an old wooden building on the coast as it once was (white and gold with light red flower motifs) and names the style, and you can ask whether you just made the term up. The young man Noid confirms it: 'folk Dolorianism', an early, mass-produced subset of Dolorian building. In his words, nearly everything between an ancient concrete cathedral and a glass cube counts as Dolorianism.",
+      "spoiler": "Noid believes the Ubis built the old church about 320 years ago as a kind of sarcophagus: a structure meant to surround and contain something strange they had heard about but did not really understand.",
+      "seeAlso": [
+        "ubi-sunt",
+        "dolorian",
+        "church",
+        "conceptualization"
+      ]
+    },
+    {
+      "id": "un-pays-infernal",
+      "term": "Un Pays Infernal",
+      "caseSensitive": true,
+      "short": "A dense anti-capitalist book of critical theory; the student communist reading group in the apartment building has worked through it.",
+      "details": "The title is French for 'An Infernal Country'. The reading group lists it among their past assignments and credits it to Abelard; another description names the author as Dr. Benoit Mejean, an angry humanities doctor at La Cherte University in Sur-La-Clef, who promises to cover everything wrong with capitalism once and for all.\n\nThe book jokes that the more communist books you read, the more communist your brain becomes, but in practice it reads as near-impenetrable jargon.",
+      "seeAlso": [
+        "communism"
+      ]
+    },
+    {
+      "id": "white-deora",
+      "term": "White Deora",
+      "caseSensitive": true,
+      "short": "A dusty, broken pinball machine at the Whirling-in-Rags, themed on early airships and beautiful, sad, pearl-laden women of the Dolorian age.",
+      "details": "Kim guesses it's about Messina in the Dolorian era and finds history-themed pinball inane. Encyclopedia explains that Deora was one of the three Crown Cities of the Dolorian era on the Mundi isola, alongside Rheasilvia and Advesperascit. None of these machines work; the only working one is the Royalist Pinball in the main hall.",
+      "seeAlso": [
+        "whirling-in-rags",
+        "dolorian",
+        "kim-kitsuragi"
+      ]
+    },
+    {
+      "id": "wholeness-unity-balance",
+      "term": "Wholeness, Unity, Balance",
+      "caseSensitive": true,
+      "short": "A self-help health book by Matthias W. Dundas on the paranormal shelf of Plaisance's bookstore, claiming the mind can cure nearly anything.",
+      "details": "Like many books on that shelf, it gives medical advice to people who can't afford doctors while dismissing real medicine. Its logic: if your mind has to heal you, it was your mind that made you ill. Chapters cover harvesting magnesium from plants, carrying on drinking with a ruined liver, and an old Seraise remedy using duck gall bladder. It is not worth buying.",
+      "seeAlso": [
+        "doomed-commercial-area"
+      ]
+    },
+    {
+      "id": "wirral",
+      "term": "Wirrâl",
+      "caseSensitive": true,
+      "short": "A hugely popular fantasy board game of maps, dice and miniatures, with welkin, dweorgr, faerie folk and pygmies; you can buy a module at the bookstore.",
+      "details": "Its box promises an escape from modern life into a pastoral world of magic, monsters and dungeons, free of isolas, nations and technology. Players create heroes from five races (welkin, dweorgr, humans, faerie folk and pygmies), read an intricate rulebook and roll dice. The setting is known for its complicated system of political alignments, though most players just hack through dungeons for loot.\n\nPlaisance sells a Third Edition module at her bookstore. Inside are a map, a booklet, a 24-sided die and a little plastic figurine of a communard, which clearly doesn't belong to the game.",
+      "inspiredBy": "Dungeons & Dragons and similar Tolkien-style fantasy games (the welkin and dweorgr are its elves and dwarves).",
+      "seeAlso": [
+        "wirral-untethered",
+        "doomed-commercial-area",
+        "isola"
+      ]
+    },
+    {
+      "id": "wirral-untethered",
+      "term": "Wirrâl Untethered",
+      "caseSensitive": true,
+      "short": "An ambitious radio game set in a version of the Wirrâl world, developed by Fortress Accident, a failed studio in the Doomed Commercial Area.",
+      "details": "The idea was an automated role-playing game run on radiocomputers: players anywhere could join through call-in stations with two-way radios, while a game master frequency coordinated the stories. Its world was a modified Wirrâl with heat death thrown in.\n\nThe studio had 18 staff and tried to make a 4,000,000 reál game with 400,000 in the bank. The Novelty Dicemaker sells a special die for it, decorated with motifs of ice, death and loss.",
+      "spoiler": "The game was lost: an unexplained numeric anomaly struck just as the project was being compiled, and it came back completely blank.",
+      "seeAlso": [
+        "wirral",
+        "doomed-commercial-area",
+        "radiocomputer"
+      ]
+    }
+  ]
+}

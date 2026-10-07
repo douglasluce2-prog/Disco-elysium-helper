@@ -4,133 +4,482 @@
   "category": "Politics & Ideas",
   "entries": [
     {
+      "id": "communism",
       "term": "Communism",
-      "aliases": ["communist", "communists", "Mazovian socio-economics"],
+      "aliases": [
+        "communist",
+        "communists",
+        "Mazovianism",
+        "Mazovian socio-economics",
+        "Mazovian thought"
+      ],
       "short": "In Elysium: the ideology founded by Kras Mazov, aiming for a classless society where workers own everything.",
-      "details": "Communism (formally 'Mazovian socio-economics') once ruled Revachol briefly, after the Revolution, until the Coalition crushed it. In the game's present, communists are a defeated, nostalgic minority who still believe a better world is possible. The game treats communism with both sympathy and mockery, as it does every ideology.",
+      "details": "Communism, also called Mazovianism or 'Mazovian socio-economics', briefly ruled Revachol after the Revolution, until the Coalition crushed it. In today's Revachol communists are a defeated, nostalgic minority who still believe a better world is possible. Its symbol is a white star in a wreath of antlers.\n\nThe game treats communism with both sympathy and mockery, as it does every ideology.",
       "inspiredBy": "Marxism and the communist movements of the 19th and 20th centuries.",
-      "seeAlso": ["kras-mazov", "revolution", "commune", "proletariat", "political-alignment"]
+      "seeAlso": [
+        "kras-mazov",
+        "revolution",
+        "commune",
+        "proletariat",
+        "political-alignment"
+      ]
     },
     {
+      "id": "kras-mazov",
       "term": "Kras Mazov",
-      "aliases": ["Mazov", "Mazovian", "Mazovians"],
+      "aliases": [
+        "Mazov",
+        "Mazovian",
+        "Mazovians",
+        "Bust of Kras Mazov",
+        "Comrade Mazov",
+        "Kras",
+        "Kras Mazov Portrait"
+      ],
       "caseSensitive": true,
       "short": "The founding thinker of communism in Elysium. 'Mazovian' means communist.",
       "inspiredBy": "Karl Marx.",
-      "seeAlso": ["communism"]
+      "seeAlso": [
+        "communism"
+      ]
     },
     {
+      "id": "ultraliberalism",
       "term": "Ultraliberalism",
-      "aliases": ["ultraliberal", "ultraliberals", "Ultraliberal"],
+      "aliases": [
+        "ultraliberal",
+        "ultraliberals",
+        "Ultraliberal"
+      ],
       "short": "In Elysium: extreme free-market capitalism. Money, deregulation and personal success above all.",
       "details": "Ultraliberals believe markets should run everything and that getting rich is the highest good. Picking ultraliberal options makes your detective talk like an obsessive investor and self-help guru.",
       "inspiredBy": "Neoliberalism, libertarian economics and hustle culture.",
-      "seeAlso": ["moralism", "communism", "fascism", "political-alignment", "laissez-faire"]
+      "seeAlso": [
+        "moralism",
+        "communism",
+        "fascism",
+        "political-alignment",
+        "laissez-faire"
+      ]
     },
     {
+      "id": "moralism",
       "term": "Moralism",
-      "aliases": ["moralist", "moralists", "Moralist"],
+      "aliases": [
+        "moralist",
+        "moralists",
+        "Moralist"
+      ],
       "short": "In Elysium: cautious, compromise-seeking centrism. The official ideology of the Moralintern and the Coalition.",
       "details": "Moralists want stability, slow reform and no sudden moves. The game portrays it as reasonable-sounding but complacent: it keeps the world as it is.",
       "inspiredBy": "Liberal centrism and technocracy.",
-      "seeAlso": ["moralintern", "coalition", "centrism", "political-alignment"]
+      "seeAlso": [
+        "moralintern",
+        "coalition",
+        "centrism",
+        "political-alignment"
+      ]
     },
     {
+      "id": "fascism",
       "term": "Fascism",
-      "aliases": ["fascist", "fascists", "Revacholian nationalism", "nationalism", "nationalist", "nationalists"],
+      "aliases": [
+        "fascist",
+        "fascists",
+        "fascha",
+        "Revacholian nationalism"
+      ],
       "short": "In Elysium: aggressive Revacholian nationalism, nostalgic for past glory and hostile to outsiders.",
       "details": "Picking fascist options makes your detective rant about national greatness and other races. The game frames this path as pathetic and ugly, and characters respond accordingly.",
       "inspiredBy": "Real-world fascism and ethnic nationalism.",
-      "seeAlso": ["measurehead", "political-alignment", "revanchism"]
+      "seeAlso": [
+        "measurehead",
+        "political-alignment",
+        "revanchism"
+      ]
     },
     {
       "id": "strike",
       "term": "Strike",
-      "aliases": ["strikes", "on strike"],
+      "aliases": [
+        "strikes",
+        "on strike"
+      ],
       "short": "Workers refusing to work to pressure their employer. The Martinaise dockworkers are on strike.",
       "details": "The dockworkers' union has stopped work in the harbour in a dispute with the Wild Pines company. The strike shapes everything in Martinaise, including how people react to the murder.",
-      "seeAlso": ["union", "wild-pines", "scab", "picket-line"]
+      "seeAlso": [
+        "union",
+        "wild-pines",
+        "scab",
+        "picket-line"
+      ]
     },
     {
+      "id": "proletariat",
       "term": "Proletariat",
-      "aliases": ["proletarian", "proletarians"],
+      "aliases": [
+        "proletarian",
+        "proletarians"
+      ],
       "short": "The working class: people who earn a living by selling their labour, like the dockworkers.",
-      "seeAlso": ["bourgeoisie", "communism", "lumpenproletariat"]
+      "seeAlso": [
+        "bourgeoisie",
+        "communism",
+        "lumpenproletariat"
+      ]
     },
     {
+      "id": "bourgeoisie",
       "term": "Bourgeoisie",
-      "aliases": ["bourgeois"],
+      "aliases": [
+        "bourgeois"
+      ],
       "short": "The owning class: people who own businesses, property and capital. The opposite of the proletariat.",
-      "seeAlso": ["proletariat", "petite-bourgeoisie", "communism"]
+      "seeAlso": [
+        "proletariat",
+        "petite-bourgeoisie",
+        "communism"
+      ]
     },
     {
+      "id": "petite-bourgeoisie",
       "term": "Petite bourgeoisie",
-      "aliases": ["petit bourgeois", "petty bourgeois", "petit-bourgeois", "petty bourgeoisie"],
+      "aliases": [
+        "petit bourgeois",
+        "petty bourgeois",
+        "petit-bourgeois",
+        "petty bourgeoisie"
+      ],
       "short": "The 'small' owning class: shopkeepers and small business owners. Often used as an insult by communists.",
-      "seeAlso": ["bourgeoisie", "proletariat"]
+      "seeAlso": [
+        "bourgeoisie",
+        "proletariat"
+      ]
     },
     {
+      "id": "lumpenproletariat",
       "term": "Lumpenproletariat",
-      "aliases": ["lumpen"],
+      "aliases": [
+        "lumpen"
+      ],
       "short": "In Marxist theory: the poorest underclass of drifters and petty criminals, outside organised labour.",
-      "seeAlso": ["proletariat"]
+      "seeAlso": [
+        "proletariat"
+      ]
     },
     {
+      "id": "means-of-production",
       "term": "Means of production",
       "short": "The things used to make wealth: factories, tools, land, ports. Communists want workers to own them.",
-      "seeAlso": ["communism", "proletariat"]
+      "seeAlso": [
+        "communism",
+        "proletariat"
+      ]
     },
     {
+      "id": "class-consciousness",
       "term": "Class consciousness",
       "short": "Workers' awareness that they share interests as a class, and that those clash with their employers'.",
-      "seeAlso": ["proletariat", "communism"]
+      "seeAlso": [
+        "proletariat",
+        "communism"
+      ]
     },
     {
+      "id": "dialectics",
       "term": "Dialectics",
-      "aliases": ["dialectic", "dialectical", "dialectical materialism"],
+      "aliases": [
+        "dialectic",
+        "dialectical",
+        "dialectical materialism"
+      ],
       "short": "A way of reasoning in which opposing forces clash and produce something new. Central to Marxist theory.",
-      "seeAlso": ["communism"]
+      "seeAlso": [
+        "communism"
+      ]
     },
     {
+      "id": "hegemony",
       "term": "Hegemony",
-      "aliases": ["hegemonic"],
+      "aliases": [
+        "hegemonic"
+      ],
       "short": "Dominance, especially the cultural kind: when one group's ideas seem like plain common sense to everyone.",
-      "seeAlso": ["moralism"]
+      "seeAlso": [
+        "moralism"
+      ]
     },
     {
+      "id": "centrism",
       "term": "Centrism",
-      "aliases": ["centrist", "centrists"],
+      "aliases": [
+        "centrist",
+        "centrists"
+      ],
       "short": "Politics of the middle ground, avoiding the left and the right. In the game, that's Moralism.",
-      "seeAlso": ["moralism"]
+      "seeAlso": [
+        "moralism"
+      ]
     },
     {
+      "id": "laissez-faire",
       "term": "Laissez-faire",
       "short": "French for 'let it be': the belief that government should leave the economy alone.",
-      "seeAlso": ["ultraliberalism"]
+      "seeAlso": [
+        "ultraliberalism"
+      ]
     },
     {
+      "id": "plutocracy",
       "term": "Plutocracy",
-      "aliases": ["plutocrat", "plutocrats", "plutocratic"],
+      "aliases": [
+        "plutocrat",
+        "plutocrats",
+        "plutocratic"
+      ],
       "short": "Rule by the rich. A plutocrat is someone whose wealth gives them power.",
-      "seeAlso": ["ultraliberalism"]
+      "seeAlso": [
+        "ultraliberalism"
+      ]
     },
     {
+      "id": "reactionary",
       "term": "Reactionary",
-      "aliases": ["reactionaries"],
+      "aliases": [
+        "reactionaries"
+      ],
       "short": "Someone who wants to turn back social or political change and return to an older order.",
-      "seeAlso": ["fascism", "royalists"]
+      "seeAlso": [
+        "fascism",
+        "royalists"
+      ]
     },
     {
+      "id": "revisionism",
       "term": "Revisionism",
-      "aliases": ["revisionist", "revisionists"],
+      "aliases": [
+        "revisionist",
+        "revisionists"
+      ],
       "short": "Communist insult for watering down the true doctrine. Also: rewriting history to suit an agenda.",
-      "seeAlso": ["communism"]
+      "seeAlso": [
+        "communism"
+      ]
     },
     {
+      "id": "revanchism",
       "term": "Revanchism",
-      "aliases": ["revanchist", "revanchists"],
+      "aliases": [
+        "revanchist",
+        "revanchists"
+      ],
       "short": "Nationalist desire to take revenge for a past defeat and win back what was lost.",
-      "seeAlso": ["fascism"]
+      "seeAlso": [
+        "fascism"
+      ]
+    },
+    {
+      "id": "econoclard",
+      "term": "Econoclard",
+      "aliases": [
+        "Econoclards",
+        "Mazovian Economists"
+      ],
+      "caseSensitive": true,
+      "short": "A sneering nickname for the Mazovian Economists, a moderate communist school that wants to reach communism gradually through managed economic growth.",
+      "details": "Encyclopedia notes the nickname is an extra-insulting version of an already insulting label. Steban, the student communist, mocks them as bean-counters obsessed with forecasting models, liberals in disguise who love spreadsheets.\n\nTogether with the Gottwald School, they are the fashionable left-wing schools that leave his own infra-materialist reading group short of recruits.",
+      "seeAlso": [
+        "gottwald-school",
+        "communism",
+        "kras-mazov"
+      ]
+    },
+    {
+      "id": "emergencies-act",
+      "term": "Emergencies Act",
+      "aliases": [
+        "Emergency Act",
+        "Emergencies Act of Trade and Aliments",
+        "Emergency Trade and Aliments Acts"
+      ],
+      "caseSensitive": true,
+      "short": "The sweeping emergency law the Coalition put in place over post-war Revachol. The RCM's own authority comes from the same source.",
+      "details": "Encyclopedia calls it the cornerstone of post-war Revachol, an octopus straddling the city. Joyce Messier cites it as what lets her keep company business to herself, and it is loose enough that 'donations' to police officers are allowed as long as they are logged with the precinct.\n\nRepealing it would mean throwing off the Coalition itself, which also leases the RCM the right to police West Revachol.",
+      "seeAlso": [
+        "coalition",
+        "rcm",
+        "joyce-messier",
+        "revachol"
+      ]
+    },
+    {
+      "id": "girl-child-revolution",
+      "term": "Girl Child Revolution",
+      "aliases": [
+        "Girl Child Communism"
+      ],
+      "caseSensitive": true,
+      "short": "A poetic, almost ghostly personification of the revolution to come, from communist literature; your detective may see her in children.",
+      "details": "Trant Heidelstam traces the figure to Lu Jiatun's 'Mirova Cycle', whose returning character, Girl Child Communism, is a ghostly apparition. Your detective can greet little Lily in the fishing village as 'Girl Child Revolution', and a communist vision on the boardwalk sends you off to find Girl Child Revolution and Girl Child Communism.",
+      "spoiler": "Very late in the game, the old communist you meet says he has spent all these years waiting for her: Girl Child Revolution.",
+      "seeAlso": [
+        "communism",
+        "revolution"
+      ]
+    },
+    {
+      "id": "gottwald-school",
+      "term": "Gottwald School",
+      "caseSensitive": true,
+      "short": "A fashionable school of left-wing critical theory which holds that intellectuals can only critique capitalism from inside it, not overthrow it.",
+      "details": "Along with the Econoclards, it is one of the leading schools on the left today. Steban, the student communist, despises it: to him its followers look and talk like communists but are really depressed liberals who have read too many books. A Gottwaldian, he says, would tell you that modern society can only repackage its shared history in ever more ludicrous forms.",
+      "inspiredBy": "The Frankfurt School of critical theory.",
+      "seeAlso": [
+        "communism",
+        "econoclard",
+        "gottwald"
+      ]
+    },
+    {
+      "id": "ignus-nilsen",
+      "term": "Ignus Nilsen",
+      "aliases": [
+        "Apocalyptic Shrike",
+        "Evangelist of the Revolution",
+        "Nilsen"
+      ],
+      "caseSensitive": true,
+      "short": "A communist revolutionary and theorist, Kras Mazov's close comrade; admirers call him the Evangelist of the Revolution, enemies the Apocalyptic Shrike.",
+      "details": "Nilsen was a leading political and military figure of the Antecentennial Revolution, second only to Mazov himself in fame. Admirers called him the 'Evangelist of the Revolution'. Enemies called him the 'Apocalyptic Shrike' after he ordered thousands of prisoners of war impaled during the retreat from Graad to Samara.\n\nHe argued that revolutionary thought radiates from the brain as a kind of energy, plasm, that might one day reshape matter itself; his followers turned this into the school called infra-materialism. His reputation has faded in most of the world, but the People's Republic of Samara honours him as a founding father, and Steban's communist reading group studies him closely.",
+      "seeAlso": [
+        "communism",
+        "kras-mazov",
+        "people-s-republic-of-samara",
+        "plasm",
+        "revolution"
+      ]
+    },
+    {
+      "id": "le-retour",
+      "term": "Le Retour",
+      "aliases": [
+        "The Return",
+        "the Return"
+      ],
+      "caseSensitive": true,
+      "short": "French for 'The Return': a vague rumour, whispered all over Revachol West, that some great event will one day bring something back.",
+      "details": "Kim says that in Revachol West someone is always whispering about Le Retour. Nobody agrees on what exactly will return; Conceptualization sees it as an empty vessel waiting to be filled, since something always returns from the past.\n\nThe huge graffito that appears on the plaza, promising 'one day I will return to your side', makes you wonder whether it is connected.",
+      "spoiler": "Klaasje is waiting for the Return. She calls it part urban myth and part political science, popular in industrial espionage circles, and deliberately vague: it could be the return of the king, the nation, communism, or a return on investment.",
+      "seeAlso": [
+        "revachol",
+        "klaasje"
+      ]
+    },
+    {
+      "id": "plasm",
+      "term": "Plasm",
+      "short": "Ignus Nilsen's idea of ideological energy: revolutionary belief radiating out of the brain, perhaps strong enough to bend physical reality.",
+      "details": "According to Nilsen, the brain works like a transmitter, constantly giving off waves of politically charged energy. If people believe fervently enough, this plasm might start to influence the material world around it. His followers built a school of communism on the idea, infra-materialism, and argue about what a society with the highest possible level of plasm ('Communism Above Reality') would look like.\n\nYou can read all about it in the guide A Brief Look at Infra-Materialism, and Steban's reading group takes it very seriously.",
+      "spoiler": "Steban and his comrade Uli have been testing whether the plasm between the two of them is enough to hold up a few matchboxes.",
+      "seeAlso": [
+        "ignus-nilsen",
+        "communism",
+        "dialectics"
+      ]
+    },
+    {
+      "id": "puncher-and-wattmann",
+      "term": "Puncher and Wattmann",
+      "caseSensitive": true,
+      "short": "A pair of political theorists studied by the student communists' secret reading group; they wrote the multi-volume 'Innocence of Capital'.",
+      "details": "Steban, the student communist, counts their work among the foundational texts of Mazovian theory, although he stresses they are not infra-materialists. He quotes them as saying that communism is a secular version of Perikarnassian theology: it swaps faith in the divine for faith in humanity's future.\n\nHis sidekick, the Echo Maker, adds that in 'Innocence of Capital' they argue communists should own as little capital as possible, so that it doesn't dilute their thinking. Steban thinks they should be required reading.",
+      "seeAlso": [
+        "innocence-of-capital",
+        "communism",
+        "kras-mazov"
+      ]
+    },
+    {
+      "id": "race-enigma",
+      "term": "Race Enigma",
+      "aliases": [
+        "Great Race Enigma"
+      ],
+      "short": "Measurehead's name for the great mystery at the heart of his race theory, which he claims to have solved and refuses to share.",
+      "details": "Measurehead insists the Race Enigma runs much deeper than skin colour and calls it the great mystery of living organisms. If you sit through his lecture on the race types and ask whether you now understand his theory, he scoffs that you haven't even put the mystery into words yet, let alone solved it.\n\nTo get there he tells you to internalize what you have heard, which adds a race-theory Thought to your Thought Cabinet and a task to come back to him with your answer.",
+      "seeAlso": [
+        "measurehead",
+        "thought-cabinet",
+        "internalize"
+      ]
+    },
+    {
+      "id": "seolite-conspiracy",
+      "term": "Seolite Conspiracy",
+      "caseSensitive": true,
+      "short": "Gary the cryptofascist's theory that Seolite agents secretly use superior technology to manipulate governments and corporations worldwide.",
+      "details": "Gary claims that while Seol keeps itself closed off, its agents climb the ladders of power on other isolas, blackmailing and turning officials with advanced spy technology. He begs you not to let Kim know you know.\n\nIf you confront Kim about it, he tells you once, calmly, that there is no Seolite Conspiracy, and that even if there were, he would not be part of it. He was born and raised in Revachol.",
+      "inspiredBy": "'Yellow Peril' fears and conspiracy theories about East Asian infiltration.",
+      "seeAlso": [
+        "seol",
+        "kim-kitsuragi",
+        "fascism"
+      ]
+    },
+    {
+      "id": "ultras",
+      "term": "Ultras",
+      "caseSensitive": true,
+      "short": "Nickname for the liberals who backed the Revolution instead of the monarchy, and did well out of it. Also the model name of a sleek FALN sneaker.",
+      "details": "Joyce Messier explains that, when the Revolution came, some wealthy liberals stayed loyal to the Constitution and the monarchy (a big mistake), while others bet on the Revolution. Those were called the Ultras, or ultraliberals, and they fared well.\n\nSeparately, a street vendor in Jamrock tries to sell you a pair of FALN 'Ultras': jet black, futuristic sneakers with a silver-lined midsole, displayed on a pedestal of old speakers.",
+      "seeAlso": [
+        "ultraliberalism",
+        "revolution",
+        "royalists",
+        "joyce-messier"
+      ]
+    },
+    {
+      "id": "wayfarer-act",
+      "term": "Wayfarer Act",
+      "caseSensitive": true,
+      "short": "One of the few laws in Revachol: it protects freedom of movement and public gathering, and sharply limits what the RCM can demand of citizens.",
+      "details": "Under the Wayfarer Act the RCM cannot, for example, demand to see anyone's operator licence, or throw people out of public spaces unless they are disturbing public order. Together with the Emergency and Aliments Acts it defines the RCM's responsibilities in the Revachol Zone of Control; Joyce says these laws keep the city in a laissez-faire stasis that benefits foreign capital.\n\nKim says even schoolchildren know it, and several people you meet, Joyce among them, quote it at you.",
+      "seeAlso": [
+        "rcm",
+        "coalition",
+        "laissez-faire",
+        "joyce-messier"
+      ]
+    },
+    {
+      "id": "world-republic",
+      "term": "World Republic",
+      "short": "The communist dream of a single republic spanning the whole world, the goal that true believers say all their work serves.",
+      "details": "Rhetoric reminds you that the state of your room or your paperwork doesn't matter, only your commitment to building the World Republic. You can also tell Call Me Mañana that his deeds align with it, and toast its glory elsewhere.",
+      "seeAlso": [
+        "communism",
+        "world-revolution",
+        "kras-mazov"
+      ]
+    },
+    {
+      "id": "zone-of-control",
+      "term": "Zone of Control",
+      "aliases": [
+        "Revachol Zone of Control",
+        "zones of control"
+      ],
+      "caseSensitive": true,
+      "short": "Revachol's current status: a territory run by the foreign Coalition, with almost no government of its own and a 'market driven' democracy.",
+      "details": "Lena explains it to you early on. Joyce Messier calls the Zone of Control the third incarnation of Revachol, after the king and the Commune, and says the Coalition hands the RCM crumbs of the law it took away. Only a few laws govern it, such as the Wayfarer Act and the Emergency Trade and Aliments Acts.\n\nIts flag is signal blue, and official documents carry the words 'Revachol Zone of Control'. Kim mentions people who say it won't hold up for long.",
+      "seeAlso": [
+        "coalition",
+        "revachol",
+        "moralintern",
+        "commune",
+        "rcm"
+      ]
     }
   ]
 }

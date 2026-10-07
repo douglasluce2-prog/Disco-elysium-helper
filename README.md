@@ -16,7 +16,7 @@ game assumes you'll pick them up as you go. This mod fills that gap without spoi
 | Feature | How it works |
 |---|---|
 | **Sidebar** | As dialogue appears, terms the dictionary knows are listed on the left of the screen with a one-line explanation, newest first. When a skill or a known character is speaking, that's explained too. Click any term for the full entry. |
-| **Dictionary window** (`F1`) | Search everything, or browse by category: Skills, Game Mechanics, People, Places, World, Factions, Politics & Ideas, History, Slang & Jargon, Vocabulary. Blue words inside an explanation are links to other entries. |
+| **Dictionary window** (`F1`) | Search everything, or browse by category: Skills, Thoughts, Game Mechanics, People, Places, World, Factions, Politics & Ideas, History, Culture & Media, Items, Slang & Jargon, Vocabulary. Blue words inside an explanation are links to other entries. |
 | **Look up any word** (`F3` or middle-click) | Point the mouse at any word on screen (dialogue, tooltips, journal, Thought Cabinet, item descriptions) and press `F3`. Game terms open their entry, even multi-word ones like *Inland Empire*. Ordinary English words are looked up in a free online dictionary. |
 | **No spoilers** | Explanations are written to be safe at any point in the game. Plot details sit behind a *"Contains spoilers. Click here to reveal."* line. Names that would themselves give the story away don't appear in the list until you've met them in the game. |
 | **Real-world context** | Many entries say what the thing is based on (the Paris Commune, Marx, Lynch's *Inland Empire*...), because a lot of the game is political satire of our world. |

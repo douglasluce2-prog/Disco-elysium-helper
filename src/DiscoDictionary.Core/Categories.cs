@@ -16,10 +16,13 @@ public static class Categories
     public const string History = "History";
     public const string Slang = "Slang & Jargon";
     public const string Vocabulary = "Vocabulary";
+    public const string Thoughts = "Thoughts";
+    public const string Items = "Items";
+    public const string Culture = "Culture & Media";
 
     public static readonly IReadOnlyList<string> All = new[]
     {
-        Skills, Mechanics, People, Places, World, Factions, Politics, History, Slang, Vocabulary,
+        Skills, Thoughts, Mechanics, People, Places, World, Factions, Politics, History, Culture, Items, Slang, Vocabulary,
     };
 
     public static bool IsKnown(string category)
@@ -68,6 +71,9 @@ public static class Categories
         History => "C9A66B",
         Slang => "D4C66A",
         Vocabulary => "B8B8B8",
+        Thoughts => "B39DDB",
+        Items => "D9A27A",
+        Culture => "E6A0C4",
         _ => "CCCCCC",
     };
 }

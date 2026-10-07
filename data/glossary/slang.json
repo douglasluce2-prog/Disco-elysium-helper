@@ -2,45 +2,451 @@
   "category": "Slang & Jargon",
   "entries": [
     {
+      "id": "pig",
       "term": "Pig",
-      "aliases": ["pigs"],
+      "aliases": [
+        "pigs"
+      ],
       "short": "Slang insult for a police officer. Cuno uses it on you constantly.",
-      "seeAlso": ["cuno", "rcm"]
+      "seeAlso": [
+        "cuno",
+        "rcm"
+      ]
     },
     {
+      "id": "yefreitor",
       "term": "Yefreitor",
-      "aliases": ["yefreitors", "double-yefreitor", "lieutenant double-yefreitor", "Lieutenant double-yefreitor"],
-      "short": "An RCM rank title. Harry is a 'lieutenant double-yefreitor'.",
-      "details": "RCM ranks combine an officer grade with extra 'yefreitor' grades. Nobody outside the force finds it easy to follow, which the game enjoys.",
+      "aliases": [
+        "yefreitors",
+        "double-yefreitor",
+        "lieutenant double-yefreitor",
+        "Lieutenant double-yefreitor",
+        "lieutenant-yefreitor",
+        "LTN-2JFR"
+      ],
+      "short": "An RCM rank add-on given to officers who turn down a promotion; Harry, a 'lieutenant double-yefreitor', has declined twice.",
+      "details": "Kim explains that 'yefreitor' is added to your rank when you decline a promotion to a higher rank. Harry turned down promotion to captain twice, so his full rank is lieutenant double-yefreitor, though people also often call him 'lieutenant-yefreitor'.",
       "inspiredBy": "From the Russian 'yefreytor' (from German 'Gefreiter'), a junior military rank similar to lance corporal.",
-      "seeAlso": ["rcm", "harry"]
+      "seeAlso": [
+        "rcm",
+        "harry"
+      ]
     },
     {
+      "id": "scab",
       "term": "Scab",
-      "aliases": ["scabs", "strikebreaker", "strikebreakers", "strike-breaker"],
+      "aliases": [
+        "scabs",
+        "strikebreaker",
+        "strikebreakers",
+        "strike-breaker"
+      ],
       "short": "Insult for someone who works while others are on strike, undermining the strike.",
-      "seeAlso": ["strike", "union", "picket-line"]
+      "seeAlso": [
+        "strike",
+        "union",
+        "picket-line"
+      ]
     },
     {
+      "id": "picket-line",
       "term": "Picket line",
-      "aliases": ["picket", "pickets", "picketing", "picket lines"],
+      "aliases": [
+        "picket",
+        "pickets",
+        "picketing",
+        "picket lines"
+      ],
       "short": "Strikers gathered at a workplace entrance to stop others from going in to work.",
-      "seeAlso": ["strike", "scab"]
+      "seeAlso": [
+        "strike",
+        "scab"
+      ]
     },
     {
+      "id": "hobocop",
       "term": "Hobocop",
-      "caseSensitive": true,
-      "short": "A Thought you can get: embracing life as a cop who lives like a homeless drifter.",
-      "seeAlso": ["thought-cabinet", "copotype"]
+      "aliases": [
+        "hobo cop"
+      ],
+      "category": "Thoughts",
+      "short": "A Thought about embracing life as a homeless cop: sleeping rough and digging through bins instead of paying for a room.",
+      "details": "You can get it early on: after Garte asks whether you want to become a hobo, your mind wonders where home is, and you can answer that you'll live in a dumpster. Your fellow officers also joke about 'going full hobocop' as if it were an urban myth.",
+      "seeAlso": [
+        "thought-cabinet",
+        "garte",
+        "copotype"
+      ]
     },
     {
+      "id": "precinct",
       "term": "Precinct",
-      "aliases": ["precincts"],
+      "aliases": [
+        "precincts"
+      ],
       "caseSensitive": true,
       "commonWord": true,
       "autoDetect": false,
       "short": "A police district and its station. RCM precincts are numbered (Harry's is 41, Kim's is 57).",
-      "seeAlso": ["precinct-41", "precinct-57", "rcm"]
+      "seeAlso": [
+        "precinct-41",
+        "precinct-57",
+        "rcm"
+      ]
+    },
+    {
+      "id": "aerograffito",
+      "term": "aerograffito",
+      "short": "A message painted on rooftops or the ground in letters big enough to be read from the Coalition aerostatics that watch the city from above.",
+      "details": "Kim explains the word when you find a rooftop telling the airships to GO HOME, and again at a giant message on the plaza; he notes that in Revachol West someone is always whispering about Le Retour, 'the Return'.",
+      "seeAlso": [
+        "aerostatic",
+        "coalition",
+        "kim-kitsuragi"
+      ]
+    },
+    {
+      "id": "al-gul",
+      "term": "Al Gul",
+      "short": "Measurehead's grand name for alcohol, which he calls an ancient Iilmaraan poison; you can pick up the phrase and use it yourself.",
+      "details": "To Measurehead, Al Gul is a parasitic fungus from Iilmaraa that has colonised your race: a trick played by the 'desert pygmees' in revenge for being robbed of their land, and the cause of much of your decline. It is race-theory nonsense, but the name sticks. Your detective can claim to have danced with Al Gul for a thousand nights, and Tiago in the old church uses the word too.",
+      "inspiredBy": "A pun on 'alcohol' (a word of Arabic origin) and 'ghoul' (al-ghul in Arabic).",
+      "seeAlso": [
+        "electrochemistry",
+        "measurehead",
+        "tiago",
+        "yeesut"
+      ]
+    },
+    {
+      "id": "antecentennial",
+      "term": "antecentennial",
+      "short": "From before the turn of the century, i.e. the time of the monarchy. The communist uprising is called the Antecentennial Revolution.",
+      "details": "'Antecentennial nostalgia' is the still-common longing for the days before the turn of the century, kings and all, some fifty years on; you see it in royalist imagery on everything from pinball machines to cigarettes. The Antecentennial Revolution, sparked by the theories of Kras Mazov, ended that world.",
+      "seeAlso": [
+        "revolution",
+        "royalists",
+        "kras-mazov",
+        "commune"
+      ]
+    },
+    {
+      "id": "cobo",
+      "term": "Cobo",
+      "aliases": [
+        "Il Cobo",
+        "Il Cobo di Coppodocia",
+        "Cobo mi Lobo",
+        "Coppodocia"
+      ],
+      "caseSensitive": true,
+      "short": "The nickname the hanged man's imagined voice gives you during the autopsy, as in 'Il Cobo di Coppodocia'.",
+      "details": "As you examine the body, your mind lends the corpse a chatty, mocking voice full of fake Messinian-sounding nicknames for you: Cobo, Il Cobo di Coppodocia, Cobo mi Lobo, and endless variations on 'coppo'. The voice itself admits it is a mish-mash of how you imagine people from Messina talk, which says something about your assumptions on where the dead man came from.",
+      "seeAlso": [
+        "the-hanged-man",
+        "inland-empire",
+        "coppo"
+      ]
+    },
+    {
+      "id": "cop-off",
+      "term": "Cop Off",
+      "caseSensitive": true,
+      "short": "Kim's scornful name for the turf rivalry between Precincts 41 and 57 over who gets to solve the Martinaise hanging.",
+      "details": "The dispatch desk told both stations about the hanging, and the 57th treated it as a contest: time to 'settle it' with a Cop Off. The precincts cannot agree whether Martinaise belongs to Jamrock or to the Industrial Harbour, and Kim thinks this street-gang squabbling over territory is why the Union has been able to make a mockery of law enforcement in the district. He calls the whole thing a pissing competition he wants no part of.",
+      "seeAlso": [
+        "precinct-41",
+        "precinct-57",
+        "kim-kitsuragi",
+        "martinaise",
+        "union"
+      ]
+    },
+    {
+      "id": "coppo",
+      "term": "Coppo",
+      "aliases": [
+        "coppo loco",
+        "copporooni",
+        "coppodoppo",
+        "Coppolini",
+        "Coppobollo",
+        "Coppolangelo"
+      ],
+      "short": "Mocking slang for a cop, used by the Hardie Boys; 'coppo loco' means crazy cop.",
+      "details": "Titus Hardie calls you 'coppo' constantly, and Alain dubs you 'coppo loco' after your antics. The hanged man's imagined voice during the autopsy plays with endless variations on it, and even your own Pain Threshold uses it.",
+      "seeAlso": [
+        "pig",
+        "hardie-boys",
+        "titus-hardie",
+        "cobo"
+      ]
+    },
+    {
+      "id": "decomptage",
+      "term": "Décomptage",
+      "short": "The RCM's chain of command, meaning 'counting down to twos': each lieutenant is responsible for two sergeants and eight officers.",
+      "details": "Kim explains it when Harry wonders about his odd rank: the rank above you in your precinct's décomptage might already be taken, or promoted officers sometimes choose not to replace their superiors.\n\nSteban, the student communist, traces this dual leadership back to the Revolutionary Lovers of the Commune era, calls it Revachol's great contribution to revolutionary thought, and believes it survives in the RCM.",
+      "seeAlso": [
+        "rcm",
+        "yefreitor",
+        "commune",
+        "precinct"
+      ]
+    },
+    {
+      "id": "firewalker",
+      "term": "Firewalker",
+      "aliases": [
+        "Officer Firewalker"
+      ],
+      "short": "A grand call sign your detective can give himself on the radio and elsewhere ('I walk in the flames'); Kim is not impressed.",
+      "details": "You can introduce yourself as Firewalker when calling dispatch from the radio in Kim's motor carriage, or announce it to Gaston Martin. In the Remote Viewer thought, Inland Empire welcomes 'Firewalker' into the RVD (the Remote Viewers Division). Precinct 41 plays along, with plenty of mockery, and Kim simply tells you that you are not a firewalker.",
+      "spoiler": "If you climb the horseback monument to radio Coalition Warship Archer, the warship addresses you as Firewalker throughout the call.",
+      "seeAlso": [
+        "harry",
+        "kim-kitsuragi",
+        "kineema",
+        "icebreaker"
+      ]
+    },
+    {
+      "id": "franconigerian-hard-body",
+      "term": "Franconigerian hard-body",
+      "aliases": [
+        "Franconigerian Hardbody",
+        "Franconigerian hardbody"
+      ],
+      "short": "Harry's flattering name for a heavy build: 'softly round, yet still in shape', like a stout cavalryman of old.",
+      "details": "You can use the phrase on the working-class woman on the plaza when she implies that you, and her husband, are chubby. Mañana also praises the 'most hard-bodied boiadeiros'. A book on the stands outside the bookstore is titled 'Franconigerian Hardbody: Boiadeiro Culture, Use Your Hardbody'.",
+      "seeAlso": [
+        "boiadeiro"
+      ]
+    },
+    {
+      "id": "gloaming",
+      "term": "Gloaming",
+      "short": "Your detective's ominous name for the coming end of the world; in plain English the word means twilight or dusk.",
+      "details": "Talk of the Gloaming is a staple of the apocalyptic version of your detective: he can greet Garte with it, prophesy it to the Hardie Boys or write it in the autopsy notes. Word gets around: Jean Vicquemare hears you've become 'the mouthpiece of the Gloaming', and Kim would very much prefer you didn't mention it. Joyce Messier tells you there will be no gloaming, only a slow, ugly civil war.",
+      "seeAlso": [
+        "apocalypse",
+        "copotype",
+        "great-bloodletting"
+      ]
+    },
+    {
+      "id": "great-bloodletting",
+      "term": "Great Bloodletting",
+      "short": "Another of your detective's names for the bloody apocalypse he believes is coming; he was preaching about it during his lost binge.",
+      "details": "According to Idiot Doom Spiral, you spent part of your binge telling strangers that all the blood you had seen as a cop was nothing compared to the Great Bloodletting to come. You can bring it up again when you find your ruined ledger, or as tensions in Martinaise rise, to Kim's dismay.",
+      "seeAlso": [
+        "apocalypse",
+        "copotype",
+        "gloaming"
+      ]
+    },
+    {
+      "id": "icebreaker",
+      "term": "Icebreaker",
+      "caseSensitive": true,
+      "short": "What your detective can call himself after giving his face a grim, unyielding look in the bathroom mirror; Kim just wants him to stop.",
+      "details": "At the mirror, Conceptualization compares your newly resolute face to an icebreaker ploughing through the ice toward Katla and Vaasa. You can then announce 'I am Icebreaker' to Kim, or to Gaston Martin, who are both baffled. Kim patiently reminds you that your name is Harrier Du Bois.",
+      "seeAlso": [
+        "harry",
+        "kim-kitsuragi",
+        "firewalker",
+        "whirling-in-rags"
+      ]
+    },
+    {
+      "id": "johnny-law",
+      "term": "Johnny Law",
+      "caseSensitive": true,
+      "short": "Old slang for the police, or the law in general; Noid uses it, and you can use it about yourself.",
+      "details": "Noid says suspicious people like him do not spill their secrets to Johnny Law. Harry can also refer to himself this way, for example announcing that Johnny Law is about to 'tear it up, sad-style'.",
+      "inspiredBy": "American slang 'Johnny Law' for the police.",
+      "seeAlso": [
+        "pig",
+        "rcm"
+      ]
+    },
+    {
+      "id": "kipt",
+      "term": "Kipt",
+      "aliases": [
+        "kipts"
+      ],
+      "short": "A racial slur for people of Semenese descent; Cuno, the racist lorry driver and the mercenaries all use it freely.",
+      "details": "Encyclopedia explains it targets people of South Semenese or Areopagite descent and was once a common first name among the Areopagites of Iilmaraa.",
+      "seeAlso": [
+        "cuno",
+        "mercenaries"
+      ]
+    },
+    {
+      "id": "kojko",
+      "term": "Kojko",
+      "aliases": [
+        "Kojkos"
+      ],
+      "caseSensitive": true,
+      "short": "Slang, often derogatory, for a person from Graad; Kim uses it matter-of-factly, while bigots in Martinaise spit it.",
+      "details": "Kim identifies the Whirling's cook as 'from Graad, a Kojko', and Encyclopedia claims Graadians don't mind such national nicknames. The racist lorry driver, Measurehead and a struggling delivery courier use it with contempt, blaming Kojkos for everything from price dumping to stolen jobs.\n\nVisual Calculus notes that in police suspect descriptions, Kojkos count as white.",
+      "seeAlso": [
+        "measurehead",
+        "fascism"
+      ]
+    },
+    {
+      "id": "men-of-wo",
+      "term": "Men of Wö",
+      "aliases": [
+        "Wö-Men",
+        "Wömen",
+        "wömen"
+      ],
+      "short": "Harry's sneering, heavy-metal-umlaut spelling of 'women', coined by his gut while he works out what fascism means to him.",
+      "details": "It appears in the Revacholian Nationhood thought process, where your stomach decides that wömen are the true enemy. Harry can bring the phrase up again with Measurehead.",
+      "seeAlso": [
+        "fascism",
+        "measurehead"
+      ]
+    },
+    {
+      "id": "narcomania",
+      "term": "Narcomania",
+      "aliases": [
+        "narcomaniac",
+        "narcomaniacs",
+        "narco mania",
+        "narco-mania",
+        "narco"
+      ],
+      "short": "An old-fashioned, alarmist word for drug abuse. Harry can adopt it and declare a personal holy war on it.",
+      "details": "Andre uses it to describe the old church as a 'derelict hive of narcomania', and Volition warns that he is only pandering to your conservative side. Klaasje mocks the word ('Narco Mania'). Authority, on the other hand, encourages you to become an anti-narcomania zealot, which can give you a Thought.",
+      "seeAlso": [
+        "authority",
+        "klaasje",
+        "church",
+        "thought"
+      ]
+    },
+    {
+      "id": "personal-brand-strategist",
+      "term": "Personal Brand Strategist",
+      "aliases": [
+        "Personal Brand Strategists"
+      ],
+      "caseSensitive": true,
+      "short": "Business jargon for an image consultant who manages a wealthy client's reputation, investments and public profile.",
+      "details": "Once you start making serious money, a very rich investor advises you to hire one: they do everything from spotting investments and analysing design trends to booking tables at exclusive restaurants. They are drawn to money like sharks to blood, but hard to find in Martinaise, so Savoir Faire suggests asking someone with a past in marketing.",
+      "spoiler": "Savoir Faire's candidate is Idiot Doom Spiral, a former ad man, who offers to take the job himself. As your strategist he dreams up a plan to put your name in lights on the horseback monument, which does not turn out as promised.",
+      "seeAlso": [
+        "ultraliberalism",
+        "savoir-faire",
+        "tequila-sunset"
+      ]
+    },
+    {
+      "id": "porno-tuning",
+      "term": "porno-tuning",
+      "aliases": [
+        "pornotuning"
+      ],
+      "short": "Kim's dismissive word for gaudy car modifications: slammed suspension, giant aero kits, neon underglow and the like.",
+      "details": "Suggest 'slamming' his beloved Kineema or bolting on a massive aero kit and Kim shuts it down: it's porno-tuning, and he says no to the porno.",
+      "seeAlso": [
+        "kineema",
+        "kim-kitsuragi",
+        "motor-carriage"
+      ]
+    },
+    {
+      "id": "speedfreak",
+      "term": "speedfreak",
+      "aliases": [
+        "speedfreaks"
+      ],
+      "short": "Slang for an amphetamine user. In Martinaise it mostly means the young dance-music crowd camped by the old church on the coast.",
+      "details": "Cuno points you to the old church as the place 'where the speedfreaks hang'. The group, around would-be leader Andre and the tinkerer Noid, wants to turn the church into a club for their 'anodic dance music'. Kim just calls them delinquents.",
+      "inspiredBy": "Real slang: a 'speed freak' is a habitual user of amphetamines ('speed').",
+      "seeAlso": [
+        "church",
+        "speedfreaks-fm"
+      ]
+    },
+    {
+      "id": "station-call",
+      "term": "Station Call",
+      "aliases": [
+        "Station Call slip",
+        "station calls"
+      ],
+      "short": "An RCM summons slip ordering someone to report to the police station later, used instead of arresting them on the spot.",
+      "details": "Kim prefers serving a Station Call to bringing people in directly, because it avoids confusion and overcrowding at the station. Blank Station Call forms are kept in your ledger, and at certain points in the case you can write one for someone.",
+      "seeAlso": [
+        "kim-kitsuragi",
+        "precinct",
+        "rcm"
+      ]
+    },
+    {
+      "id": "tare",
+      "term": "tare",
+      "aliases": [
+        "tare machine",
+        "tare bag",
+        "Tare Drunk"
+      ],
+      "short": "Empty bottles collected for their deposit; the tare machine at the Frittte pays ten cents a bottle, a classic way to scrape by in Martinaise.",
+      "details": "You need a tare bag to collect bottles from bins and streets (a drunk passed out on the stairs near the waterfront has one). Feed the bottles to the machine in the Frittte to get cash. Occasionally it swallows your bottles without paying, and kicking it upsets the clerk.\n\nTare collecting is what the poor do here; Gaston says Evrart gave René a job so a decorated veteran wouldn't be seen picking tare.",
+      "inspiredBy": "Bottle-deposit return machines; in Estonian, the developers' language, returnable bottles and packaging are called 'taara'.",
+      "seeAlso": [
+        "frittte",
+        "real",
+        "hobocop",
+        "rene-arnoux"
+      ]
+    },
+    {
+      "id": "vacholiere",
+      "term": "Vacholiere",
+      "aliases": [
+        "Vacholieres",
+        "Vacholiero",
+        "Vacholiers"
+      ],
+      "short": "Another word for a Revacholian, often used to mean a true native of the city whatever their background.",
+      "details": "When Kim speaks up as a citizen rather than a cop, Authority calls him Vacholiere, a Revacholian; you can later call him 'a true Vacholiere' to his face. Acele uses it of rich Revacholians, Call Me Mañana proudly calls himself Vacholiero rather than Mesque, and Gary calls the union men honest Vacholieres. Measurehead, of course, files the Vacholiers among his 'unheroic races'.\n\nInland Empire senses a whole history behind the word, even if the meaning is plain.",
+      "seeAlso": [
+        "revachol",
+        "kim-kitsuragi",
+        "measurehead"
+      ]
+    },
+    {
+      "id": "weird-cop",
+      "term": "Weird Cop",
+      "caseSensitive": true,
+      "short": "Kim's dry name for your cryptic, insinuating style of questioning. He thinks it only confuses everyone and you should just ask normal questions.",
+      "details": "He coins it at the pétanque game with Gaston, after a bout of strange behaviour that he takes for some experimental interrogation technique. Kim says he knows a Weird Cop when he sees one.",
+      "seeAlso": [
+        "kim-kitsuragi",
+        "copotype",
+        "gaston-martin"
+      ]
+    },
+    {
+      "id": "yellow-man",
+      "term": "Yellow Man",
+      "short": "A racist caricature. A broken mug in the Whirling's trash shows 'the yellow man' frolicking in saffron, and the phrase comes up again later.",
+      "details": "You can pick the mug out of the trash container in the Whirling-in-Rags yard. Showing it around gets very different reactions: a racist lorry driver finds it hilarious.",
+      "spoiler": "Gary, the cryptofascist on the coast, blurts out 'Yellow Man!' at Kim, who is of Seolite descent, and later apologises. The mug matches the collection of racist 'colonial' mugs in his apartment, suggesting he dumps his trash in the Whirling's container.",
+      "seeAlso": [
+        "kim-kitsuragi",
+        "seol",
+        "whirling-in-rags"
+      ]
     }
   ]
 }

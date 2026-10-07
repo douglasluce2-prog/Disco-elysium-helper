@@ -4,67 +4,503 @@
     {
       "id": "rcm",
       "term": "Revachol Citizens Militia",
-      "aliases": ["RCM", "Citizens Militia", "the Militia"],
+      "aliases": [
+        "RCM",
+        "Citizens Militia",
+        "the Militia"
+      ],
       "caseSensitive": true,
       "short": "Revachol's police force. You and Kim are RCM officers.",
-      "details": "The RCM began as a volunteer citizens' militia and became the city's de facto police. It is underfunded and spread thin, divided into numbered precincts, and its officers hold ranks like lieutenant and yefreitor. Its authority is limited: the Coalition holds real power, and in Martinaise the union often does too.",
+      "details": "The RCM is a volunteer organisation that keeps order in occupied Revachol. It was formed after the Revolution, although it is disputed whether the city's citizens or the Coalition Government really founded it. It works in a legal grey zone, is understaffed, and is divided into numbered precincts; its officers hold ranks like lieutenant and yefreitor.\n\nIts authority is limited: the laws it enforces come from the Coalition and the Moralintern, and in Martinaise the dockworkers' union acts as the de facto police.",
       "inspiredBy": "In the Soviet Union and other Eastern Bloc states, the police were officially called the 'militia' (militsiya).",
-      "seeAlso": ["precinct-41", "precinct-57", "yefreitor", "esprit-de-corps"]
+      "seeAlso": [
+        "precinct-41",
+        "precinct-57",
+        "yefreitor",
+        "esprit-de-corps"
+      ]
     },
     {
       "id": "union",
       "term": "Union",
-      "aliases": ["Dockworkers' Union", "dockworkers union", "the Union"],
+      "aliases": [
+        "Dockworkers' Union",
+        "dockworkers union",
+        "the Union",
+        "Débardeurs",
+        "Débardeurs Union"
+      ],
       "caseSensitive": true,
       "commonWord": true,
       "short": "The Martinaise dockworkers' union, led by Evrart Claire. The most powerful force in the district.",
       "details": "The union controls the harbour and, in practice, much of Martinaise. It is currently on strike against the Wild Pines company, which has brought shipping to a standstill.",
-      "seeAlso": ["evrart-claire", "strike", "harbour", "wild-pines", "hardie-boys"]
+      "seeAlso": [
+        "evrart-claire",
+        "strike",
+        "harbour",
+        "wild-pines",
+        "hardie-boys"
+      ]
     },
     {
-      "term": "Hardie Boys",
-      "aliases": ["Hardie Boy", "Hardies"],
+      "id": "hardie-boys",
+      "term": "Hardie boys",
+      "aliases": [
+        "Hardie boy",
+        "Hardies"
+      ],
       "caseSensitive": true,
       "short": "A gang of union dockworkers led by Titus Hardie who act as Martinaise's self-appointed enforcers.",
-      "details": "They drink in the Whirling-in-Rags and claim responsibility for the hanging, insisting it was justice.",
+      "details": "Kim hears them described as the Union's armed wing: the men who 'keep the peace' in Martinaise. They drink in the Whirling-in-Rags cafeteria and openly claim responsibility for the hanging, insisting it was justice.",
       "inspiredBy": "The name riffs on 'The Hardy Boys', a long-running series of boy-detective novels.",
       "spoiler": "Their story about the hanging is a cover for what really happened.",
-      "seeAlso": ["titus-hardie", "union", "the-hanged-man", "ruby"]
+      "seeAlso": [
+        "titus-hardie",
+        "union",
+        "the-hanged-man",
+        "ruby"
+      ]
     },
     {
+      "id": "wild-pines",
       "term": "Wild Pines",
+      "aliases": [
+        "Wild Pines Group"
+      ],
       "caseSensitive": true,
       "short": "A large logistics company whose cargo is stuck because of the dockworkers' strike.",
-      "details": "Wild Pines has sent Joyce Messier to negotiate an end to the strike.",
+      "details": "Wild Pines Group is one of Revachol's original 'indotribes': companies granted royal monopolies by the king centuries ago. It has since grown into a giant with 22 terminals and about 72,000 employees, and the Martinaise harbour terminal is one of them.\n\nIt has sent Joyce Messier to negotiate an end to the strike.",
       "inspiredBy": "Multinational shipping and logistics corporations.",
-      "seeAlso": ["joyce-messier", "strike", "union", "mercenaries"]
+      "seeAlso": [
+        "joyce-messier",
+        "strike",
+        "union",
+        "mercenaries"
+      ]
     },
     {
       "id": "mercenaries",
       "term": "Mercenaries",
-      "aliases": ["mercenary", "mercs", "merc"],
+      "aliases": [
+        "mercenary",
+        "mercs",
+        "merc"
+      ],
       "short": "Hired private soldiers brought into Martinaise on the company side of the strike.",
+      "details": "They come from Krenel, an Oranjese military contractor working for Wild Pines. Joyce Messier says three of its men came to Martinaise; they report to her now and then, but they do not take her orders.",
       "spoiler": "The murdered man was their commander, and his men want revenge on whoever they believe killed him.",
-      "seeAlso": ["wild-pines", "strike", "the-hanged-man"]
+      "seeAlso": [
+        "wild-pines",
+        "strike",
+        "the-hanged-man"
+      ]
     },
     {
+      "id": "coalition",
       "term": "Coalition",
-      "aliases": ["Coalition of Nations", "the Coalition"],
+      "aliases": [
+        "Coalition of Nations",
+        "the Coalition",
+        "Coalition Government"
+      ],
       "caseSensitive": true,
       "commonWord": true,
       "short": "The alliance of wealthy nations that crushed Revachol's revolution and now governs the city.",
-      "details": "About fifty years ago, the Coalition invaded Revachol and destroyed the communist Commune. Since then the city has been administered under Coalition rule, guided by the Moralintern. The city has stayed poor and half-ruined ever since.",
+      "details": "About fifty years ago the Coalition landed in Revachol and crushed the communist Commune. Since then the city has been an occupied 'Zone of Control' with almost no government of its own, run under Coalition rule and guided by the Moralintern.\n\nJoyce Messier names its members as Graad, Mesque, Vesper, Messina, Oranje and Sur-La-Clef.",
       "inspiredBy": "Foreign powers that intervene in other countries' revolutions, and international institutions that manage struggling economies.",
-      "seeAlso": ["moralintern", "moralism", "revolution", "commune", "revachol"]
+      "seeAlso": [
+        "moralintern",
+        "moralism",
+        "revolution",
+        "commune",
+        "revachol"
+      ]
     },
     {
+      "id": "moralintern",
       "term": "Moralintern",
-      "aliases": ["Moral International"],
+      "aliases": [
+        "Moralist International",
+        "MI"
+      ],
       "caseSensitive": true,
-      "short": "The 'Moral International': the supranational body behind the Coalition, preaching moderate centrism.",
-      "details": "The Moralintern presents itself as the reasonable, peaceful middle ground of world politics. In practice it protects the status quo.",
+      "short": "The 'Moralist International': the world's largest political organisation, and the power behind the Coalition that runs Revachol.",
+      "details": "The Moralintern presents itself as the reasonable, peaceful middle ground of world politics; in practice it protects the status quo. Moralism's colour is blue. The laws the RCM enforces come from it, and Kim admits that without it the police would be mere vigilantes.",
       "inspiredBy": "The name parodies the 'Comintern' (Communist International); what it does resembles the UN, the IMF and the EU rolled into one.",
-      "seeAlso": ["coalition", "moralism", "innocence"]
+      "seeAlso": [
+        "coalition",
+        "moralism",
+        "innocence"
+      ]
+    },
+    {
+      "id": "barmy-army",
+      "term": "Barmy Army",
+      "caseSensitive": true,
+      "short": "A local Martinaise gang that Titus Hardie boasts the Hardie Boys have already seen off, along with the 'Madre scum'.",
+      "details": "It comes up when you warn the Hardies about the mercenaries. Kim points out that trained military professionals are not a street gang or a Barmy Army; Titus answers that the local gangs were tough too, and look where they are now.",
+      "seeAlso": [
+        "hardie-boys",
+        "titus-hardie",
+        "mercenaries"
+      ]
+    },
+    {
+      "id": "census-bureau",
+      "term": "Census Bureau",
+      "caseSensitive": true,
+      "short": "The government's population records office; Evrart Claire claims his folder of information about you came from there.",
+      "details": "When you notice that the folder on Evrart's desk carries no RCM stamp, he cheerfully admits it is from the Census Bureau and jokes that the people there are 'absolutely corrupt'. Kim reckons Evrart got only your name from the bureau, and everything else from watching what you have been doing in Martinaise.",
+      "seeAlso": [
+        "evrart-claire",
+        "harry"
+      ]
+    },
+    {
+      "id": "committee-of-responsibility",
+      "term": "Committee of Responsibility",
+      "aliases": [
+        "Committee of Responsibility for Revachol",
+        "Comité de Responsabilité de Revachol"
+      ],
+      "caseSensitive": true,
+      "short": "A Coalition body that, the Sunday Friend explains, acts as a clearinghouse for Coalition activities and the final arbiter of 'la responsabilité' in Revachol.",
+      "details": "It comes up during a Moralist side quest, in which you set out to form a committee that can assign 'la responsabilité'. The Coalition official known as the Sunday Friend is delighted to tell you there is no need: such a committee already exists, though he cannot connect you to it himself.",
+      "spoiler": "You can reach it through a radio call with the Coalition Warship Archer. The Committee accepts your request and sends the Coalition Shuttle Laurel to extract you; if you climb aboard, you abandon the case and the game ends, with newspapers later reporting no answers about the extracted cop.",
+      "seeAlso": [
+        "coalition",
+        "moralintern",
+        "moralism",
+        "coalition-shuttle-laurel"
+      ]
+    },
+    {
+      "id": "constabulary",
+      "term": "Constabulary",
+      "aliases": [
+        "Constabulatory"
+      ],
+      "caseSensitive": true,
+      "short": "The RCM's upper administration, which decides on things like equipment; the game also spells it 'Constabulatory'.",
+      "details": "Kim says the RCM has asked for years for armour like the dead man's for its tactical units, but the Constabulary deemed it too costly, and six officers have been lost to semi-automatics since. Harry later picks up the word and suggests taking matters into your own hands, and Judit Minot warns that the Constabulatory will not accept wild speculation in a case.",
+      "seeAlso": [
+        "rcm",
+        "kim-kitsuragi",
+        "judit-minot"
+      ]
+    },
+    {
+      "id": "corps-de-pharmacie",
+      "term": "Corps de Pharmacie",
+      "caseSensitive": true,
+      "short": "A private security firm hired to guard Oranjese pharmaceutical interests in the Semenine conflict; it has been renamed several times since.",
+      "spoiler": "When you have the dispatcher run the serial number from the hanged man's boot, the armour turns out to be part of a special order for this firm. The paper trail ends in Semenine.",
+      "seeAlso": [
+        "oranje",
+        "mercenaries",
+        "the-hanged-man"
+      ]
+    },
+    {
+      "id": "emergencies-desk",
+      "term": "Emergencies Desk",
+      "aliases": [
+        "RCM Emergencies Desk"
+      ],
+      "caseSensitive": true,
+      "short": "The RCM's emergency phone line. Its number, 8-100-2, is printed on faded stickers all over Martinaise.",
+      "details": "The case began when an anonymous caller told the Emergencies Desk there was a dead body behind the Whirling-in-Rags. The stickers also carry the slogan 'Mankind, be vigilant!'",
+      "spoiler": "Klaasje eventually says she was the one who phoned in the body, using the number from those stickers.",
+      "seeAlso": [
+        "rcm",
+        "the-hanged-man",
+        "klaasje"
+      ]
+    },
+    {
+      "id": "emergency-relief-brigade",
+      "term": "Emergency Relief Brigade",
+      "caseSensitive": true,
+      "short": "A self-organised volunteer force that helped fire brigades contain the radioactive spill from the People's Pile disaster. Bird's Nest Roy says he served in it.",
+      "details": "The People's Pile was a primitive nuclear reactor that failed right after it was switched on, leaking radioactive waste into the River Esperance. Roy still wears the brigade's orange safety jacket with a white triangle, and says the volunteers spent years in the river mud and many fell ill. He says that is why he takes the anti-radiation drug Pyrholidon.",
+      "inspiredBy": "The Chernobyl liquidators who cleaned up after the 1986 nuclear disaster.",
+      "seeAlso": [
+        "faubourg"
+      ]
+    },
+    {
+      "id": "founding-party",
+      "term": "Founding Party",
+      "aliases": [
+        "Ecclesiastes",
+        "Holy Party"
+      ],
+      "caseSensitive": true,
+      "short": "The world's oldest international organisation: a powerful religious body that elects the rare Innocences. It owns the abandoned church in Martinaise.",
+      "details": "In the days of the Perikarnassian it was called the Holy Party, and it is thought to have begun with the first innocence's disciples. Electing an innocence to office has happened only six times in history.\n\nAfter Dolores Dei's assassination, many of the members who had elected her founded the Moralintern to carry on her project; others moved to Sur-la-Clef and invented modern corporate finance. Andre's crew uses its Meteoran name, the Ecclesiastes, and says it owns the abandoned church they want to turn into a club.",
+      "seeAlso": [
+        "church",
+        "dolores-dei",
+        "dolorian",
+        "innocence",
+        "moralintern"
+      ]
+    },
+    {
+      "id": "humanox",
+      "term": "Humanox",
+      "caseSensitive": true,
+      "short": "A well-known non-profit humanitarian aid organisation; one of its lorries stands in the traffic jam by the harbour with its seals broken.",
+      "details": "Encyclopedia says Humanox was set up by EPIS countries (a Moralintern programme) to help during humanitarian crises. Logic notices the broken seals and concludes that someone is stealing from it.",
+      "spoiler": "The lorry belongs to the street vendor by the traffic jam, who is selling its cargo at his stall; the racist lorry driver is happy to tell you so.",
+      "seeAlso": [
+        "moralintern"
+      ]
+    },
+    {
+      "id": "inspectorate-general",
+      "term": "Inspectorate General",
+      "aliases": [
+        "rat squad"
+      ],
+      "caseSensitive": true,
+      "short": "The RCM's internal affairs office, which investigates police officers themselves; cops call it the 'rat squad'.",
+      "details": "Kim mentions it when you first meet: he could suspect you of impersonating an officer, but he isn't from the Inspectorate General, so he sets those doubts aside.",
+      "seeAlso": [
+        "rcm",
+        "kim-kitsuragi"
+      ]
+    },
+    {
+      "id": "institute-of-price-stabilite",
+      "term": "Institute of Price Stabilité",
+      "aliases": [
+        "Institute of Price Stability"
+      ],
+      "caseSensitive": true,
+      "short": "A Moralintern institute in Sur-la-Clef devoted to keeping inflation just below 2%; a Coalition official you can meet works for it.",
+      "details": "Its commissioner, the polished Sunday Friend, explains that price stability is the heart of sound monetary policy and one of the Moralintern's main projects, and offers you an informational pamphlet. Encyclopedia suspects it's a joke, but Trant Heidelstam confirms it exists and works with the Coalition's Bank of the World mission in Revachol.",
+      "seeAlso": [
+        "moralintern",
+        "coalition",
+        "moralism"
+      ]
+    },
+    {
+      "id": "insurcom",
+      "term": "INSURCOM",
+      "aliases": [
+        "Coalition Government Insulindian Mission Command",
+        "Coalition Government Insulindian Mission Control"
+      ],
+      "caseSensitive": true,
+      "short": "The Coalition's military command for Insulinde, in charge of the occupation of Revachol; its offices fill the lower floors of the Bank of the World skyscraper.",
+      "details": "Trant Heidelstam explains that during the Revolution INSURCOM coordinated the Occidental and Graadian invasion, but its role today is mostly logistical. It is one of the spokes radiating from the Comité de Responsabilité, the hub of Coalition affairs in Revachol.",
+      "spoiler": "Coalition Warship Archer, the aerostatic you may eventually contact, is the flagship of INSURCOM forces in Revachol.",
+      "seeAlso": [
+        "coalition",
+        "moralintern",
+        "revolution",
+        "aerostatic"
+      ]
+    },
+    {
+      "id": "internal-affairs",
+      "term": "Internal Affairs",
+      "caseSensitive": true,
+      "short": "The office that investigates police officers' own wrongdoing; Kim warns that drawing its attention is a very bad idea.",
+      "details": "Kim explains that Internal Affairs cross-examines officers closely, looking for inconsistencies in their stories, so it is hard to cover for a colleague. He brings it up when you consider helping yourself to the hanged man's gear, and again when a case threatens to get messy.",
+      "inspiredBy": "Internal affairs divisions of real-world police forces.",
+      "seeAlso": [
+        "rcm",
+        "kim-kitsuragi"
+      ]
+    },
+    {
+      "id": "international-collaboration-police",
+      "term": "International Collaboration Police",
+      "aliases": [
+        "ICP"
+      ],
+      "caseSensitive": true,
+      "short": "The ICP: a worldwide police service that coordinates multinational investigations and keeps the biggest database in the world.",
+      "details": "Encyclopedia calls it an interisolary law enforcement service and the crown jewel of the Moralintern, alongside EPIS and the Coalition Government. The Moralintern set it up partly to track military technology: it keeps detailed records of everything licensed arms manufacturers produce.\n\nThe RCM can request ICP records through a precinct radio operator, and Joyce Messier suggests using its database for background checks.",
+      "inspiredBy": "Interpol.",
+      "seeAlso": [
+        "moralintern",
+        "coalition",
+        "rcm"
+      ]
+    },
+    {
+      "id": "juvenile-crime-unit",
+      "term": "Juvenile Crime Unit",
+      "caseSensitive": true,
+      "short": "The RCM unit that deals with young offenders; Kim spent over fifteen years there before moving to homicide.",
+      "details": "Kim brings it up when young people try to shock him: after that many years with juvenile delinquents, he says, he can 'do' age-inappropriate.\n\nIf you play pinball with him, he admits his last juvenile job was infiltrating a pinball ring, which meant training for nine months to become a pinball champion. The job succeeded and he was moved to homicide.",
+      "seeAlso": [
+        "kim-kitsuragi",
+        "rcm"
+      ]
+    },
+    {
+      "id": "krenel",
+      "term": "Krenel",
+      "aliases": [
+        "Downwell"
+      ],
+      "caseSensitive": true,
+      "short": "An Oranjese private military company. Wild Pines has a handful of its mercenaries in Martinaise because of the strike.",
+      "details": "Joyce Messier says three Krenel contractors came to Martinaise; they report to her only now and then, and they do not take her orders. She describes a firm with a thousand men on its payroll that could send in gunships if things escalate.\n\nThe company changes names: Joyce believes it used to be called Downwell.",
+      "spoiler": "The hanged man behind the Whirling was a Krenel mercenary, and Joyce fears his squadmates will pick their own suspect if the police don't find one first.",
+      "seeAlso": [
+        "joyce-messier",
+        "lely",
+        "mercenaries",
+        "oranje",
+        "the-hanged-man",
+        "wild-pines"
+      ]
+    },
+    {
+      "id": "la-puta-madre",
+      "term": "La Puta Madre",
+      "aliases": [
+        "the Madre",
+        "Madre",
+        "Padre Madre"
+      ],
+      "caseSensitive": true,
+      "short": "The boss of a major Jamrock gang that makes and traffics drugs, and by extension the gang itself, often just called 'the Madre'.",
+      "details": "Kim mentions the Madre alongside other gangs such as Ahura Mazda and the besmerties, and calls their 'cool' names a dark parody. People usually wince and whisper when they say the name. Cuno boasts about banging for the Madre, and Kim suspects the gang is behind a smuggling operation you come across.\n\nRumours that Harry, and even Kim, are on La Puta Madre's take come up more than once.",
+      "spoiler": "Ruby, the Instigator, believes Harry is La Puta Madre's 'peone', his 'Human Can Opener', and fled Martinaise rather than be questioned by him. She says she left the Madre for the Union to get away from the killing.",
+      "seeAlso": [
+        "ruby",
+        "jamrock",
+        "cuno"
+      ]
+    },
+    {
+      "id": "major-crimes-unit",
+      "term": "Major Crimes Unit",
+      "caseSensitive": true,
+      "short": "Harry's team at Precinct 41, which he leads together with Jean Vicquemare. Its job is to clear the station's backlog of cases.",
+      "details": "According to Jean, the unit is Harry, Jean, Judit ('Jude'), Trant Heidelstam and the police reporter Guillaume Bevy.",
+      "spoiler": "Jean says the unit has sunk to the bottom tier because of Harry, and that Bevy has already quit after losing faith in Harry's leadership.",
+      "seeAlso": [
+        "precinct-41",
+        "jean-vicquemare",
+        "judit-minot",
+        "rcm",
+        "harry"
+      ]
+    },
+    {
+      "id": "mercenary-tribunal",
+      "term": "Mercenary tribunal",
+      "aliases": [
+        "merc tribunal"
+      ],
+      "hideUntilSeen": true,
+      "short": "A secret military court that the remaining mercenaries in Martinaise are organising to punish whoever they blame for the lynching.",
+      "details": "Joyce Messier warns you about it: the surviving contractors are running their own investigation into the hanging, and once they are done, executions will follow. Kim sees it as the reason to solve the case fast, before there is blood on the streets.",
+      "spoiler": "The tribunal eventually arrives at the Whirling-in-Rags, and the confrontation turns into a deadly shootout in which you are shot in the leg.",
+      "seeAlso": [
+        "mercenaries",
+        "wild-pines",
+        "joyce-messier",
+        "hardie-boys",
+        "lynching"
+      ]
+    },
+    {
+      "id": "parti-communiste-d-insulinde",
+      "term": "Parti communiste d'Insulinde",
+      "aliases": [
+        "Communist Party"
+      ],
+      "caseSensitive": true,
+      "short": "French for 'Communist Party of Insulinde': a communist party from Revachol's revolutionary days, sworn enemy of the Moralintern.",
+      "details": "The name is rarely heard in present-day Martinaise. It belongs to the era of the Revolution and the Commune, before the Coalition took the city.",
+      "spoiler": "The Deserter, a veteran of the Commune, claims to represent the Party as its political commissar. He sees the RCM as servants of the 'Moralist International', and insists that although the army signed the surrender, the Party never did.",
+      "seeAlso": [
+        "commune",
+        "revolution",
+        "communism",
+        "moralintern",
+        "iosef-dros"
+      ]
+    },
+    {
+      "id": "provisional-commission",
+      "term": "Provisional Commission",
+      "caseSensitive": true,
+      "short": "One of the Coalition's offices in Revachol; it reports on the city's slow 'transition' towards full democracy.",
+      "details": "Trant Heidelstam pictures the Coalition as a wheel whose hub is the Committee of Responsibility, with spokes leading to bodies such as INSURCOM, the Institute for Revacholian Culture and the Provisional Commission. Over the radio, the Coalition Warship Archer assures you that, according to the Provisional Commission, the transition is on schedule, and suggests contacting its offices if you want to get involved.",
+      "seeAlso": [
+        "coalition",
+        "moralintern"
+      ]
+    },
+    {
+      "id": "remote-viewers-division",
+      "term": "Remote Viewers Division",
+      "aliases": [
+        "RVD",
+        "RVD HQ"
+      ],
+      "caseSensitive": true,
+      "short": "A police division for psychic detectives that Kim invents as a deadpan joke; your detective may decide it is real and that he belongs to it.",
+      "details": "When you insist you can sense something special about a closed trash container in the yard, Kim replies with a perfectly straight face that you should call in the Remote Viewers Division, where all detectives with extrasensory perception go. Rhetoric warns you he is being sarcastic, and if pressed Kim admits there is no such thing.\n\nThat doesn't stop your detective from bringing it up with the bookseller Plaisance, the novelty dicemaker, Steban and others, or from 'joining' it through the Remote Viewer thought.",
+      "inspiredBy": "Remote viewing, the supposed psychic ability to see distant places, once studied by US military and intelligence programmes.",
+      "seeAlso": [
+        "inland-empire",
+        "kim-kitsuragi",
+        "rcm",
+        "remote-viewer"
+      ]
+    },
+    {
+      "id": "semen-retention-society",
+      "term": "Semen Retention Society",
+      "aliases": [
+        "S.R.S.",
+        "Semenese Race Scientists"
+      ],
+      "caseSensitive": true,
+      "short": "Measurehead's 'S.R.S.': a closed circle of men who, he says, build up 'strategic semen reserves' through sheer iron will.",
+      "details": "Measurehead mentions belonging to the S.R.S. during a conversation about women, and Encyclopedia has no record of it. Your skills guess wildly at the initials (Authority suggests 'Semenese Race Scientists') before he explains, adding that only after years of emotional, psychological and spiritual 'powerlifting' can a man hope to join.",
+      "inspiredBy": "Online 'semen retention' and NoFap movements.",
+      "seeAlso": [
+        "measurehead"
+      ]
+    },
+    {
+      "id": "therriers",
+      "term": "Therriers",
+      "aliases": [
+        "Therrier"
+      ],
+      "caseSensitive": true,
+      "short": "The secret servicemen who guard an Innocence. Dolores Dei was always surrounded by hers.",
+      "details": "Encyclopedia recalls that her Therriers placed a white gold wreath on her head at her crowning, which was held on an emptied plaza for fear of assassination. A row of them stands guard around her on the church's stained glass window.",
+      "seeAlso": [
+        "innocence",
+        "dolores-dei",
+        "church"
+      ]
+    },
+    {
+      "id": "union-of-moribund-alcoholics",
+      "term": "Union of Moribund Alcoholics",
+      "caseSensitive": true,
+      "short": "Idiot Doom Spiral's grand name for himself and his permanently drunk companions in the fishing village.",
+      "details": "By his own account the 'Union' gets its drink on around the clock, which is how its members claim to have witnessed some of the odder events around Martinaise. When asked about his fellow members, he says they are exactly what they look like. His friend Rosemary is one of them.",
+      "seeAlso": [
+        "fishing-village",
+        "union",
+        "ulla-deponte"
+      ]
     }
   ]
 }
