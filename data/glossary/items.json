@@ -891,7 +891,7 @@
     {
       "id": "hypnogamma",
       "term": "Hypnogamma",
-      "short": "A painkiller you can find in the night watchman's booth."
+      "short": "A painkiller you can find in the night watchman's booth. Heals +3 Morale."
     },
     {
       "id": "preptide",
@@ -1065,7 +1065,7 @@
       "term": "Magnesium",
       "caseSensitive": true,
       "commonWord": true,
-      "short": "A mineral supplement you can find around Martinaise. Your skills also have a Thought about lacking magnesium.",
+      "short": "A mineral supplement you can find around Martinaise. Your skills also have a Thought about lacking magnesium. Heals +1 Morale.",
       "seeAlso": [
         "morale"
       ]
@@ -1105,7 +1105,7 @@
         "Nosa"
       ],
       "caseSensitive": true,
-      "short": "A popular painkiller from Saint-Batiste Pharmaceutics, sold at the Frittte apothecary. The church kids swear by it.",
+      "short": "A popular painkiller from Saint-Batiste Pharmaceutics, sold at the Frittte apothecary. The church kids swear by it. Heals +1 Health.",
       "seeAlso": [
         "health",
         "frittte"
@@ -1339,7 +1339,7 @@
     {
       "id": "drouamine",
       "term": "Drouamine",
-      "short": "An under-the-counter painkiller pill. Kim gave you one before you woke up.",
+      "short": "An under-the-counter painkiller pill. Kim gave you one before you woke up. Heals +3 Health.",
       "seeAlso": [
         "kim-kitsuragi"
       ]

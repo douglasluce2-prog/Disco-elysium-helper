@@ -6867,7 +6867,7 @@ The flowers were left on purpose by Iosef Lilianovich Dros, the old deserter on 
 
 ### Drouamine
 
-**An under-the-counter painkiller pill. Kim gave you one before you woke up.**
+**An under-the-counter painkiller pill. Kim gave you one before you woke up. Heals +3 Health.**
 
 See also: [Kim Kitsuragi](#kim-kitsuragi)
 
@@ -7013,7 +7013,7 @@ See also: [Inland Empire](#inland-empire), [Electrochemistry](#electrochemistry)
 
 ### Hypnogamma
 
-**A painkiller you can find in the night watchman's booth.**
+**A painkiller you can find in the night watchman's booth. Heals +3 Morale.**
 
 ### Kvalsund multitool
 
@@ -7065,7 +7065,7 @@ See also: [Kim Kitsuragi](#kim-kitsuragi)
 
 ### Magnesium
 
-**A mineral supplement you can find around Martinaise. Your skills also have a Thought about lacking magnesium.**
+**A mineral supplement you can find around Martinaise. Your skills also have a Thought about lacking magnesium. Heals +1 Morale.**
 
 See also: [Morale](#morale)
 
@@ -7121,7 +7121,7 @@ See also: [Idiot Doom Spiral](#idiot-doom-spiral)
 
 *Also: Nosa*
 
-**A popular painkiller from Saint-Batiste Pharmaceutics, sold at the Frittte apothecary. The church kids swear by it.**
+**A popular painkiller from Saint-Batiste Pharmaceutics, sold at the Frittte apothecary. The church kids swear by it. Heals +1 Health.**
 
 See also: [Health](#health), [Frittte](#frittte)
 
