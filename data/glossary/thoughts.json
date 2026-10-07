@@ -5,8 +5,8 @@
     {
       "id": "ace-s-high",
       "term": "Ace's High",
-      "short": "Revachol's name for a high five, a custom started by the aerostatic brigades of the Revolution; slapping hands with Kim gives you a Thought of that name.",
-      "details": "Revacholians use it to celebrate success, especially in sports, and the gesture has spread around the world even though the revolutionaries who invented it lost. Kim says his precinct, the 57th, kept the custom alive, and leaving him hanging does not go down well.\n\nYou can follow it up with an Ace's Low.",
+      "short": "A Thought you get by high-fiving Kim after the hanged man is brought down.",
+      "details": "How to get it: High-five Kim after you successfully shoot down the body.\n\nWhile researching (2h 45m): +1 Empathy towards Kim. Once internalized: +1 Empathy towards Kim, +1 Esprit de Corps.",
       "spoiler": "Kim first offers one after you get the body down from the tree behind the Whirling-in-Rags. With the Thought internalized, you can ask Kim whether his jacket is from the revolutionary air brigades.",
       "seeAlso": [
         "ace-s-low",
@@ -14,16 +14,22 @@
         "revolution",
         "aerostatic",
         "precinct-57"
+      ],
+      "aliases": [
+        "Aces High"
       ]
     },
     {
       "id": "ace-s-low",
       "term": "Ace's Low",
-      "short": "The follow-up to an Ace's High: you turn your back after the high five and wait for a second, low slap; doing it with Kim gives you a Thought.",
-      "details": "Interfacing suggests it as an optional flourish. Kim, ever precise, does not leave an Ace's Low hanging.",
+      "short": "A variant of Ace's High: high-five Kim and wait for him to deliver the low one.",
+      "details": "How to get it: High-five Kim after the body comes down and wait for the 'Ace's Low' (needs Interfacing 5+).\n\nWhile researching (2h 45m): +2 Empathy towards Kim. Once internalized: +2 Empathy towards Kim, +1 Esprit de Corps.",
       "seeAlso": [
         "ace-s-high",
         "kim-kitsuragi"
+      ],
+      "aliases": [
+        "Aces Low"
       ]
     },
     {
@@ -56,8 +62,8 @@
       "id": "coach-physical-instrument",
       "term": "Coach Physical Instrument",
       "caseSensitive": true,
-      "short": "A Thought in which your Physical Instrument appoints itself your drill-sergeant gym coach, determined to whip your neglected body back into shape.",
-      "details": "Physical Instrument eventually insists on coaching you, promising push-ups, blood, sweat, piss and tears until you become a Master Athlete; you can opt in or turn it down. With the coach on board it barks motivational abuse at you in all sorts of situations, from your choice of trousers to climbing and throwing, and even Authority thinks it overdoes things.",
+      "short": "A Thought where Physical Instrument becomes your sports coach, after embarrassing yourself at pétanque.",
+      "details": "How to get it: Fail the pétanque red check with Gaston and René (needs Physical Instrument 2+).\n\nWhile researching (40m): -2 Encyclopedia. Once internalized: +2 Physical Instrument when your shirt slot is empty; -1 Encyclopedia.",
       "seeAlso": [
         "physical-instrument",
         "thought-cabinet",
@@ -68,8 +74,8 @@
       "id": "kingdom-of-conscience",
       "term": "Kingdom of Conscience",
       "caseSensitive": true,
-      "short": "Empathy's name for the far-off moralist ideal; it invites you to join once your political answers keep landing in the sensible middle.",
-      "details": "Empathy notices your 'normal, reasonable, temperate' opinions and offers you citizenship. The Kingdom, it says, is not a place but a rare moment in history that comes about only gradually: post-capitalist, post-national, post-ideological, and perhaps not reached even in your grandchildren's lifetime. It credits Dolores Dei with seeing that progress is worthless without stability.\n\nYou can question it or opt out; opting in adds a moralist thought to your Thought Cabinet.",
+      "short": "The moralist Thought: faith in slow reform and 'real democracy' someday.",
+      "details": "How to get it: Earn 4 moralist points, or wear the Interisolary Trousers.\n\nWhile researching (1h 25m): -2 Half Light. Once internalized: Moralist dialogue options heal 1 Morale; Volition and Logic learning caps raised to 5.",
       "seeAlso": [
         "moralism",
         "moralintern",
@@ -124,29 +130,32 @@
       "id": "actual-art-degree",
       "term": "Actual Art Degree",
       "caseSensitive": true,
-      "short": "A Thought for the art-minded copotype: the Art Cop.",
+      "short": "The Art Cop's Thought, earned by leaning into the artistic copotype.",
       "seeAlso": [
         "art-cop",
         "conceptualization"
-      ]
+      ],
+      "details": "How to get it: Agree to being an Art Cop after picking four related dialogue options.\n\nWhile researching (1h 30m): -1 Perception. Once internalized: -1 Hand/Eye Coordination; Conceptualization passives heal 1 Morale and give 10 XP."
     },
     {
       "id": "advanced-race-theory",
       "term": "Advanced Race Theory",
       "caseSensitive": true,
-      "short": "A Thought you get by listening to Measurehead's lectures. The game treats its ideas as pseudoscience.",
+      "short": "A Thought you get from Measurehead's lectures. The game treats its ideas as pseudoscience.",
       "seeAlso": [
         "measurehead"
-      ]
+      ],
+      "details": "How to get it: Pass a Conceptualization check while talking to Measurehead.\n\nWhile researching (1h 40m): -1 Drama. Once internalized: Rhetoric learning cap raised to 5; +1 Conceptualization."
     },
     {
       "id": "col-do-ma-ma-daqua",
       "term": "Col Do Ma Ma Daqua",
       "caseSensitive": true,
-      "short": "A cryptid bird. A Thought about it has you listening for its call around Martinaise.",
+      "short": "A Thought about an invisible cryptid bird you can only hear.",
       "seeAlso": [
         "cryptid"
-      ]
+      ],
+      "details": "How to get it: Talk to Lena about the invisible cryptid, then listen for it at the orb that appears outside.\n\nWhile researching (7h 10m): None. Once internalized: +3 Perception; -1 Encyclopedia."
     },
     {
       "id": "cop-of-the-apocalypse",
@@ -155,11 +164,12 @@
         "Apocalypse Cop"
       ],
       "caseSensitive": true,
-      "short": "A Thought for the copotype obsessed with signs of the end of the world.",
+      "short": "The Apocalypse Cop's Thought, for a detective obsessed with signs of the end.",
       "seeAlso": [
         "copotype",
         "apocalypse"
-      ]
+      ],
+      "details": "How to get it: Agree to being an Apocalypse Cop after picking four related dialogue options.\n\nWhile researching (6h 55m): -1 Rhetoric. Once internalized: Inland Empire and Shivers learning caps raised to 6; pyrholidon gives +2 Psyche."
     },
     {
       "id": "homo-sexual-underground",
@@ -168,22 +178,25 @@
         "Homosexual Underground"
       ],
       "caseSensitive": true,
-      "short": "A Thought about your nagging curiosity about sexuality, which keeps coming up."
+      "short": "A Thought about your nagging curiosity about sexuality.",
+      "details": "How to get it: Pass the Composure check when first meeting the Smoker on the Balcony, then later ask him about the 'homo-sexual underground' at the Whirling.\n\nWhile researching (8h): None. Once internalized: You stop obsessing about sexuality and can talk about it with Kim."
     },
     {
       "id": "indirect-modes-of-taxation",
       "term": "Indirect Modes of Taxation",
       "caseSensitive": true,
-      "short": "The ultraliberal Thought, unlocked by talking up money and markets.",
+      "short": "The ultraliberal Thought.",
       "seeAlso": [
         "ultraliberalism"
-      ]
+      ],
+      "details": "How to get it: Earn 4 ultraliberal points, or wear the Brown Derbies.\n\nWhile researching (1h 45m): -2 Empathy. Once internalized: Ultraliberal dialogue options give 1 reál; -1 Empathy."
     },
     {
       "id": "inexplicable-feminist-agenda",
       "term": "Inexplicable Feminist Agenda",
       "caseSensitive": true,
-      "short": "A Thought about suddenly having opinions on women's issues, to many people's surprise."
+      "short": "A Thought about suddenly declaring yourself a feminist.",
+      "details": "How to get it: Claim to be a feminist after Garte gives his take on why Sylvie left.\n\nWhile researching (3h 45m): +2 Authority against men. Once internalized: +1 Empathy; -1 Electrochemistry."
     },
     {
       "id": "jamais-vu-derealization",
@@ -193,13 +206,15 @@
         "derealization"
       ],
       "caseSensitive": true,
-      "short": "A Thought about the eerie feeling that familiar things are strange and new."
+      "short": "A Thought about the eerie feeling that familiar things are strange and new.",
+      "details": "How to get it: Ask Lena about the world; she suggests someone more educated (Joyce). Ask Joyce where you are.\n\nWhile researching (3h 25m): None. Once internalized: +1 XP for every orb you click; all Intellect learning caps +1."
     },
     {
       "id": "lonesome-long-way-home",
       "term": "Lonesome Long Way Home",
       "caseSensitive": true,
-      "short": "A Thought about trying to remember where you actually live."
+      "short": "A Thought about trying to remember where you actually live.",
+      "details": "How to get it: Wonder where your home is.\n\nWhile researching (6h 5m): +1 Encyclopedia. Once internalized: Perception learning cap raised to 5; speed gives +1 Psyche."
     },
     {
       "id": "magnesium-based-lifeform",
@@ -208,32 +223,42 @@
       "short": "A Thought convinced that what you really lack is magnesium (not that you drink too much).",
       "seeAlso": [
         "magnesium"
+      ],
+      "details": "How to get it: Talk to Cuno about the magnesium in his shack.\n\nWhile researching (1h 15m): -1 Shivers. Once internalized: +2 Volition; -1 Logic.",
+      "aliases": [
+        "Magnesium Based Lifeform"
       ]
     },
     {
       "id": "revacholian-nationhood",
       "term": "Revacholian Nationhood",
       "caseSensitive": true,
-      "short": "The nationalist Thought, unlocked by repeatedly blaming foreigners for Revachol's problems.",
+      "short": "The nationalist Thought.",
       "seeAlso": [
         "fascism"
-      ]
+      ],
+      "details": "How to get it: Earn 4 fascist points.\n\nWhile researching (9h 10m): -1 Composure. Once internalized: Nationalist dialogue options cost 1 Morale; alcohol gives +2 Physique."
     },
     {
       "id": "the-waste-land-of-reality",
       "term": "The Waste Land of Reality",
       "caseSensitive": true,
-      "short": "A Thought about sobriety and how harsh the world looks without a drink."
+      "short": "A Thought about sobriety and how harsh the world looks without a drink.",
+      "details": "How to get it: Tell Measurehead (after Advanced Race Theory) that he needs to get sober, or talk to Tiago on day 3 or later.\n\nWhile researching (20h): -2 Physical Instrument. Once internalized: -1 Physical Instrument, -1 Inland Empire, -1 Suggestion; +1 to all Psyche skills; no positive effects from alcohol.",
+      "aliases": [
+        "Waste Land of Reality"
+      ]
     },
     {
       "id": "torque-dork",
       "term": "Torque Dork",
       "caseSensitive": true,
-      "short": "A Thought about car mechanics, unlocked by geeking out over the Kineema.",
+      "short": "A Thought about loving cars, from talking motor carriages with Kim.",
       "seeAlso": [
         "kineema",
         "interfacing"
-      ]
+      ],
+      "details": "How to get it: Talk about motor carriages with Kim several times (needs Interfacing 4+).\n\nWhile researching (25m): -2 Conceptualization. Once internalized: +2 Interfacing; unlocks all Interfacing white checks."
     },
     {
       "id": "volumetric-shit-compressor",
@@ -242,14 +267,225 @@
       "short": "A Thought that grows out of Kim telling you to get your shit together.",
       "seeAlso": [
         "kim-kitsuragi"
-      ]
+      ],
+      "details": "How to get it: Throw up twice while examining the hanged man; Kim tells you to get your shit together.\n\nWhile researching (30m): None. Once internalized: Unlocks locked Endurance white checks; Endurance cap raised to 4."
     },
     {
       "id": "white-mourning",
       "term": "White Mourning",
       "caseSensitive": true,
       "hideUntilSeen": true,
-      "short": "A Thought tied to a strange white shadow that smells of apricots, always at the edge of your mind."
+      "short": "A Thought tied to a strange white shadow that smells of apricots.",
+      "details": "How to get it: Open the Damaged Ledger's hidden compartment and read the card inside.\n\nWhile researching (5h): -1 Authority. Once internalized: Zoom out 20% further; all Motorics learning caps +1."
+    },
+    {
+      "id": "anti-object-task-force",
+      "term": "Anti-Object Task Force",
+      "caseSensitive": true,
+      "short": "A Thought for a detective who keeps punching inanimate objects.",
+      "details": "How to get it: Keep hitting inanimate objects.\n\nWhile researching (2h 15m): -2 Pain Threshold. Once internalized: Attacking objects heals damage; +1 Pain Threshold; all Physique learning caps +1."
+    },
+    {
+      "id": "apricot-chewing-gum-scented-one",
+      "term": "Apricot Chewing Gum Scented One",
+      "caseSensitive": true,
+      "short": "A Thought about a haunting apricot scent connected to your past.",
+      "details": "How to get it: Smell both the card hidden in the Damaged Ledger and the apricot gum wrapper in a pair of jeans.\n\nWhile researching (5h 5m): -1 Reaction Speed. Once internalized: +2 Perception."
+    },
+    {
+      "id": "bankruptcy-sequence",
+      "term": "Bankruptcy Sequence",
+      "caseSensitive": true,
+      "short": "A Thought you get if your business pitch to the Mega Rich Light-Bending Guy fails.",
+      "details": "How to get it: Pitch an idea to the Mega Rich Light-Bending Guy and fail (succeeding pays 100 reál instead).\n\nWhile researching (5h 15m): -1 Empathy. Once internalized: Failed Intellect checks give you 1 reál."
+    },
+    {
+      "id": "bringing-of-the-law-law-jaw",
+      "term": "Bringing of the Law (Law-Jaw)",
+      "caseSensitive": true,
+      "short": "A Thought for a detective who keeps calling himself 'the Law'.",
+      "details": "How to get it: Refer to yourself as the Law, Lawbringer or a policeman several times.\n\nWhile researching (2h 55m): -1 Rhetoric. Once internalized: Hand/Eye Coordination cap raised to 6; you automatically pass Hand/Eye Coordination passives; -1 Rhetoric.",
+      "aliases": [
+        "Law-Jaw",
+        "Bringing of the Law"
+      ]
+    },
+    {
+      "id": "caustic-echo",
+      "term": "Caustic Echo",
+      "caseSensitive": true,
+      "short": "A Thought tied to a secret hidden in your ledger, and to letting something go.",
+      "details": "How to get it: Open the hidden compartment in the Damaged Ledger, then throw the card into the wind while outside.\n\nWhile researching (10h): +1 Volition. Once internalized: +300 XP; -1 Authority; all Motorics learning caps +1."
+    },
+    {
+      "id": "cleaning-out-the-rooms",
+      "term": "Cleaning Out the Rooms",
+      "caseSensitive": true,
+      "short": "A Thought you can get from Soona in the church.",
+      "details": "How to get it: Pass a Logic check with Soona after investigating the void of sound (day 3 or later).\n\nWhile researching (5h 35m): None. Once internalized: +1 Suggestion, +1 Inland Empire, +1 Rhetoric."
+    },
+    {
+      "id": "date-of-birth-generator",
+      "term": "Date of Birth Generator",
+      "caseSensitive": true,
+      "short": "A Thought about not knowing when you were born.",
+      "details": "How to get it: Wonder about when you were born.\n\nWhile researching (7h 15m): None. Once internalized: Logic learning cap raised to 4; -1 difficulty on all Physique passives."
+    },
+    {
+      "id": "detective-costeau",
+      "term": "Detective Costeau",
+      "caseSensitive": true,
+      "short": "A Thought for clinging to the made-up name you gave yourself.",
+      "details": "How to get it: Fail a Conceptualization check when first talking to Kim, call yourself Detective Costeau, then refuse your real name once you learn it.\n\nWhile researching (2h 30m): -2 Conceptualization. Once internalized: +1 Savoir Faire, +1 Esprit de Corps."
+    },
+    {
+      "id": "finger-on-the-eject-button",
+      "term": "Finger on the Eject Button",
+      "caseSensitive": true,
+      "short": "A dark Thought about wanting out of everything.",
+      "details": "How to get it: With Pain Threshold 5+, fail the Hardie boys' Authority check and choose the suicidal options.\n\nWhile researching (2h): +2 Authority, +2 Suggestion. Once internalized: Suicidal thoughts every evening."
+    },
+    {
+      "id": "finger-pistols-9mm",
+      "term": "Finger Pistols (9mm)",
+      "caseSensitive": true,
+      "short": "A Thought you get by doing finger guns at Siileng.",
+      "details": "How to get it: With Composure 5+, produce finger guns when first talking to Siileng.\n\nWhile researching (1h): -2 Savoir Faire. Once internalized: +1 Reaction Speed; empty hands give +1 Suggestion.",
+      "aliases": [
+        "Finger Pistols"
+      ]
+    },
+    {
+      "id": "guillaume-le-million",
+      "term": "Guillaume le Million",
+      "caseSensitive": true,
+      "short": "A Thought about a disco star you remember while looking in the mirror.",
+      "details": "How to get it: Pass an Encyclopedia check at the mirror in your room (Whirling or the coastal shack).\n\nWhile researching (4h 30m): -1 Logic. Once internalized: +1 Pain Threshold; all Psyche learning caps +1."
+    },
+    {
+      "id": "hardcore-aesthetic",
+      "term": "Hardcore Aesthetic",
+      "caseSensitive": true,
+      "short": "A Thought about the church kids' hardcore dance music.",
+      "details": "How to get it: Sync sines with Noid, then pass the Conceptualization check that follows.\n\nWhile researching (1h 50m): -2 Interfacing. Once internalized: +1 Volition, +1 Endurance."
+    },
+    {
+      "id": "mazovian-socio-economics",
+      "term": "Mazovian Socio-Economics",
+      "caseSensitive": true,
+      "short": "The communist Thought: internalizing the ideas of Kras Mazov.",
+      "details": "How to get it: Earn 4 communist points and keep the thought.\n\nWhile researching (3h 10m): -2 Visual Calculus. Once internalized: Left-wing dialogue options give 4 XP; -1 Visual Calculus; -1 Authority."
+    },
+    {
+      "id": "motorway-south",
+      "term": "Motorway South",
+      "caseSensitive": true,
+      "short": "A Thought about the Pale, after hearing about it from people who know it.",
+      "details": "How to get it: Talk to both Joyce and the Paledriver about the Pale.\n\nWhile researching (8h 10m): -1 Visual Calculus. Once internalized: +1 Inland Empire; unlocks all Intellect white checks."
+    },
+    {
+      "id": "one-more-door",
+      "term": "One More Door",
+      "caseSensitive": true,
+      "short": "A Thought about a door you just can't open.",
+      "details": "How to get it: Try and fail to open the bunker door north of the church (needs Conceptualization 4+).\n\nWhile researching (45m): +1 Half Light. Once internalized: -1 Half Light; unlocks all Psyche white checks."
+    },
+    {
+      "id": "opioid-receptor-antagonist",
+      "term": "Opioid Receptor Antagonist",
+      "caseSensitive": true,
+      "short": "A Thought that cancels the highs: the opposite of The Waste Land of Reality.",
+      "details": "How to get it: Insist to Klaasje that her drugs are nothing to be proud of.\n\nWhile researching (55m): -2 Electrochemistry. Once internalized: No positive effects from drugs (speed, pyrholidon); no negative effects from alcohol."
+    },
+    {
+      "id": "overproductive-honour-glands",
+      "term": "Overproductive Honour Glands",
+      "caseSensitive": true,
+      "short": "The Honour Cop's Thought.",
+      "details": "How to get it: Agree to being an Honour Cop after picking four related dialogue options.\n\nWhile researching (20m): -4 Drama. Once internalized: Authority learning cap raised to 5."
+    },
+    {
+      "id": "regular-law-official",
+      "term": "Regular Law Official",
+      "caseSensitive": true,
+      "short": "The Boring Cop's Thought.",
+      "details": "How to get it: Agree to being a Boring Cop after picking four related dialogue options.\n\nWhile researching (1h 20m): -2 Inland Empire. Once internalized: -1 Shivers, -1 Inland Empire; all learning caps raised to at least 3 (stacks with other cap raises)."
+    },
+    {
+      "id": "rigorous-self-critique",
+      "term": "Rigorous Self-Critique",
+      "caseSensitive": true,
+      "short": "The Sorry Cop's Thought.",
+      "details": "How to get it: Agree to being a Sorry Cop after picking four related dialogue options.\n\nWhile researching (6h): -1 Authority. Once internalized: Failed Intellect/Psyche red checks heal 1 Morale; failed Physique/Motorics red checks heal 1 Health; Pain Threshold cap raised to 6."
+    },
+    {
+      "id": "searchlight-division",
+      "term": "Searchlight Division",
+      "caseSensitive": true,
+      "short": "A Thought about the missing people of Martinaise.",
+      "details": "How to get it: Talk to Lena, Lilienne and the Working Class Woman about missing people.\n\nWhile researching (3h 15m): None. Once internalized: +2 Perception."
+    },
+    {
+      "id": "some-kind-of-superstar",
+      "term": "Some Kind of Superstar",
+      "caseSensitive": true,
+      "short": "The Superstar Cop's Thought.",
+      "details": "How to get it: Agree to being a Superstar Cop after picking four related dialogue options.\n\nWhile researching (1h 10m): -2 Logic. Once internalized: -1 Logic; Visual Calculus, Suggestion, Electrochemistry and Composure caps raised to 6."
+    },
+    {
+      "id": "the-bow-collector",
+      "term": "The Bow Collector",
+      "caseSensitive": true,
+      "short": "A Thought about a strange memory involving a bow collector and a street car.",
+      "details": "How to get it: With Conceptualization 6+, open the Damaged Ledger's hidden compartment, keep the card, and ask the Ancient Reptilian Brain about the bow collector.\n\nWhile researching (6h 10m): -1 Authority, -1 Hand/Eye Coordination. Once internalized: +3 Shivers.",
+      "aliases": [
+        "Bow Collector"
+      ]
+    },
+    {
+      "id": "the-fifteenth-indotribe",
+      "term": "The Fifteenth Indotribe",
+      "caseSensitive": true,
+      "short": "A Thought about Wild Pines' enormous share of the world's cargo.",
+      "details": "How to get it: Talk to Joyce about Wild Pines shipping 8 percent of all cargo in the world.\n\nWhile researching (5h 55m): None. Once internalized: +10 cents for each green orb clicked; Savoir Faire cap raised to 6."
+    },
+    {
+      "id": "the-insulindian-miracle",
+      "term": "The Insulindian Miracle",
+      "caseSensitive": true,
+      "short": "A Thought about the history of how the isolas were discovered.",
+      "details": "How to get it: Tell Joyce the Union's ultimate goal and listen to her history of the isolas.\n\nWhile researching (7h 45m): None. Once internalized: Unlocks all white checks."
+    },
+    {
+      "id": "the-jamrock-shuffle",
+      "term": "The Jamrock Shuffle",
+      "caseSensitive": true,
+      "short": "A Thought for a detective who keeps breaking into locked places.",
+      "details": "How to get it: Open several locked doors and containers.\n\nWhile researching (1h 5m): -1 Esprit de Corps. Once internalized: Better loot in locked containers.",
+      "aliases": [
+        "Jamrock Shuffle"
+      ]
+    },
+    {
+      "id": "the-litany-of-contact-mike",
+      "term": "The Litany of Contact Mike",
+      "caseSensitive": true,
+      "short": "A Thought about the boxer Contact Mike.",
+      "details": "How to get it: Talk to Acele about Contact Mike.\n\nWhile researching (15m): -1 Logic, -1 Conceptualization, -1 Drama. Once internalized: Unlocks all Physique white checks."
+    },
+    {
+      "id": "the-precarious-world",
+      "term": "The Precarious World",
+      "caseSensitive": true,
+      "short": "A risky Thought about chance: every event as a roll of the dice.",
+      "details": "How to get it: Pass a Shivers check with the Novelty Dicemaker.\n\nWhile researching (4h): All red checks fail. Once internalized: Critical successes and failures become easier on active checks."
+    },
+    {
+      "id": "the-suicide-of-kras-mazov",
+      "term": "The Suicide of Kras Mazov",
+      "caseSensitive": true,
+      "short": "A Thought for a detective who keeps calling himself Kras Mazov.",
+      "details": "How to get it: Refer to yourself as Kras Mazov several times.\n\nWhile researching (4h 45m): -1 Rhetoric. Once internalized: +1 Rhetoric; failed white checks heal all Morale."
     }
   ]
 }
