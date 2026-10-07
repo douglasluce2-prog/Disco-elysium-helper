@@ -117,6 +117,12 @@ two entries claiming the same name.
 
 ## Troubleshooting
 
+- **MelonLoader's console never opens / build.bat says the game's files aren't prepared.** On Windows 11,
+  a built-in compatibility fix for Disco Elysium loads Windows' own `version.dll` before MelonLoader's.
+  In the game folder, rename MelonLoader's `version.dll` to `winmm.dll`, then start the game again
+  (`build.bat` offers to do this for you). Reinstalling MelonLoader puts `version.dll` back, so repeat
+  the rename after any MelonLoader update.
+
 - **Look in the MelonLoader console** (the black window that opens with the game). Disco Dictionary
   reports there what it loaded and anything that went wrong.
 - **The sidebar never shows anything.** The console should say `Listening to the dialogue log`. If it

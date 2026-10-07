@@ -470,7 +470,7 @@ See also: [Whirling-in-Rags](#whirling-in-rags), [réal](#réal)
 
 **René Arnoux's elderly friend and pétanque partner.**
 
-See also: [Pétanque](#pétanque)
+See also: [René Arnoux](#rené-arnoux), [Pétanque](#pétanque)
 
 ### Horrific Necktie
 
@@ -1138,7 +1138,7 @@ See also: [Commune](#commune), [Coalition](#coalition), [Communism](#communism),
 
 Some old veterans, like René Arnoux, fought for the king against the revolutionaries and still hold onto that loyalty.
 
-See also: [Revolution](#revolution), [Reactionary](#reactionary)
+See also: [René Arnoux](#rené-arnoux), [Revolution](#revolution), [Reactionary](#reactionary)
 
 ## Slang & Jargon
 
@@ -1264,7 +1264,7 @@ See also: [Solipsism](#solipsism), [Ennui](#ennui)
 
 **A French ball game: players toss metal balls to land as close as possible to a small target ball.**
 
-See also: [Gaston Martin](#gaston-martin)
+See also: [René Arnoux](#rené-arnoux), [Gaston Martin](#gaston-martin)
 
 ### Rigor mortis
 

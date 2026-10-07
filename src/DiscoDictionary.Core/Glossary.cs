@@ -115,14 +115,16 @@ public sealed class Glossary
         if (string.IsNullOrEmpty(text))
             return "";
 
-        var decomposed = text!.Normalize(NormalizationForm.FormD);
-        var sb = new StringBuilder(decomposed.Length);
+        // Fold accents with our own table rather than string.Normalize: inside the game (MelonLoader's
+        // .NET runtime) Unicode normalization can be unavailable, which once turned "René" into the id
+        // "rené-arnoux" so links to "rene-arnoux" broke.
+        var sb = new StringBuilder(text!.Length);
         bool lastSpace = true;
-        foreach (char c in decomposed)
+        foreach (char raw in text)
         {
-            var cat = CharUnicodeInfo.GetUnicodeCategory(c);
-            if (cat == UnicodeCategory.NonSpacingMark)
+            if (CharUnicodeInfo.GetUnicodeCategory(raw) == UnicodeCategory.NonSpacingMark)
                 continue;
+            char c = FoldAccent(raw);
 
             if (char.IsLetterOrDigit(c))
             {
@@ -140,6 +142,21 @@ public sealed class Glossary
             }
         }
         return sb.ToString().Trim();
+    }
+
+    private const string Accented = "àáâãäåāăąçćčďèéêëēėęěìíîïīįłñńňòóôõöøōőùúûüūůűųýÿžźżšśşťţŕřğ";
+    private const string Plain    = "aaaaaaaaacccdeeeeeeeeiiiiiilnnnoooooooouuuuuuuuyyzzzsssttrrg";
+
+    /// <summary>Maps a Latin letter with a diacritic to its plain letter, keeping case.</summary>
+    public static char FoldAccent(char c)
+    {
+        if (c < 128)
+            return c;
+        bool upper = char.IsUpper(c);
+        int i = Accented.IndexOf(char.ToLowerInvariant(c));
+        if (i < 0)
+            return c;
+        return upper ? char.ToUpperInvariant(Plain[i]) : Plain[i];
     }
 
     private static string SortKey(string term)

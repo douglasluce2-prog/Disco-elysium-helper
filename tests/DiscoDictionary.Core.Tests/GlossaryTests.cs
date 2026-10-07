@@ -109,5 +109,15 @@ public class GlossaryTests
         Assert.Equal("whirling in rags", Glossary.Normalize("Whirling-in-Rags"));
         Assert.Equal("real", Glossary.Normalize("Réal"));
         Assert.Equal("revachols harbour", Glossary.Normalize("  Revachol's   harbour! "));
+        Assert.Equal("rene arnoux", Glossary.Normalize("Ren\u00E9 Arnoux"));
+        Assert.Equal("petanque deja vu", Glossary.Normalize("P\u00E9tanque, D\u00C9J\u00C0 VU"));
+    }
+
+    [Fact]
+    public void IdsAreAccentFreeWithoutUnicodeNormalization()
+    {
+        Assert.Equal("rene-arnoux", GlossaryLoader.MakeId("Ren\u00E9 Arnoux"));
+        Assert.Equal('E', Glossary.FoldAccent('\u00C9'));
+        Assert.Equal('l', Glossary.FoldAccent('\u0142'));
     }
 }

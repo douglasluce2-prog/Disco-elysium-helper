@@ -481,6 +481,10 @@ internal sealed class DictionaryWindow
             result = new LookupResult(_page.Word ?? "", LookupStatus.Error, message: _pending.Exception?.GetBaseException().Message ?? "Lookup failed.");
         _pending = null;
 
+        // Make online-lookup problems visible in the MelonLoader console, where they can be diagnosed.
+        if (result.Status == LookupStatus.Error)
+            _ctx.Log.Warning($"English lookup of '{result.Query}' failed: {result.Message}");
+
         if (_page.Kind == PageKind.English)
         {
             _page.English = result;

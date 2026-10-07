@@ -141,6 +141,18 @@ if (-not (Test-Path -LiteralPath (Join-Path $ml "Il2CppAssemblies\Assembly-CShar
               "and this mod currently only supports the IL2CPP build (Steam's The Final Cut). Please send the diagnostics above.")
     }
     if (-not $log) {
+        $versionDll = Join-Path $GamePath "version.dll"
+        if ((Test-Path -LiteralPath $versionDll) -and -not (Test-Path -LiteralPath (Join-Path $GamePath "winmm.dll"))) {
+            Write-Host ("Known cause: Windows has a built-in compatibility fix for Disco Elysium that loads Windows' own version.dll`n" +
+                        "first, so MelonLoader's version.dll is silently ignored. Renaming MelonLoader's file to winmm.dll fixes it.") -ForegroundColor Yellow
+            $answer = Read-Host "Rename version.dll to winmm.dll in the game folder now? (y/n)"
+            if ($answer -match '^[Yy]') {
+                Rename-Item -LiteralPath $versionDll -NewName "winmm.dll"
+                Fail ("Renamed. Now start Disco Elysium from Steam: a black MelonLoader console should open. Wait at the main menu`n" +
+                      "until it stops scrolling, quit, and double-click build.bat again.`n" +
+                      "(If you ever reinstall MelonLoader, delete winmm.dll and rename the new version.dll again.)")
+            }
+        }
         Fail ("MelonLoader never ran: there is no log file. Usually that means the game was started in a way that skipped it.`n" +
               "  - When you start the game, a black MelonLoader console window should open next to it. If it doesn't, reinstall MelonLoader`n" +
               "    with MelonLoader.Installer.exe, choosing disco.exe in: $GamePath`n" +
