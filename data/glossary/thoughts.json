@@ -119,6 +119,137 @@
         "sorry-cop",
         "thought-cabinet"
       ]
+    },
+    {
+      "id": "actual-art-degree",
+      "term": "Actual Art Degree",
+      "caseSensitive": true,
+      "short": "A Thought for the art-minded copotype: the Art Cop.",
+      "seeAlso": [
+        "art-cop",
+        "conceptualization"
+      ]
+    },
+    {
+      "id": "advanced-race-theory",
+      "term": "Advanced Race Theory",
+      "caseSensitive": true,
+      "short": "A Thought you get by listening to Measurehead's lectures. The game treats its ideas as pseudoscience.",
+      "seeAlso": [
+        "measurehead"
+      ]
+    },
+    {
+      "id": "col-do-ma-ma-daqua",
+      "term": "Col Do Ma Ma Daqua",
+      "caseSensitive": true,
+      "short": "A cryptid bird. A Thought about it has you listening for its call around Martinaise.",
+      "seeAlso": [
+        "cryptid"
+      ]
+    },
+    {
+      "id": "cop-of-the-apocalypse",
+      "term": "Cop of the Apocalypse",
+      "aliases": [
+        "Apocalypse Cop"
+      ],
+      "caseSensitive": true,
+      "short": "A Thought for the copotype obsessed with signs of the end of the world.",
+      "seeAlso": [
+        "copotype",
+        "apocalypse"
+      ]
+    },
+    {
+      "id": "homo-sexual-underground",
+      "term": "Homo-Sexual Underground",
+      "aliases": [
+        "Homosexual Underground"
+      ],
+      "caseSensitive": true,
+      "short": "A Thought about your nagging curiosity about sexuality, which keeps coming up."
+    },
+    {
+      "id": "indirect-modes-of-taxation",
+      "term": "Indirect Modes of Taxation",
+      "caseSensitive": true,
+      "short": "The ultraliberal Thought, unlocked by talking up money and markets.",
+      "seeAlso": [
+        "ultraliberalism"
+      ]
+    },
+    {
+      "id": "inexplicable-feminist-agenda",
+      "term": "Inexplicable Feminist Agenda",
+      "caseSensitive": true,
+      "short": "A Thought about suddenly having opinions on women's issues, to many people's surprise."
+    },
+    {
+      "id": "jamais-vu-derealization",
+      "term": "Jamais Vu (Derealization)",
+      "aliases": [
+        "Jamais Vu",
+        "derealization"
+      ],
+      "caseSensitive": true,
+      "short": "A Thought about the eerie feeling that familiar things are strange and new."
+    },
+    {
+      "id": "lonesome-long-way-home",
+      "term": "Lonesome Long Way Home",
+      "caseSensitive": true,
+      "short": "A Thought about trying to remember where you actually live."
+    },
+    {
+      "id": "magnesium-based-lifeform",
+      "term": "Magnesium-Based Lifeform",
+      "caseSensitive": true,
+      "short": "A Thought convinced that what you really lack is magnesium (not that you drink too much).",
+      "seeAlso": [
+        "magnesium"
+      ]
+    },
+    {
+      "id": "revacholian-nationhood",
+      "term": "Revacholian Nationhood",
+      "caseSensitive": true,
+      "short": "The nationalist Thought, unlocked by repeatedly blaming foreigners for Revachol's problems.",
+      "seeAlso": [
+        "fascism"
+      ]
+    },
+    {
+      "id": "the-waste-land-of-reality",
+      "term": "The Waste Land of Reality",
+      "caseSensitive": true,
+      "short": "A Thought about sobriety and how harsh the world looks without a drink."
+    },
+    {
+      "id": "torque-dork",
+      "term": "Torque Dork",
+      "caseSensitive": true,
+      "short": "A Thought about car mechanics, unlocked by geeking out over the Kineema.",
+      "seeAlso": [
+        "kineema",
+        "interfacing"
+      ]
+    },
+    {
+      "id": "volumetric-shit-compressor",
+      "term": "Volumetric Shit Compressor",
+      "caseSensitive": true,
+      "short": "A Thought that grows out of Kim telling you to get your shit together.",
+      "seeAlso": [
+        "kim-kitsuragi"
+      ]
+    },
+    {
+      "id": "white-mourning",
+      "term": "White Mourning",
+      "caseSensitive": true,
+      "hideUntilSeen": true,
+      "short": "A Thought tied to a strange white shadow that smells of apricots, always at the edge of your mind."
     }
   ]
 }

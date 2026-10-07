@@ -732,6 +732,14 @@
         "doomed-commercial-area",
         "radiocomputer"
       ]
+    },
+    {
+      "id": "dweorg",
+      "term": "Dweorg",
+      "aliases": [
+        "dweorgr"
+      ],
+      "short": "A fantasy dwarf-like folk in Elysium's myths and pulp books, such as Codex Urik."
     }
   ]
 }

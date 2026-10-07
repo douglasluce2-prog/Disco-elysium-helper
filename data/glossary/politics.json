@@ -480,6 +480,14 @@
         "commune",
         "rcm"
       ]
+    },
+    {
+      "id": "karperie",
+      "term": "Karperie",
+      "short": "A modern school of philosophy Joyce mentions.",
+      "seeAlso": [
+        "joyce-messier"
+      ]
     }
   ]
 }

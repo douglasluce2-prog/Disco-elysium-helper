@@ -306,6 +306,99 @@
       "caseSensitive": true,
       "short": "French for 'emergency'. 'Urgence -- Ouvert!' ('Emergency -- Open!') is printed on a dial key of an old, dusty Feld control console.",
       "details": "The console's other labels are also French: 'Allumer' ('switch on') on another key and 'Radiodiffusé' ('broadcast') on the frequency band. Kim reads the labels aloud and guesses the device once controlled the building's electronics."
+    },
+    {
+      "id": "agiogenous",
+      "term": "Agiogenous",
+      "aliases": [
+        "agiogenous zone"
+      ],
+      "short": "A pseudo-scientific term from a dubious health book: supposed psychic nodes in your body.",
+      "seeAlso": [
+        "medicinal-purposes-of-the-pale"
+      ]
+    },
+    {
+      "id": "arlecchino",
+      "term": "Arlecchino",
+      "aliases": [
+        "arlecchinos"
+      ],
+      "short": "Joyce's fancy word for a clown or harlequin."
+    },
+    {
+      "id": "breechloader",
+      "term": "Breechloader",
+      "aliases": [
+        "breechloaders"
+      ],
+      "short": "A gun loaded from the back of the barrel; Kim uses the word for old military rifles found in Martinaise."
+    },
+    {
+      "id": "epidermochromatic",
+      "term": "Epidermochromatic",
+      "short": "A pompous made-up word for 'skin-coloured', used jokingly about race."
+    },
+    {
+      "id": "ferrotape",
+      "term": "Ferrotape",
+      "short": "Magnetic tape used in Elysium's printers and recording machines.",
+      "seeAlso": [
+        "radiocomputer"
+      ]
+    },
+    {
+      "id": "ide-logo",
+      "term": "Ideólogo",
+      "short": "Spanish-flavoured word for an ideologue; Call Me Mañana uses it.",
+      "seeAlso": [
+        "call-me-manana"
+      ]
+    },
+    {
+      "id": "infraculture",
+      "term": "Infraculture",
+      "short": "Joyce's word for a youth subculture with its own clothes and slang.",
+      "seeAlso": [
+        "joyce-messier"
+      ]
+    },
+    {
+      "id": "lazareth",
+      "term": "Lazareth",
+      "short": "A hospital or infirmary. Kim suggests you go to one."
+    },
+    {
+      "id": "mazut",
+      "term": "Mazut",
+      "short": "Heavy fuel oil, the kind that powers big old generators."
+    },
+    {
+      "id": "paranatural",
+      "term": "Paranatural",
+      "short": "Elysium's word for the supernatural or paranormal."
+    },
+    {
+      "id": "pistolette",
+      "term": "Pistolette",
+      "short": "A small pistol, like the one Kim carries.",
+      "seeAlso": [
+        "kim-kitsuragi"
+      ]
+    },
+    {
+      "id": "pizzazzo",
+      "term": "Pizzazzo",
+      "short": "Joyce's playful twist on 'pizzazz': flair."
+    },
+    {
+      "id": "policework",
+      "term": "Policework",
+      "autoDetect": false,
+      "short": "Police work, written as one word in Elysium.",
+      "seeAlso": [
+        "rcm"
+      ]
     }
   ]
 }

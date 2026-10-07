@@ -7,18 +7,18 @@ Explanations are spoiler-free. Plot details are folded away under **Spoiler**, a
 ## Contents
 
 - [Skills](#skills) (31)
-- [Thoughts](#thoughts) (10)
+- [Thoughts](#thoughts) (24)
 - [Game Mechanics](#game-mechanics) (17)
 - [People](#people) (111)
 - [Places](#places) (80)
 - [World](#world) (118)
 - [Factions](#factions) (31)
-- [Politics & Ideas](#politics--ideas) (34)
+- [Politics & Ideas](#politics--ideas) (35)
 - [History](#history) (28)
-- [Culture & Media](#culture--media) (53)
-- [Items](#items) (71)
-- [Slang & Jargon](#slang--jargon) (30)
-- [Vocabulary](#vocabulary) (28)
+- [Culture & Media](#culture--media) (54)
+- [Items](#items) (104)
+- [Slang & Jargon](#slang--jargon) (42)
+- [Vocabulary](#vocabulary) (41)
 - [Names that are spoilers](#names-that-are-spoilers)
 
 ## Skills
@@ -309,6 +309,18 @@ Interfacing suggests it as an optional flourish. Kim, ever precise, does not lea
 
 See also: [Ace's High](#aces-high), [Kim Kitsuragi](#kim-kitsuragi)
 
+### Actual Art Degree
+
+**A Thought for the art-minded copotype: the Art Cop.**
+
+See also: [Art Cop](#art-cop), [Conceptualization](#conceptualization)
+
+### Advanced Race Theory
+
+**A Thought you get by listening to Measurehead's lectures. The game treats its ideas as pseudoscience.**
+
+See also: [Measurehead](#measurehead)
+
 ### Art Cop
 
 **A Thought and copotype for a detective who judges everything as art: half art critic, half cop.**
@@ -337,6 +349,20 @@ Physical Instrument eventually insists on coaching you, promising push-ups, bloo
 
 See also: [Physical Instrument](#physical-instrument), [Thought Cabinet](#thought-cabinet), [Thought](#thought)
 
+### Col Do Ma Ma Daqua
+
+**A cryptid bird. A Thought about it has you listening for its call around Martinaise.**
+
+See also: [Cryptid](#cryptid)
+
+### Cop of the Apocalypse
+
+*Also: Apocalypse Cop*
+
+**A Thought for the copotype obsessed with signs of the end of the world.**
+
+See also: [Copotype](#copotype), [Apocalypse](#apocalypse)
+
 ### Hobocop
 
 *Also: hobo cop*
@@ -347,6 +373,28 @@ You can get it early on: after Garte asks whether you want to become a hobo, you
 
 See also: [Thought Cabinet](#thought-cabinet), [Garte](#garte), [Copotype](#copotype)
 
+### Homo-Sexual Underground
+
+*Also: Homosexual Underground*
+
+**A Thought about your nagging curiosity about sexuality, which keeps coming up.**
+
+### Indirect Modes of Taxation
+
+**The ultraliberal Thought, unlocked by talking up money and markets.**
+
+See also: [Ultraliberalism](#ultraliberalism)
+
+### Inexplicable Feminist Agenda
+
+**A Thought about suddenly having opinions on women's issues, to many people's surprise.**
+
+### Jamais Vu (Derealization)
+
+*Also: Jamais Vu, derealization*
+
+**A Thought about the eerie feeling that familiar things are strange and new.**
+
 ### Kingdom of Conscience
 
 **Empathy's name for the far-off moralist ideal; it invites you to join once your political answers keep landing in the sensible middle.**
@@ -356,6 +404,16 @@ Empathy notices your 'normal, reasonable, temperate' opinions and offers you cit
 You can question it or opt out; opting in adds a moralist thought to your Thought Cabinet.
 
 See also: [Moralism](#moralism), [Moralintern](#moralintern), [Centrism](#centrism), [Dolores Dei](#dolores-dei), [Thought Cabinet](#thought-cabinet), [Empathy](#empathy)
+
+### Lonesome Long Way Home
+
+**A Thought about trying to remember where you actually live.**
+
+### Magnesium-Based Lifeform
+
+**A Thought convinced that what you really lack is magnesium (not that you drink too much).**
+
+See also: [Magnesium](#magnesium)
 
 ### Remote Viewer
 
@@ -370,6 +428,12 @@ With it, extra para-natural dialogue options open up around Martinaise.
 *Real-world inspiration:* Remote viewing, the supposed psychic ability to see distant places, once studied by US military and intelligence programmes.
 
 See also: [Remote Viewers Division](#remote-viewers-division), [Inland Empire](#inland-empire), [Thought Cabinet](#thought-cabinet)
+
+### Revacholian Nationhood
+
+**The nationalist Thought, unlocked by repeatedly blaming foreigners for Revachol's problems.**
+
+See also: [Fascism](#fascism)
 
 ### Sorry Cop
 
@@ -388,6 +452,22 @@ See also: [Copotype](#copotype), [Suggestion](#suggestion), [Superstar Cop](#sup
 The game counts your boastful, attention-seeking choices. Once there are enough, Composure confirms that you're a Superstar Cop and invites you to shout 'action' and reinvent your messy life as a star vehicle.
 
 See also: [Copotype](#copotype), [Composure](#composure), [Sorry Cop](#sorry-cop), [Thought Cabinet](#thought-cabinet)
+
+### The Waste Land of Reality
+
+**A Thought about sobriety and how harsh the world looks without a drink.**
+
+### Torque Dork
+
+**A Thought about car mechanics, unlocked by geeking out over the Kineema.**
+
+See also: [Kineema](#kineema), [Interfacing](#interfacing)
+
+### Volumetric Shit Compressor
+
+**A Thought that grows out of Kim telling you to get your shit together.**
+
+See also: [Kim Kitsuragi](#kim-kitsuragi)
 
 ## Game Mechanics
 
@@ -4863,6 +4943,12 @@ He argued that revolutionary thought radiates from the brain as a kind of energy
 
 See also: [Communism](#communism), [Kras Mazov](#kras-mazov), [People's Republic of Samara](#peoples-republic-of-samara), [Plasm](#plasm), [Revolution](#revolution)
 
+### Karperie
+
+**A modern school of philosophy Joyce mentions.**
+
+See also: [Joyce Messier](#joyce-messier)
+
 ### Kras Mazov
 
 *Also: Mazov, Mazovian, Mazovians, Bust of Kras Mazov, Comrade Mazov, Kras, Kras Mazov Portrait*
@@ -5626,6 +5712,12 @@ See also: [DJ Flacio](#dj-flacio), [Alice](#alice), [Kineema](#kineema)
 Kim's own motor carriage radio has Speedfreaks FM saved as a favourite, something he would rather you did not bring up.
 
 </details>
+
+### Dweorg
+
+*Also: dweorgr*
+
+**A fantasy dwarf-like folk in Elysium's myths and pulp books, such as Codex Urik.**
 
 ### Gabriel Buenguerro
 
@@ -6429,6 +6521,12 @@ There is no other copy to be found. In the end you have to decide for yourself w
 
 See also: [Annette](#annette)
 
+### Disco trousers
+
+*Also: bell-bottoms, bellbottoms*
+
+**Your flared bell-bottom trousers, part of the outfit you wake up in.**
+
 ### Dockworker ID card
 
 *Also: shift card*
@@ -6457,6 +6555,12 @@ The flowers were left on purpose by Iosef Lilianovich Dros, the old deserter on 
 
 </details>
 
+### Drouamine
+
+**An under-the-counter painkiller pill. Kim gave you one before you woke up.**
+
+See also: [Kim Kitsuragi](#kim-kitsuragi)
+
 ### Fairweather T-500
 
 *Also: T-500, T500*
@@ -6472,6 +6576,22 @@ See also: [The Hanged Man](#the-hanged-man)
 The armour originally belonged to the hanged man, who was stripped of it.
 
 </details>
+
+### FALN clothing
+
+*Also: FALN pants, FALN sneakers, FALN tracksuit*
+
+**Sportswear from the FALN brand: tracksuit, pants, sneakers, cap and gloves. Cuno wears it, and Siileng sells the sneakers.**
+
+See also: [FALN](#faln), [Cuno](#cuno), [Siileng](#siileng)
+
+### Fancy loafers
+
+*Also: fancy loafer*
+
+**Outrageously expensive (and, Savoir Faire notes, ultraliberal) shoes.**
+
+See also: [Ultraliberalism](#ultraliberalism)
 
 ### Filthy Jacket
 
@@ -6553,6 +6673,12 @@ Boiling them on the Whirling's stove cleans them up.
 
 See also: [The Hanged Man](#the-hanged-man), [Fairweather T-500](#fairweather-t-500)
 
+### Hjelmdall T-shirt
+
+**A second-hand shirt from Bird's Nest Roy's rack. 'Welcome to Hjelmdall'.**
+
+See also: [Bird's Nest Roy](#birds-nest-roy)
+
 ### Hjelmdallermann: the Man from Hjelmdall
 
 **A tattered Man from Hjelmdall paperback sold at the bookstore, advertised as a good introduction to the series.**
@@ -6577,6 +6703,12 @@ See also: [Inland Empire](#inland-empire), [Electrochemistry](#electrochemistry)
 
 **A painkiller you can find in the night watchman's booth.**
 
+### Kvalsund multitool
+
+*Also: Kvalsund*
+
+**A tool Soona lends you; she says it opens everything. Useful for prying open stubborn things.**
+
 ### La Fumée
 
 *Also: La Fumée, Vol. 1 No. 4*
@@ -6594,6 +6726,36 @@ See also: [Communism](#communism), [Kras Mazov](#kras-mazov), [TipTop Tournée](
 The essay's two bylines are pen names of the student communists you can meet in the apartment building, and you can show or give them the magazine.
 
 </details>
+
+### Library card
+
+**A rain-soaked library card from the Jamrock Public Library, found on a body. The name on it gives you a lead.**
+
+See also: [Central Jamrock Public Library](#central-jamrock-public-library)
+
+<details><summary>Spoiler</summary>
+
+It belongs to someone named Billie Méjean.
+
+</details>
+
+### Lieutenant's handkerchief
+
+**A handkerchief you can offer to someone who is crying.**
+
+### Lieutenant's notebook
+
+*Also: Kim's notebook*
+
+**Kim's notebook. He lends it to you for paperwork, such as the field autopsy form.**
+
+See also: [Kim Kitsuragi](#kim-kitsuragi)
+
+### Magnesium
+
+**A mineral supplement you can find around Martinaise. Your skills also have a Thought about lacking magnesium.**
+
+See also: [Morale](#morale)
 
 ### Man from Hjelmdall and the Devil Woman
 
@@ -6613,6 +6775,12 @@ Cuno will accept this book as a peace offering if you need to make up with him.
 
 </details>
 
+### Map of Martinaise
+
+**A paper map of the district you can buy at the bookstore. It helps with working out distances and angles.**
+
+See also: [Martinaise](#martinaise), [Plaisance](#plaisance)
+
 ### Medicinal Purposes of the Pale
 
 *Also: Medicinal Purposes*
@@ -6625,6 +6793,32 @@ Its pharmacopoeia lets you combine ingredients such as ginger, mint, birch bark,
 
 See also: [Morale](#morale), [Pale](#pale), [Pale-aged vodka](#pale-aged-vodka), [Plaisance](#plaisance)
 
+### Melody tape
+
+**A tape Bird's Nest Roy can supply for the music kids' project in the church.**
+
+See also: [Bird's Nest Roy](#birds-nest-roy), [Egg Head](#egg-head)
+
+### Missing jacket
+
+**A filthy jacket that belongs to Idiot Doom Spiral, who wants it back. People in the fishing village may know where it went.**
+
+See also: [Idiot Doom Spiral](#idiot-doom-spiral)
+
+### Nosaphed
+
+*Also: Nosa*
+
+**A popular painkiller from Saint-Batiste Pharmaceutics, sold at the Frittte apothecary. The church kids swear by it.**
+
+See also: [Health](#health), [Frittte](#frittte)
+
+### Novelty cheque
+
+**A giant novelty cheque. The Frittte clerk has seen one before.**
+
+See also: [Frittte](#frittte)
+
 ### Pale-aged vodka
 
 *Also: pale-aged liquor*
@@ -6634,6 +6828,20 @@ See also: [Morale](#morale), [Pale](#pale), [Pale-aged vodka](#pale-aged-vodka),
 The Frittte clerk explains that it is aged in the pale for a couple of years, which makes it pricey and potent. The book Medicinal Purposes of the Pale recommends burying jars of spirits just inside the pale for 30 to 60 days, depending on the strength you want. Electrochemistry treats a bottle as a gift from the gods, and Idiot Doom Spiral in the Fishing Village will take one in exchange for stories.
 
 See also: [Pale](#pale), [Frittte](#frittte), [Medicinal Purposes of the Pale](#medicinal-purposes-of-the-pale)
+
+### Perfectly adequate transceiver
+
+**A basic radio transceiver you can remove from an office radio. Soona says it isn't advanced, but everything works.**
+
+See also: [Transceiver](#transceiver)
+
+### Photo of René
+
+**An old black-and-white photo of a young couple at a street fair, the man in a Royal Carabineer uniform.**
+
+Gaston recognises it from a parade sixty years ago.
+
+See also: [René Arnoux](#rené-arnoux), [Gaston Martin](#gaston-martin)
 
 ### Photo of Tattoos
 
@@ -6669,9 +6877,17 @@ Looking at it with Kim lets him explain your rank and the RCM's 'décomptage' sy
 
 See also: [Revachol Citizens Militia](#revachol-citizens-militia), [Yefreitor](#yefreitor), [Precinct 41](#precinct-41), [Kineema](#kineema)
 
+### Police dice
+
+*Also: red police die, sorry die, superstar dice*
+
+**Custom dice the Novelty Dicemaker can make for you, in several themed designs.**
+
+See also: [Novelty Dicemaker](#novelty-dicemaker)
+
 ### Policeman Cloak
 
-*Also: patrol cloak*
+*Also: patrol cloak, policeman cloak*
 
 **A tarpaulin RCM cloak flapping on a railing high above the harbour's container yard; it is yours, and getting it means a daring jump.**
 
@@ -6721,6 +6937,12 @@ The bookseller is baffled that a grown man wants it. Reading it takes a moment a
 
 See also: [Doomed Commercial Area](#doomed-commercial-area), [Encyclopedia](#encyclopedia), [Kim Kitsuragi](#kim-kitsuragi)
 
+### Prybar
+
+*Also: prybars*
+
+**A crowbar-like bar for forcing things open. Push it too hard and it can snap.**
+
 ### Pyrholidon
 
 **A rare synthetic hallucinogen, also used to treat radiation sickness. It boosts your Psyche skills at the cost of Health.**
@@ -6731,11 +6953,35 @@ Taking it gives +1 to Empathy, Suggestion, Authority, Inland Empire, Esprit de C
 
 See also: [Psyche](#psyche), [Health](#health), [White check](#white-check)
 
+### Radiant spinners
+
+*Also: spinners*
+
+**Fancy hubcaps you can take from Kim's car and sell at the pawnshop. Kim is not thrilled.**
+
+See also: [Kineema](#kineema), [Bird's Nest Roy](#birds-nest-roy)
+
 ### RCM cap
 
 **A police cap, part of the RCM uniform, which you can pick up on the boardwalk.**
 
 See also: [Revachol Citizens Militia](#revachol-citizens-militia)
+
+### Red brogues
+
+*Also: snakeskin shoes*
+
+**A pair of red snakeskin shoes you can find lying around and ask about.**
+
+See also: [Tiago](#tiago)
+
+### Red scarf
+
+*Also: winter scarf*
+
+**A red winter scarf left lying around in the church. You can ask the kids whose it is.**
+
+See also: [Tiago](#tiago)
 
 ### Revolutionary figurine
 
@@ -6765,11 +7011,61 @@ You find it in Ruby's tent in her hiding place. The recent entries show she fear
 
 </details>
 
+### Ruffed grouse
+
+*Also: ruffed grouse taxidermy*
+
+**A stuffed bird taken from a ceiling. Garte would like a new bird for the Whirling.**
+
+See also: [Garte](#garte), [Little Lily](#little-lily)
+
+### Sabre
+
+**An old sabre. It can be placed with the horseback statue in a surprising way.**
+
+See also: [Horseback Monument](#horseback-monument)
+
 ### Samaran hat
 
 *Also: black Samaran hat*
 
 **A black hat from Samara. A certain bureaucrat has a story about it.**
+
+See also: [Sunday Friend](#sunday-friend)
+
+### Samaran speakers
+
+**Junky speakers Siileng sells from his stall.**
+
+See also: [Siileng](#siileng)
+
+### Saramirizian jacket
+
+*Also: interisolar jacket*
+
+**A white jacket in the interisolar style that you can find in Martinaise; you can show it around and ask whose it is.**
+
+See also: [Saramiriza](#saramiriza)
+
+### Satin shirt
+
+*Also: disco shirt*
+
+**The disco dress shirt you wake up wearing. It smells about as good as you'd expect.**
+
+### Shotput ball
+
+*Also: shot put ball*
+
+**A heavy ball you can return to the pétanque players on the plaza.**
+
+See also: [René Arnoux](#rené-arnoux), [Gaston Martin](#gaston-martin), [Pétanque](#pétanque)
+
+### Silk robe
+
+*Also: kimono robe*
+
+**A beautiful silk kimono-style robe. A certain bureaucrat has a story about where it came from.**
 
 See also: [Sunday Friend](#sunday-friend)
 
@@ -6788,6 +7084,14 @@ See also: [Doomed Commercial Area](#doomed-commercial-area), [Pain Threshold](#p
 The lovers betray each other and are crushed by the state: he ends up a lens-grinder, she spends decades at a fish processing plant, and both die alone with their regrets.
 
 </details>
+
+### Smallest Church tape
+
+*Also: Smallest Church in Saint-Saëns tape*
+
+**A tape of the song 'The Smallest Church in Saint-Saëns'. The kids making music in the church might put it to use.**
+
+See also: [Smallest Church in Saint-Saëns](#smallest-church-in-saint-saëns)
 
 ### Speed
 
@@ -6811,6 +7115,12 @@ On the money-minded path you can show it off to various people to prove you are 
 
 See also: [Ultraliberalism](#ultraliberalism), [Logic](#logic), [Perception](#perception)
 
+### Suede blazer
+
+*Also: suede jacket, blazer*
+
+**Your trusty blazer: one of the few pieces of your own clothing you still have when the game begins.**
+
 ### Suzerainty: The Board Game
 
 **A 'family' strategy board game from the bookstore in which players are administrators exploiting Revachol's colonies for the old king's glory.**
@@ -6820,6 +7130,14 @@ It costs 12 réal. Players place workers in four vassal lands to gather apricots
 You can open it, read the rules and talk Kim into playing a game with you.
 
 See also: [Suzerain](#suzerain), [Siigay](#siigay), [Kim Kitsuragi](#kim-kitsuragi), [Doomed Commercial Area](#doomed-commercial-area)
+
+### Teratorn tie
+
+*Also: teratorn*
+
+**A thin ribbon-tie with a silver clasp that Lena gives you as a thank-you.**
+
+See also: [Lena](#lena)
 
 ### The Great Doorgunner Megamix
 
@@ -6878,6 +7196,14 @@ Tioumoutiri butts turn up both at Land's End and in a hidden mattress nest in th
 Some people in Martinaise need one badly for a radio project.
 
 See also: [Bird's Nest Roy](#birds-nest-roy), [Noid](#noid)
+
+### Union membership card
+
+*Also: Union card*
+
+**A red and white Union card. Evrart gives you one when you join; you can also find one.**
+
+See also: [Union](#union), [Evrart Claire](#evrart-claire)
 
 ### Vodka-borscht
 
@@ -6953,6 +7279,28 @@ See also: [Electrochemistry](#electrochemistry), [Measurehead](#measurehead), [T
 
 See also: [Revolution](#revolution), [Royalists](#royalists), [Kras Mazov](#kras-mazov), [Commune](#commune)
 
+### Banaanipoika
+
+**A Finnish-sounding insult Cunoesse throws at you; literally 'banana boy'.**
+
+See also: [Cunoesse](#cunoesse)
+
+### Binoclard
+
+*Also: binoclards, clard*
+
+**A racist slur for Seolites, aimed at Kim. Cuno shortens it to 'clard.**
+
+See also: [Seol](#seol), [Kim Kitsuragi](#kim-kitsuragi)
+
+### Bratushka
+
+*Also: bratan*
+
+**Slang for 'little brother' or 'buddy'; your necktie calls you this.**
+
+See also: [Horrific Necktie](#horrific-necktie)
+
 ### Cobo
 
 *Also: Il Cobo, Il Cobo di Coppodocia, Cobo mi Lobo, Coppodocia*
@@ -7016,6 +7364,16 @@ If you climb the horseback monument to radio Coalition Warship Archer, the warsh
 You can use the phrase on the working-class woman on the plaza when she implies that you, and her husband, are chubby. Mañana also praises the 'most hard-bodied boiadeiros'. A book on the stands outside the bookstore is titled 'Franconigerian Hardbody: Boiadeiro Culture, Use Your Hardbody'.
 
 See also: [boiadeiro](#boiadeiro)
+
+### Fuckupatoo
+
+**A word you invent: a fuck-up AND a cockatoo.**
+
+### Fägäri
+
+**One of Cunoesse's foreign-sounding insults; nobody explains what it means.**
+
+See also: [Cunoesse](#cunoesse)
 
 ### Gloaming
 
@@ -7083,6 +7441,28 @@ It appears in the Revacholian Nationhood thought process, where your stomach dec
 
 See also: [Fascism](#fascism), [Measurehead](#measurehead)
 
+### Mesquito
+
+*Also: mesquitos*
+
+**A slur for people from Mesque, used by the racist lorry driver.**
+
+See also: [Racist lorry driver](#racist-lorry-driver)
+
+### Mulkku
+
+*Also: vittupää*
+
+**A crude insult Cunoesse yells at you, in a language you don't recognise.**
+
+See also: [Cunoesse](#cunoesse)
+
+### Napakymppi
+
+**Something Cunoesse shouts when Cuno scores; roughly 'bullseye'.**
+
+See also: [Cunoesse](#cunoesse)
+
 ### Narcomania
 
 *Also: narcomaniac, narcomaniacs, narco mania, narco-mania, narco*
@@ -7092,6 +7472,20 @@ See also: [Fascism](#fascism), [Measurehead](#measurehead)
 Andre uses it to describe the old church as a 'derelict hive of narcomania', and Volition warns that he is only pandering to your conservative side. Klaasje mocks the word ('Narco Mania'). Authority, on the other hand, encourages you to become an anti-narcomania zealot, which can give you a Thought.
 
 See also: [Authority](#authority), [Klaasje](#klaasje), [Dolorian Church of Humanity](#dolorian-church-of-humanity), [Thought](#thought)
+
+### Näkk
+
+*Also: näkki, näkkies*
+
+**A water spirit from the fishing folk's superstitions. Cuno uses the word for things best left alone.**
+
+See also: [Cuno](#cuno)
+
+### Peone
+
+*Also: peones*
+
+**A worker or underling in a criminal boss's network. Kim uses it about 'Madre's' people.**
 
 ### Personal Brand Strategist
 
@@ -7124,6 +7518,18 @@ See also: [Strike](#strike), [Scab](#scab)
 **Slang insult for a police officer. Cuno uses it on you constantly.**
 
 See also: [Cuno](#cuno), [Revachol Citizens Militia](#revachol-citizens-militia)
+
+### Piggo
+
+**Cuno's favourite way of saying 'pig' (cop) to your face.**
+
+See also: [Cuno](#cuno), [Pig](#pig)
+
+### Popophone
+
+**Cuno's slang for a snitch line or the police radio.**
+
+See also: [Cuno](#cuno)
 
 ### porno-tuning
 
@@ -7235,6 +7641,14 @@ Gary, the cryptofascist on the coast, blurts out 'Yellow Man!' at Kim, who is of
 
 ## Vocabulary
 
+### Agiogenous
+
+*Also: agiogenous zone*
+
+**A pseudo-scientific term from a dubious health book: supposed psychic nodes in your body.**
+
+See also: [Medicinal Purposes of the Pale](#medicinal-purposes-of-the-pale)
+
 ### Allumer
 
 **French for 'switch on' or 'light up': a label on one of the dial keys of an old Feld control console.**
@@ -7255,6 +7669,12 @@ Other labels on the same console are French too, such as Radiodiffusé ('broadca
 
 See also: [Copotype](#copotype), [Pale](#pale)
 
+### Arlecchino
+
+*Also: arlecchinos*
+
+**Joyce's fancy word for a clown or harlequin.**
+
 ### Arrêt
 
 **French for 'stop' or 'off': one of two worn buttons on the crane control panel in the container yard, next to Marche ('on').**
@@ -7262,6 +7682,12 @@ See also: [Copotype](#copotype), [Pale](#pale)
 The panel controls the big crane above it, which has a shipping container hanging from its hook.
 
 See also: [Harbour](#harbour)
+
+### Breechloader
+
+*Also: breechloaders*
+
+**A gun loaded from the back of the barrel; Kim uses the word for old military rifles found in Martinaise.**
 
 ### Cochonnet
 
@@ -7319,6 +7745,32 @@ See also: [Joyce Messier](#joyce-messier)
 
 See also: [Pale](#pale)
 
+### Epidermochromatic
+
+**A pompous made-up word for 'skin-coloured', used jokingly about race.**
+
+### Ferrotape
+
+**Magnetic tape used in Elysium's printers and recording machines.**
+
+See also: [Radiocomputer](#radiocomputer)
+
+### Ideólogo
+
+**Spanish-flavoured word for an ideologue; Call Me Mañana uses it.**
+
+See also: [Call Me Mañana](#call-me-mañana)
+
+### Infraculture
+
+**Joyce's word for a youth subculture with its own clothes and slang.**
+
+See also: [Joyce Messier](#joyce-messier)
+
+### Lazareth
+
+**A hospital or infirmary. Kim suggests you go to one.**
+
 ### Liebling
 
 **German for 'darling'. You hear it in stray foreign-language radio chatter while trying to raise the Coalition warship Archer.**
@@ -7359,6 +7811,10 @@ See also: [The Hanged Man](#the-hanged-man), [Hardie boys](#hardie-boys)
 
 See also: [Harbour](#harbour)
 
+### Mazut
+
+**Heavy fuel oil, the kind that powers big old generators.**
+
 ### Memento mori
 
 **Latin for 'remember that you must die': a reminder of death meant to show how vain and passing earthly pursuits are.**
@@ -7398,6 +7854,26 @@ See also: [Pale](#pale), [Insulindian phasmid](#insulindian-phasmid), [Entropy](
 The Insulindian Phasmid compares what the spreading pale will do to the oxygen holocaust, only much worse.
 
 </details>
+
+### Paranatural
+
+**Elysium's word for the supernatural or paranormal.**
+
+### Pistolette
+
+**A small pistol, like the one Kim carries.**
+
+See also: [Kim Kitsuragi](#kim-kitsuragi)
+
+### Pizzazzo
+
+**Joyce's playful twist on 'pizzazz': flair.**
+
+### Policework
+
+**Police work, written as one word in Elysium.**
+
+See also: [Revachol Citizens Militia](#revachol-citizens-militia)
 
 ### Pétanque
 
@@ -7735,6 +8211,26 @@ He is one of the three armed comrades of the dead man who come to Martinaise for
 
 </details>
 
+### Spirit bomb
+
+**A mysterious, dangerous object that comes into play near the end.**
+
+<details><summary>Spoiler</summary>
+
+It's the explosive end of the Beautiful Necktie, which you can use during the tribunal.
+
+</details>
+
+### Tape of Lely
+
+**An audio tape that can be given to the music kids in the church.**
+
+<details><summary>Spoiler</summary>
+
+It's a recording connected to the hanged man.
+
+</details>
+
 ### Triangong
 
 *Also: Triangong 4-46, Triangong 4.46*
@@ -7766,5 +8262,9 @@ See also: [Billie Méjean](#billie-méjean), [Capeside Apartments](#capeside-apa
 He is Billie Méjean's husband. He was often in some kind of trouble, and he had borrowed books on his wife's library card, which is how the card leads you to their apartment in the Capeside Apartments.
 
 </details>
+
+### White Mourning
+
+**A Thought tied to a strange white shadow that smells of apricots, always at the edge of your mind.**
 
 </details>

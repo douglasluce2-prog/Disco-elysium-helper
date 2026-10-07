@@ -447,6 +447,118 @@
         "seol",
         "whirling-in-rags"
       ]
+    },
+    {
+      "id": "banaanipoika",
+      "term": "Banaanipoika",
+      "short": "A Finnish-sounding insult Cunoesse throws at you; literally 'banana boy'.",
+      "seeAlso": [
+        "cunoesse"
+      ]
+    },
+    {
+      "id": "binoclard",
+      "term": "Binoclard",
+      "aliases": [
+        "binoclards",
+        "clard"
+      ],
+      "short": "A racist slur for Seolites, aimed at Kim. Cuno shortens it to 'clard.",
+      "seeAlso": [
+        "seol",
+        "kim-kitsuragi"
+      ]
+    },
+    {
+      "id": "bratushka",
+      "term": "Bratushka",
+      "aliases": [
+        "bratan"
+      ],
+      "short": "Slang for 'little brother' or 'buddy'; your necktie calls you this.",
+      "seeAlso": [
+        "horrific-necktie"
+      ]
+    },
+    {
+      "id": "f-g-ri",
+      "term": "Fägäri",
+      "short": "One of Cunoesse's foreign-sounding insults; nobody explains what it means.",
+      "seeAlso": [
+        "cunoesse"
+      ]
+    },
+    {
+      "id": "fuckupatoo",
+      "term": "Fuckupatoo",
+      "short": "A word you invent: a fuck-up AND a cockatoo."
+    },
+    {
+      "id": "mesquito",
+      "term": "Mesquito",
+      "aliases": [
+        "mesquitos"
+      ],
+      "short": "A slur for people from Mesque, used by the racist lorry driver.",
+      "seeAlso": [
+        "racist-lorry-driver"
+      ]
+    },
+    {
+      "id": "mulkku",
+      "term": "Mulkku",
+      "aliases": [
+        "vittupää"
+      ],
+      "short": "A crude insult Cunoesse yells at you, in a language you don't recognise.",
+      "seeAlso": [
+        "cunoesse"
+      ]
+    },
+    {
+      "id": "n-kk",
+      "term": "Näkk",
+      "aliases": [
+        "näkki",
+        "näkkies"
+      ],
+      "short": "A water spirit from the fishing folk's superstitions. Cuno uses the word for things best left alone.",
+      "seeAlso": [
+        "cuno"
+      ]
+    },
+    {
+      "id": "napakymppi",
+      "term": "Napakymppi",
+      "short": "Something Cunoesse shouts when Cuno scores; roughly 'bullseye'.",
+      "seeAlso": [
+        "cunoesse"
+      ]
+    },
+    {
+      "id": "peone",
+      "term": "Peone",
+      "aliases": [
+        "peones"
+      ],
+      "short": "A worker or underling in a criminal boss's network. Kim uses it about 'Madre's' people."
+    },
+    {
+      "id": "piggo",
+      "term": "Piggo",
+      "short": "Cuno's favourite way of saying 'pig' (cop) to your face.",
+      "seeAlso": [
+        "cuno",
+        "pig"
+      ]
+    },
+    {
+      "id": "popophone",
+      "term": "Popophone",
+      "short": "Cuno's slang for a snitch line or the police radio.",
+      "seeAlso": [
+        "cuno"
+      ]
     }
   ]
 }

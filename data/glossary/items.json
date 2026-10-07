@@ -554,7 +554,8 @@
       "id": "policeman-cloak",
       "term": "Policeman Cloak",
       "aliases": [
-        "patrol cloak"
+        "patrol cloak",
+        "policeman cloak"
       ],
       "caseSensitive": true,
       "short": "A tarpaulin RCM cloak flapping on a railing high above the harbour's container yard; it is yours, and getting it means a daring jump.",
@@ -976,6 +977,371 @@
       "seeAlso": [
         "birds-nest-roy",
         "noid"
+      ]
+    },
+    {
+      "id": "disco-trousers",
+      "term": "Disco trousers",
+      "aliases": [
+        "bell-bottoms",
+        "bellbottoms"
+      ],
+      "short": "Your flared bell-bottom trousers, part of the outfit you wake up in."
+    },
+    {
+      "id": "faln-clothing",
+      "term": "FALN clothing",
+      "aliases": [
+        "FALN pants",
+        "FALN sneakers",
+        "FALN tracksuit"
+      ],
+      "caseSensitive": true,
+      "short": "Sportswear from the FALN brand: tracksuit, pants, sneakers, cap and gloves. Cuno wears it, and Siileng sells the sneakers.",
+      "seeAlso": [
+        "faln",
+        "cuno",
+        "siileng"
+      ]
+    },
+    {
+      "id": "fancy-loafers",
+      "term": "Fancy loafers",
+      "aliases": [
+        "fancy loafer"
+      ],
+      "short": "Outrageously expensive (and, Savoir Faire notes, ultraliberal) shoes.",
+      "seeAlso": [
+        "ultraliberalism"
+      ]
+    },
+    {
+      "id": "hjelmdall-t-shirt",
+      "term": "Hjelmdall T-shirt",
+      "caseSensitive": true,
+      "short": "A second-hand shirt from Bird's Nest Roy's rack. 'Welcome to Hjelmdall'.",
+      "seeAlso": [
+        "birds-nest-roy"
+      ]
+    },
+    {
+      "id": "kvalsund-multitool",
+      "term": "Kvalsund multitool",
+      "aliases": [
+        "Kvalsund"
+      ],
+      "caseSensitive": true,
+      "short": "A tool Soona lends you; she says it opens everything. Useful for prying open stubborn things."
+    },
+    {
+      "id": "library-card",
+      "term": "Library card",
+      "autoDetect": false,
+      "short": "A rain-soaked library card from the Jamrock Public Library, found on a body. The name on it gives you a lead.",
+      "spoiler": "It belongs to someone named Billie Méjean.",
+      "seeAlso": [
+        "central-jamrock-public-library"
+      ]
+    },
+    {
+      "id": "lieutenant-s-handkerchief",
+      "term": "Lieutenant's handkerchief",
+      "autoDetect": false,
+      "short": "A handkerchief you can offer to someone who is crying."
+    },
+    {
+      "id": "lieutenant-s-notebook",
+      "term": "Lieutenant's notebook",
+      "aliases": [
+        "Kim's notebook"
+      ],
+      "short": "Kim's notebook. He lends it to you for paperwork, such as the field autopsy form.",
+      "seeAlso": [
+        "kim-kitsuragi"
+      ]
+    },
+    {
+      "id": "magnesium",
+      "term": "Magnesium",
+      "caseSensitive": true,
+      "commonWord": true,
+      "short": "A mineral supplement you can find around Martinaise. Your skills also have a Thought about lacking magnesium.",
+      "seeAlso": [
+        "morale"
+      ]
+    },
+    {
+      "id": "map-of-martinaise",
+      "term": "Map of Martinaise",
+      "caseSensitive": true,
+      "short": "A paper map of the district you can buy at the bookstore. It helps with working out distances and angles.",
+      "seeAlso": [
+        "martinaise",
+        "plaisance"
+      ]
+    },
+    {
+      "id": "melody-tape",
+      "term": "Melody tape",
+      "autoDetect": false,
+      "short": "A tape Bird's Nest Roy can supply for the music kids' project in the church.",
+      "seeAlso": [
+        "birds-nest-roy",
+        "egg-head"
+      ]
+    },
+    {
+      "id": "missing-jacket",
+      "term": "Missing jacket",
+      "short": "A filthy jacket that belongs to Idiot Doom Spiral, who wants it back. People in the fishing village may know where it went.",
+      "seeAlso": [
+        "idiot-doom-spiral"
+      ]
+    },
+    {
+      "id": "nosaphed",
+      "term": "Nosaphed",
+      "aliases": [
+        "Nosa"
+      ],
+      "caseSensitive": true,
+      "short": "A popular painkiller from Saint-Batiste Pharmaceutics, sold at the Frittte apothecary. The church kids swear by it.",
+      "seeAlso": [
+        "health",
+        "frittte"
+      ]
+    },
+    {
+      "id": "novelty-cheque",
+      "term": "Novelty cheque",
+      "autoDetect": false,
+      "short": "A giant novelty cheque. The Frittte clerk has seen one before.",
+      "seeAlso": [
+        "frittte"
+      ]
+    },
+    {
+      "id": "perfectly-adequate-transceiver",
+      "term": "Perfectly adequate transceiver",
+      "autoDetect": false,
+      "short": "A basic radio transceiver you can remove from an office radio. Soona says it isn't advanced, but everything works.",
+      "seeAlso": [
+        "transceiver"
+      ]
+    },
+    {
+      "id": "photo-of-ren",
+      "term": "Photo of René",
+      "autoDetect": false,
+      "short": "An old black-and-white photo of a young couple at a street fair, the man in a Royal Carabineer uniform.",
+      "details": "Gaston recognises it from a parade sixty years ago.",
+      "seeAlso": [
+        "rene-arnoux",
+        "gaston-martin"
+      ]
+    },
+    {
+      "id": "police-dice",
+      "term": "Police dice",
+      "aliases": [
+        "red police die",
+        "sorry die",
+        "superstar dice"
+      ],
+      "autoDetect": false,
+      "short": "Custom dice the Novelty Dicemaker can make for you, in several themed designs.",
+      "seeAlso": [
+        "novelty-dicemaker"
+      ]
+    },
+    {
+      "id": "prybar",
+      "term": "Prybar",
+      "aliases": [
+        "prybars"
+      ],
+      "short": "A crowbar-like bar for forcing things open. Push it too hard and it can snap."
+    },
+    {
+      "id": "radiant-spinners",
+      "term": "Radiant spinners",
+      "aliases": [
+        "spinners"
+      ],
+      "short": "Fancy hubcaps you can take from Kim's car and sell at the pawnshop. Kim is not thrilled.",
+      "seeAlso": [
+        "kineema",
+        "birds-nest-roy"
+      ]
+    },
+    {
+      "id": "red-brogues",
+      "term": "Red brogues",
+      "aliases": [
+        "snakeskin shoes"
+      ],
+      "short": "A pair of red snakeskin shoes you can find lying around and ask about.",
+      "seeAlso": [
+        "tiago"
+      ]
+    },
+    {
+      "id": "red-scarf",
+      "term": "Red scarf",
+      "aliases": [
+        "winter scarf"
+      ],
+      "short": "A red winter scarf left lying around in the church. You can ask the kids whose it is.",
+      "seeAlso": [
+        "tiago"
+      ]
+    },
+    {
+      "id": "ruffed-grouse",
+      "term": "Ruffed grouse",
+      "aliases": [
+        "ruffed grouse taxidermy"
+      ],
+      "short": "A stuffed bird taken from a ceiling. Garte would like a new bird for the Whirling.",
+      "seeAlso": [
+        "garte",
+        "little-lily"
+      ]
+    },
+    {
+      "id": "sabre",
+      "term": "Sabre",
+      "caseSensitive": true,
+      "commonWord": true,
+      "short": "An old sabre. It can be placed with the horseback statue in a surprising way.",
+      "seeAlso": [
+        "horseback-monument"
+      ]
+    },
+    {
+      "id": "samaran-speakers",
+      "term": "Samaran speakers",
+      "caseSensitive": true,
+      "short": "Junky speakers Siileng sells from his stall.",
+      "seeAlso": [
+        "siileng"
+      ]
+    },
+    {
+      "id": "saramirizian-jacket",
+      "term": "Saramirizian jacket",
+      "aliases": [
+        "interisolar jacket"
+      ],
+      "short": "A white jacket in the interisolar style that you can find in Martinaise; you can show it around and ask whose it is.",
+      "seeAlso": [
+        "saramiriza"
+      ]
+    },
+    {
+      "id": "satin-shirt",
+      "term": "Satin shirt",
+      "aliases": [
+        "disco shirt"
+      ],
+      "short": "The disco dress shirt you wake up wearing. It smells about as good as you'd expect."
+    },
+    {
+      "id": "shotput-ball",
+      "term": "Shotput ball",
+      "aliases": [
+        "shot put ball"
+      ],
+      "short": "A heavy ball you can return to the pétanque players on the plaza.",
+      "seeAlso": [
+        "rene-arnoux",
+        "gaston-martin",
+        "petanque"
+      ]
+    },
+    {
+      "id": "silk-robe",
+      "term": "Silk robe",
+      "aliases": [
+        "kimono robe"
+      ],
+      "short": "A beautiful silk kimono-style robe. A certain bureaucrat has a story about where it came from.",
+      "seeAlso": [
+        "sunday-friend"
+      ]
+    },
+    {
+      "id": "smallest-church-tape",
+      "term": "Smallest Church tape",
+      "aliases": [
+        "Smallest Church in Saint-Saëns tape"
+      ],
+      "short": "A tape of the song 'The Smallest Church in Saint-Saëns'. The kids making music in the church might put it to use.",
+      "seeAlso": [
+        "smallest-church-in-saint-saens"
+      ]
+    },
+    {
+      "id": "spirit-bomb",
+      "term": "Spirit bomb",
+      "caseSensitive": true,
+      "hideUntilSeen": true,
+      "short": "A mysterious, dangerous object that comes into play near the end.",
+      "spoiler": "It's the explosive end of the Beautiful Necktie, which you can use during the tribunal.",
+      "seeAlso": [
+        "beautiful-necktie"
+      ]
+    },
+    {
+      "id": "suede-blazer",
+      "term": "Suede blazer",
+      "aliases": [
+        "suede jacket",
+        "blazer"
+      ],
+      "autoDetect": false,
+      "short": "Your trusty blazer: one of the few pieces of your own clothing you still have when the game begins."
+    },
+    {
+      "id": "tape-of-lely",
+      "term": "Tape of Lely",
+      "hideUntilSeen": true,
+      "autoDetect": false,
+      "short": "An audio tape that can be given to the music kids in the church.",
+      "spoiler": "It's a recording connected to the hanged man.",
+      "seeAlso": [
+        "lely"
+      ]
+    },
+    {
+      "id": "teratorn-tie",
+      "term": "Teratorn tie",
+      "aliases": [
+        "teratorn"
+      ],
+      "short": "A thin ribbon-tie with a silver clasp that Lena gives you as a thank-you.",
+      "seeAlso": [
+        "lena"
+      ]
+    },
+    {
+      "id": "union-membership-card",
+      "term": "Union membership card",
+      "aliases": [
+        "Union card"
+      ],
+      "short": "A red and white Union card. Evrart gives you one when you join; you can also find one.",
+      "seeAlso": [
+        "union",
+        "evrart-claire"
+      ]
+    },
+    {
+      "id": "drouamine",
+      "term": "Drouamine",
+      "short": "An under-the-counter painkiller pill. Kim gave you one before you woke up.",
+      "seeAlso": [
+        "kim-kitsuragi"
       ]
     }
   ]
