@@ -16,7 +16,7 @@ Explanations are spoiler-free. Plot details are folded away under **Spoiler**, a
 - [Politics & Ideas](#politics--ideas) (34)
 - [History](#history) (28)
 - [Culture & Media](#culture--media) (53)
-- [Items](#items) (53)
+- [Items](#items) (71)
 - [Slang & Jargon](#slang--jargon) (30)
 - [Vocabulary](#vocabulary) (28)
 - [Names that are spoilers](#names-that-are-spoilers)
@@ -6157,6 +6157,12 @@ Soona the programmer notes that, in a pinch, ammonia also works for cleaning oil
 
 See also: [The Hanged Man](#the-hanged-man), [Frittte](#frittte), [White check](#white-check)
 
+### Amphibian sports visor
+
+**A sporty visor sold by Siileng from his box of sunglasses.**
+
+See also: [Siileng](#siileng)
+
 ### Antique rifle
 
 **An old Belle-Magrave rifle from the Revolution that you can find in a hidden weapons cache. It's beautiful, but it no longer fires.**
@@ -6293,6 +6299,20 @@ It suggests Ruby has been secretly staying in the shack, and Kim says it's enoug
 
 </details>
 
+### Carabineer uniform
+
+*Also: Royal Carabineer uniform*
+
+**A very colourful old royalist uniform of the Royal Carabineers.**
+
+See also: [Royal Carabineers](#royal-carabineers), [René Arnoux](#rené-arnoux)
+
+<details><summary>Spoiler</summary>
+
+It belongs to René Arnoux, and you can find it in the night watchman's booth in the cargo area.
+
+</details>
+
 ### Chaincutters
 
 *Also: chain-cutters, chaincutter*
@@ -6401,6 +6421,14 @@ There is no other copy to be found. In the end you have to decide for yourself w
 
 </details>
 
+### Dick Mullen hat
+
+*Also: Mullen hat*
+
+**A hat like the one fictional detective Dick Mullen wears, given to you by Annette for helping out.**
+
+See also: [Annette](#annette)
+
 ### Dockworker ID card
 
 *Also: shift card*
@@ -6429,6 +6457,22 @@ The flowers were left on purpose by Iosef Lilianovich Dros, the old deserter on 
 
 </details>
 
+### Fairweather T-500
+
+*Also: T-500, T500*
+
+**A futuristic ceramic armour set whose pieces (helmet, plates, gauntlets, boots) turn up around Martinaise.**
+
+Gathering the whole set is a side activity, and people comment when you wear it.
+
+See also: [The Hanged Man](#the-hanged-man)
+
+<details><summary>Spoiler</summary>
+
+The armour originally belonged to the hanged man, who was stripped of it.
+
+</details>
+
 ### Filthy Jacket
 
 **A jacket so caked in sea muck and seagull droppings that it crunches; you can find it hanging on a railing by the boardwalk.**
@@ -6445,6 +6489,20 @@ Once washed, it turns out to be a perfectly good FALN jacket you can wear.
 
 </details>
 
+### Flashlight
+
+**A sturdy blue police-issue flashlight kept in Kim's motor carriage; you need it in dark places.**
+
+See also: [Kineema](#kineema), [Kim Kitsuragi](#kim-kitsuragi)
+
+### Frittte raincoat
+
+*Also: plastic raincoat*
+
+**A cheap plastic raincoat from the Frittte store's knick-knacks stand. You can buy it, or try stealing it.**
+
+See also: [Frittte](#frittte)
+
 ### From A to Zrieek! A Guide To a Well-Behaved Cockatoo
 
 *Also: From A to Zrieek, From A to Zrieek!, guide to cockatoos*
@@ -6457,6 +6515,26 @@ The idea of a heraldic bird comes up while talking to the Working Class Woman in
 
 See also: [Copotype](#copotype), [Doomed Commercial Area](#doomed-commercial-area)
 
+### Fuck the World jacket
+
+**A jacket you can get from the two kids hanging around the plaza; wearing it unlocks some very crude lines.**
+
+### Fuel canister
+
+*Also: fuel canisters*
+
+**A can of fuel; one is RCM issue, another can be found elsewhere. Fuel is needed to power a generator later on.**
+
+The RCM canister can also be used, with a brush, to paint a message on a wall.
+
+### Gardening gloves
+
+*Also: garden gloves*
+
+**Rubber gloves you can borrow from the Gardener on the plaza, handy when you need to examine a body.**
+
+See also: [The Gardener](#the-gardener)
+
 ### Gaston's Sandwich
 
 **Gaston Martin's enormous ham sandwich, loaded with mayo, roasted onions and tomatoes; you can coax it off him on the plaza.**
@@ -6466,6 +6544,14 @@ Gaston keeps his lunch with him while playing pétanque with René. With the rig
 Eating it restores a little health, and it is famously delicious. You can also share it with Kim or offer it to René.
 
 See also: [Gaston Martin](#gaston-martin), [René Arnoux](#rené-arnoux), [Health](#health)
+
+### Hanged man's boots
+
+**The boots you can pry off the corpse in the yard. They come off in a truly disgusting way.**
+
+Boiling them on the Whirling's stove cleans them up.
+
+See also: [The Hanged Man](#the-hanged-man), [Fairweather T-500](#fairweather-t-500)
 
 ### Hjelmdallermann: the Man from Hjelmdall
 
@@ -6486,6 +6572,10 @@ See also: [Cuno](#cuno), [Man from Hjelmdall](#man-from-hjelmdall), [Man from Hj
 You find it caught on the ceiling fan in your room at the very start. Once Inland Empire has brought it to life and you put it on, it becomes a voice of its own: a party animal that cheers on your worst impulses, especially drinking, smoking and drugs.
 
 See also: [Inland Empire](#inland-empire), [Electrochemistry](#electrochemistry)
+
+### Hypnogamma
+
+**A painkiller you can find in the night watchman's booth.**
 
 ### La Fumée
 
@@ -6546,6 +6636,8 @@ The Frittte clerk explains that it is aged in the pale for a couple of years, wh
 See also: [Pale](#pale), [Frittte](#frittte), [Medicinal Purposes of the Pale](#medicinal-purposes-of-the-pale)
 
 ### Photo of Tattoos
+
+*Also: photo of the tattoos*
 
 **Kim's instant photograph of the hanged man's tattooed chest, taken so you can study the tattoo and show it to people.**
 
@@ -6609,6 +6701,14 @@ Electrochemistry calls it piss water but loves it anyway, and Jean Vicquemare mo
 
 See also: [Frittte](#frittte), [Jean Vicquemare](#jean-vicquemare), [Physique](#physique)
 
+### Preptide
+
+**A brand of speed in a nasal-inhaler bottle; there's one in the medicine cabinet on the Whirling's second floor.**
+
+You inhale it through one nostril. It counts as speed for anything that asks for it.
+
+See also: [Speed](#speed), [Whirling-in-Rags](#whirling-in-rags)
+
 ### Primer Book
 
 *Also: A Primer for Small Kids*
@@ -6631,6 +6731,26 @@ Taking it gives +1 to Empathy, Suggestion, Authority, Inland Empire, Esprit de C
 
 See also: [Psyche](#psyche), [Health](#health), [White check](#white-check)
 
+### RCM cap
+
+**A police cap, part of the RCM uniform, which you can pick up on the boardwalk.**
+
+See also: [Revachol Citizens Militia](#revachol-citizens-militia)
+
+### Revolutionary figurine
+
+**A little plastic figure of a shouting revolutionary with a musket, part of a collectible set.**
+
+It can be offered as a gift in one of the game's stranger conversations.
+
+See also: [Headless FALN Rider](#headless-faln-rider), [Revolution](#revolution)
+
+### Revolutionary hat
+
+**An outrageously communist hat. Rhetoric hopes nobody sees you in it.**
+
+See also: [Communism](#communism)
+
 ### Ruby's Journal
 
 **Ruby's worn brown leather journal, full of coded logistics notes, radio diagrams and frank personal reflections.**
@@ -6644,6 +6764,14 @@ See also: [Hardie boys](#hardie-boys), [The Hanged Man](#the-hanged-man)
 You find it in Ruby's tent in her hiding place. The recent entries show she feared that 'M' (the drug boss known as La Puta Madre) had sent someone to kill her, and she admits that staging a lynching is a crime in itself. Her diagrams relate to a device called the Latitude Compressor.
 
 </details>
+
+### Samaran hat
+
+*Also: black Samaran hat*
+
+**A black hat from Samara. A certain bureaucrat has a story about it.**
+
+See also: [Sunday Friend](#sunday-friend)
 
 ### Sixteen Days of Coldest April
 
@@ -6660,6 +6788,18 @@ See also: [Doomed Commercial Area](#doomed-commercial-area), [Pain Threshold](#p
 The lovers betray each other and are crushed by the state: he ends up a lens-grinder, she spends decades at a fish processing plant, and both die alone with their regrets.
 
 </details>
+
+### Speed
+
+*Also: bottle of speed, vial of speed*
+
+**An amphetamine stimulant sold in small vials; one of the game's four drugs, the one tied to Motorics.**
+
+Cuno keeps a stash and can be talked into splitting some with you. Electrochemistry is always happy to see it.
+
+*Real-world inspiration:* Amphetamine, long nicknamed speed.
+
+See also: [Preptide](#preptide), [Electrochemistry](#electrochemistry), [Cuno](#cuno)
 
 ### Stock Certificate
 
@@ -6728,6 +6868,16 @@ See also: [Astra](#astra)
 Tioumoutiri butts turn up both at Land's End and in a hidden mattress nest in the old sea fort, suggesting the same person visited both places.
 
 </details>
+
+### Transceiver
+
+*Also: Esterhaz EH-4, Model 9*
+
+**A radio transmitter-receiver. You can pull one out of an abandoned lorry, or buy a pricey Kristallsprach Model 9 from Bird's Nest Roy.**
+
+Some people in Martinaise need one badly for a radio project.
+
+See also: [Bird's Nest Roy](#birds-nest-roy), [Noid](#noid)
 
 ### Vodka-borscht
 

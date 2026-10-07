@@ -1395,7 +1395,11 @@
     {
       "id": "president-knezhinisky",
       "term": "President Knezhinisky",
-      "aliases": ["Knezhinisky", "Sapormat 'Sport' Knezhinisky", "Uncle Sport"],
+      "aliases": [
+        "Knezhinisky",
+        "Sapormat 'Sport' Knezhinisky",
+        "Uncle Sport"
+      ],
       "caseSensitive": true,
       "short": "Sapormat 'Sport' Knezhinisky, long-ruling president of the communist People's Republic of Samara, famous for his fitness obsession.",
       "details": "Encyclopedia says he is well into his third decade in power and known abroad for three things: brutal repression of dissent, monumental corruption and a near-pathological obsession with physical fitness. Like all Samaran men over forty, he wears a spectacular walrus moustache.\n\nThe magazine La Fumée reports that 'Uncle Sport', as his people call him, has made bear wrestling the national sport as part of a public fitness drive. Steban and his reading group insist he absorbs a book's content just by staring at its cover.",

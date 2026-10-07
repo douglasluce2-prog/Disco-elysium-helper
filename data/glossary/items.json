@@ -512,6 +512,9 @@
     {
       "id": "photo-of-tattoos",
       "term": "Photo of Tattoos",
+      "aliases": [
+        "photo of the tattoos"
+      ],
       "caseSensitive": true,
       "short": "Kim's instant photograph of the hanged man's tattooed chest, taken so you can study the tattoo and show it to people.",
       "details": "The tattoo is a web of fading blue lines running from the right shoulder to the solar plexus, with a small white star wherever lines cross; the stars cluster around the heart. It could be a star chart, a map or just decoration, and you won't work it out alone, so ask around.",
@@ -773,6 +776,206 @@
       "spoiler": "It matches the collection of colonial mugs in the apartment of Gary, the Cryptofascist, pointing to him as the one who has been dumping things in the Whirling's trash.",
       "seeAlso": [
         "whirling-in-rags"
+      ]
+    },
+    {
+      "id": "amphibian-sports-visor",
+      "term": "Amphibian sports visor",
+      "short": "A sporty visor sold by Siileng from his box of sunglasses.",
+      "seeAlso": [
+        "siileng"
+      ]
+    },
+    {
+      "id": "carabineer-uniform",
+      "term": "Carabineer uniform",
+      "aliases": [
+        "Royal Carabineer uniform"
+      ],
+      "caseSensitive": true,
+      "short": "A very colourful old royalist uniform of the Royal Carabineers.",
+      "spoiler": "It belongs to René Arnoux, and you can find it in the night watchman's booth in the cargo area.",
+      "seeAlso": [
+        "royal-carabineers",
+        "rene-arnoux"
+      ]
+    },
+    {
+      "id": "mullen-hat",
+      "term": "Dick Mullen hat",
+      "aliases": [
+        "Mullen hat"
+      ],
+      "short": "A hat like the one fictional detective Dick Mullen wears, given to you by Annette for helping out.",
+      "seeAlso": [
+        "annette"
+      ]
+    },
+    {
+      "id": "fairweather-t-500",
+      "term": "Fairweather T-500",
+      "aliases": [
+        "T-500",
+        "T500"
+      ],
+      "caseSensitive": true,
+      "commonWord": true,
+      "short": "A futuristic ceramic armour set whose pieces (helmet, plates, gauntlets, boots) turn up around Martinaise.",
+      "details": "Gathering the whole set is a side activity, and people comment when you wear it.",
+      "spoiler": "The armour originally belonged to the hanged man, who was stripped of it.",
+      "seeAlso": [
+        "the-hanged-man"
+      ]
+    },
+    {
+      "id": "flashlight",
+      "term": "Flashlight",
+      "caseSensitive": true,
+      "commonWord": true,
+      "autoDetect": false,
+      "short": "A sturdy blue police-issue flashlight kept in Kim's motor carriage; you need it in dark places.",
+      "seeAlso": [
+        "kineema",
+        "kim-kitsuragi"
+      ]
+    },
+    {
+      "id": "frittte-raincoat",
+      "term": "Frittte raincoat",
+      "aliases": [
+        "plastic raincoat"
+      ],
+      "caseSensitive": true,
+      "short": "A cheap plastic raincoat from the Frittte store's knick-knacks stand. You can buy it, or try stealing it.",
+      "seeAlso": [
+        "frittte"
+      ]
+    },
+    {
+      "id": "fuck-the-world-jacket",
+      "term": "Fuck the World jacket",
+      "caseSensitive": true,
+      "short": "A jacket you can get from the two kids hanging around the plaza; wearing it unlocks some very crude lines."
+    },
+    {
+      "id": "fuel-canister",
+      "term": "Fuel canister",
+      "aliases": [
+        "fuel canisters"
+      ],
+      "short": "A can of fuel; one is RCM issue, another can be found elsewhere. Fuel is needed to power a generator later on.",
+      "details": "The RCM canister can also be used, with a brush, to paint a message on a wall."
+    },
+    {
+      "id": "gardening-gloves",
+      "term": "Gardening gloves",
+      "aliases": [
+        "garden gloves"
+      ],
+      "short": "Rubber gloves you can borrow from the Gardener on the plaza, handy when you need to examine a body.",
+      "seeAlso": [
+        "the-gardener"
+      ]
+    },
+    {
+      "id": "hanged-mans-boots",
+      "term": "Hanged man's boots",
+      "short": "The boots you can pry off the corpse in the yard. They come off in a truly disgusting way.",
+      "details": "Boiling them on the Whirling's stove cleans them up.",
+      "seeAlso": [
+        "the-hanged-man",
+        "fairweather-t-500"
+      ]
+    },
+    {
+      "id": "hypnogamma",
+      "term": "Hypnogamma",
+      "short": "A painkiller you can find in the night watchman's booth."
+    },
+    {
+      "id": "preptide",
+      "term": "Preptide",
+      "caseSensitive": true,
+      "short": "A brand of speed in a nasal-inhaler bottle; there's one in the medicine cabinet on the Whirling's second floor.",
+      "details": "You inhale it through one nostril. It counts as speed for anything that asks for it.",
+      "seeAlso": [
+        "speed",
+        "whirling-in-rags"
+      ]
+    },
+    {
+      "id": "rcm-cap",
+      "term": "RCM cap",
+      "caseSensitive": true,
+      "short": "A police cap, part of the RCM uniform, which you can pick up on the boardwalk.",
+      "seeAlso": [
+        "rcm"
+      ]
+    },
+    {
+      "id": "revolutionary-figurine",
+      "term": "Revolutionary figurine",
+      "short": "A little plastic figure of a shouting revolutionary with a musket, part of a collectible set.",
+      "details": "It can be offered as a gift in one of the game's stranger conversations.",
+      "seeAlso": [
+        "headless-faln-rider",
+        "revolution"
+      ]
+    },
+    {
+      "id": "revolutionary-hat",
+      "term": "Revolutionary hat",
+      "short": "An outrageously communist hat. Rhetoric hopes nobody sees you in it.",
+      "seeAlso": [
+        "communism"
+      ]
+    },
+    {
+      "id": "samaran-hat",
+      "term": "Samaran hat",
+      "aliases": [
+        "black Samaran hat"
+      ],
+      "caseSensitive": true,
+      "short": "A black hat from Samara. A certain bureaucrat has a story about it.",
+      "seeAlso": [
+        "sunday-friend"
+      ]
+    },
+    {
+      "id": "speed",
+      "term": "Speed",
+      "aliases": [
+        "bottle of speed",
+        "vial of speed"
+      ],
+      "caseSensitive": true,
+      "commonWord": true,
+      "autoDetect": false,
+      "short": "An amphetamine stimulant sold in small vials; one of the game's four drugs, the one tied to Motorics.",
+      "details": "Cuno keeps a stash and can be talked into splitting some with you. Electrochemistry is always happy to see it.",
+      "inspiredBy": "Amphetamine, long nicknamed speed.",
+      "seeAlso": [
+        "preptide",
+        "electrochemistry",
+        "cuno"
+      ]
+    },
+    {
+      "id": "transceiver",
+      "term": "Transceiver",
+      "aliases": [
+        "Esterhaz EH-4",
+        "Model 9"
+      ],
+      "caseSensitive": true,
+      "commonWord": true,
+      "autoDetect": false,
+      "short": "A radio transmitter-receiver. You can pull one out of an abandoned lorry, or buy a pricey Kristallsprach Model 9 from Bird's Nest Roy.",
+      "details": "Some people in Martinaise need one badly for a radio project.",
+      "seeAlso": [
+        "birds-nest-roy",
+        "noid"
       ]
     }
   ]

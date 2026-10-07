@@ -438,7 +438,9 @@
     {
       "id": "feld-building",
       "term": "Feld building",
-      "aliases": ["Feld Mural"],
+      "aliases": [
+        "Feld Mural"
+      ],
       "caseSensitive": true,
       "short": "The gutted ruin of Feld Electrical's research centre on the coast near the boardwalk, with a faded mural that once read 'FELD ELECTRICAL R&D'.",
       "details": "The abandoned building looms over the boardwalk: collapsed roof, broken windows, birds nesting in the walls. Its peeling mural still shows the company name and the ghost of a slogan, 'Tomorrow is just a whisper away'. Trant Heidelstam likes to stand nearby with his son and lecture about its history.\n\nDuring the Revolution it was seized by revolutionaries. Your Shivers skill keeps pulling you back to it for reasons you cannot explain at first.",
