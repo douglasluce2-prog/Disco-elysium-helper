@@ -108,8 +108,49 @@ if (-not (Test-Path -LiteralPath (Join-Path $ml "net6\MelonLoader.dll"))) {
           "  4. Double-click build.bat again.")
 }
 if (-not (Test-Path -LiteralPath (Join-Path $ml "Il2CppAssemblies\Assembly-CSharp.dll"))) {
-    Fail ("MelonLoader is installed, but it hasn't prepared the game's files yet.`n" +
-          "Start Disco Elysium once, wait for the main menu (the first start takes a few minutes), quit, then double-click build.bat again.")
+    # Work out *why* the generated files are missing, and print what we find so it can be reported.
+    Write-Host "MelonLoader's generated game files (MelonLoader\Il2CppAssemblies) are missing. Investigating..." -ForegroundColor Yellow
+
+    $isIl2Cpp = Test-Path -LiteralPath (Join-Path $GamePath "GameAssembly.dll")
+    $dataDir = Get-ChildItem -LiteralPath $GamePath -Directory -Filter "*_Data" -ErrorAction SilentlyContinue | Select-Object -First 1
+    $isMono = $dataDir -and (Test-Path -LiteralPath (Join-Path $dataDir.FullName "Managed\Assembly-CSharp.dll"))
+    Write-Host ""
+    Write-Host "Diagnostics (please copy everything below this line if you ask for help):"
+    Write-Host "  Game folder:      $GamePath"
+    Write-Host "  GameAssembly.dll: $isIl2Cpp   (true = IL2CPP build, which this mod supports)"
+    Write-Host "  Managed\Assembly-CSharp.dll: $isMono   (true = older Mono build)"
+    Write-Host "  version.dll (MelonLoader bootstrap): $(Test-Path -LiteralPath (Join-Path $GamePath 'version.dll'))"
+    Write-Host "  MelonLoader folder contains: $((Get-ChildItem -LiteralPath $ml -Name -ErrorAction SilentlyContinue) -join ', ')"
+
+    $log = @(
+        (Join-Path $ml "Latest.log"),
+        (Get-ChildItem -LiteralPath (Join-Path $ml "Logs") -Filter *.log -ErrorAction SilentlyContinue | Sort-Object LastWriteTime -Descending | Select-Object -First 1 -ExpandProperty FullName)
+    ) | Where-Object { $_ -and (Test-Path -LiteralPath $_) } | Sort-Object { (Get-Item -LiteralPath $_).LastWriteTime } -Descending | Select-Object -First 1
+    if ($log) {
+        Write-Host "  Newest MelonLoader log: $log  (last written $((Get-Item -LiteralPath $log).LastWriteTime))"
+        Write-Host "  ---- last 40 lines of that log ----"
+        Get-Content -LiteralPath $log -Tail 40 | ForEach-Object { Write-Host "  $_" }
+        Write-Host "  -----------------------------------"
+    } else {
+        Write-Host "  No MelonLoader log found."
+    }
+    Write-Host ""
+
+    if ($isMono -and -not $isIl2Cpp) {
+        Fail ("Your copy of Disco Elysium is the older 'Mono' build. MelonLoader doesn't generate these files for it,`n" +
+              "and this mod currently only supports the IL2CPP build (Steam's The Final Cut). Please send the diagnostics above.")
+    }
+    if (-not $log) {
+        Fail ("MelonLoader never ran: there is no log file. Usually that means the game was started in a way that skipped it.`n" +
+              "  - When you start the game, a black MelonLoader console window should open next to it. If it doesn't, reinstall MelonLoader`n" +
+              "    with MelonLoader.Installer.exe, choosing disco.exe in: $GamePath`n" +
+              "  - Antivirus software sometimes deletes MelonLoader's version.dll from the game folder; check its quarantine.`n" +
+              "  - On Steam Deck / Linux, add the launch option: WINEDLLOVERRIDES=`"version=n,b`" %command%")
+    }
+    Fail ("MelonLoader ran but didn't finish generating the game's files. The log above usually says why`n" +
+          "(often a download that was blocked by a firewall or antivirus, or the game being closed too early).`n" +
+          "Start the game again and leave it at the main menu until the console window stops scrolling, then try build.bat again.`n" +
+          "If it keeps failing, send the diagnostics above.")
 }
 Write-Host "MelonLoader is ready."
 
