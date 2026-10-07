@@ -2,7 +2,7 @@
 
 A mod for **Disco Elysium: The Final Cut** that explains the game while you play it: its invented
 places, people, politics, slang and history, the 24 skills talking in your head, and any ordinary
-English word you don't know.
+English word you don't know. THIS IS NOTHING MORE THAN A PERSONAL PROJECT ANY COMPLAINTS WILL BE IGNORED 
 
 Disco Elysium drops you into a whole made-up world with no introduction. Words like *the Pale*,
 *Revachol*, *Mazovian*, *Moralintern*, *Innocence* or *Esprit de Corps* come up constantly, and the
