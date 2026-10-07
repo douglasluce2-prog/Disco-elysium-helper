@@ -1,0 +1,46 @@
+{
+  "category": "Slang & Jargon",
+  "entries": [
+    {
+      "term": "Pig",
+      "aliases": ["pigs"],
+      "short": "Slang insult for a police officer. Cuno uses it on you constantly.",
+      "seeAlso": ["cuno", "rcm"]
+    },
+    {
+      "term": "Yefreitor",
+      "aliases": ["yefreitors", "double-yefreitor", "lieutenant double-yefreitor", "Lieutenant double-yefreitor"],
+      "short": "An RCM rank title. Harry is a 'lieutenant double-yefreitor'.",
+      "details": "RCM ranks combine an officer grade with extra 'yefreitor' grades. Nobody outside the force finds it easy to follow, which the game enjoys.",
+      "inspiredBy": "From the Russian 'yefreytor' (from German 'Gefreiter'), a junior military rank similar to lance corporal.",
+      "seeAlso": ["rcm", "harry"]
+    },
+    {
+      "term": "Scab",
+      "aliases": ["scabs", "strikebreaker", "strikebreakers", "strike-breaker"],
+      "short": "Insult for someone who works while others are on strike, undermining the strike.",
+      "seeAlso": ["strike", "union", "picket-line"]
+    },
+    {
+      "term": "Picket line",
+      "aliases": ["picket", "pickets", "picketing", "picket lines"],
+      "short": "Strikers gathered at a workplace entrance to stop others from going in to work.",
+      "seeAlso": ["strike", "scab"]
+    },
+    {
+      "term": "Hobocop",
+      "caseSensitive": true,
+      "short": "A Thought you can get: embracing life as a cop who lives like a homeless drifter.",
+      "seeAlso": ["thought-cabinet", "copotype"]
+    },
+    {
+      "term": "Precinct",
+      "aliases": ["precincts"],
+      "caseSensitive": true,
+      "commonWord": true,
+      "autoDetect": false,
+      "short": "A police district and its station. RCM precincts are numbered (Harry's is 41, Kim's is 57).",
+      "seeAlso": ["precinct-41", "precinct-57", "rcm"]
+    }
+  ]
+}

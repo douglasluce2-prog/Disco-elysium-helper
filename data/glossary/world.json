@@ -1,0 +1,127 @@
+{
+  // The wider world beyond Martinaise: geography, technology, money, religion.
+  "category": "World",
+  "entries": [
+    {
+      "term": "Elysium",
+      "caseSensitive": true,
+      "short": "The name of the whole world the game is set in.",
+      "details": "Elysium looks a lot like our 20th century (cars, radios, tower blocks, disco), but its geography, history and physics are its own. Its landmasses are separated by a strange grey void called the Pale.",
+      "inspiredBy": "In Greek mythology, Elysium (the Elysian Fields) is the paradise where heroes go after death. The game's title, 'Disco Elysium', is deliberately ironic.",
+      "seeAlso": ["pale", "isola"]
+    },
+    {
+      "term": "Pale",
+      "aliases": ["the Pale"],
+      "caseSensitive": true,
+      "commonWord": true,
+      "short": "A grey, featureless void between the landmasses of the world. Being in it damages the mind.",
+      "details": "The Pale fills the space between the isolas. It is not water or air: physics and time behave strangely there, and long exposure causes memory loss, hallucinations and worse. People still cross it, by aerostatic or in vehicles built for the trip, at real risk. Nobody fully understands what it is.",
+      "spoiler": "Late in the game it is suggested that the Pale is slowly growing, and may one day swallow the world.",
+      "seeAlso": ["isola", "elysium", "aerostatic"]
+    },
+    {
+      "term": "Isola",
+      "aliases": ["isolas", "isolae"],
+      "short": "A continent-sized landmass, surrounded and separated by the Pale.",
+      "details": "Elysium's land is divided into isolas: great islands or continents cut off from each other by the Pale. Revachol is on the isola of Insulinde.",
+      "seeAlso": ["pale", "insulinde"]
+    },
+    {
+      "term": "Insulinde",
+      "aliases": ["Insulindian"],
+      "caseSensitive": true,
+      "short": "The isola (landmass) where Revachol is located.",
+      "inspiredBy": "'Insulinde' is a real, old poetic name for the islands of the Dutch East Indies (today's Indonesia).",
+      "seeAlso": ["isola", "revachol", "insulindian-phasmid"]
+    },
+    {
+      "term": "Seol",
+      "aliases": ["Seolite", "Seolites"],
+      "caseSensitive": true,
+      "short": "A distant nation and culture. Kim Kitsuragi is of Seolite descent.",
+      "details": "Seolites are a minority in Revachol and face prejudice there; several characters make racist remarks about Kim.",
+      "inspiredBy": "Seolite culture is coded as East Asian.",
+      "seeAlso": ["kim-kitsuragi"]
+    },
+    {
+      "term": "Oranje",
+      "aliases": ["Oranjese"],
+      "caseSensitive": true,
+      "short": "A wealthy foreign nation.",
+      "inspiredBy": "Modelled on the Netherlands ('oranje' is Dutch for orange, the Dutch national colour).",
+      "seeAlso": ["coalition", "klaasje"]
+    },
+    {
+      "id": "real",
+      "term": "réal",
+      "aliases": ["réals"],
+      "short": "The currency used in Revachol. You need it for rent, shopping and paying debts.",
+      "seeAlso": ["whirling-in-rags"]
+    },
+    {
+      "term": "Motor carriage",
+      "aliases": ["motor carriages", "motorcarriage"],
+      "short": "The in-world word for a car.",
+      "seeAlso": ["kineema"]
+    },
+    {
+      "term": "Kineema",
+      "caseSensitive": true,
+      "short": "Kim Kitsuragi's motor carriage (car), which he adores.",
+      "seeAlso": ["kim-kitsuragi", "motor-carriage"]
+    },
+    {
+      "term": "Aerostatic",
+      "aliases": ["aerostatics", "aerostat", "aerostats"],
+      "short": "An airship. Aerostatics are how people and goods fly across the world, even over the Pale.",
+      "seeAlso": ["pale"]
+    },
+    {
+      "term": "Radiocomputer",
+      "aliases": ["radiocomputers"],
+      "short": "The in-world word for a computer: a bulky machine that works over radio.",
+      "seeAlso": ["interfacing"]
+    },
+    {
+      "term": "Frittte",
+      "caseSensitive": true,
+      "short": "A chain of convenience stores (yes, with three t's). Martinaise has one.",
+      "seeAlso": ["real"]
+    },
+    {
+      "term": "Innocence",
+      "aliases": ["Innocences"],
+      "caseSensitive": true,
+      "commonWord": true,
+      "short": "A rare, world-historical figure: part spiritual leader, part ruler, part living legend.",
+      "details": "Every so often a person appears who defines an era and becomes the moral centre of the world for a time; such a person is called an Innocence. They are revered almost religiously. The most famous is Dolores Dei.",
+      "inspiredBy": "A mix of pope, emperor and messiah.",
+      "seeAlso": ["dolores-dei", "moralintern"]
+    },
+    {
+      "term": "Dolores Dei",
+      "caseSensitive": true,
+      "short": "The most revered Innocence in history, a near-saintly woman of centuries past.",
+      "details": "Dolores Dei is remembered as a figure of grace and compassion. A whole faith, the Dolorian church, grew around her.",
+      "inspiredBy": "Her iconography echoes the Virgin Mary and Joan of Arc. 'Dolores' is Spanish for 'sorrows'; 'Dei' is Latin for 'of God'.",
+      "seeAlso": ["innocence", "dolorian", "church"]
+    },
+    {
+      "term": "Dolorian",
+      "aliases": ["Dolorianism"],
+      "caseSensitive": true,
+      "short": "Relating to Dolores Dei and the religion that venerates her.",
+      "seeAlso": ["dolores-dei", "church"]
+    },
+    {
+      "term": "Insulindian Phasmid",
+      "aliases": ["Phasmid", "the Phasmid"],
+      "caseSensitive": true,
+      "short": "A legendary cryptid: a giant stick insect said to live on Insulinde. Cryptozoologists hunt for it.",
+      "details": "Most people think it is a myth. Lena and her husband believe otherwise.",
+      "spoiler": "It is real. You may meet it near the end of the game.",
+      "seeAlso": ["lena", "cryptozoology", "insulinde"]
+    }
+  ]
+}

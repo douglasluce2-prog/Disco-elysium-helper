@@ -1,0 +1,12 @@
+<Project Sdk="Microsoft.NET.Sdk">
+  <!-- Stand-in for the Il2Cppmscorlib.dll that MelonLoader generates (Il2CppInterop.Runtime references it by name). -->
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <AssemblyName>Il2Cppmscorlib</AssemblyName>
+    <AssemblyVersion>4.0.0.0</AssemblyVersion>
+    <Nullable>disable</Nullable>
+  </PropertyGroup>
+  <ItemGroup>
+    <PackageReference Include="Il2CppInterop.Runtime" Version="1.4.5" />
+  </ItemGroup>
+</Project>

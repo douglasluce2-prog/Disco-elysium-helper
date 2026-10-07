@@ -1,0 +1,136 @@
+{
+  // The game is deeply political and satirises every side. These entries explain the in-world
+  // ideologies and the real political vocabulary characters throw around.
+  "category": "Politics & Ideas",
+  "entries": [
+    {
+      "term": "Communism",
+      "aliases": ["communist", "communists", "Mazovian socio-economics"],
+      "short": "In Elysium: the ideology founded by Kras Mazov, aiming for a classless society where workers own everything.",
+      "details": "Communism (formally 'Mazovian socio-economics') once ruled Revachol briefly, after the Revolution, until the Coalition crushed it. In the game's present, communists are a defeated, nostalgic minority who still believe a better world is possible. The game treats communism with both sympathy and mockery, as it does every ideology.",
+      "inspiredBy": "Marxism and the communist movements of the 19th and 20th centuries.",
+      "seeAlso": ["kras-mazov", "revolution", "commune", "proletariat", "political-alignment"]
+    },
+    {
+      "term": "Kras Mazov",
+      "aliases": ["Mazov", "Mazovian", "Mazovians"],
+      "caseSensitive": true,
+      "short": "The founding thinker of communism in Elysium. 'Mazovian' means communist.",
+      "inspiredBy": "Karl Marx.",
+      "seeAlso": ["communism"]
+    },
+    {
+      "term": "Ultraliberalism",
+      "aliases": ["ultraliberal", "ultraliberals", "Ultraliberal"],
+      "short": "In Elysium: extreme free-market capitalism. Money, deregulation and personal success above all.",
+      "details": "Ultraliberals believe markets should run everything and that getting rich is the highest good. Picking ultraliberal options makes your detective talk like an obsessive investor and self-help guru.",
+      "inspiredBy": "Neoliberalism, libertarian economics and hustle culture.",
+      "seeAlso": ["moralism", "communism", "fascism", "political-alignment", "laissez-faire"]
+    },
+    {
+      "term": "Moralism",
+      "aliases": ["moralist", "moralists", "Moralist"],
+      "short": "In Elysium: cautious, compromise-seeking centrism. The official ideology of the Moralintern and the Coalition.",
+      "details": "Moralists want stability, slow reform and no sudden moves. The game portrays it as reasonable-sounding but complacent: it keeps the world as it is.",
+      "inspiredBy": "Liberal centrism and technocracy.",
+      "seeAlso": ["moralintern", "coalition", "centrism", "political-alignment"]
+    },
+    {
+      "term": "Fascism",
+      "aliases": ["fascist", "fascists", "Revacholian nationalism", "nationalism", "nationalist", "nationalists"],
+      "short": "In Elysium: aggressive Revacholian nationalism, nostalgic for past glory and hostile to outsiders.",
+      "details": "Picking fascist options makes your detective rant about national greatness and other races. The game frames this path as pathetic and ugly, and characters respond accordingly.",
+      "inspiredBy": "Real-world fascism and ethnic nationalism.",
+      "seeAlso": ["measurehead", "political-alignment", "revanchism"]
+    },
+    {
+      "id": "strike",
+      "term": "Strike",
+      "aliases": ["strikes", "on strike"],
+      "short": "Workers refusing to work to pressure their employer. The Martinaise dockworkers are on strike.",
+      "details": "The dockworkers' union has stopped work in the harbour in a dispute with the Wild Pines company. The strike shapes everything in Martinaise, including how people react to the murder.",
+      "seeAlso": ["union", "wild-pines", "scab", "picket-line"]
+    },
+    {
+      "term": "Proletariat",
+      "aliases": ["proletarian", "proletarians"],
+      "short": "The working class: people who earn a living by selling their labour, like the dockworkers.",
+      "seeAlso": ["bourgeoisie", "communism", "lumpenproletariat"]
+    },
+    {
+      "term": "Bourgeoisie",
+      "aliases": ["bourgeois"],
+      "short": "The owning class: people who own businesses, property and capital. The opposite of the proletariat.",
+      "seeAlso": ["proletariat", "petite-bourgeoisie", "communism"]
+    },
+    {
+      "term": "Petite bourgeoisie",
+      "aliases": ["petit bourgeois", "petty bourgeois", "petit-bourgeois", "petty bourgeoisie"],
+      "short": "The 'small' owning class: shopkeepers and small business owners. Often used as an insult by communists.",
+      "seeAlso": ["bourgeoisie", "proletariat"]
+    },
+    {
+      "term": "Lumpenproletariat",
+      "aliases": ["lumpen"],
+      "short": "In Marxist theory: the poorest underclass of drifters and petty criminals, outside organised labour.",
+      "seeAlso": ["proletariat"]
+    },
+    {
+      "term": "Means of production",
+      "short": "The things used to make wealth: factories, tools, land, ports. Communists want workers to own them.",
+      "seeAlso": ["communism", "proletariat"]
+    },
+    {
+      "term": "Class consciousness",
+      "short": "Workers' awareness that they share interests as a class, and that those clash with their employers'.",
+      "seeAlso": ["proletariat", "communism"]
+    },
+    {
+      "term": "Dialectics",
+      "aliases": ["dialectic", "dialectical", "dialectical materialism"],
+      "short": "A way of reasoning in which opposing forces clash and produce something new. Central to Marxist theory.",
+      "seeAlso": ["communism"]
+    },
+    {
+      "term": "Hegemony",
+      "aliases": ["hegemonic"],
+      "short": "Dominance, especially the cultural kind: when one group's ideas seem like plain common sense to everyone.",
+      "seeAlso": ["moralism"]
+    },
+    {
+      "term": "Centrism",
+      "aliases": ["centrist", "centrists"],
+      "short": "Politics of the middle ground, avoiding the left and the right. In the game, that's Moralism.",
+      "seeAlso": ["moralism"]
+    },
+    {
+      "term": "Laissez-faire",
+      "short": "French for 'let it be': the belief that government should leave the economy alone.",
+      "seeAlso": ["ultraliberalism"]
+    },
+    {
+      "term": "Plutocracy",
+      "aliases": ["plutocrat", "plutocrats", "plutocratic"],
+      "short": "Rule by the rich. A plutocrat is someone whose wealth gives them power.",
+      "seeAlso": ["ultraliberalism"]
+    },
+    {
+      "term": "Reactionary",
+      "aliases": ["reactionaries"],
+      "short": "Someone who wants to turn back social or political change and return to an older order.",
+      "seeAlso": ["fascism", "royalists"]
+    },
+    {
+      "term": "Revisionism",
+      "aliases": ["revisionist", "revisionists"],
+      "short": "Communist insult for watering down the true doctrine. Also: rewriting history to suit an agenda.",
+      "seeAlso": ["communism"]
+    },
+    {
+      "term": "Revanchism",
+      "aliases": ["revanchist", "revanchists"],
+      "short": "Nationalist desire to take revenge for a past defeat and win back what was lost.",
+      "seeAlso": ["fascism"]
+    }
+  ]
+}

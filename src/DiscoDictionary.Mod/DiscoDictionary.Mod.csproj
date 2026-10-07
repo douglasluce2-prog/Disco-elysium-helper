@@ -1,0 +1,61 @@
+<Project Sdk="Microsoft.NET.Sdk">
+  <!--
+    The MelonLoader mod. It has to be compiled against files that MelonLoader generates from YOUR copy
+    of Disco Elysium the first time you start the game with MelonLoader installed, which is why
+    there is no ready-made DLL: run build.bat (or see README.md) to build and install it.
+
+    Where the game is: set GamePath in GamePath.props (build.bat writes it for you), or pass
+    -p:GamePath="D:\Games\Disco Elysium" to dotnet build.
+  -->
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <AssemblyName>DiscoDictionary</AssemblyName>
+    <RootNamespace>DiscoDictionary</RootNamespace>
+    <Version>1.0.0</Version>
+    <Nullable>enable</Nullable>
+    <LangVersion>latest</LangVersion>
+    <ImplicitUsings>disable</ImplicitUsings>
+    <DebugType>embedded</DebugType>
+    <GenerateDependencyFile>false</GenerateDependencyFile>
+    <CopyLocalLockFileAssemblies>false</CopyLocalLockFileAssemblies>
+    <!-- Game assemblies are referenced by path; don't warn when their versions differ between game updates. -->
+    <NoWarn>$(NoWarn);MSB3277;CS1701;CS1702</NoWarn>
+  </PropertyGroup>
+
+  <Import Project="..\..\GamePath.props" Condition="Exists('..\..\GamePath.props')" />
+
+  <PropertyGroup>
+    <GamePath Condition="'$(GamePath)' == ''">C:\Program Files (x86)\Steam\steamapps\common\Disco Elysium</GamePath>
+    <MelonLoaderDir>$(GamePath)\MelonLoader</MelonLoaderDir>
+  </PropertyGroup>
+
+  <!-- All of the dictionary logic lives in DiscoDictionary.Core and is compiled straight into this one DLL. -->
+  <ItemGroup>
+    <Compile Include="..\DiscoDictionary.Core\**\*.cs" Exclude="..\DiscoDictionary.Core\obj\**;..\DiscoDictionary.Core\bin\**" LinkBase="Core" />
+    <EmbeddedResource Include="..\..\data\glossary\*.json" LogicalName="DiscoDictionary.Glossary.%(Filename)%(Extension)" />
+  </ItemGroup>
+
+  <!-- References into the game folder. (UseStubReferences is only for compile-checking without the game.) -->
+  <ItemGroup Condition="'$(UseStubReferences)' != 'true'">
+    <Reference Include="$(MelonLoaderDir)\net6\MelonLoader.dll" Private="false" />
+    <Reference Include="$(MelonLoaderDir)\net6\0Harmony.dll" Private="false" />
+    <Reference Include="$(MelonLoaderDir)\net6\Il2CppInterop.Runtime.dll" Private="false" />
+    <Reference Include="$(MelonLoaderDir)\net6\Il2CppInterop.Common.dll" Private="false" />
+    <Reference Include="$(MelonLoaderDir)\Il2CppAssemblies\*.dll" Private="false" />
+  </ItemGroup>
+
+  <Target Name="CheckGameFiles" BeforeTargets="ResolveAssemblyReferences" Condition="'$(UseStubReferences)' != 'true'">
+    <Error Condition="!Exists('$(GamePath)')"
+           Text="Disco Elysium was not found at '$(GamePath)'. Run build.bat, or build with -p:GamePath=&quot;path to your Disco Elysium folder&quot;." />
+    <Error Condition="!Exists('$(MelonLoaderDir)\net6\MelonLoader.dll')"
+           Text="MelonLoader is not installed in '$(GamePath)'. Install it first (see README.md)." />
+    <Error Condition="!Exists('$(MelonLoaderDir)\Il2CppAssemblies\Assembly-CSharp.dll')"
+           Text="MelonLoader hasn't generated the game's assemblies yet. Start Disco Elysium once with MelonLoader installed, wait for the main menu, quit, then build again." />
+  </Target>
+
+  <Target Name="InstallIntoGame" AfterTargets="Build" Condition="'$(UseStubReferences)' != 'true' And '$(InstallMod)' != 'false'">
+    <MakeDir Directories="$(GamePath)\Mods" />
+    <Copy SourceFiles="$(TargetPath)" DestinationFolder="$(GamePath)\Mods" />
+    <Message Importance="high" Text="Disco Dictionary installed to $(GamePath)\Mods\$(TargetFileName)" />
+  </Target>
+</Project>

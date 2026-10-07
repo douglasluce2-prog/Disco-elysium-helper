@@ -1,0 +1,128 @@
+{
+  // How the game itself works: checks, health bars, the Thought Cabinet and so on.
+  "category": "Game Mechanics",
+  "entries": [
+    {
+      "term": "Skill check",
+      "aliases": ["skill checks"],
+      "short": "A dice roll: two six-sided dice plus your skill level, against a difficulty number.",
+      "details": "When you pick a dialogue option marked like [Logic - Medium 10], the game rolls two dice (2d6), adds your Logic and any bonuses, and you succeed if the total reaches the target. Rolling double sixes always succeeds, and double ones always fails. Hover over a check before choosing it to see your exact chance.",
+      "seeAlso": ["white-check", "red-check", "passive-check", "check-difficulty"],
+      "autoDetect": false
+    },
+    {
+      "term": "White check",
+      "aliases": ["white checks"],
+      "short": "A skill check you can retry later if you fail, after improving the skill involved.",
+      "details": "White checks are shown in white. If one fails, it locks until you put a point into that skill (or something relevant changes), then you can try again. They are safe to attempt.",
+      "seeAlso": ["skill-check", "red-check", "skill-point"]
+    },
+    {
+      "term": "Red check",
+      "aliases": ["red checks"],
+      "short": "A one-time skill check. If you fail it, you can never retry it.",
+      "details": "Red checks are shown in red. They are moments that happen once, so the result sticks. Failing is not a game over: failures often lead to interesting (or funny) outcomes, and the story continues.",
+      "seeAlso": ["skill-check", "white-check"]
+    },
+    {
+      "term": "Passive check",
+      "aliases": ["passive checks"],
+      "short": "An automatic check you never see rolled. It's why skills suddenly interrupt with comments.",
+      "details": "Passive checks compare your skill level to a hidden difficulty without rolling dice. If your skill is high enough, that skill chimes in during conversation with an observation or idea. Higher skills therefore mean that voice speaks more often.",
+      "seeAlso": ["skill-check"]
+    },
+    {
+      "id": "check-difficulty",
+      "term": "Check difficulty",
+      "aliases": ["Trivial", "Challenging", "Formidable", "Legendary", "Heroic", "Godly"],
+      "caseSensitive": true,
+      "autoDetect": false,
+      "short": "The named difficulty levels on skill checks, from Trivial up to Impossible.",
+      "details": "From easiest to hardest: Trivial (6), Easy (8), Medium (10), Challenging (12), Formidable (13), Legendary (14), Heroic (15), Godly (16), Impossible (18 and up). The number is the total you need on two dice plus your skill and bonuses.",
+      "seeAlso": ["skill-check"]
+    },
+    {
+      "term": "Health",
+      "caseSensitive": true,
+      "commonWord": true,
+      "short": "Your physical health bar. If it hits zero, you die and the game ends.",
+      "details": "Health is lost through injuries and physical strain and comes from Endurance. You can restore it with healing items. Keep an eye on both Health and Morale: losing either one ends the game.",
+      "seeAlso": ["morale", "endurance", "physique"]
+    },
+    {
+      "term": "Morale",
+      "caseSensitive": true,
+      "commonWord": true,
+      "short": "Your mental health bar. If it hits zero, you give up on being a cop and the game ends.",
+      "details": "Morale is lost through humiliation, despair and emotional blows. It comes from Volition. Like Health, it can be restored with certain items.",
+      "seeAlso": ["health", "volition", "psyche"]
+    },
+    {
+      "term": "Thought Cabinet",
+      "short": "A menu of ideas you can 'internalize': think about over time to gain permanent effects.",
+      "details": "During the game you discover Thoughts: ideas, obsessions, ideologies. Place one in a free slot of the Thought Cabinet and it is researched over in-game time (usually with a temporary effect). When it finishes, you get its final, permanent effect. Some are useful, some are jokes, some change how characters treat you. You can unlock more slots with skill points, and forget a thought later if you need the slot.",
+      "seeAlso": ["thought", "internalize", "skill-point"]
+    },
+    {
+      "term": "Thought",
+      "aliases": ["thoughts"],
+      "caseSensitive": true,
+      "commonWord": true,
+      "autoDetect": false,
+      "short": "An idea you can place in the Thought Cabinet to research.",
+      "details": "Thoughts are unlocked by things you say and do. Each one has a research time, an effect while you are thinking about it, and a different effect once it is complete.",
+      "seeAlso": ["thought-cabinet", "internalize"]
+    },
+    {
+      "term": "Internalize",
+      "aliases": ["internalizing", "internalized", "internalise", "internalising", "internalised"],
+      "short": "To research a Thought in your Thought Cabinet until it becomes part of you.",
+      "seeAlso": ["thought-cabinet", "thought"]
+    },
+    {
+      "term": "Skill point",
+      "aliases": ["skill points"],
+      "short": "Earned each time you level up. Spend it to raise a skill or unlock a Thought Cabinet slot.",
+      "details": "You gain experience (XP) for progressing the story and passing checks, and each level up gives you a skill point. Each skill has a maximum (its cap) that depends on its attribute and on whether it is your signature skill. Raising a skill also unlocks failed white checks for it.",
+      "seeAlso": ["white-check", "thought-cabinet", "signature-skill"]
+    },
+    {
+      "term": "Signature skill",
+      "short": "The one skill you picked at character creation. It gets a bonus and a higher maximum.",
+      "seeAlso": ["skill-point", "archetype"]
+    },
+    {
+      "term": "Archetype",
+      "aliases": ["archetypes"],
+      "autoDetect": false,
+      "short": "A ready-made starting character (Thinker, Sensitive or Physical) offered at the start.",
+      "details": "The archetypes are preset spreads of attribute points: the Thinker leans on Intellect, the Sensitive on Psyche, the Physical on Physique. You can also build your own detective.",
+      "seeAlso": ["intellect", "psyche", "physique", "signature-skill"]
+    },
+    {
+      "term": "Political alignment",
+      "aliases": ["political alignments", "political vision"],
+      "short": "The game tracks which political direction your answers lean: communist, ultraliberal, moralist or fascist.",
+      "details": "Many dialogue options are tagged with a political leaning. Picking them shifts your detective's politics, unlocks related Thoughts, and in The Final Cut can open political 'vision quests'. None of them is required, and the game satirises all four.",
+      "seeAlso": ["communism", "ultraliberalism", "moralism", "fascism", "copotype"]
+    },
+    {
+      "term": "Copotype",
+      "aliases": ["copotypes"],
+      "short": "The kind of cop your choices make you, e.g. Superstar Cop, Sorry Cop, Apocalypse Cop, Boring Cop.",
+      "details": "Like your politics, your style of policing is tracked: grandiose and showy (Superstar Cop), forever apologising (Sorry Cop), obsessed with the end of the world (Apocalypse Cop), sensible and by-the-book (Boring Cop), and others. Each comes with its own reactions and Thoughts.",
+      "seeAlso": ["political-alignment"]
+    },
+    {
+      "id": "orb",
+      "term": "Orb",
+      "aliases": ["orbs"],
+      "caseSensitive": true,
+      "commonWord": true,
+      "autoDetect": false,
+      "short": "The small white bubbles that appear over things in the world. Click one to hear a skill's comment.",
+      "details": "Orbs are passive observations tied to a place or object. Walking near something can trigger one; clicking it plays a short line from one of your skills. Hold Tab to highlight everything you can interact with nearby.",
+      "seeAlso": ["passive-check"]
+    }
+  ]
+}

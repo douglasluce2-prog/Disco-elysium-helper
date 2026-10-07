@@ -1,0 +1,31 @@
+name: CI
+
+on:
+  push:
+  pull_request:
+
+jobs:
+  test:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-dotnet@v4
+        with:
+          dotnet-version: |
+            6.0.x
+            8.0.x
+
+      # Dictionary logic + validation of every glossary file (broken links, duplicate names, ...).
+      - name: Unit tests and glossary checks
+        run: dotnet test tests/DiscoDictionary.Core.Tests -c Release
+
+      # The mod itself can only be truly built against a local game install, so CI compiles it
+      # against stand-ins for the game's assemblies to catch C# mistakes.
+      - name: Compile-check the mod
+        run: dotnet build tools/CompileCheck/CompileCheck.csproj -c Release
+
+      - name: GLOSSARY.md is up to date
+        run: |
+          python3 tools/generate_glossary_md.py
+          git diff --exit-code GLOSSARY.md || (echo "Run: python3 tools/generate_glossary_md.py and commit GLOSSARY.md" && exit 1)

@@ -1,0 +1,86 @@
+{
+  // Real words and phrases (English, French, Latin...) that the game uses and that many players
+  // don't know. For anything not listed here, point at the word and press the lookup key to use
+  // the online English dictionary.
+  "category": "Vocabulary",
+  "entries": [
+    {
+      "term": "Cryptozoology",
+      "aliases": ["cryptozoologist", "cryptozoologists", "cryptozoological"],
+      "short": "The study of animals whose existence isn't proven (like Bigfoot or the Loch Ness monster).",
+      "seeAlso": ["cryptid", "lena", "insulindian-phasmid"]
+    },
+    {
+      "term": "Cryptid",
+      "aliases": ["cryptids"],
+      "short": "An animal that some people believe exists but science has not confirmed.",
+      "seeAlso": ["cryptozoology", "insulindian-phasmid"]
+    },
+    {
+      "id": "petanque",
+      "term": "Pétanque",
+      "aliases": ["petanque", "boules"],
+      "short": "A French ball game: players toss metal balls to land as close as possible to a small target ball.",
+      "seeAlso": ["rene-arnoux", "gaston-martin"]
+    },
+    {
+      "term": "Lynching",
+      "aliases": ["lynch", "lynched", "lynch mob", "lynchings"],
+      "short": "A killing by a mob without trial, often by hanging. The Hanged Man is said to have been lynched.",
+      "seeAlso": ["the-hanged-man", "hardie-boys"]
+    },
+    {
+      "term": "Rigor mortis",
+      "short": "The stiffening of a body's muscles after death. Useful for estimating time of death.",
+      "seeAlso": ["the-hanged-man"]
+    },
+    {
+      "term": "Amnesia",
+      "aliases": ["amnesiac"],
+      "short": "Loss of memory. Your detective has a severe case of it after his binge.",
+      "seeAlso": ["harry"]
+    },
+    {
+      "term": "Stevedore",
+      "aliases": ["stevedores", "longshoreman", "longshoremen"],
+      "short": "A dockworker who loads and unloads ships.",
+      "seeAlso": ["union", "harbour"]
+    },
+    {
+      "term": "Ennui",
+      "short": "French: a deep, listless boredom and dissatisfaction with life.",
+      "seeAlso": []
+    },
+    {
+      "term": "Solipsism",
+      "aliases": ["solipsist", "solipsistic"],
+      "short": "The idea that only your own mind is certain to exist. Also: extreme self-centredness.",
+      "seeAlso": ["nihilism"]
+    },
+    {
+      "term": "Nihilism",
+      "aliases": ["nihilist", "nihilists", "nihilistic"],
+      "short": "The belief that nothing has meaning or value.",
+      "seeAlso": ["solipsism", "ennui"]
+    },
+    {
+      "term": "Entropy",
+      "aliases": ["entropic"],
+      "short": "Physics: the tendency of everything to fall into disorder. Used poetically for decay and the end of things.",
+      "seeAlso": ["pale"]
+    },
+    {
+      "term": "Apocalypse",
+      "aliases": ["apocalyptic"],
+      "caseSensitive": false,
+      "short": "The end of the world. Some versions of your detective become obsessed with it ('Apocalypse Cop').",
+      "seeAlso": ["copotype", "pale"]
+    },
+    {
+      "term": "Déjà vu",
+      "aliases": ["deja vu"],
+      "short": "French for 'already seen': the eerie feeling that you've lived this moment before.",
+      "seeAlso": []
+    }
+  ]
+}

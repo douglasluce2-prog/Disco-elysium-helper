@@ -1,0 +1,183 @@
+{
+  // Characters. Names that are themselves spoilers use "hideUntilSeen": the entry stays out of the
+  // dictionary list until the name has actually appeared in your game.
+  "category": "People",
+  "entries": [
+    {
+      "id": "harry",
+      "term": "Harrier Du Bois",
+      "aliases": ["Harry", "Harrier", "Du Bois", "Harry Du Bois", "Harry DuBois"],
+      "caseSensitive": true,
+      "hideUntilSeen": true,
+      "short": "The detective you play: an RCM officer who wakes up with no memory after a catastrophic binge.",
+      "details": "Harry is a lieutenant double-yefreitor of the Revachol Citizens Militia from Precinct 41. At the start of the game he has destroyed his hotel room, lost his gun, his badge and his car, and remembers nothing, not even his own name. He was sent to Martinaise to investigate a hanging.",
+      "spoiler": "The game slowly reveals that his life collapsed after his fiancée left him several years ago, and that he has been drinking himself toward death ever since. He was once considered an exceptional detective.",
+      "seeAlso": ["kim-kitsuragi", "rcm", "precinct-41", "yefreitor"]
+    },
+    {
+      "term": "Kim Kitsuragi",
+      "aliases": ["Kim", "Kitsuragi", "Lieutenant Kitsuragi"],
+      "caseSensitive": true,
+      "short": "Your partner on the case: a calm, methodical RCM lieutenant from Precinct 57.",
+      "details": "Kim was assigned to work the hanging with you. He is precise, patient, keeps meticulous notes and treats you with dry professionalism even at your worst. He drives a Kineema motor carriage, which he loves. He is of Seolite descent, which some people in Martinaise are openly hostile about.",
+      "seeAlso": ["precinct-57", "kineema", "seol", "rcm"]
+    },
+    {
+      "id": "garte",
+      "term": "Garte",
+      "aliases": ["Cafeteria Manager", "Garte the Cafeteria Manager"],
+      "caseSensitive": true,
+      "short": "The manager of the Whirling-in-Rags. You owe him money for your room (and the damage).",
+      "details": "Garte runs the hostel-cafeteria where you wake up. He is tired, sarcastic and mostly wants to be paid.",
+      "seeAlso": ["whirling-in-rags", "real"]
+    },
+    {
+      "id": "lena",
+      "term": "Lena",
+      "aliases": ["Lena the Cryptozoologist's Wife", "Cryptozoologist's Wife"],
+      "caseSensitive": true,
+      "short": "A kind, elderly woman at the Whirling-in-Rags, married to a cryptozoologist.",
+      "details": "Lena loves to talk about cryptids, especially the legendary Insulindian Phasmid her husband is searching for. She is one of the gentlest people in Martinaise.",
+      "seeAlso": ["insulindian-phasmid", "cryptozoology", "whirling-in-rags"]
+    },
+    {
+      "term": "Klaasje",
+      "aliases": ["Miss Oranje Disco Dancer"],
+      "caseSensitive": true,
+      "short": "A charismatic woman staying on the Whirling's top floor, often smoking on her balcony.",
+      "details": "Klaasje is witty, worldly and hard to read. Her balcony overlooks the yard where the body was found.",
+      "spoiler": "She was with the victim on the night he died and has been hiding her part in events. She is not entirely who she claims to be.",
+      "seeAlso": ["whirling-in-rags", "oranje", "the-hanged-man"]
+    },
+    {
+      "term": "Titus Hardie",
+      "aliases": ["Titus"],
+      "caseSensitive": true,
+      "short": "The leader of the Hardie Boys, a group of dockworkers who hang around the Whirling-in-Rags.",
+      "details": "Titus is a big, gruff union man who speaks for the Hardie Boys and is protective of his crew.",
+      "seeAlso": ["hardie-boys", "union"]
+    },
+    {
+      "term": "Cuno",
+      "caseSensitive": true,
+      "short": "A foul-mouthed kid who throws rocks at the hanging body and talks about himself in the third person.",
+      "details": "Cuno is a kid: aggressive and constantly swearing ('Cuno doesn't care'). He hangs around near the Whirling with his friend Cunoesse. Underneath the bluster he is a neglected child.",
+      "seeAlso": ["cunoesse", "pig"]
+    },
+    {
+      "term": "Cunoesse",
+      "caseSensitive": true,
+      "short": "Cuno's friend and partner in crime: just as foul-mouthed.",
+      "seeAlso": ["cuno"]
+    },
+    {
+      "term": "Evrart Claire",
+      "aliases": ["Evrart"],
+      "caseSensitive": true,
+      "short": "The head of the Martinaise dockworkers' union. Enormous, friendly and very powerful.",
+      "details": "Evrart effectively runs Martinaise from the harbour. He is warm, flattering and always talking about doing favours, which you will be expected to return. He is leading the strike against the Wild Pines company.",
+      "seeAlso": ["union", "harbour", "wild-pines", "strike"]
+    },
+    {
+      "term": "Joyce Messier",
+      "aliases": ["Joyce"],
+      "caseSensitive": true,
+      "short": "The negotiator sent by the Wild Pines company to deal with the dockworkers' strike.",
+      "details": "Joyce is wealthy, sharp and surprisingly candid. She is one of the best people in the game to ask about Revachol's politics and history, how the city is governed and who holds power in Martinaise.",
+      "seeAlso": ["wild-pines", "strike", "mercenaries"]
+    },
+    {
+      "term": "Measurehead",
+      "caseSensitive": true,
+      "short": "A towering bouncer who lectures anyone who will listen on 'race theory'.",
+      "details": "Measurehead is a hulking man who explains the world through pseudo-scientific racial theories. The game presents his ideas as absurd and wrong, and lets you argue with him.",
+      "inspiredBy": "His name points at phrenology and craniometry: discredited 19th-century pseudosciences that 'measured heads' to justify racism.",
+      "seeAlso": ["fascism"]
+    },
+    {
+      "term": "René Arnoux",
+      "aliases": ["René", "Rene Arnoux"],
+      "caseSensitive": true,
+      "short": "An old veteran who plays pétanque. He fought for the royalists during the Revolution.",
+      "details": "René is proud, grumpy and still loyal to the old monarchy that the communist revolution overthrew decades ago. He plays pétanque with his friend Gaston.",
+      "seeAlso": ["gaston-martin", "royalists", "revolution", "petanque"]
+    },
+    {
+      "term": "Gaston Martin",
+      "aliases": ["Gaston"],
+      "caseSensitive": true,
+      "short": "René Arnoux's elderly friend and pétanque partner.",
+      "seeAlso": ["rene-arnoux", "petanque"]
+    },
+    {
+      "term": "Jean Vicquemare",
+      "aliases": ["Jean"],
+      "caseSensitive": true,
+      "short": "An officer from Harry's own Precinct 41 who has very little patience left for him.",
+      "details": "Jean has worked with Harry for years and has seen the worst of him. He is bitter, blunt and tired of covering for his colleague.",
+      "seeAlso": ["precinct-41", "judit-minot"]
+    },
+    {
+      "term": "Judit Minot",
+      "aliases": ["Judit"],
+      "caseSensitive": true,
+      "short": "An officer of Precinct 41 who works alongside Jean Vicquemare.",
+      "seeAlso": ["precinct-41", "jean-vicquemare"]
+    },
+    {
+      "id": "dora",
+      "term": "Dora",
+      "caseSensitive": true,
+      "hideUntilSeen": true,
+      "short": "A woman from Harry's past whom he cannot stop thinking about.",
+      "spoiler": "Dora was Harry's fiancée. Her leaving him years ago is at the root of his collapse, and she haunts his dreams and thoughts throughout the game.",
+      "seeAlso": ["harry"]
+    },
+    {
+      "id": "ruby",
+      "term": "Ruby",
+      "aliases": ["Ruby the Instigator"],
+      "caseSensitive": true,
+      "hideUntilSeen": true,
+      "short": "A woman connected to the Hardie Boys who knows a lot about what happened.",
+      "spoiler": "Ruby helped stage the hanging after the man was already dead. She is not the killer.",
+      "seeAlso": ["hardie-boys", "the-hanged-man"]
+    },
+    {
+      "id": "the-hanged-man",
+      "term": "The Hanged Man",
+      "aliases": ["hanged man", "the corpse"],
+      "short": "The murder victim: a man found hanging from a tree in the yard behind the Whirling-in-Rags.",
+      "details": "Solving who he was and how he died is the main case of the game. He has been hanging there for days; the investigation should have started long before you woke up.",
+      "spoiler": "He was a mercenary commander who arrived with the company's security force. He was already dead when he was hanged: someone shot him first.",
+      "seeAlso": ["lely", "hardie-boys", "whirling-in-rags", "mercenaries"]
+    },
+    {
+      "id": "lely",
+      "term": "Lely",
+      "caseSensitive": true,
+      "hideUntilSeen": true,
+      "short": "The name of the hanged man.",
+      "spoiler": "Lely was the commander of the mercenaries hired to protect the company's interests in the strike, and Klaasje's lover.",
+      "seeAlso": ["the-hanged-man", "mercenaries", "klaasje"]
+    },
+    {
+      "id": "iosef-dros",
+      "term": "Iosef Lilianovich Dros",
+      "aliases": ["Dros", "the Deserter", "Iosef"],
+      "caseSensitive": true,
+      "hideUntilSeen": true,
+      "short": "An old man you may meet very late in the case.",
+      "spoiler": "Dros is the killer. He is a deserter from the communist army who has hidden alone on a ruined island fort since the Revolution was crushed, about fifty years ago. He shot Lely from the island out of envy and bitterness.",
+      "seeAlso": ["revolution", "commune", "the-hanged-man"]
+    },
+    {
+      "term": "Horrific Necktie",
+      "aliases": ["necktie"],
+      "caseSensitive": true,
+      "short": "A hideous tie you can wear. It talks to you (through Inland Empire) and encourages bad decisions.",
+      "details": "The necktie is found in your room at the very start. If you put it on, it becomes a voice of its own: a party animal that cheers on your worst impulses.",
+      "seeAlso": ["inland-empire", "electrochemistry"]
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+<Project Sdk="Microsoft.NET.Sdk">
+  <!--
+    Compile-checks the mod without owning the game: the mod's real source files are built against the
+    real MelonLoader, HarmonyX and Il2CppInterop packages plus small stand-ins for the game's own
+    assemblies (Stubs/). It catches C# mistakes in CI. It cannot prove the mod works in game; the
+    output DLL is NOT usable, build the real one with build.bat.
+  -->
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <AssemblyName>DiscoDictionary.CompileCheck</AssemblyName>
+    <RootNamespace>DiscoDictionary</RootNamespace>
+    <Nullable>enable</Nullable>
+    <LangVersion>latest</LangVersion>
+    <ImplicitUsings>disable</ImplicitUsings>
+    <EnableDefaultCompileItems>false</EnableDefaultCompileItems>
+    <TreatWarningsAsErrors>true</TreatWarningsAsErrors>
+    <!-- Version mismatches between the stand-ins and the packages are expected here. -->
+    <NoWarn>$(NoWarn);MSB3277;CS1701;CS1702;NU1701</NoWarn>
+    <MSBuildWarningsAsMessages>$(MSBuildWarningsAsMessages);MSB3277</MSBuildWarningsAsMessages>
+  </PropertyGroup>
+  <ItemGroup>
+    <Compile Include="../../src/DiscoDictionary.Mod/**/*.cs" Exclude="../../src/DiscoDictionary.Mod/obj/**;../../src/DiscoDictionary.Mod/bin/**" />
+    <Compile Include="../../src/DiscoDictionary.Core/**/*.cs" Exclude="../../src/DiscoDictionary.Core/obj/**;../../src/DiscoDictionary.Core/bin/**" />
+    <EmbeddedResource Include="../../data/glossary/*.json" LogicalName="DiscoDictionary.Glossary.%(Filename)%(Extension)" />
+  </ItemGroup>
+  <ItemGroup>
+    <PackageReference Include="LavaGang.MelonLoader" Version="0.7.1" />
+    <PackageReference Include="HarmonyX" Version="2.10.2" />
+    <PackageReference Include="Il2CppInterop.Runtime" Version="1.4.5" />
+    <ProjectReference Include="Stubs/GameStubs/GameStubs.csproj" />
+    <ProjectReference Include="Stubs/Il2Cppmscorlib/Il2Cppmscorlib.csproj" />
+  </ItemGroup>
+</Project>

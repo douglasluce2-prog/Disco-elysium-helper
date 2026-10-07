@@ -1,0 +1,32 @@
+{
+  "category": "History",
+  "entries": [
+    {
+      "term": "Revolution",
+      "aliases": ["the Revolution", "Revacholian Revolution", "the revolution"],
+      "caseSensitive": true,
+      "commonWord": true,
+      "short": "The communist uprising in Revachol, about fifty years before the game. It overthrew the monarchy.",
+      "details": "Communist revolutionaries took the city from its royal government and founded the Commune. Their victory was short-lived: the Coalition of foreign nations invaded and crushed it. The Revolution is still a living memory for older characters, and the scars (bullet holes, ruins, grudges) are everywhere.",
+      "inspiredBy": "The Paris Commune of 1871 and the revolutions of the 20th century.",
+      "seeAlso": ["commune", "coalition", "communism", "royalists"]
+    },
+    {
+      "term": "Commune",
+      "aliases": ["the Commune", "Revacholian Commune", "Communard", "Communards", "communard", "communards"],
+      "caseSensitive": true,
+      "commonWord": true,
+      "short": "The short-lived communist government of Revachol after the Revolution. Its members were Communards.",
+      "details": "The Commune ruled Revachol until the Coalition invaded and destroyed it. Its defeat shaped the city's present: foreign rule, poverty, and an RCM police force improvised from citizens.",
+      "inspiredBy": "The Paris Commune of 1871, whose members were also called Communards and which was also crushed by force.",
+      "seeAlso": ["revolution", "coalition", "communism"]
+    },
+    {
+      "term": "Royalists",
+      "aliases": ["royalist", "monarchist", "monarchists"],
+      "short": "Supporters of Revachol's old monarchy, which the communist revolution overthrew.",
+      "details": "Some old veterans, like René Arnoux, fought for the king against the revolutionaries and still hold onto that loyalty.",
+      "seeAlso": ["rene-arnoux", "revolution", "reactionary"]
+    }
+  ]
+}

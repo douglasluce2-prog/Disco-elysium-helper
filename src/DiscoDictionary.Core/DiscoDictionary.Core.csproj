@@ -1,0 +1,15 @@
+<Project Sdk="Microsoft.NET.Sdk">
+  <!--
+    Pure .NET library with all of the dictionary logic (no Unity / game references).
+    The mod project compiles these same source files into its own DLL, so players
+    only ever install one file. This project exists so the logic can be unit tested
+    without owning the game.
+  -->
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <Nullable>enable</Nullable>
+    <LangVersion>latest</LangVersion>
+    <ImplicitUsings>disable</ImplicitUsings>
+    <RootNamespace>DiscoDictionary.Core</RootNamespace>
+  </PropertyGroup>
+</Project>

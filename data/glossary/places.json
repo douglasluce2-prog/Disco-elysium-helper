@@ -1,0 +1,80 @@
+{
+  "category": "Places",
+  "entries": [
+    {
+      "term": "Revachol",
+      "aliases": ["Revacholian", "Revacholians", "Revachol West"],
+      "short": "The city where the game takes place: a war-scarred former capital, now run by foreign powers.",
+      "details": "Revachol was once the grand capital of a kingdom. About fifty years ago a communist revolution took over the city and declared a Commune; an alliance of foreign nations, the Coalition, crushed it. Ever since, Revachol has been administered under the Coalition's rule: poor, partly ruined, and still full of people who remember the Revolution.\n\nThe game takes place in one small district of it, Martinaise.",
+      "inspiredBy": "Revachol mixes Paris (its French-flavoured names and the Paris Commune of 1871) with the decline of post-Soviet port cities in Eastern Europe.",
+      "seeAlso": ["martinaise", "coalition", "revolution", "commune", "insulinde"]
+    },
+    {
+      "term": "Martinaise",
+      "short": "The poor harbour district of Revachol where the whole game takes place.",
+      "details": "Martinaise is a run-down neighbourhood of docks, shuttered shops, a fishing village and an abandoned church. The dockworkers' union is the real power here, and the district is in the middle of a strike.",
+      "seeAlso": ["revachol", "harbour", "union", "whirling-in-rags"]
+    },
+    {
+      "id": "whirling-in-rags",
+      "term": "Whirling-in-Rags",
+      "aliases": ["the Whirling", "Whirling"],
+      "caseSensitive": true,
+      "short": "The cheap hostel and cafeteria where you wake up. The body hangs in the yard behind it.",
+      "details": "A combined bar, cafeteria and hostel managed by Garte. You've been staying (and wrecking things) upstairs, and you need to pay for your room. Many important characters are inside or nearby.",
+      "seeAlso": ["garte", "the-hanged-man", "martinaise"]
+    },
+    {
+      "id": "harbour",
+      "term": "Harbour",
+      "aliases": ["Harbor", "the harbour", "the harbor"],
+      "caseSensitive": true,
+      "commonWord": true,
+      "short": "The Martinaise docks, controlled by the dockworkers' union and currently shut down by a strike.",
+      "seeAlso": ["union", "evrart-claire", "strike", "wild-pines"]
+    },
+    {
+      "term": "Fishing Village",
+      "caseSensitive": true,
+      "short": "A small coastal community at the edge of Martinaise.",
+      "seeAlso": ["martinaise"]
+    },
+    {
+      "term": "Doomed Commercial Area",
+      "caseSensitive": true,
+      "short": "A row of shopfronts where every business seems to fail. Locals believe the place is cursed.",
+      "seeAlso": ["martinaise"]
+    },
+    {
+      "id": "church",
+      "term": "Dolorian Church of Humanity",
+      "aliases": ["the Church", "Dolorian church"],
+      "caseSensitive": true,
+      "short": "An old, abandoned church in Martinaise.",
+      "details": "The church was built for the Dolorian faith, named after the Innocence Dolores Dei. It has long since stopped being used for worship.",
+      "seeAlso": ["dolores-dei", "dolorian", "innocence"]
+    },
+    {
+      "id": "precinct-41",
+      "term": "Precinct 41",
+      "aliases": ["41st Precinct", "41st", "Forty-first"],
+      "caseSensitive": true,
+      "short": "Harry's home police station, in the district of Jamrock.",
+      "seeAlso": ["rcm", "jamrock", "jean-vicquemare", "judit-minot"]
+    },
+    {
+      "id": "precinct-57",
+      "term": "Precinct 57",
+      "aliases": ["57th Precinct", "57th"],
+      "caseSensitive": true,
+      "short": "Kim Kitsuragi's police station.",
+      "seeAlso": ["rcm", "kim-kitsuragi"]
+    },
+    {
+      "term": "Jamrock",
+      "caseSensitive": true,
+      "short": "A rough district of Revachol, home of Harry's Precinct 41.",
+      "seeAlso": ["precinct-41", "revachol"]
+    }
+  ]
+}

@@ -1,0 +1,70 @@
+{
+  "category": "Factions",
+  "entries": [
+    {
+      "id": "rcm",
+      "term": "Revachol Citizens Militia",
+      "aliases": ["RCM", "Citizens Militia", "the Militia"],
+      "caseSensitive": true,
+      "short": "Revachol's police force. You and Kim are RCM officers.",
+      "details": "The RCM began as a volunteer citizens' militia and became the city's de facto police. It is underfunded and spread thin, divided into numbered precincts, and its officers hold ranks like lieutenant and yefreitor. Its authority is limited: the Coalition holds real power, and in Martinaise the union often does too.",
+      "inspiredBy": "In the Soviet Union and other Eastern Bloc states, the police were officially called the 'militia' (militsiya).",
+      "seeAlso": ["precinct-41", "precinct-57", "yefreitor", "esprit-de-corps"]
+    },
+    {
+      "id": "union",
+      "term": "Union",
+      "aliases": ["Dockworkers' Union", "dockworkers union", "the Union"],
+      "caseSensitive": true,
+      "commonWord": true,
+      "short": "The Martinaise dockworkers' union, led by Evrart Claire. The most powerful force in the district.",
+      "details": "The union controls the harbour and, in practice, much of Martinaise. It is currently on strike against the Wild Pines company, which has brought shipping to a standstill.",
+      "seeAlso": ["evrart-claire", "strike", "harbour", "wild-pines", "hardie-boys"]
+    },
+    {
+      "term": "Hardie Boys",
+      "aliases": ["Hardie Boy", "Hardies"],
+      "caseSensitive": true,
+      "short": "A gang of union dockworkers led by Titus Hardie who act as Martinaise's self-appointed enforcers.",
+      "details": "They drink in the Whirling-in-Rags and claim responsibility for the hanging, insisting it was justice.",
+      "inspiredBy": "The name riffs on 'The Hardy Boys', a long-running series of boy-detective novels.",
+      "spoiler": "Their story about the hanging is a cover for what really happened.",
+      "seeAlso": ["titus-hardie", "union", "the-hanged-man", "ruby"]
+    },
+    {
+      "term": "Wild Pines",
+      "caseSensitive": true,
+      "short": "A large logistics company whose cargo is stuck because of the dockworkers' strike.",
+      "details": "Wild Pines has sent Joyce Messier to negotiate an end to the strike.",
+      "inspiredBy": "Multinational shipping and logistics corporations.",
+      "seeAlso": ["joyce-messier", "strike", "union", "mercenaries"]
+    },
+    {
+      "id": "mercenaries",
+      "term": "Mercenaries",
+      "aliases": ["mercenary", "mercs", "merc"],
+      "short": "Hired private soldiers brought into Martinaise on the company side of the strike.",
+      "spoiler": "The murdered man was their commander, and his men want revenge on whoever they believe killed him.",
+      "seeAlso": ["wild-pines", "strike", "the-hanged-man"]
+    },
+    {
+      "term": "Coalition",
+      "aliases": ["Coalition of Nations", "the Coalition"],
+      "caseSensitive": true,
+      "commonWord": true,
+      "short": "The alliance of wealthy nations that crushed Revachol's revolution and now governs the city.",
+      "details": "About fifty years ago, the Coalition invaded Revachol and destroyed the communist Commune. Since then the city has been administered under Coalition rule, guided by the Moralintern. The city has stayed poor and half-ruined ever since.",
+      "inspiredBy": "Foreign powers that intervene in other countries' revolutions, and international institutions that manage struggling economies.",
+      "seeAlso": ["moralintern", "moralism", "revolution", "commune", "revachol"]
+    },
+    {
+      "term": "Moralintern",
+      "aliases": ["Moral International"],
+      "caseSensitive": true,
+      "short": "The 'Moral International': the supranational body behind the Coalition, preaching moderate centrism.",
+      "details": "The Moralintern presents itself as the reasonable, peaceful middle ground of world politics. In practice it protects the status quo.",
+      "inspiredBy": "The name parodies the 'Comintern' (Communist International); what it does resembles the UN, the IMF and the EU rolled into one.",
+      "seeAlso": ["coalition", "moralism", "innocence"]
+    }
+  ]
+}

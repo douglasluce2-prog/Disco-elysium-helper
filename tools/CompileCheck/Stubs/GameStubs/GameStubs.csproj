@@ -1,0 +1,12 @@
+<Project Sdk="Microsoft.NET.Sdk">
+  <!-- Stand-ins for the game/Unity assemblies MelonLoader generates. Shapes only; nothing here runs. -->
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <Nullable>disable</Nullable>
+    <NoWarn>$(NoWarn);CS0660;CS0661</NoWarn>
+  </PropertyGroup>
+  <ItemGroup>
+    <PackageReference Include="Il2CppInterop.Runtime" Version="1.4.5" />
+    <ProjectReference Include="../Il2Cppmscorlib/Il2Cppmscorlib.csproj" />
+  </ItemGroup>
+</Project>
