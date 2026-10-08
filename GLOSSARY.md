@@ -10,15 +10,15 @@ Explanations are spoiler-free. Plot details are folded away under **Spoiler**, a
 - [Thoughts](#thoughts) (52)
 - [Game Mechanics](#game-mechanics) (17)
 - [People](#people) (111)
-- [Places](#places) (80)
+- [Places](#places) (82)
 - [World](#world) (118)
 - [Factions](#factions) (31)
-- [Politics & Ideas](#politics--ideas) (35)
-- [History](#history) (28)
-- [Culture & Media](#culture--media) (54)
+- [Politics & Ideas](#politics--ideas) (36)
+- [History](#history) (29)
+- [Culture & Media](#culture--media) (55)
 - [Items](#items) (104)
-- [Slang & Jargon](#slang--jargon) (42)
-- [Vocabulary](#vocabulary) (41)
+- [Slang & Jargon](#slang--jargon) (50)
+- [Vocabulary](#vocabulary) (50)
 - [Names that are spoilers](#names-that-are-spoilers)
 
 ## Skills
@@ -3111,6 +3111,20 @@ Kim adds that fully automatic rifles were restricted after the Revolution becaus
 
 See also: [Revolution](#revolution), [Visual Calculus](#visual-calculus), [Coalition](#coalition), [Commune](#commune)
 
+### Sea fort
+
+*Also: seafort*
+
+**The ruined fortress on an island off the coast of Martinaise.**
+
+See also: [Martinaise](#martinaise)
+
+<details><summary>Spoiler</summary>
+
+Someone has been living there.
+
+</details>
+
 ### Sept Soeurs
 
 *Also: les Sept Soeurs, Seven Sisters*
@@ -3234,6 +3248,14 @@ The Hanged Man trained at the Ijsbrand Military Academy in Vredefort before serv
 **A rather un-prestigious technical school where junior researcher Õlari Taal invented eternite about thirty years ago.**
 
 See also: [Õlari Taal](#õlari-taal), [eternite](#eternite)
+
+### Waterlock
+
+*Also: water lock*
+
+**The canal lock you cross to get between parts of Martinaise.**
+
+See also: [Martinaise](#martinaise)
 
 ### Whirling-in-Rags
 
@@ -5265,6 +5287,14 @@ See also: [Joyce Messier](#joyce-messier)
 
 See also: [Communism](#communism)
 
+### La responsabilité
+
+*Also: responsabilité*
+
+**French for 'responsibility'; part of the Coalition's grand moralist slogans that Kim mocks.**
+
+See also: [Coalition](#coalition), [Moralism](#moralism)
+
 ### Laissez-faire
 
 **French for 'let it be': the belief that government should leave the economy alone.**
@@ -5814,6 +5844,12 @@ Almost nothing certain is known about the Perikarnassian. Even the gender is unc
 As the first innocence, he declared that there should be more like him. His disciples are thought to have formed the Holy Party, known today as the Founding Party, which still searches for new innocences.
 
 See also: [Innocence](#innocence), [Perikarnassian Church](#perikarnassian-church), [The Greatest Innocence](#the-greatest-innocence)
+
+### Tzaraath
+
+**A deadly prion-disease pandemic from Elysium's history, mentioned by Joyce.**
+
+See also: [Joyce Messier](#joyce-messier)
 
 ### World Revolution
 
@@ -6512,6 +6548,14 @@ See also: [Wirrâl](#wirrâl), [Doomed Commercial Area](#doomed-commercial-area)
 The game was lost: an unexplained numeric anomaly struck just as the project was being compiled, and it came back completely blank.
 
 </details>
+
+### Würm
+
+*Also: würms, würm-themed*
+
+**A giant worm-creature from pulp fiction and cryptid talk.**
+
+See also: [Trant Heidelstam](#trant-heidelstam)
 
 ## Items
 
@@ -7257,6 +7301,8 @@ See also: [Doomed Commercial Area](#doomed-commercial-area), [Encyclopedia](#enc
 
 ### Pyrholidon
 
+*Also: pyrho*
+
 **A rare synthetic hallucinogen, also used to treat radiation sickness. It boosts your Psyche skills at the cost of Health.**
 
 Electrochemistry calls it the double rainbow of synthetic hallucinogens, a product of the atomic age, and it is hard to find on the street. Bird's Nest Roy at the pawnshop has taken it ever since the People's Pile disaster and can share some with you, and you can also confiscate a phial from the Pigs, an unhinged woman on the boardwalk.
@@ -7861,6 +7907,20 @@ See also: [Kineema](#kineema), [Kim Kitsuragi](#kim-kitsuragi), [Motor carriage]
 
 See also: [Precinct 41](#precinct-41), [Precinct 57](#precinct-57), [Revachol Citizens Militia](#revachol-citizens-militia)
 
+### Psycholocomotor
+
+**Volition's made-up word for someone who moves by sheer willpower alone.**
+
+See also: [Volition](#volition)
+
+### Saeraff
+
+*Also: saeraffic*
+
+**Tiago's word for a devoted singer or servant of 'the Mother'; 'saeraffic' describes that blissful state.**
+
+See also: [Tiago](#tiago)
+
 ### Scab
 
 *Also: scabs, strikebreaker, strikebreakers, strike-breaker*
@@ -7868,6 +7928,14 @@ See also: [Precinct 41](#precinct-41), [Precinct 57](#precinct-57), [Revachol Ci
 **Insult for someone who works while others are on strike, undermining the strike.**
 
 See also: [Strike](#strike), [Union](#union), [Picket line](#picket-line)
+
+### Shitkid
+
+*Also: shitkids*
+
+**Crude slang for an annoying child, used about Cuno and friends.**
+
+See also: [Cuno](#cuno)
 
 ### speedfreak
 
@@ -7880,6 +7948,20 @@ Cuno points you to the old church as the place 'where the speedfreaks hang'. The
 *Real-world inspiration:* Real slang: a 'speed freak' is a habitual user of amphetamines ('speed').
 
 See also: [Dolorian Church of Humanity](#dolorian-church-of-humanity), [Speedfreaks FM](#speedfreaks-fm)
+
+### Spooker
+
+*Also: spookers, de-spooker, radio-spookers*
+
+**The church kids' word for whatever is haunting the old church; a 'de-spooker' is meant to get rid of it.**
+
+See also: [Andre](#andre), [Noid](#noid)
+
+### Ssssire
+
+**Drama's hissing, theatrical way of calling you 'sire'.**
+
+See also: [Drama](#drama)
 
 ### Station Call
 
@@ -7905,6 +7987,10 @@ Tare collecting is what the poor do here; Gaston says Evrart gave René a job so
 
 See also: [Frittte](#frittte), [reál](#reál), [Hobocop](#hobocop), [René Arnoux](#rené-arnoux)
 
+### Tryin'a
+
+**Slang spelling of 'trying to'.**
+
 ### Vacholiere
 
 *Also: Vacholieres, Vacholiero, Vacholiers*
@@ -7924,6 +8010,20 @@ See also: [Revachol](#revachol), [Kim Kitsuragi](#kim-kitsuragi), [Measurehead](
 He coins it at the pétanque game with Gaston, after a bout of strange behaviour that he takes for some experimental interrogation technique. Kim says he knows a Weird Cop when he sees one.
 
 See also: [Kim Kitsuragi](#kim-kitsuragi), [Copotype](#copotype), [Gaston Martin](#gaston-martin)
+
+### Wöman
+
+*Also: vöws*
+
+**Measurehead-style spelling of 'woman', with heavy 'umlauts' for effect; also 'wömen' and 'vöws'.**
+
+See also: [Measurehead](#measurehead)
+
+### Xerife
+
+**Portuguese for 'sheriff'; the Paledriver calls you this.**
+
+See also: [Paledriver](#paledriver)
 
 ### Yefreitor
 
@@ -8209,6 +8309,12 @@ The console stands inside the old sea fort you reach late in the game. Once the 
 
 </details>
 
+### Reassemblage
+
+**A word for putting broken pieces back together into something new, as with the horseback monument.**
+
+See also: [Horseback Monument](#horseback-monument)
+
 ### Rigor mortis
 
 **The stiffening of a body's muscles after death. Useful for estimating time of death.**
@@ -8223,6 +8329,12 @@ See also: [The Hanged Man](#the-hanged-man)
 
 See also: [Nihilism](#nihilism)
 
+### Soucriant
+
+**A blood-drinking female monster from folklore; an insult hurled at a rich woman on her yacht.**
+
+See also: [Joyce Messier](#joyce-messier)
+
 ### Stevedore
 
 *Also: stevedores, longshoreman, longshoremen*
@@ -8230,6 +8342,28 @@ See also: [Nihilism](#nihilism)
 **A dockworker who loads and unloads ships.**
 
 See also: [Union](#union), [Harbour](#harbour)
+
+### Storekeep
+
+*Also: storekeeper*
+
+**A shopkeeper, like the bookstore owner.**
+
+See also: [Plaisance](#plaisance)
+
+### Streethawker
+
+*Also: streethawkers*
+
+**A street seller, like the vendors around the traffic jam.**
+
+See also: [Siileng](#siileng)
+
+### Supraculture
+
+**Joyce's word for the mainstream culture everyone shares: radio music, common tastes.**
+
+See also: [Joyce Messier](#joyce-messier), [Infraculture](#infraculture)
 
 ### Trauma-and-Stressor Disorder
 
@@ -8248,6 +8382,28 @@ See also: [Mercenaries](#mercenaries), [Kim Kitsuragi](#kim-kitsuragi)
 **French for 'emergency'. 'Urgence -- Ouvert!' ('Emergency -- Open!') is printed on a dial key of an old, dusty Feld control console.**
 
 The console's other labels are also French: 'Allumer' ('switch on') on another key and 'Radiodiffusé' ('broadcast') on the frequency band. Kim reads the labels aloud and guesses the device once controlled the building's electronics.
+
+### Viejita
+
+**Spanish for 'little old woman' or 'granny'; Tiago uses it.**
+
+See also: [Tiago](#tiago)
+
+### Virescent
+
+**Greenish, or turning green, like the glowing display of the old radiocomputer.**
+
+See also: [Radiocomputer](#radiocomputer)
+
+### Wódka
+
+**Polish spelling of vodka, as offered with barszcz soup at the Whirling.**
+
+### Zweihänder
+
+*Also: zweihänders*
+
+**A huge two-handed sword, wielded in the Man from Hjelmdall stories.**
 
 ## Names that are spoilers
 

@@ -5,6 +5,9 @@
     {
       "id": "ace-s-high",
       "term": "Ace's High",
+      "aliases": [
+        "Aces High"
+      ],
       "short": "A Thought you get by high-fiving Kim after the hanged man is brought down.",
       "details": "How to get it: High-five Kim after you successfully shoot down the body.\n\nWhile researching (2h 45m): +1 Empathy towards Kim. Once internalized: +1 Empathy towards Kim, +1 Esprit de Corps.",
       "spoiler": "Kim first offers one after you get the body down from the tree behind the Whirling-in-Rags. With the Thought internalized, you can ask Kim whether his jacket is from the revolutionary air brigades.",
@@ -14,22 +17,19 @@
         "revolution",
         "aerostatic",
         "precinct-57"
-      ],
-      "aliases": [
-        "Aces High"
       ]
     },
     {
       "id": "ace-s-low",
       "term": "Ace's Low",
+      "aliases": [
+        "Aces Low"
+      ],
       "short": "A variant of Ace's High: high-five Kim and wait for him to deliver the low one.",
       "details": "How to get it: High-five Kim after the body comes down and wait for the 'Ace's Low' (needs Interfacing 5+).\n\nWhile researching (2h 45m): +2 Empathy towards Kim. Once internalized: +2 Empathy towards Kim, +1 Esprit de Corps.",
       "seeAlso": [
         "ace-s-high",
         "kim-kitsuragi"
-      ],
-      "aliases": [
-        "Aces Low"
       ]
     },
     {
@@ -131,31 +131,31 @@
       "term": "Actual Art Degree",
       "caseSensitive": true,
       "short": "The Art Cop's Thought, earned by leaning into the artistic copotype.",
+      "details": "How to get it: Agree to being an Art Cop after picking four related dialogue options.\n\nWhile researching (1h 30m): -1 Perception. Once internalized: -1 Hand/Eye Coordination; Conceptualization passives heal 1 Morale and give 10 XP.",
       "seeAlso": [
         "art-cop",
         "conceptualization"
-      ],
-      "details": "How to get it: Agree to being an Art Cop after picking four related dialogue options.\n\nWhile researching (1h 30m): -1 Perception. Once internalized: -1 Hand/Eye Coordination; Conceptualization passives heal 1 Morale and give 10 XP."
+      ]
     },
     {
       "id": "advanced-race-theory",
       "term": "Advanced Race Theory",
       "caseSensitive": true,
       "short": "A Thought you get from Measurehead's lectures. The game treats its ideas as pseudoscience.",
+      "details": "How to get it: Pass a Conceptualization check while talking to Measurehead.\n\nWhile researching (1h 40m): -1 Drama. Once internalized: Rhetoric learning cap raised to 5; +1 Conceptualization.",
       "seeAlso": [
         "measurehead"
-      ],
-      "details": "How to get it: Pass a Conceptualization check while talking to Measurehead.\n\nWhile researching (1h 40m): -1 Drama. Once internalized: Rhetoric learning cap raised to 5; +1 Conceptualization."
+      ]
     },
     {
       "id": "col-do-ma-ma-daqua",
       "term": "Col Do Ma Ma Daqua",
       "caseSensitive": true,
       "short": "A Thought about an invisible cryptid bird you can only hear.",
+      "details": "How to get it: Talk to Lena about the invisible cryptid, then listen for it at the orb that appears outside.\n\nWhile researching (7h 10m): None. Once internalized: +3 Perception; -1 Encyclopedia.",
       "seeAlso": [
         "cryptid"
-      ],
-      "details": "How to get it: Talk to Lena about the invisible cryptid, then listen for it at the orb that appears outside.\n\nWhile researching (7h 10m): None. Once internalized: +3 Perception; -1 Encyclopedia."
+      ]
     },
     {
       "id": "cop-of-the-apocalypse",
@@ -165,11 +165,11 @@
       ],
       "caseSensitive": true,
       "short": "The Apocalypse Cop's Thought, for a detective obsessed with signs of the end.",
+      "details": "How to get it: Agree to being an Apocalypse Cop after picking four related dialogue options.\n\nWhile researching (6h 55m): -1 Rhetoric. Once internalized: Inland Empire and Shivers learning caps raised to 6; pyrholidon gives +2 Psyche.",
       "seeAlso": [
         "copotype",
         "apocalypse"
-      ],
-      "details": "How to get it: Agree to being an Apocalypse Cop after picking four related dialogue options.\n\nWhile researching (6h 55m): -1 Rhetoric. Once internalized: Inland Empire and Shivers learning caps raised to 6; pyrholidon gives +2 Psyche."
+      ]
     },
     {
       "id": "homo-sexual-underground",
@@ -186,10 +186,10 @@
       "term": "Indirect Modes of Taxation",
       "caseSensitive": true,
       "short": "The ultraliberal Thought.",
+      "details": "How to get it: Earn 4 ultraliberal points, or wear the Brown Derbies.\n\nWhile researching (1h 45m): -2 Empathy. Once internalized: Ultraliberal dialogue options give 1 reál; -1 Empathy.",
       "seeAlso": [
         "ultraliberalism"
-      ],
-      "details": "How to get it: Earn 4 ultraliberal points, or wear the Brown Derbies.\n\nWhile researching (1h 45m): -2 Empathy. Once internalized: Ultraliberal dialogue options give 1 reál; -1 Empathy."
+      ]
     },
     {
       "id": "inexplicable-feminist-agenda",
@@ -219,14 +219,14 @@
     {
       "id": "magnesium-based-lifeform",
       "term": "Magnesium-Based Lifeform",
-      "caseSensitive": true,
-      "short": "A Thought convinced that what you really lack is magnesium (not that you drink too much).",
-      "seeAlso": [
-        "magnesium"
-      ],
-      "details": "How to get it: Talk to Cuno about the magnesium in his shack.\n\nWhile researching (1h 15m): -1 Shivers. Once internalized: +2 Volition; -1 Logic.",
       "aliases": [
         "Magnesium Based Lifeform"
+      ],
+      "caseSensitive": true,
+      "short": "A Thought convinced that what you really lack is magnesium (not that you drink too much).",
+      "details": "How to get it: Talk to Cuno about the magnesium in his shack.\n\nWhile researching (1h 15m): -1 Shivers. Once internalized: +2 Volition; -1 Logic.",
+      "seeAlso": [
+        "magnesium"
       ]
     },
     {
@@ -234,41 +234,41 @@
       "term": "Revacholian Nationhood",
       "caseSensitive": true,
       "short": "The nationalist Thought.",
+      "details": "How to get it: Earn 4 fascist points.\n\nWhile researching (9h 10m): -1 Composure. Once internalized: Nationalist dialogue options cost 1 Morale; alcohol gives +2 Physique.",
       "seeAlso": [
         "fascism"
-      ],
-      "details": "How to get it: Earn 4 fascist points.\n\nWhile researching (9h 10m): -1 Composure. Once internalized: Nationalist dialogue options cost 1 Morale; alcohol gives +2 Physique."
+      ]
     },
     {
       "id": "the-waste-land-of-reality",
       "term": "The Waste Land of Reality",
-      "caseSensitive": true,
-      "short": "A Thought about sobriety and how harsh the world looks without a drink.",
-      "details": "How to get it: Tell Measurehead (after Advanced Race Theory) that he needs to get sober, or talk to Tiago on day 3 or later.\n\nWhile researching (20h): -2 Physical Instrument. Once internalized: -1 Physical Instrument, -1 Inland Empire, -1 Suggestion; +1 to all Psyche skills; no positive effects from alcohol.",
       "aliases": [
         "Waste Land of Reality"
-      ]
+      ],
+      "caseSensitive": true,
+      "short": "A Thought about sobriety and how harsh the world looks without a drink.",
+      "details": "How to get it: Tell Measurehead (after Advanced Race Theory) that he needs to get sober, or talk to Tiago on day 3 or later.\n\nWhile researching (20h): -2 Physical Instrument. Once internalized: -1 Physical Instrument, -1 Inland Empire, -1 Suggestion; +1 to all Psyche skills; no positive effects from alcohol."
     },
     {
       "id": "torque-dork",
       "term": "Torque Dork",
       "caseSensitive": true,
       "short": "A Thought about loving cars, from talking motor carriages with Kim.",
+      "details": "How to get it: Talk about motor carriages with Kim several times (needs Interfacing 4+).\n\nWhile researching (25m): -2 Conceptualization. Once internalized: +2 Interfacing; unlocks all Interfacing white checks.",
       "seeAlso": [
         "kineema",
         "interfacing"
-      ],
-      "details": "How to get it: Talk about motor carriages with Kim several times (needs Interfacing 4+).\n\nWhile researching (25m): -2 Conceptualization. Once internalized: +2 Interfacing; unlocks all Interfacing white checks."
+      ]
     },
     {
       "id": "volumetric-shit-compressor",
       "term": "Volumetric Shit Compressor",
       "caseSensitive": true,
       "short": "A Thought that grows out of Kim telling you to get your shit together.",
+      "details": "How to get it: Throw up twice while examining the hanged man; Kim tells you to get your shit together.\n\nWhile researching (30m): None. Once internalized: Unlocks locked Endurance white checks; Endurance cap raised to 4.",
       "seeAlso": [
         "kim-kitsuragi"
-      ],
-      "details": "How to get it: Throw up twice while examining the hanged man; Kim tells you to get your shit together.\n\nWhile researching (30m): None. Once internalized: Unlocks locked Endurance white checks; Endurance cap raised to 4."
+      ]
     },
     {
       "id": "white-mourning",
@@ -302,13 +302,13 @@
     {
       "id": "bringing-of-the-law-law-jaw",
       "term": "Bringing of the Law (Law-Jaw)",
-      "caseSensitive": true,
-      "short": "A Thought for a detective who keeps calling himself 'the Law'.",
-      "details": "How to get it: Refer to yourself as the Law, Lawbringer or a policeman several times.\n\nWhile researching (2h 55m): -1 Rhetoric. Once internalized: Hand/Eye Coordination cap raised to 6; you automatically pass Hand/Eye Coordination passives; -1 Rhetoric.",
       "aliases": [
         "Law-Jaw",
         "Bringing of the Law"
-      ]
+      ],
+      "caseSensitive": true,
+      "short": "A Thought for a detective who keeps calling himself 'the Law'.",
+      "details": "How to get it: Refer to yourself as the Law, Lawbringer or a policeman several times.\n\nWhile researching (2h 55m): -1 Rhetoric. Once internalized: Hand/Eye Coordination cap raised to 6; you automatically pass Hand/Eye Coordination passives; -1 Rhetoric."
     },
     {
       "id": "caustic-echo",
@@ -348,12 +348,12 @@
     {
       "id": "finger-pistols-9mm",
       "term": "Finger Pistols (9mm)",
-      "caseSensitive": true,
-      "short": "A Thought you get by doing finger guns at Siileng.",
-      "details": "How to get it: With Composure 5+, produce finger guns when first talking to Siileng.\n\nWhile researching (1h): -2 Savoir Faire. Once internalized: +1 Reaction Speed; empty hands give +1 Suggestion.",
       "aliases": [
         "Finger Pistols"
-      ]
+      ],
+      "caseSensitive": true,
+      "short": "A Thought you get by doing finger guns at Siileng.",
+      "details": "How to get it: With Composure 5+, produce finger guns when first talking to Siileng.\n\nWhile researching (1h): -2 Savoir Faire. Once internalized: +1 Reaction Speed; empty hands give +1 Suggestion."
     },
     {
       "id": "guillaume-le-million",
@@ -435,12 +435,12 @@
     {
       "id": "the-bow-collector",
       "term": "The Bow Collector",
-      "caseSensitive": true,
-      "short": "A Thought about a strange memory involving a bow collector and a street car.",
-      "details": "How to get it: With Conceptualization 6+, open the Damaged Ledger's hidden compartment, keep the card, and ask the Ancient Reptilian Brain about the bow collector.\n\nWhile researching (6h 10m): -1 Authority, -1 Hand/Eye Coordination. Once internalized: +3 Shivers.",
       "aliases": [
         "Bow Collector"
-      ]
+      ],
+      "caseSensitive": true,
+      "short": "A Thought about a strange memory involving a bow collector and a street car.",
+      "details": "How to get it: With Conceptualization 6+, open the Damaged Ledger's hidden compartment, keep the card, and ask the Ancient Reptilian Brain about the bow collector.\n\nWhile researching (6h 10m): -1 Authority, -1 Hand/Eye Coordination. Once internalized: +3 Shivers."
     },
     {
       "id": "the-fifteenth-indotribe",
@@ -459,12 +459,12 @@
     {
       "id": "the-jamrock-shuffle",
       "term": "The Jamrock Shuffle",
-      "caseSensitive": true,
-      "short": "A Thought for a detective who keeps breaking into locked places.",
-      "details": "How to get it: Open several locked doors and containers.\n\nWhile researching (1h 5m): -1 Esprit de Corps. Once internalized: Better loot in locked containers.",
       "aliases": [
         "Jamrock Shuffle"
-      ]
+      ],
+      "caseSensitive": true,
+      "short": "A Thought for a detective who keeps breaking into locked places.",
+      "details": "How to get it: Open several locked doors and containers.\n\nWhile researching (1h 5m): -1 Esprit de Corps. Once internalized: Better loot in locked containers."
     },
     {
       "id": "the-litany-of-contact-mike",

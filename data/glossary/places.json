@@ -1121,6 +1121,29 @@
         "isola",
         "ulixes"
       ]
+    },
+    {
+      "id": "sea-fort",
+      "term": "Sea fort",
+      "aliases": [
+        "seafort"
+      ],
+      "short": "The ruined fortress on an island off the coast of Martinaise.",
+      "spoiler": "Someone has been living there.",
+      "seeAlso": [
+        "martinaise"
+      ]
+    },
+    {
+      "id": "waterlock",
+      "term": "Waterlock",
+      "aliases": [
+        "water lock"
+      ],
+      "short": "The canal lock you cross to get between parts of Martinaise.",
+      "seeAlso": [
+        "martinaise"
+      ]
     }
   ]
 }

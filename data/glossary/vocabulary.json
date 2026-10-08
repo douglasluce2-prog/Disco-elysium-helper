@@ -399,6 +399,82 @@
       "seeAlso": [
         "rcm"
       ]
+    },
+    {
+      "id": "reassemblage",
+      "term": "Reassemblage",
+      "short": "A word for putting broken pieces back together into something new, as with the horseback monument.",
+      "seeAlso": [
+        "horseback-monument"
+      ]
+    },
+    {
+      "id": "soucriant",
+      "term": "Soucriant",
+      "short": "A blood-drinking female monster from folklore; an insult hurled at a rich woman on her yacht.",
+      "seeAlso": [
+        "joyce-messier"
+      ]
+    },
+    {
+      "id": "storekeep",
+      "term": "Storekeep",
+      "aliases": [
+        "storekeeper"
+      ],
+      "short": "A shopkeeper, like the bookstore owner.",
+      "seeAlso": [
+        "plaisance"
+      ]
+    },
+    {
+      "id": "streethawker",
+      "term": "Streethawker",
+      "aliases": [
+        "streethawkers"
+      ],
+      "short": "A street seller, like the vendors around the traffic jam.",
+      "seeAlso": [
+        "siileng"
+      ]
+    },
+    {
+      "id": "supraculture",
+      "term": "Supraculture",
+      "short": "Joyce's word for the mainstream culture everyone shares: radio music, common tastes.",
+      "seeAlso": [
+        "joyce-messier",
+        "infraculture"
+      ]
+    },
+    {
+      "id": "viejita",
+      "term": "Viejita",
+      "short": "Spanish for 'little old woman' or 'granny'; Tiago uses it.",
+      "seeAlso": [
+        "tiago"
+      ]
+    },
+    {
+      "id": "virescent",
+      "term": "Virescent",
+      "short": "Greenish, or turning green, like the glowing display of the old radiocomputer.",
+      "seeAlso": [
+        "radiocomputer"
+      ]
+    },
+    {
+      "id": "w-dka",
+      "term": "Wódka",
+      "short": "Polish spelling of vodka, as offered with barszcz soup at the Whirling."
+    },
+    {
+      "id": "zweih-nder",
+      "term": "Zweihänder",
+      "aliases": [
+        "zweihänders"
+      ],
+      "short": "A huge two-handed sword, wielded in the Man from Hjelmdall stories."
     }
   ]
 }

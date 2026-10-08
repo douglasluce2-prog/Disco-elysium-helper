@@ -559,6 +559,82 @@
       "seeAlso": [
         "cuno"
       ]
+    },
+    {
+      "id": "psycholocomotor",
+      "term": "Psycholocomotor",
+      "short": "Volition's made-up word for someone who moves by sheer willpower alone.",
+      "seeAlso": [
+        "volition"
+      ]
+    },
+    {
+      "id": "saeraff",
+      "term": "Saeraff",
+      "aliases": [
+        "saeraffic"
+      ],
+      "short": "Tiago's word for a devoted singer or servant of 'the Mother'; 'saeraffic' describes that blissful state.",
+      "seeAlso": [
+        "tiago"
+      ]
+    },
+    {
+      "id": "shitkid",
+      "term": "Shitkid",
+      "aliases": [
+        "shitkids"
+      ],
+      "short": "Crude slang for an annoying child, used about Cuno and friends.",
+      "seeAlso": [
+        "cuno"
+      ]
+    },
+    {
+      "id": "spooker",
+      "term": "Spooker",
+      "aliases": [
+        "spookers",
+        "de-spooker",
+        "radio-spookers"
+      ],
+      "short": "The church kids' word for whatever is haunting the old church; a 'de-spooker' is meant to get rid of it.",
+      "seeAlso": [
+        "andre",
+        "noid"
+      ]
+    },
+    {
+      "id": "ssssire",
+      "term": "Ssssire",
+      "short": "Drama's hissing, theatrical way of calling you 'sire'.",
+      "seeAlso": [
+        "drama"
+      ]
+    },
+    {
+      "id": "tryin-a",
+      "term": "Tryin'a",
+      "short": "Slang spelling of 'trying to'."
+    },
+    {
+      "id": "w-man",
+      "term": "Wöman",
+      "aliases": [
+        "vöws"
+      ],
+      "short": "Measurehead-style spelling of 'woman', with heavy 'umlauts' for effect; also 'wömen' and 'vöws'.",
+      "seeAlso": [
+        "measurehead"
+      ]
+    },
+    {
+      "id": "xerife",
+      "term": "Xerife",
+      "short": "Portuguese for 'sheriff'; the Paledriver calls you this.",
+      "seeAlso": [
+        "paledriver"
+      ]
     }
   ]
 }

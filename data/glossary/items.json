@@ -609,6 +609,9 @@
     {
       "id": "pyrholidon",
       "term": "Pyrholidon",
+      "aliases": [
+        "pyrho"
+      ],
       "short": "A rare synthetic hallucinogen, also used to treat radiation sickness. It boosts your Psyche skills at the cost of Health.",
       "details": "Electrochemistry calls it the double rainbow of synthetic hallucinogens, a product of the atomic age, and it is hard to find on the street. Bird's Nest Roy at the pawnshop has taken it ever since the People's Pile disaster and can share some with you, and you can also confiscate a phial from the Pigs, an unhinged woman on the boardwalk.\n\nTaking it gives +1 to Empathy, Suggestion, Authority, Inland Empire, Esprit de Corps and Volition, which helps before a White Check, but it damages your Health.",
       "seeAlso": [

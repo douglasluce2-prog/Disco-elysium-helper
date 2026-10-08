@@ -740,6 +740,18 @@
         "dweorgr"
       ],
       "short": "A fantasy dwarf-like folk in Elysium's myths and pulp books, such as Codex Urik."
+    },
+    {
+      "id": "w-rm",
+      "term": "Würm",
+      "aliases": [
+        "würms",
+        "würm-themed"
+      ],
+      "short": "A giant worm-creature from pulp fiction and cryptid talk.",
+      "seeAlso": [
+        "trant-heidelstam"
+      ]
     }
   ]
 }

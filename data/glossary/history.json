@@ -478,6 +478,14 @@
         "zsiemsk",
         "motor-carriage"
       ]
+    },
+    {
+      "id": "tzaraath",
+      "term": "Tzaraath",
+      "short": "A deadly prion-disease pandemic from Elysium's history, mentioned by Joyce.",
+      "seeAlso": [
+        "joyce-messier"
+      ]
     }
   ]
 }
